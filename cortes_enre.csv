@@ -5,13 +5,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.835527173,-58.452138984,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-1-13/180-1-13,518,2022-09-12 13:28
 -34.786271335,-58.264837440,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-5-52/080-5-52,528,2022-09-12 15:15
 -34.509152806,-58.561729794,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr2/56-5526,271,2022-09-12 13:00
--34.679716446,-58.550780558,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr1/65-5515,1,2022-09-12 13:00
--34.707795326,-58.595763603,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5547,433,Sin Datos
+-34.679716446,-58.550780558,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr1/65-5515,1,2022-09-12 14:00
+-34.707795326,-58.595763603,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5547,433,2022-09-12 14:00
 -34.859718388,-58.811699410,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,2,Sin Datos
--34.749521871,-58.704170689,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5522,386,2022-09-12 13:00
+-34.749521871,-58.704170689,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5522,386,Sin Datos
 -34.604405831,-58.848176696,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,142,2022-09-12 14:00
--34.605981788,-58.849298057,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,101,Sin Datos
--34.629976340,-58.751862257,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5522,396,2022-09-12 14:00
+-34.605981788,-58.849298057,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,101,2022-09-12 13:00
+-34.629976340,-58.751862257,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5522,396,2022-09-12 13:00
 -34.475883579,-58.682754979,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Talar/58-Tr1/58-5514,92,2022-09-12 14:00
 -34.467131282,-58.689484093,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Talar/58-Tr1/58-5514,54,2022-09-12 14:00
 -34.466281785,-58.553691436,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5523,1,2022-09-12 13:00
@@ -22,7 +22,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6638,-58.5346,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,36,
 -34.5332,-58.87,22,baja,Edenor,Pilar,Pilar,,,4,
 -34.6035,-58.4169,21,baja,Edesur,Capital,Capital,,,2,
--34.5974,-58.436,21,baja,Edesur,Capital,Villa Crespo,,,127,
+-34.5974,-58.436,21,baja,Edesur,Capital,Villa Crespo,,,128,
 -34.7864,-58.2653,21,baja,Edesur,Florencio Varela,Florencio Varela,,,60,
 -34.6388,-58.502,21,baja,Edesur,Capital,Capital,,,17,
 -34.6609,-58.437,21,baja,Edesur,Capital,Villa Soldati,,,3,
