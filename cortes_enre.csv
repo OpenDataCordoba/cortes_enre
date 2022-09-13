@@ -1,54 +1,21 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.670949841,-58.444025497,11,media,Edesur,Capital Gp,Villa Soldati Gp,Pompeya,R:039-3-31/039-3-31,8,2022-09-13 12:21
--34.769922364,-58.831189942,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,301,2022-09-13 16:09
--34.775339022,-58.837380155,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,203,2022-09-13 16:09
--34.764472633,-58.824784453,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,335,2022-09-13 16:09
--34.768586105,-58.835382384,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,271,2022-09-13 16:09
--34.765368854,-58.820012284,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,307,2022-09-13 16:09
--34.767913829,-58.816890614,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,285,2022-09-13 16:09
--34.758414156,-58.820046075,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,98,2022-09-13 16:09
--34.774094044,-58.832396286,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,209,2022-09-13 16:09
--34.777422504,-58.834727228,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,287,2022-09-13 16:09
--34.755098119,-58.835160402,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,2022-09-13 16:09
--34.750537233,-58.841023173,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,2,2022-09-13 16:09
--34.745064958,-58.847905620,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,2022-09-13 16:09
--34.743353854,-58.849937406,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,2022-09-13 16:09
--34.757255566,-58.851646014,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,3,2022-09-13 16:09
--34.767665064,-58.828534932,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,44,2022-09-13 16:09
--34.734394067,-58.839833005,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,3,2022-09-13 16:09
--34.759882067,-58.836882859,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,2022-09-13 16:09
--34.761410379,-58.846104433,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,5,2022-09-13 16:09
--34.760388849,-58.821597400,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,102,2022-09-13 16:09
--34.765217047,-58.843162038,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,3,2022-09-13 16:09
--34.759266533,-58.830098997,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,25,2022-09-13 16:09
--34.762766020,-58.840221650,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,2,2022-09-13 16:09
--34.751785189,-58.839433263,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,2022-09-13 16:09
--34.783664427,-58.845949938,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,124,2022-09-13 16:09
--34.772656426,-58.834349885,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,153,2022-09-13 16:09
--34.777588164,-58.836833812,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,202,2022-09-13 16:09
--34.757749689,-58.818156195,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,24,2022-09-13 16:09
--34.781575716,-58.840854133,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,88,2022-09-13 16:09
--34.770552660,-58.815857598,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,17,2022-09-13 16:09
--34.536737256,-58.868016539,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,12,2022-09-13 16:11
--34.534013392,-58.863650560,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,18,2022-09-13 16:11
--34.542826192,-58.875283533,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,11,2022-09-13 16:11
--34.532091611,-58.867571504,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,10,2022-09-13 16:11
--34.529097731,-58.861928581,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-09-13 16:11
--34.540326179,-58.861945015,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,5,2022-09-13 16:11
--34.537943197,-58.857170880,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2022-09-13 16:11
--34.541377693,-58.872148956,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,4,2022-09-13 16:11
--34.535516803,-58.876352400,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-09-13 16:11
--34.535500968,-58.859387440,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-09-13 16:11
--34.538461897,-58.882529035,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,10,2022-09-13 16:11
--34.537428436,-58.863350190,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,14,2022-09-13 16:11
--34.525004207,-58.868121320,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,2,2022-09-13 16:11
--34.536696907,-58.873283630,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,20,2022-09-13 16:11
--34.526739893,-58.866888709,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2022-09-13 16:11
--34.536625130,-58.861644284,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,2,2022-09-13 16:11
--34.533904293,-58.870346247,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,2,2022-09-13 16:11
--34.529868747,-58.873677786,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2022-09-13 16:11
--34.528288794,-58.874930061,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-09-13 16:11
--34.5198,-58.5328,22,baja,Edenor,Vicente Lopez,Munro,,,85,
+-34.670949841,-58.444025497,11,media,Edesur,Capital Gp,Villa Soldati Gp,Pompeya,R:039-3-31/039-3-31,8,2022-09-13 14:16
+-34.412052069,-58.618731738,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5514,172,2022-09-13 10:00
+-34.512936955,-58.544900301,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:V.Adelina/155-Tr1/155-5515,347,2022-09-13 13:00
+-34.861091989,-58.688077400,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,1,Sin Datos
+-34.765016332,-58.612720654,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,286,2022-09-13 13:00
+-34.673302431,-58.511153679,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,362,2022-09-13 13:00
+-34.759882067,-58.836882859,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,2022-09-13 10:00
+-34.765217047,-58.843162038,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,3,2022-09-13 10:00
+-34.762766020,-58.840221650,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,2,2022-09-13 10:00
+-34.708676941,-58.720378655,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5514,386,2022-09-13 13:00
+-34.528288794,-58.874930061,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-09-13 10:00
+-34.519781767,-58.532896505,12,media,Edenor,Vicente Lopez,Munro,S/D,R:V.Adelina/155-Tr1/155-5512,347,2022-09-13 11:00
+-34.521193710,-58.534856677,12,media,Edenor,Vicente Lopez,Munro,S/D,R:V.Adelina/155-Tr1/155-5512,172,2022-09-13 13:00
+-34.4034,-58.6734,22,baja,Edenor,Tigre,Benavidez,,,7,
 -34.6052,-58.4835,21,baja,Edesur,Capital,Villa Del Parque,,,12,
+-34.7559,-58.3759,21,baja,Edesur,Lomas De Zamora,Temperley,,,15,
 -34.6567,-58.4155,21,baja,Edesur,Capital,Nueva Pompeya,,,5,
+-34.7258,-58.319,21,baja,Edesur,Quilmes,Bernal,,,17,
 -34.9065,-58.3622,21,baja,Edesur,Pte Peron,Guernica,,,16,
+-34.5974,-58.436,21,baja,Edesur,Capital,Villa Crespo,,,4,
