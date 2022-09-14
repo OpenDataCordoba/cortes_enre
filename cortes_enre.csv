@@ -55,18 +55,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.791028874,-58.268171650,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-1-17/085-1-17,184,2022-09-14 21:00
 -34.792575846,-58.271742007,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-1-17/085-1-17,409,2022-09-14 21:00
 -34.720850971,-58.913414725,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-14 20:00
--34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-09-14 21:00
--34.258289540,-58.647205781,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 21:00
--34.254785907,-58.627467554,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-09-14 21:00
--34.253265147,-58.644300798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-09-14 21:00
--34.249497110,-58.642324026,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 21:00
--34.258042902,-58.640737820,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2022-09-14 21:00
--34.225662036,-58.632141668,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 21:00
--34.240046705,-58.636487721,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 21:00
--34.256435696,-58.635526265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 21:00
--34.256419456,-58.624620575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-09-14 21:00
--34.243343814,-58.639169079,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 21:00
--34.257415223,-58.646784397,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-09-14 21:00
+-34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-09-14 20:00
+-34.258289540,-58.647205781,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 20:00
+-34.254785907,-58.627467554,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-09-14 20:00
+-34.253265147,-58.644300798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-09-14 20:00
+-34.249497110,-58.642324026,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 20:00
+-34.258042902,-58.640737820,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2022-09-14 20:00
+-34.225662036,-58.632141668,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 20:00
+-34.240046705,-58.636487721,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 20:00
+-34.256435696,-58.635526265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 20:00
+-34.256419456,-58.624620575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-09-14 20:00
+-34.243343814,-58.639169079,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-09-14 20:00
+-34.257415223,-58.646784397,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-09-14 20:00
 -34.5866,-58.4201,22,baja,Edenor,Capital Federal,Palermo,,,13,
 -34.3948,-58.7457,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,23,
 -34.5176,-58.4758,22,baja,Edenor,Vicente Lopez,Vicente Lopez,,,15,
@@ -76,8 +76,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7166,-58.5976,22,baja,Edenor,La Matanza,Isidro Casanova,,,27,
 -34.7349,-58.5343,22,baja,Edenor,La Matanza,Ciudad Evita,,,4,
 -34.8085,-58.269,21,baja,Edesur,Florencio Varela,Florencio Varela,,,65,
--34.7362,-58.4158,21,baja,Edesur,Lomas De Zamora,Bandfield,,,193,
--34.6534,-58.5248,21,baja,Edesur,Capital,Capital,,,6,
+-34.7362,-58.4158,21,baja,Edesur,Lomas De Zamora,Bandfield,,,196,
 -34.6542,-58.5202,21,baja,Edesur,Capital,Mataderos,,,8,
 -34.6175,-58.398,21,baja,Edesur,Capital,Balvanera,,,6,
--34.7826,-58.3948,21,baja,Edesur,Lomas De Zamora,Temperley,,,40,
+-34.7826,-58.3948,21,baja,Edesur,Lomas De Zamora,Temperley,,,43,
