@@ -1,5 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.709739187,-58.281708714,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-1-11/077-1-11,12,Sin Datos
 -34.250775739,-58.733096239,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,64,Sin Datos
 -34.251928550,-58.728962297,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos
 -34.251886723,-58.722667387,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,5,Sin Datos
@@ -17,42 +16,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.247456964,-58.743514599,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos
 -34.248218179,-58.744664112,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,2,Sin Datos
 -34.248799446,-58.738572885,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,2,Sin Datos
--34.571999670,-58.466387070,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5514,262,Sin Datos
--34.572577440,-58.467688750,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5514,150,Sin Datos
--34.571192574,-58.469833915,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5514,145,Sin Datos
--34.573272436,-58.468208278,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5514,36,Sin Datos
--34.574393231,-58.402791161,12,media,Edenor,Capital Federal,Palermo,S/D,R:P.Nuevo/44-Tr2/44-5522,1,2022-09-17 00:00
--34.576359876,-58.405499741,12,media,Edenor,Capital Federal,Palermo,S/D,R:P.Nuevo/44-Tr2/44-5522,38,2022-09-17 00:00
--34.576950997,-58.408149671,12,media,Edenor,Capital Federal,Palermo,S/D,R:P.Nuevo/44-Tr2/44-5522,46,2022-09-17 00:00
--34.573507271,-58.397802939,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,1,2022-09-17 00:00
--34.573277301,-58.398178033,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,2,2022-09-17 00:00
--34.572988264,-58.400472999,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,1,2022-09-17 00:00
--34.574428957,-58.396096497,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,4,2022-09-17 00:00
--34.574314667,-58.394685308,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,5,2022-09-17 00:00
--34.577172023,-58.389238551,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,3,2022-09-17 00:00
--34.578051460,-58.388160659,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,5,2022-09-17 00:00
--34.578139175,-58.390447235,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,1,2022-09-17 00:00
--34.571339802,-58.399780628,12,media,Edenor,Capital Federal,Palermo,S/D,R:P.Nuevo/44-Tr2/44-5522,2,2022-09-17 00:00
--34.572050577,-58.399305100,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,9,2022-09-17 00:00
--34.573621770,-58.395560517,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,3,2022-09-17 00:00
--34.572271446,-58.399019328,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,1,2022-09-17 00:00
--34.577515670,-58.391403514,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,1,2022-09-17 00:00
--34.576474458,-58.383570590,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,19,2022-09-17 00:00
--34.576069957,-58.408352725,12,media,Edenor,Capital Federal,Palermo,S/D,R:P.Nuevo/44-Tr2/44-5522,2,2022-09-17 00:00
--34.573757934,-58.395324812,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,3,2022-09-17 00:00
--34.576276362,-58.403426258,12,media,Edenor,Capital Federal,Palermo,S/D,R:P.Nuevo/44-Tr2/44-5522,2,2022-09-17 00:00
--34.579981940,-58.389334914,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr2/44-5522,1,2022-09-17 00:00
--34.575874460,-58.403450543,12,media,Edenor,Capital Federal,Palermo,S/D,R:P.Nuevo/44-Tr2/44-5522,43,2022-09-17 00:00
+-34.572577440,-58.467688750,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5514,150,2022-09-17 00:00
 -34.6656,-58.8155,22,baja,Edenor,Moreno,Moreno,,,26,
 -34.6226,-58.8954,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,23,
--34.5824,-58.4342,22,baja,Edenor,Capital Federal,Palermo,,,5,
--34.9306,-58.9466,22,baja,Edenor,Gral Las Heras,Gral Las Heras,,,31,
 -34.4615,-58.6991,22,baja,Edenor,Malvinas Argentinas,El Triangulo,,,10,
 -34.6913,-58.5809,22,baja,Edenor,La Matanza,Isidro Casanova,,,16,
--34.5601,-58.4632,22,baja,Edenor,Capital Federal,Belgrano,,,4,
--34.4293,-58.5755,22,baja,Edenor,Tigre,Ciudad De Tigre,,,24,
+-34.3853,-58.7472,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,5,
 -34.6638,-58.5346,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,36,
+-34.665,-58.5812,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,28,
 -34.6354,-58.3824,21,baja,Edesur,Capital,Barracas,,,12,
--34.7604,-58.2424,21,baja,Edesur,Quilmes,Ezpeleta,,,9,
--34.8813,-58.3989,21,baja,Edesur,Almirante Brown,Glew,,,7,
--34.7393,-58.4374,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,
