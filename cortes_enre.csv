@@ -2,17 +2,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.607555711,-58.427084353,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-45/122-4-45,154,2022-09-20 17:41
 -34.607535564,-58.427492258,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-45/122-4-45,245,2022-09-20 17:41
 -34.610235013,-58.375787039,11,media,Edesur,Capital Rp,Monserrat,Rivadavia,R:022-2-01/022-2-01,14,2022-09-20 17:36
--34.571710514,-58.447545910,12,media,Edenor,Capital Federal,Colegiales,S/D,R:J. Newbery/235-Tr3/235-5504,106,Sin Datos
--34.589143692,-58.552253957,12,media,Edenor,Gral San Martin,Ayacucho,S/D,R:Migueletes/54-Tr2/54-5522,209,Sin Datos
--34.864037172,-58.734952317,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-09-20 18:00
--34.859353795,-58.741017129,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-09-20 18:00
--34.858200105,-58.742495273,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,7,2022-09-20 18:00
--34.869653571,-58.727841135,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-09-20 18:00
--34.861640112,-58.738038967,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,2022-09-20 18:00
--34.874384154,-58.721693323,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-09-20 18:00
--34.860476915,-58.739506190,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-09-20 18:00
--34.858956499,-58.741495211,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-09-20 18:00
--34.872124294,-58.724522508,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,10,2022-09-20 18:00
+-34.571710514,-58.447545910,12,media,Edenor,Capital Federal,Colegiales,S/D,R:J. Newbery/235-Tr3/235-5504,106,2022-09-20 17:00
+-34.589143692,-58.552253957,12,media,Edenor,Gral San Martin,Ayacucho,S/D,R:Migueletes/54-Tr2/54-5522,209,2022-09-20 17:00
+-34.864037172,-58.734952317,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-09-20 17:00
+-34.859353795,-58.741017129,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-09-20 17:00
+-34.858200105,-58.742495273,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,7,2022-09-20 17:00
+-34.869653571,-58.727841135,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-09-20 17:00
+-34.861640112,-58.738038967,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,2022-09-20 17:00
+-34.874384154,-58.721693323,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-09-20 17:00
+-34.860476915,-58.739506190,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-09-20 17:00
+-34.858956499,-58.741495211,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-09-20 17:00
+-34.872124294,-58.724522508,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,10,2022-09-20 17:00
 -34.504072371,-58.635205034,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5511,140,2022-09-20 18:00
 -34.5032,-58.8003,22,baja,Edenor,Jose C Paz,Jose C Paz,,,37,
 -34.5962,-58.523,22,baja,Edenor,Gral San Martin,Villa Lynch,,,64,
@@ -22,5 +22,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4725,-58.8048,22,baja,Edenor,Jose C Paz,Jose C Paz,,,1,
 -34.6204,-58.4106,21,baja,Edesur,Capital,San Cristobal,,,26,
 -34.7689,-58.2604,21,baja,Edesur,Quilmes,Quilmes,,,12,
--34.6242,-58.468,21,baja,Edesur,Capital,Flores,,,39,
+-34.6242,-58.468,21,baja,Edesur,Capital,Flores,,,41,
 -34.6048,-58.5174,21,baja,Edesur,Capital,Capital,,,7,
