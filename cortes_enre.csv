@@ -23,7 +23,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.077358035,-58.761624652,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-15/271-1-15,3,Sin Datos
 -35.084549451,-58.770009399,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-15/271-1-15,1,Sin Datos
 -35.072814710,-58.751649947,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-15/271-1-15,1,Sin Datos
--34.632098610,-58.465239916,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-4-47/218-4-47,649,2022-09-21 17:55
+-34.748498621,-58.301171567,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-4-47/073-4-47,186,2022-09-21 19:32
+-34.747851114,-58.299996742,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-4-47/073-4-47,154,2022-09-21 19:32
+-34.756450070,-58.304873930,11,media,Edesur,Quilmes,San Francisco Solano (Q),Quilmes,R:073-4-47/073-4-47,335,2022-09-21 19:32
+-34.750117060,-58.304054707,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-4-47/073-4-47,70,2022-09-21 19:32
 -34.660108273,-58.527156273,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5544,60,2022-09-21 16:00
 -34.810341013,-58.678334763,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,1,Sin Datos
 -34.807409974,-58.685521107,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,2,Sin Datos
@@ -34,28 +37,28 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.818510329,-58.698667038,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,1,Sin Datos
 -34.815897118,-58.695528383,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,2,Sin Datos
 -34.812686644,-58.675445291,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,1,Sin Datos
--34.765209722,-58.932582159,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2022-09-21 16:00
--34.624835988,-58.869606736,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,448,2022-09-21 15:00
+-34.624835988,-58.869606736,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,448,2022-09-21 16:00
 -34.450708252,-58.739483517,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,43,2022-09-21 16:00
 -34.450460892,-58.740853614,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,55,2022-09-21 16:00
 -34.454187611,-58.734629743,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,34,2022-09-21 16:00
 -34.452828593,-58.738232256,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,61,2022-09-21 16:00
--34.504072371,-58.635205034,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5511,140,2022-09-21 15:00
+-34.504072371,-58.635205034,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5511,140,2022-09-21 16:00
 -34.350877002,-58.787280153,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5527,354,Sin Datos
--34.672971687,-58.535326074,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5528,22,Sin Datos
--34.410858145,-58.978516089,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5472,1,2022-09-21 15:00
--34.823017276,-58.653226393,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5471,432,2022-09-21 15:00
+-34.672971687,-58.535326074,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5528,22,2022-09-21 16:00
+-34.823017276,-58.653226393,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5471,432,2022-09-21 16:00
+-34.408947210,-58.968208382,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr5/158-5486,1,2022-09-21 16:00
 -34.605,-58.753,22,baja,Edenor,Moreno,Trujui,,,5,
 -34.561,-58.4528,22,baja,Edenor,Capital Federal,Belgrano,,,33,
 -34.5828,-58.7706,22,baja,Edenor,Moreno,Trujui,,,16,
--34.6587,-58.7244,22,baja,Edenor,Merlo,Merlo,,,4,
+-34.6485,-58.766,22,baja,Edenor,Moreno,Moreno,,,1,
 -34.9239,-58.3694,21,baja,Edesur,Pte Peron,Quintas Agricolas,,,7,
 -34.6376,-58.3611,21,baja,Edesur,Capital,La Boca,,,23,
 -34.6033,-58.429,21,baja,Edesur,Capital,Almagro,,,19,
 -34.7544,-58.3081,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,48,
 -34.6123,-58.4452,21,baja,Edesur,Capital,Caballito,,,7,
 -34.6547,-58.4134,21,baja,Edesur,Capital,Nueva Pompeya,,,4,
--34.6415,-58.4154,21,baja,Edesur,Capital,Nueva Pompeya,,,7,
--34.5993,-58.4035,21,baja,Edesur,Capital,Balvanera,,,9,
+-34.6415,-58.4154,21,baja,Edesur,Capital,Nueva Pompeya,,,8,
+-34.5993,-58.4035,21,baja,Edesur,Capital,Balvanera,,,11,
 -34.6315,-58.4599,21,baja,Edesur,Capital,Flores,,,36,
 -34.7396,-58.3049,21,baja,Edesur,Quilmes,Quilmes,,,13,
+-34.603,-58.4289,21,baja,Edesur,Capital,Capital,,,1,
