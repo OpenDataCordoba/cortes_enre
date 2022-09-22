@@ -1,11 +1,12 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.829506589,-58.222183698,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,251,Sin Datos
+-34.829598857,-58.217013628,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,1,Sin Datos
 -34.828736258,-58.219738937,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,1,Sin Datos
 -34.829110972,-58.219287743,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,56,Sin Datos
 -34.830080723,-58.220337401,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,15,Sin Datos
 -34.828079770,-58.224030231,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,194,Sin Datos
 -34.830965889,-58.218691929,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,191,Sin Datos
--34.631533149,-58.361042936,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,382,2022-09-22 18:30
+-34.631533149,-58.361042936,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,382,Sin Datos
 -34.915728078,-58.466178083,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-2-27/277-2-27/277-1-18,12,2022-09-22 22:25
 -34.920601003,-58.465930118,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-2-27/277-2-27/277-1-18,17,2022-09-22 22:25
 -34.923777533,-58.462619848,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-2-27/277-2-27/277-1-18,24,2022-09-22 22:25
@@ -21,13 +22,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.912823710,-58.481670371,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-2-27/277-2-27/277-1-18,42,2022-09-22 22:25
 -34.911900147,-58.482190772,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-2-27/277-2-27/277-1-18,30,2022-09-22 22:25
 -34.911442615,-58.479304261,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-2-27/277-2-27/277-1-18,23,2022-09-22 22:25
--34.691453909,-58.567554567,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5523,178,2022-09-22 19:00
--34.562446408,-58.538283716,12,media,Edenor,Gral San Martin,Parque San Lorenzo,S/D,R:Malaver/68-Tr2/68-5524,385,2022-09-22 19:00
--34.557914932,-58.534420068,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Malaver/68-Tr2/68-5524,368,2022-09-22 19:00
--34.559396366,-58.535705058,12,media,Edenor,Gral San Martin,Parque San Lorenzo,S/D,R:Malaver/68-Tr2/68-5524,693,2022-09-22 19:00
--34.565765541,-58.540693277,12,media,Edenor,Gral San Martin,Parque San Lorenzo,S/D,R:Malaver/68-Tr2/68-5524,237,2022-09-22 19:00
--34.558407873,-58.534784572,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Malaver/68-Tr2/68-5524,5,2022-09-22 19:00
--34.562176190,-58.539130085,12,media,Edenor,Gral San Martin,Parque San Lorenzo,S/D,R:Malaver/68-Tr2/68-5524,152,2022-09-22 19:00
+-34.691453909,-58.567554567,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5523,178,2022-09-22 20:00
+-34.565765541,-58.540693277,12,media,Edenor,Gral San Martin,Parque San Lorenzo,S/D,R:Malaver/68-Tr2/68-5524,237,Sin Datos
 -34.560580656,-58.800195250,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,53,2022-09-22 19:00
 -34.562451782,-58.798373109,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,35,2022-09-22 19:00
 -34.564513509,-58.802375666,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,1,2022-09-22 19:00
@@ -39,10 +35,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5105,-58.7515,22,baja,Edenor,Jose C Paz,Jose C Paz,,,31,
 -34.4176,-58.7602,22,baja,Edenor,Escobar,Maquinista Savio,,,4,
 -34.5793,-58.4322,22,baja,Edenor,Capital Federal,Palermo,,,4,
+-34.5075,-58.737,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,24,
 -34.6315,-58.3614,21,baja,Edesur,Capital,La Boca,,,3,
 -34.621,-58.3786,21,baja,Edesur,Capital,Constitucion,,,18,
 -34.8722,-58.5301,21,baja,Edesur,Ezeiza,Barrio La Union,,,20,
--34.7808,-58.2985,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,21,
+-34.7808,-58.2985,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,22,
 -34.6218,-58.425,21,baja,Edesur,Capital,Boedo,,,31,
--34.6561,-58.376,21,baja,Edesur,Capital,Barracas,,,8,
+-34.6561,-58.376,21,baja,Edesur,Capital,Barracas,,,9,
 -35.1298,-58.7486,21,baja,Edesur,Cañuelas,Cañuelas,,,1,
+-34.7293,-58.4533,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,3,
