@@ -1,19 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.915728078,-58.466178083,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,12,Sin Datos
--34.920601003,-58.465930118,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,17,Sin Datos
--34.923777533,-58.462619848,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,24,Sin Datos
--34.925173344,-58.461172830,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,12,Sin Datos
--34.920887987,-58.455439117,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,10,Sin Datos
--34.918782750,-58.457374038,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,9,Sin Datos
--34.916545501,-58.459429329,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,28,Sin Datos
--34.914509288,-58.461301267,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,7,Sin Datos
--34.912197506,-58.463426064,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,9,Sin Datos
--34.915563415,-58.473989801,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,41,Sin Datos
--34.922245973,-58.482836173,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,1,Sin Datos
--34.919327930,-58.479026798,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,1,Sin Datos
--34.912823710,-58.481670371,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,42,Sin Datos
--34.911900147,-58.482190772,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,30,Sin Datos
--34.911442615,-58.479304261,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,23,Sin Datos
 -34.757278113,-58.439721322,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-4-46/182-4-46,146,Sin Datos
 -34.753813187,-58.439872327,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-4-46/182-4-46,181,Sin Datos
 -34.747500404,-58.284586514,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-25/073-2-25,82,2022-09-23 18:00
@@ -21,14 +6,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.912917932,-58.605166404,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-07/955-1-07,52,Sin Datos
 -34.609677438,-58.404142287,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,237,2022-09-23 17:58
 -34.610245946,-58.404001680,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,314,2022-09-23 17:58
--34.723909570,-58.518050853,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,360,Sin Datos
--34.724134988,-58.520025597,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,98,Sin Datos
--34.947342230,-58.885624343,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr3/363-5472/132-5523,2,2022-09-23 16:00
--34.954350468,-58.899225727,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr3/363-5472/132-5523,1,2022-09-23 16:00
+-34.723909570,-58.518050853,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,360,2022-09-23 17:00
+-34.724134988,-58.520025597,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,98,2022-09-23 16:00
+-34.954350468,-58.899225727,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr3/363-5472/132-5523,1,Sin Datos
+-34.544450474,-58.763797333,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:S.Miguel/165-Tr2/165-5524,400,2022-09-23 19:00
+-34.540845723,-58.764670753,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:S.Miguel/165-Tr2/165-5524,212,2022-09-23 19:00
+-34.538667868,-58.766322541,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:S.Miguel/165-Tr2/165-5524,324,2022-09-23 19:00
+-34.560580656,-58.800195250,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,53,2022-09-23 19:00
+-34.562451782,-58.798373109,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,35,2022-09-23 19:00
+-34.564513509,-58.802375666,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,1,2022-09-23 19:00
+-34.566062158,-58.804172941,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,3,2022-09-23 19:00
+-34.570794091,-58.793719076,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,60,2022-09-23 19:00
+-34.563458967,-58.800615952,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,6,2022-09-23 19:00
+-34.546308594,-58.759670747,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:S.Miguel/165-Tr2/165-5524,547,2022-09-23 19:00
+-34.553063471,-58.803407272,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,27,2022-09-23 19:00
+-34.551465888,-58.802217118,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5524,281,2022-09-23 19:00
 -34.7721,-58.5877,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,29,
 -34.6361,-58.6856,22,baja,Edenor,Ituzaingo,Ituzaingo,,,70,
 -34.6499,-58.6307,22,baja,Edenor,Moron,Castelar,,,1,
--34.6491,-58.5179,21,baja,Edesur,Capital,Liniers,,,19,
+-34.6491,-58.5179,21,baja,Edesur,Capital,Liniers,,,20,
 -34.8046,-58.1892,21,baja,Edesur,Berazategui,Berazategui,,,22,
 -34.7573,-58.4424,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,70,
 -34.6111,-58.4536,21,baja,Edesur,Capital,Caballito,,,9,
