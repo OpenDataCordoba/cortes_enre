@@ -1,80 +1,14 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.747500404,-58.284586514,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-25/073-2-25,82,2022-09-23 18:00
--34.609677438,-58.404142287,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,237,2022-09-23 17:58
--34.610245946,-58.404001680,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,314,2022-09-23 17:58
--34.715365699,-58.344946473,11,media,Edesur,Avellaneda,Villa Dominico,S/D,R:,290,2022-09-23 22:18
--34.696390670,-58.364163222,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,366,2022-09-23 22:18
--34.693647607,-58.361812802,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,500,2022-09-23 22:18
--34.701966979,-58.362055621,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,2,2022-09-23 22:18
--34.708339235,-58.354631200,11,media,Edesur,Avellaneda,Villa Dominico,S/D,R:,346,2022-09-23 22:18
--34.688274125,-58.366859950,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,363,2022-09-23 22:18
--34.692564589,-58.366239844,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,762,2022-09-23 22:18
--34.695526530,-58.362612003,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,319,2022-09-23 22:18
--34.697955432,-58.358311873,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,28,2022-09-23 22:18
--34.689480991,-58.359426625,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,330,2022-09-23 22:18
--34.693424692,-58.371779942,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,409,2022-09-23 22:18
--34.689882905,-58.370682799,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,805,2022-09-23 22:18
--34.686018691,-58.364931788,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,185,2022-09-23 22:18
--34.693056900,-58.360339003,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,218,2022-09-23 22:18
--34.691631867,-58.356795968,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,253,2022-09-23 22:18
--34.708366818,-58.353127173,11,media,Edesur,Avellaneda,Villa Dominico,S/D,R:,142,2022-09-23 22:18
--34.713154554,-58.348770810,11,media,Edesur,Avellaneda,Villa Dominico,S/D,R:,452,2022-09-23 22:18
--34.693984813,-58.363801451,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,3,2022-09-23 22:18
--34.696731592,-58.368136381,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,1,2022-09-23 22:18
--34.686790431,-58.366725109,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,1,2022-09-23 22:18
--34.703761521,-58.359912153,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,42,2022-09-23 22:18
--34.705412057,-58.356591375,11,media,Edesur,Avellaneda,Villa Dominico,S/D,R:,45,2022-09-23 22:18
--34.710446809,-58.366524855,11,media,Edesur,Lanus,Lanus Este,S/D,R:,286,2022-09-23 22:18
--34.717593621,-58.353823917,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,579,2022-09-23 22:18
--34.711175439,-58.360419339,11,media,Edesur,Lanus,Lanus Este,S/D,R:,1,2022-09-23 22:18
--34.711186616,-58.360404151,11,media,Edesur,Lanus,Lanus Este,S/D,R:,17,2022-09-23 22:18
--34.699590436,-58.365589065,11,media,Edesur,Lanus,Gerli L,S/D,R:,32,2022-09-23 22:18
--34.691192017,-58.375125609,11,media,Edesur,Lanus,Gerli L,S/D,R:,903,2022-09-23 22:18
--34.706617217,-58.363618661,11,media,Edesur,Lanus,Lanus Este,S/D,R:,125,2022-09-23 22:18
--34.707408758,-58.364865405,11,media,Edesur,Lanus,Lanus Este,S/D,R:,221,2022-09-23 22:18
--34.696726910,-58.368803670,11,media,Edesur,Lanus,Gerli L,S/D,R:,253,2022-09-23 22:18
--34.716270455,-58.346324100,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,4,2022-09-23 22:18
--34.705575426,-58.358628222,11,media,Edesur,Lanus,Lanus Este,S/D,R:,33,2022-09-23 22:18
--34.706256027,-58.371223196,11,media,Edesur,Lanus,Gerli L,S/D,R:,658,2022-09-23 22:18
--34.710704460,-58.363748108,11,media,Edesur,Lanus,Lanus Este,S/D,R:,6,2022-09-23 22:18
--34.695678418,-58.370755058,11,media,Edesur,Lanus,Gerli L,S/D,R:,315,2022-09-23 22:18
--34.709820589,-58.359068655,11,media,Edesur,Lanus,Lanus Este,S/D,R:,7,2022-09-23 22:18
--34.700492757,-58.368498701,11,media,Edesur,Lanus,Gerli L,S/D,R:,419,2022-09-23 22:18
--34.702612191,-58.370570554,11,media,Edesur,Lanus,Gerli L,S/D,R:,391,2022-09-23 22:18
--34.713030781,-58.360764022,11,media,Edesur,Lanus,Lanus Este,S/D,R:,22,2022-09-23 22:18
--34.709675770,-58.362477398,11,media,Edesur,Lanus,Lanus Este,S/D,R:,3,2022-09-23 22:18
--34.714178918,-58.353772779,11,media,Edesur,Lanus,Lanus Este,S/D,R:,139,2022-09-23 22:18
--34.703638808,-58.369356427,11,media,Edesur,Lanus,Gerli L,S/D,R:,229,2022-09-23 22:18
--34.712350598,-58.359768635,11,media,Edesur,Lanus,Lanus Este,S/D,R:,1,2022-09-23 22:18
--34.710015493,-58.358823422,11,media,Edesur,Lanus,Lanus Este,S/D,R:,3,2022-09-23 22:18
--34.716631766,-58.355284713,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,157,2022-09-23 22:18
--34.713062334,-58.350964311,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,279,2022-09-23 22:18
--34.695926532,-58.371048502,11,media,Edesur,Lanus,Gerli L,S/D,R:,2,2022-09-23 22:18
--34.722905658,-58.352571707,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,43,2022-09-23 22:18
--34.720794542,-58.350154809,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,98,2022-09-23 22:18
--34.711385860,-58.351818591,11,media,Edesur,Lanus,Lanus Este,S/D,R:,6,2022-09-23 22:18
--34.711468453,-58.362767173,11,media,Edesur,Lanus,Lanus Este,S/D,R:,14,2022-09-23 22:18
--34.699607012,-58.367956062,11,media,Edesur,Lanus,Gerli L,S/D,R:,1,2022-09-23 22:18
--34.705357650,-58.372343779,11,media,Edesur,Lanus,Gerli L,S/D,R:,2,2022-09-23 22:18
--34.720763671,-58.348848434,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,14,2022-09-23 22:18
--34.722289780,-58.348302447,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,41,2022-09-23 22:18
--34.723473470,-58.347829737,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,98,2022-09-23 22:18
--34.695355592,-58.379406580,11,media,Edesur,Lanus,Gerli L,S/D,R:,426,2022-09-23 22:18
--34.693769849,-58.372107617,11,media,Edesur,Lanus,Gerli L,S/D,R:,4,2022-09-23 22:18
--34.723217163,-58.352529797,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,23,2022-09-23 22:18
--34.720750356,-58.352801107,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,51,2022-09-23 22:18
--34.721060645,-58.353144836,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,49,2022-09-23 22:18
--34.721475194,-58.353599800,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,49,2022-09-23 22:18
--34.720981171,-58.347760687,11,media,Edesur,Lanus,Monte Chingolo,S/D,R:,73,2022-09-23 22:18
--34.723909570,-58.518050853,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,360,2022-09-23 18:00
--34.724134988,-58.520025597,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,98,2022-09-23 19:00
--34.954350468,-58.899225727,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr3/363-5472/132-5523,1,2022-09-23 18:00
+-34.747500404,-58.284586514,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-25/073-2-25,82,Sin Datos
+-34.609677438,-58.404142287,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,237,Sin Datos
+-34.610245946,-58.404001680,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,314,Sin Datos
+-34.723909570,-58.518050853,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,360,2022-09-23 19:00
+-34.724134988,-58.520025597,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Tapiales/162-Tr2/162-5533,98,Sin Datos
+-34.954350468,-58.899225727,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr3/363-5472/132-5523,1,Sin Datos
 -34.7721,-58.5877,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,29,
+-34.8412,-58.6432,22,baja,Edenor,La Matanza,Virrey Del Pino,,,44,
 -34.5905,-58.7629,22,baja,Edenor,Moreno,Trujui,,,21,
--34.6499,-58.6307,22,baja,Edenor,Moron,Castelar,,,1,
 -34.7619,-58.5965,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,1,
--34.6491,-58.5179,21,baja,Edesur,Capital,Liniers,,,20,
--34.6111,-58.4536,21,baja,Edesur,Capital,Caballito,,,9,
--34.676,-58.3904,21,baja,Edesur,Avellaneda,Piñeyro,,,40,
+-34.6491,-58.5179,21,baja,Edesur,Capital,Liniers,,,21,
 -34.7364,-58.4399,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,2,
 -34.7276,-58.4504,21,baja,Edesur,Lomas De Zamora,Bandfield,,,1,
