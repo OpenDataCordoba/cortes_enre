@@ -1,5 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.586466862,-58.387162442,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-1-14/117-1-14,51,Sin Datos
 -34.730494173,-58.474492515,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-27/281-2-27,539,2022-09-26 13:58
 -34.728068817,-58.472589604,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-27/281-2-27,13,2022-09-26 13:58
 -34.728471659,-58.472842939,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-27/281-2-27,20,2022-09-26 13:58
@@ -13,41 +12,32 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.730537626,-58.477489394,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-27/281-2-27,12,2022-09-26 13:58
 -34.729027167,-58.474453033,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-27/281-2-27,19,2022-09-26 13:58
 -34.728219442,-58.472882327,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-27/281-2-27,9,2022-09-26 13:58
--34.680973454,-58.434760332,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-28/089-2-28,193,2022-09-26 13:03
--34.670106253,-58.421901384,11,media,Edesur,Lanus,Valentin Alsina,Alsina,R:089-2-28/089-2-28,234,2022-09-26 13:03
--34.668510019,-58.427832024,11,media,Edesur,Lanus,Valentin Alsina,Alsina,R:089-2-28/089-2-28,78,2022-09-26 13:03
--34.680295879,-58.434247266,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-28/089-2-28,75,2022-09-26 13:03
--34.677745622,-58.432337943,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-28/089-2-28,18,2022-09-26 13:03
--34.678925117,-58.430683741,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-28/089-2-28,50,2022-09-26 13:03
--34.676025749,-58.432744427,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-28/089-2-28,122,2022-09-26 13:03
--34.680949378,-58.436613317,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-28/089-2-28,2,2022-09-26 13:03
--34.672878553,-58.427493699,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-28/089-2-28,1,2022-09-26 13:03
--34.678330637,-58.431109053,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-28/089-2-28,3,2022-09-26 13:03
--34.696176538,-58.509829920,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5538,1,2022-09-26 11:00
+-34.696176538,-58.509829920,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5538,1,Sin Datos
 -34.708826404,-58.536019276,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr3/65-5535,713,2022-09-26 12:00
--34.704302382,-58.486076852,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5526,327,Sin Datos
--34.745589803,-58.692497977,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,226,2022-09-26 11:00
+-34.704302382,-58.486076852,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5526,327,2022-09-26 12:00
+-34.745589803,-58.692497977,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,226,2022-09-26 13:00
 -34.646709348,-58.587752263,12,media,Edenor,Moron,Haedo,S/D,R:Ramos Mejia/66-Tr1/66-5517,193,Sin Datos
--34.653604695,-58.890771593,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,3,2022-09-26 11:00
--34.636241383,-58.744600798,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,317,2022-09-26 11:00
+-34.653604695,-58.890771593,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,3,2022-09-26 12:00
+-34.636241383,-58.744600798,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,317,2022-09-26 12:00
 -34.458461953,-58.802534907,12,media,Edenor,Pilar,Del Viso,S/D,R:Delviso/251-Tr2/251-5534,175,2022-09-26 12:00
--34.440968836,-58.926767359,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5511,219,Sin Datos
--34.483164455,-58.746939515,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,306,2022-09-26 11:00
--34.487140934,-58.743892102,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,104,2022-09-26 11:00
--34.487196911,-58.747283946,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,84,2022-09-26 11:00
--34.485785641,-58.750493766,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,469,2022-09-26 11:00
--34.485389171,-58.745059967,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,422,2022-09-26 11:00
--34.487934854,-58.746828227,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,108,2022-09-26 11:00
+-34.440968836,-58.926767359,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5511,219,2022-09-26 13:00
+-34.483164455,-58.746939515,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,306,Sin Datos
+-34.487140934,-58.743892102,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,104,Sin Datos
+-34.487196911,-58.747283946,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,84,Sin Datos
+-34.485785641,-58.750493766,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,469,Sin Datos
+-34.485389171,-58.745059967,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,422,Sin Datos
+-34.487934854,-58.746828227,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,108,Sin Datos
 -34.432424511,-58.884435447,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr4/51-5481,1,Sin Datos
 -34.424613493,-58.879021000,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr4/51-5481,156,Sin Datos
 -34.427496636,-58.879979284,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr4/51-5481,125,Sin Datos
--34.536737256,-58.868016539,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,12,2022-09-26 11:00
--34.534013392,-58.863650560,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,18,2022-09-26 11:00
--34.308511763,-58.765607090,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5513,73,2022-09-26 12:00
+-34.534013392,-58.863650560,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,18,2022-09-26 12:00
+-34.308511763,-58.765607090,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5513,73,2022-09-26 13:00
 -34.3432,-58.863,22,baja,Edenor,Escobar,Loma Verde,,,6,
 -34.4345,-58.8146,22,baja,Edenor,Pilar,Del Viso,,,14,
 -34.6245,-58.5412,22,baja,Edenor,3 De Febrero,Ciudadela,,,1,
+-34.666,-58.8249,22,baja,Edenor,Moreno,Moreno,,,27,
 -34.7628,-58.6236,22,baja,Edenor,La Matanza,Gonzalez Catan,,,37,
+-34.7123,-58.5712,22,baja,Edenor,La Matanza,Isidro Casanova,,,1,
 -34.6088,-58.3954,21,baja,Edesur,Capital,Balvanera,,,22,
 -34.9336,-58.3961,21,baja,Edesur,Pte Peron,Guernica,,,13,
--34.6961,-58.3844,21,baja,Edesur,Lanus,Lanus,,,13,
+-34.6127,-58.4186,21,baja,Edesur,Capital,Capital,,,27,
