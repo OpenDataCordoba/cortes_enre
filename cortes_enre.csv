@@ -1,14 +1,12 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.548905008,-58.535602169,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr2/55-5533,202,Sin Datos
--34.708826404,-58.536019276,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr3/65-5535,713,2022-09-26 18:00
--34.653604695,-58.890771593,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,3,Sin Datos
--34.483164455,-58.746939515,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,306,2022-09-26 18:00
--34.487140934,-58.743892102,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,104,2022-09-26 18:00
--34.487196911,-58.747283946,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,84,2022-09-26 18:00
--34.485785641,-58.750493766,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,469,2022-09-26 18:00
--34.485389171,-58.745059967,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,422,2022-09-26 18:00
--34.487934854,-58.746828227,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,108,2022-09-26 18:00
--34.462025177,-58.702330637,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,10,2022-09-26 18:00
+-34.548905008,-58.535602169,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Munro/55-Tr2/55-5533,202,2022-09-26 18:00
+-34.653604695,-58.890771593,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,3,2022-09-26 17:00
+-34.483164455,-58.746939515,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,306,2022-09-26 17:00
+-34.487140934,-58.743892102,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,104,2022-09-26 17:00
+-34.487196911,-58.747283946,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,84,2022-09-26 17:00
+-34.485785641,-58.750493766,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,469,2022-09-26 17:00
+-34.485389171,-58.745059967,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,422,2022-09-26 17:00
+-34.487934854,-58.746828227,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguita/252-Tr2/252-5534,108,2022-09-26 17:00
 -34.166382959,-58.433352697,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
 -34.145160874,-58.450769999,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
 -34.132276612,-58.453738972,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
@@ -20,7 +18,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.161581975,-58.438447377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
 -34.151112132,-58.447220086,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
 -34.176564350,-58.412298789,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
--34.453306041,-58.810218628,12,media,Edenor,Pilar,Del Viso,S/D,R:Delviso/251-Tr2/251-5536,256,2022-09-26 18:00
+-34.453306041,-58.810218628,12,media,Edenor,Pilar,Del Viso,S/D,R:Delviso/251-Tr2/251-5536,256,2022-09-26 17:00
+-34.381734784,-58.761444877,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,2,2022-09-26 18:00
 -34.3432,-58.863,22,baja,Edenor,Escobar,Loma Verde,,,6,
 -34.4345,-58.8146,22,baja,Edenor,Pilar,Del Viso,,,14,
 -34.5725,-58.6502,22,baja,Edenor,Hurlingham,William Morris,,,5,
@@ -36,7 +35,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6338,-58.458,21,baja,Edesur,Capital,Capital,,,13,
 -34.6791,-58.4877,21,baja,Edesur,Capital,Villa Lugano,,,14,
 -34.6308,-58.3772,21,baja,Edesur,Capital,Barracas,,,76,
--34.6585,-58.4335,21,baja,Edesur,Capital,Villa Soldati,,,2,
+-34.6585,-58.4335,21,baja,Edesur,Capital,Villa Soldati,,,4,
 -34.633,-58.496,21,baja,Edesur,Capital,Capital,,,12,
 -34.6023,-58.4698,21,baja,Edesur,Capital,Capital,,,15,
 -34.6852,-58.4826,21,baja,Edesur,Capital,Villa Lugano,,,6,
+-34.6949,-58.4304,21,baja,Edesur,Lanus,Lanus,,,2,
