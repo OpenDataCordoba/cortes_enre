@@ -1,26 +1,52 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.701838249,-58.308303445,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-2-24/077-2-24,67,2022-09-27 14:27
 -34.698719471,-58.309905537,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-2-24/077-2-24,230,2022-09-27 14:27
--34.700820107,-58.308039626,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-2-24/077-2-24,69,2022-09-27 14:27
--34.407145975,-58.985052500,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5473,1,2022-09-27 11:00
--34.159970272,-58.496416049,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-09-27 09:49
--34.154646752,-58.498857806,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-09-27 09:49
--34.744211988,-58.627770810,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5545,439,2022-09-27 11:00
--34.611088165,-58.832865393,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,29,Sin Datos
--34.609316909,-58.830300971,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,108,Sin Datos
--34.607251894,-58.830635499,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5517,129,Sin Datos
--34.614472568,-58.835206717,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5517,164,Sin Datos
--34.610189791,-58.832726337,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5517,264,Sin Datos
--34.599928180,-58.849476043,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,69,Sin Datos
--34.600858698,-58.843161848,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,2,Sin Datos
--34.603179888,-58.846399423,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,3,Sin Datos
--34.607798744,-58.828788990,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,187,Sin Datos
--34.510219101,-58.586345951,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,104,2022-09-27 11:00
--34.919060402,-58.746893921,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,2022-09-27 13:00
--34.646687123,-58.761907874,12,media,Edenor,Moreno,Moreno,S/D,R:Merlo/62-Tr2/62-5524,158,2022-09-27 10:00
--34.551004712,-58.679863295,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr2/362-5528,100,2022-09-27 10:00
+-34.407145975,-58.985052500,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5473,1,2022-09-27 12:00
+-34.159970272,-58.496416049,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-09-27 11:00
+-34.154646752,-58.498857806,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-09-27 11:00
+-34.744211988,-58.627770810,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5545,439,2022-09-27 12:00
+-34.611088165,-58.832865393,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,29,2022-09-27 11:00
+-34.609316909,-58.830300971,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,108,2022-09-27 11:00
+-34.607251894,-58.830635499,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5517,129,2022-09-27 11:00
+-34.614472568,-58.835206717,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5517,164,2022-09-27 11:00
+-34.610189791,-58.832726337,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5517,264,2022-09-27 11:00
+-34.607798744,-58.828788990,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,187,2022-09-27 11:00
+-34.510219101,-58.586345951,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,104,2022-09-27 12:00
+-34.919060402,-58.746893921,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,2022-09-27 11:00
+-34.765834458,-58.856649002,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,7,2022-09-27 14:00
+-34.765471724,-58.858950350,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-09-27 14:00
+-34.766474720,-58.860099892,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.767606095,-58.861403520,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,7,2022-09-27 14:00
+-34.768877544,-58.862887989,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.770402086,-58.864522910,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-09-27 14:00
+-34.772419293,-58.867020741,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,10,2022-09-27 14:00
+-34.757533835,-58.866496139,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-09-27 14:00
+-34.753094915,-58.861373198,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,5,2022-09-27 14:00
+-34.748552716,-58.878071862,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-09-27 14:00
+-34.746688214,-58.880430919,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.740086439,-58.888886836,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.735708147,-58.894514933,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,6,2022-09-27 14:00
+-34.732809025,-58.898344043,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-09-27 14:00
+-34.730875226,-58.900636018,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.726099858,-58.906836915,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-09-27 14:00
+-34.720850971,-58.913414725,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.717133548,-58.918130545,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.712648787,-58.923898809,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-09-27 14:00
+-34.710613338,-58.926497240,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.730838993,-58.888409258,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.727211047,-58.884333160,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,3,2022-09-27 14:00
+-34.709893611,-58.927441818,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.707673574,-58.928886898,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.702273737,-58.922544055,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-09-27 14:00
+-34.724890965,-58.950210544,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.726738040,-58.952370418,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,3,2022-09-27 14:00
+-34.762081657,-58.861383766,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-09-27 14:00
+-34.754670582,-58.870795374,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.742941663,-58.885207492,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-09-27 14:00
+-34.646687123,-58.761907874,12,media,Edenor,Moreno,Moreno,S/D,R:Merlo/62-Tr2/62-5524,158,2022-09-27 11:00
+-34.508867122,-58.702297684,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5541,325,2022-09-27 12:00
+-34.551004712,-58.679863295,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr2/362-5528,100,2022-09-27 11:00
 -34.6371,-58.5731,22,baja,Edenor,Moron,Villa Sarmiento,,,20,
+-34.4153,-58.6011,22,baja,Edenor,Tigre,Rincon De Milberg,,,40,
 -34.4864,-58.9879,22,baja,Edenor,Pilar,Pilar,,,23,
+-34.6625,-58.5323,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,20,
 -34.6152,-58.3735,21,baja,Edesur,Capital,Monserrat,,,14,
--34.6011,-58.4032,21,baja,Edesur,Capital,Balvanera,,,17,
--34.7722,-58.3813,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,
