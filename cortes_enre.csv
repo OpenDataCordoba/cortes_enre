@@ -1,57 +1,40 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.582745853,-58.556488815,12,media,Edenor,Gral San Martin,Juan M De Pueyrredon,S/D,R:Malaver/68-Tr4/68-5511,1,2022-10-01 08:00
--34.591860257,-58.693954455,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,285,2022-10-01 11:00
--34.585973810,-58.689756948,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,164,2022-10-01 11:00
--34.584841388,-58.683649095,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,3,2022-10-01 11:00
--34.586459460,-58.685010866,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,9,2022-10-01 11:00
--34.590429290,-58.690095955,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,56,2022-10-01 11:00
--34.584092862,-58.687567578,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,358,2022-10-01 11:00
--34.581753950,-58.685197107,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,243,2022-10-01 11:00
--34.588025417,-58.691895765,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,308,2022-10-01 11:00
--34.591560875,-58.693598372,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,309,2022-10-01 11:00
--34.589763173,-58.689527175,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,332,2022-10-01 11:00
--34.588457715,-58.687643628,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,355,2022-10-01 11:00
--34.585927663,-58.686534087,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,123,2022-10-01 11:00
--34.583093536,-58.684627449,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5518,13,2022-10-01 11:00
--34.679716446,-58.550780558,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr1/65-5515,1,2022-10-01 10:00
--34.565168346,-58.760769637,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,320,2022-10-01 11:00
--34.566161754,-58.752804863,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,204,2022-10-01 11:00
--34.558014112,-58.760656983,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,349,2022-10-01 11:00
--34.566341194,-58.757815125,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,212,2022-10-01 11:00
--34.561626674,-58.752763130,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,320,2022-10-01 11:00
--34.576449418,-58.768764647,12,media,Edenor,Moreno,Moreno,S/D,R:S.Miguel/165-Tr2/165-5527,99,2022-10-01 11:00
--34.574851679,-58.770022152,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5527,235,2022-10-01 11:00
--34.563839107,-58.755018728,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,250,2022-10-01 11:00
--34.553823875,-58.766528190,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,34,2022-10-01 11:00
--34.555190104,-58.764612493,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,84,2022-10-01 11:00
--34.567731396,-58.750662020,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,357,2022-10-01 11:00
--34.570528409,-58.768074316,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5527,341,2022-10-01 11:00
--34.572385224,-58.765590020,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5527,188,2022-10-01 11:00
--34.562036114,-58.755142161,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5526,255,2022-10-01 11:00
--34.568385180,-58.767689671,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5526,268,2022-10-01 11:00
--34.570746760,-58.764468386,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,337,2022-10-01 11:00
--34.571667811,-58.774393146,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,75,2022-10-01 11:00
--34.570789541,-58.773386616,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,204,2022-10-01 11:00
--34.569463305,-58.776511541,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5526,179,2022-10-01 11:00
--34.572180249,-58.775379559,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,466,2022-10-01 11:00
--34.566041275,-58.770813824,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,178,2022-10-01 11:00
--34.565615612,-58.770781217,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,57,2022-10-01 11:00
--34.574599427,-58.774055945,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5526,41,2022-10-01 11:00
--34.568904916,-58.777854871,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,58,2022-10-01 11:00
--34.573374646,-58.775693387,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,44,2022-10-01 11:00
--34.572869653,-58.776361165,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,79,2022-10-01 11:00
--34.572021767,-58.777444090,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,97,2022-10-01 11:00
--34.574561783,-58.776514751,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,167,2022-10-01 11:00
--34.570138976,-58.779955105,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,2,2022-10-01 11:00
--34.572333384,-58.782349343,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,1,2022-10-01 11:00
--34.566571356,-58.762232284,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5526,333,2022-10-01 11:00
--34.566442710,-58.765849123,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5526,229,2022-10-01 11:00
--34.561643751,-58.760641906,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5526,333,2022-10-01 11:00
--34.551485050,-58.768901973,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:S.Miguel/165-Tr2/165-5526,87,2022-10-01 11:00
--34.568344200,-58.775844688,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,197,2022-10-01 11:00
--34.566519353,-58.772700775,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,251,2022-10-01 11:00
--34.568623552,-58.770391984,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,183,2022-10-01 11:00
--34.573208722,-58.772165677,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,79,2022-10-01 11:00
+-34.582745853,-58.556488815,12,media,Edenor,Gral San Martin,Juan M De Pueyrredon,S/D,R:Malaver/68-Tr4/68-5511,1,2022-10-01 10:00
+-34.618675606,-58.550347042,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr2/167-5521,1,2022-10-01 12:00
+-34.565168346,-58.760769637,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,320,Sin Datos
+-34.566161754,-58.752804863,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,204,Sin Datos
+-34.558014112,-58.760656983,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,349,Sin Datos
+-34.566341194,-58.757815125,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,212,Sin Datos
+-34.561626674,-58.752763130,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,320,Sin Datos
+-34.563839107,-58.755018728,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,250,Sin Datos
+-34.553823875,-58.766528190,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,34,Sin Datos
+-34.555190104,-58.764612493,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,84,Sin Datos
+-34.567731396,-58.750662020,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5527,357,Sin Datos
+-34.562036114,-58.755142161,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5526,255,2022-10-01 09:00
+-34.568385180,-58.767689671,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5526,268,2022-10-01 09:00
+-34.570746760,-58.764468386,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,337,2022-10-01 09:00
+-34.571667811,-58.774393146,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,75,2022-10-01 09:00
+-34.570789541,-58.773386616,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,204,2022-10-01 09:00
+-34.569463305,-58.776511541,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5526,179,2022-10-01 09:00
+-34.572180249,-58.775379559,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,466,2022-10-01 09:00
+-34.566041275,-58.770813824,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,178,2022-10-01 09:00
+-34.565615612,-58.770781217,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,57,2022-10-01 09:00
+-34.574599427,-58.774055945,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr2/165-5526,41,2022-10-01 09:00
+-34.568904916,-58.777854871,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,58,2022-10-01 09:00
+-34.573374646,-58.775693387,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,44,2022-10-01 09:00
+-34.572869653,-58.776361165,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,79,2022-10-01 09:00
+-34.572021767,-58.777444090,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,97,2022-10-01 09:00
+-34.574561783,-58.776514751,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,167,2022-10-01 09:00
+-34.570138976,-58.779955105,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,2,2022-10-01 09:00
+-34.572333384,-58.782349343,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,1,2022-10-01 09:00
+-34.566571356,-58.762232284,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5526,333,2022-10-01 09:00
+-34.566442710,-58.765849123,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5526,229,2022-10-01 09:00
+-34.561643751,-58.760641906,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr2/165-5526,333,2022-10-01 09:00
+-34.551485050,-58.768901973,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:S.Miguel/165-Tr2/165-5526,87,2022-10-01 09:00
+-34.568344200,-58.775844688,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,197,2022-10-01 09:00
+-34.566519353,-58.772700775,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,251,2022-10-01 09:00
+-34.568623552,-58.770391984,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,183,2022-10-01 09:00
+-34.573208722,-58.772165677,12,media,Edenor,Moreno,Trujui,S/D,R:S.Miguel/165-Tr2/165-5526,79,2022-10-01 09:00
 -34.5069,-58.8013,22,baja,Edenor,Jose C Paz,Jose C Paz,,,9,
 -34.5226,-58.4749,22,baja,Edenor,Vicente Lopez,Vicente Lopez,,,51,
 -34.7125,-58.3938,21,baja,Edesur,Lanus,Lanus,,,50,
