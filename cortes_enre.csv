@@ -1,5 +1,17 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.845924027,-58.503448807,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-33/083-3-33,251,2022-10-03 14:04
+-34.847397139,-58.230261962,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,17,2022-10-03 13:15
+-34.846152328,-58.231201315,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,38,2022-10-03 13:15
+-34.844784457,-58.232190307,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,74,2022-10-03 13:15
+-34.842843119,-58.233617622,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,4,2022-10-03 13:15
+-34.841423234,-58.234665883,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,29,2022-10-03 13:15
+-34.848644756,-58.229345631,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,72,2022-10-03 13:15
+-34.843558858,-58.233091344,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,37,2022-10-03 13:15
+-34.845454732,-58.229325052,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,2,2022-10-03 13:15
+-34.848379078,-58.227082004,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,57,2022-10-03 13:15
+-34.848317746,-58.228759399,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,9,2022-10-03 13:15
+-34.845832427,-58.228802322,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,6,2022-10-03 13:15
+-34.846422841,-58.229571806,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,17,2022-10-03 13:15
 -34.691224415,-58.448181234,11,media,Edesur,Lomas De Zamora,Villa Fiorito,S/D,R:,13,2022-10-03 14:22
 -34.701767341,-58.444922239,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:,248,2022-10-03 14:22
 -34.699573730,-58.445903178,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:,241,2022-10-03 14:22
@@ -139,43 +151,29 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.718995921,-58.458440327,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,S/D,R:,388,2022-10-03 14:23
 -34.693689280,-58.443566239,11,media,Edesur,Lomas De Zamora,Villa Fiorito,S/D,R:,170,2022-10-03 14:23
 -34.714097178,-58.449620398,11,media,Edesur,Lomas De Zamora,Villa Fiorito,S/D,R:,19,2022-10-03 14:23
--34.561856599,-58.421988119,12,media,Edenor,Capital Federal,Palermo,S/D,R:Aguas/129-Tr1/129-5511,1,2022-10-03 11:00
 -34.591399067,-58.539597988,12,media,Edenor,Gral San Martin,Bernardo Monteagudo,S/D,R:Migueletes/54-Tr2/54-5523,163,2022-10-03 12:00
--34.556659057,-58.587516312,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5533,79,2022-10-03 14:00
--34.559739838,-58.587424749,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5533,109,2022-10-03 14:00
--34.557267458,-58.591125841,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5533,338,2022-10-03 14:00
--34.556364369,-58.589904457,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5533,322,2022-10-03 14:00
--34.558913105,-58.593340383,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5533,52,2022-10-03 14:00
--34.561005768,-58.585725400,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Rotonda/262-Tr2/262-5533,195,2022-10-03 14:00
--34.555249271,-58.591997125,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Rotonda/262-Tr2/262-5533,317,2022-10-03 14:00
--34.679647935,-58.565764151,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5534/9-5503/9-5507,150,Sin Datos
--34.784460142,-58.622609090,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,54,2022-10-03 11:00
+-34.679647935,-58.565764151,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5534/9-5503/9-5507,150,2022-10-03 12:00
+-34.784460142,-58.622609090,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,54,Sin Datos
 -34.668620412,-58.758181098,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,445,Sin Datos
--34.998087164,-58.855935281,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2022-10-03 11:00
--34.990314628,-58.841618014,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2022-10-03 11:00
--34.987051678,-58.845753588,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,2,2022-10-03 11:00
--34.988434399,-58.853826573,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,2,2022-10-03 11:00
--34.647214393,-58.721313408,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,30,2022-10-03 11:00
--34.643902609,-58.720988566,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,12,2022-10-03 11:00
--34.642836875,-58.722240641,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,24,2022-10-03 11:00
--34.648915870,-58.840597360,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr2/163-5527,446,2022-10-03 11:00
--34.430048569,-58.720459494,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr2/59-5521,1,2022-10-03 11:00
+-34.998087164,-58.855935281,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2022-10-03 12:00
+-34.990314628,-58.841618014,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2022-10-03 12:00
+-34.987051678,-58.845753588,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,2,2022-10-03 12:00
+-34.988434399,-58.853826573,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,2,2022-10-03 12:00
+-34.647214393,-58.721313408,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,30,2022-10-03 12:00
+-34.643902609,-58.720988566,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,12,2022-10-03 12:00
+-34.642836875,-58.722240641,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,24,2022-10-03 12:00
+-34.648915870,-58.840597360,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr2/163-5527,446,2022-10-03 13:00
+-34.430048569,-58.720459494,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr2/59-5521,1,2022-10-03 13:00
 -34.370533374,-58.670104654,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,38,Sin Datos
--34.427921232,-58.572111425,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,442,Sin Datos
--34.459886687,-58.631328815,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,241,Sin Datos
--34.457711238,-58.633045515,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,223,2022-10-03 11:00
--34.318765843,-58.643074308,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,Sin Datos
--34.311684410,-58.640477443,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,10,Sin Datos
--34.304422054,-58.637337350,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,8,Sin Datos
--34.297689176,-58.637733683,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,16,Sin Datos
--34.284472016,-58.637226809,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,Sin Datos
--34.281228208,-58.640057607,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,Sin Datos
--34.276273115,-58.642630086,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,Sin Datos
--34.276996127,-58.639840258,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,Sin Datos
--34.284205026,-58.635023662,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,14,Sin Datos
--34.304034795,-58.635533712,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,Sin Datos
--34.314724240,-58.638454411,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,Sin Datos
--34.297655830,-58.635144163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos
--34.6349,-58.3604,21,baja,Edesur,Capital,La Boca,,,25,
--34.6317,-58.4102,21,baja,Edesur,Capital,Parque Patricios,,,6,
+-34.427921232,-58.572111425,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,442,2022-10-03 12:00
+-34.459886687,-58.631328815,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,241,2022-10-03 12:00
+-34.457711238,-58.633045515,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr4/58-5543,223,Sin Datos
+-34.549074459,-58.804039137,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr1/165-5517,219,2022-10-03 12:00
+-34.549158647,-58.806218053,12,media,Edenor,Moreno,Cuartel V,S/D,R:S.Miguel/165-Tr1/165-5517,131,2022-10-03 12:00
+-34.428854618,-58.744274984,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr2/59-5532,120,2022-10-03 13:00
+-34.6464,-58.9387,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,
+-34.5695,-58.5967,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,16,
+-34.6349,-58.3604,21,baja,Edesur,Capital,La Boca,,,30,
+-34.6317,-58.4102,21,baja,Edesur,Capital,Parque Patricios,,,7,
 -34.5964,-58.45,21,baja,Edesur,Capital,Villa Crespo,,,2,
+-34.6365,-58.461,21,baja,Edesur,Capital,Flores,,,6,
