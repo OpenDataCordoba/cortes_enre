@@ -3,10 +3,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.672990104,-58.338042467,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,154,2022-10-04 14:19
 -34.671431739,-58.339431903,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,20,2022-10-04 14:19
 -34.598571152,-58.512216409,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,282,2022-10-04 16:18
--34.600507457,-58.515489103,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,162,2022-10-04 16:18
--34.601565687,-58.515390025,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,276,2022-10-04 16:18
--34.603674139,-58.572283716,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Caseros/69-Tr1/69-5515,409,2022-10-04 13:00
--34.732498309,-58.577911636,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr1/451-5513,260,2022-10-04 13:00
+-34.839559422,-58.248212225,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2022-10-04 15:35
+-34.839963722,-58.241828464,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,2022-10-04 15:35
+-34.837334549,-58.243736739,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,2022-10-04 15:35
+-34.836723307,-58.247556327,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,8,2022-10-04 15:35
+-34.835891659,-58.245968844,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2022-10-04 15:35
+-34.834371465,-58.243045597,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2022-10-04 15:35
+-34.834458381,-58.253291895,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,51,2022-10-04 15:35
+-34.838057782,-58.250136944,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,7,2022-10-04 15:35
+-34.603674139,-58.572283716,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Caseros/69-Tr1/69-5515,409,2022-10-04 14:00
+-34.732498309,-58.577911636,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr1/451-5513,260,2022-10-04 14:00
 -34.698520799,-58.539433659,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5553,306,2022-10-04 13:00
 -34.799480388,-59.105710531,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-04 14:00
 -34.796885170,-59.099991845,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-04 14:00
@@ -14,21 +20,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.799906441,-59.093315922,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-04 14:00
 -34.795025334,-59.126449220,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-04 14:00
 -34.653604695,-58.890771593,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,3,2022-10-04 13:00
--34.660740107,-58.887385371,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,4,2022-10-04 14:00
+-34.660740107,-58.887385371,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,4,2022-10-04 13:00
 -34.660327499,-58.898804353,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,2,2022-10-04 13:00
--34.659457624,-58.888813953,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,11,2022-10-04 13:00
--34.589509087,-58.845994097,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr3/263-5472/952-5511,37,2022-10-04 13:00
+-34.659457624,-58.888813953,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,11,2022-10-04 14:00
 -34.496414954,-58.774180638,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C Paz/254-Tr2/254-5528,109,2022-10-04 14:00
--34.463008099,-58.696725708,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5513/151-5524/151-5531,72,2022-10-04 14:00
 -34.555042449,-58.770624735,12,media,Edenor,San Miguel,San Miguel,S/D,R:S.Miguel/165-Tr1/165-5514,37,2022-10-04 13:00
 -34.449327754,-58.850567120,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,131,2022-10-04 14:00
 -34.449764678,-58.851783788,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,1,2022-10-04 14:00
 -34.449069750,-58.853521787,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,54,2022-10-04 14:00
 -34.448128830,-58.853647930,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,62,2022-10-04 14:00
--34.591848060,-58.467320178,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Agronomia/47-Tr3/47-5531,1,2022-10-04 13:00
+-34.591848060,-58.467320178,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Agronomia/47-Tr3/47-5531,1,2022-10-04 14:00
 -34.674693278,-58.738106208,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5516,69,2022-10-04 13:00
 -34.5729,-58.4478,22,baja,Edenor,Capital Federal,Colegiales,,,5,
--34.478,-58.7544,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,16,
 -34.5878,-58.423,22,baja,Edenor,Capital Federal,Palermo,,,12,
 -34.6252,-58.4473,21,baja,Edesur,Capital,Caballito,,,2,
 -34.754,-58.4826,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,19,
