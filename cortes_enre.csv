@@ -1,5 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.603179389,-58.423989838,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-4-41/049-4-41,19,Sin Datos
+-34.603179389,-58.423989838,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-4-41/049-4-41,19,2022-10-04 19:10
 -34.672990104,-58.338042467,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,154,2022-10-04 14:19
 -34.671431739,-58.339431903,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,20,2022-10-04 14:19
 -34.598571152,-58.512216409,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,282,2022-10-04 16:18
@@ -11,32 +11,29 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.834371465,-58.243045597,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,2022-10-04 15:35
 -34.834458381,-58.253291895,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,51,2022-10-04 15:35
 -34.838057782,-58.250136944,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,7,2022-10-04 15:35
--34.603674139,-58.572283716,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Caseros/69-Tr1/69-5515,409,2022-10-04 14:00
--34.732498309,-58.577911636,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr1/451-5513,260,2022-10-04 14:00
--34.698520799,-58.539433659,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5553,306,2022-10-04 15:00
--34.799480388,-59.105710531,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-04 14:00
--34.796885170,-59.099991845,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-04 14:00
--34.804096496,-59.114843820,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-04 14:00
--34.799906441,-59.093315922,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-04 14:00
--34.795025334,-59.126449220,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-04 14:00
--34.653604695,-58.890771593,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,3,2022-10-04 14:00
--34.660740107,-58.887385371,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,4,2022-10-04 14:00
--34.660327499,-58.898804353,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,2,2022-10-04 14:00
+-34.603674139,-58.572283716,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Caseros/69-Tr1/69-5515,409,2022-10-04 15:00
+-34.732498309,-58.577911636,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr1/451-5513,260,2022-10-04 15:00
+-34.698520799,-58.539433659,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5553,306,2022-10-04 16:00
+-34.799480388,-59.105710531,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos
+-34.796885170,-59.099991845,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos
+-34.804096496,-59.114843820,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos
+-34.799906441,-59.093315922,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos
+-34.795025334,-59.126449220,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos
+-34.653604695,-58.890771593,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,3,2022-10-04 15:00
+-34.660740107,-58.887385371,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,4,2022-10-04 15:00
+-34.660327499,-58.898804353,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,2,Sin Datos
 -34.659457624,-58.888813953,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5526,11,2022-10-04 15:00
 -34.496414954,-58.774180638,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C Paz/254-Tr2/254-5528,109,2022-10-04 15:00
--34.449327754,-58.850567120,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,131,2022-10-04 15:00
--34.449764678,-58.851783788,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,1,2022-10-04 15:00
--34.449069750,-58.853521787,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,54,2022-10-04 15:00
--34.448128830,-58.853647930,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,62,2022-10-04 15:00
--34.591848060,-58.467320178,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Agronomia/47-Tr3/47-5531,1,Sin Datos
--34.674693278,-58.738106208,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5516,69,2022-10-04 14:00
+-34.449327754,-58.850567120,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,131,2022-10-04 16:00
+-34.449764678,-58.851783788,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,1,2022-10-04 16:00
+-34.449069750,-58.853521787,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,54,2022-10-04 16:00
+-34.448128830,-58.853647930,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5524,62,2022-10-04 16:00
+-34.591848060,-58.467320178,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Agronomia/47-Tr3/47-5531,1,2022-10-04 15:00
+-34.674693278,-58.738106208,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5516,69,2022-10-04 16:00
 -34.5729,-58.4478,22,baja,Edenor,Capital Federal,Colegiales,,,5,
--34.6233,-58.5388,22,baja,Edenor,3 De Febrero,Ciudadela,,,138,
--34.4818,-58.507,22,baja,Edenor,San Isidro,Acassuso,,,22,
+-34.4818,-58.507,22,baja,Edenor,San Isidro,Acassuso,,,97,
 -34.6252,-58.4473,21,baja,Edesur,Capital,Caballito,,,2,
 -34.754,-58.4826,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,19,
 -34.6607,-58.4388,21,baja,Edesur,Capital,Villa Soldati,,,9,
--34.7698,-58.2423,21,baja,Edesur,Berazategui,Berazategui,,,5,
 -34.605,-58.4264,21,baja,Edesur,Capital,Almagro,,,34,
 -34.6348,-58.3754,21,baja,Edesur,Capital,Barracas,,,3,
--34.7208,-58.3391,21,baja,Edesur,Avellaneda,Wilde,,,58,
