@@ -1,112 +1,75 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.607073487,-58.471062422,11,media,Edesur,Capital Gp,Villa General Mitre,Santa Rita,R:143-2-23/143-2-23,693,2022-10-07 14:16
--34.802698041,-58.202481509,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,90,Sin Datos
--34.807180262,-58.208189560,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-27/080-2-27,312,Sin Datos
--34.797094838,-58.195638996,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,367,Sin Datos
--34.804982132,-58.205249108,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,174,Sin Datos
--34.791567901,-58.189762664,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-2-27/080-2-27,65,Sin Datos
--34.800303653,-58.199596857,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,47,Sin Datos
--34.790241969,-58.191392922,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-2-27/080-2-27,135,Sin Datos
--34.802627163,-58.208190302,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-2-27/080-2-27,197,Sin Datos
--34.799740457,-58.195980212,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,386,Sin Datos
--34.803314980,-58.198989371,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,1,Sin Datos
--34.792498492,-58.189383223,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,35,Sin Datos
--34.794439443,-58.187084067,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,28,Sin Datos
--34.804941640,-58.205940477,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-2-27/080-2-27,1,Sin Datos
--34.792832640,-58.189862895,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,17,Sin Datos
--34.793549999,-58.188996491,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,23,Sin Datos
--34.794225363,-58.188210505,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,12,Sin Datos
--34.794837253,-58.187457607,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,18,Sin Datos
--34.794852465,-58.189041240,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,14,Sin Datos
--34.795445711,-58.188346424,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,20,Sin Datos
--34.793447777,-58.190525372,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,18,Sin Datos
--34.794451483,-58.191740244,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,9,Sin Datos
--34.794909402,-58.192287862,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,33,Sin Datos
--34.794255582,-58.191505972,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,16,Sin Datos
--34.793996240,-58.191195343,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,15,Sin Datos
--34.795009781,-58.190758805,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,28,Sin Datos
--34.795464343,-58.190206946,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,13,Sin Datos
--34.795870114,-58.189686293,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,24,Sin Datos
--34.796213527,-58.189211949,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,14,Sin Datos
--34.796657333,-58.189753264,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,26,Sin Datos
--34.796343602,-58.191000200,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,13,Sin Datos
--34.795972073,-58.191501244,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,23,Sin Datos
--34.796439330,-58.191258448,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,10,Sin Datos
--34.796587883,-58.191075783,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,36,Sin Datos
--34.799627200,-58.187056387,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,16,Sin Datos
--34.799378394,-58.188518703,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,15,Sin Datos
--34.800076514,-58.187677875,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,19,Sin Datos
--34.800137022,-58.188245984,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,15,Sin Datos
--34.800967636,-58.187203032,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,18,Sin Datos
--34.801214949,-58.186866468,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,12,Sin Datos
--34.801132558,-58.188144454,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,3,Sin Datos
--34.801737759,-58.187453839,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,46,Sin Datos
--34.798716452,-58.188170946,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,4,Sin Datos
--34.799990690,-58.213414560,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-27/080-2-27,321,Sin Datos
--34.879660325,-58.598764129,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.880319244,-58.583183919,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,22,2022-10-07 15:37
--34.877462921,-58.600404587,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,6,2022-10-07 15:37
--34.861370790,-58.614239714,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.862547621,-58.619042983,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.862846936,-58.610270044,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.866235128,-58.612781662,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,3,2022-10-07 15:37
--34.871871633,-58.611230185,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,73,2022-10-07 15:37
--34.867420414,-58.604038998,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,6,2022-10-07 15:37
--34.848676597,-58.607053363,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.856512290,-58.601015629,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,2,2022-10-07 15:37
--34.873948531,-58.587914342,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,6,2022-10-07 15:37
--34.886714771,-58.597397878,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,12,2022-10-07 15:37
--34.870020730,-58.590889453,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.901450483,-58.599694413,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,5,2022-10-07 15:37
--34.880387776,-58.597154894,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,2,2022-10-07 15:37
--34.868804986,-58.581565642,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,3,2022-10-07 15:37
--34.866088523,-58.582521968,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,4,2022-10-07 15:37
--34.880824640,-58.590223202,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,24,2022-10-07 15:37
--34.880523683,-58.589580836,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,41,2022-10-07 15:37
--34.878704495,-58.586303446,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,4,2022-10-07 15:37
--34.879544685,-58.587111787,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.879325577,-58.585618360,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.871703436,-58.612351250,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,4,2022-10-07 15:37
--34.875782264,-58.619852486,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.876973863,-58.622045118,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.877874105,-58.619615248,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.875470511,-58.622993205,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.874524558,-58.621224693,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,2,2022-10-07 15:37
--34.881221186,-58.617418083,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,2,2022-10-07 15:37
--34.873976269,-58.616526026,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.877429953,-58.618792838,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.874631452,-58.612210925,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,2,2022-10-07 15:37
--34.871329441,-58.617106798,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,2,2022-10-07 15:37
--34.873174709,-58.622721307,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,2,2022-10-07 15:37
--34.877906330,-58.623762039,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.877812235,-58.624363793,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.878365448,-58.620643898,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.875133541,-58.613081177,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.880509321,-58.592564788,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.878099050,-58.620017174,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.881435665,-58.614685753,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.880845408,-58.616647829,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
--34.871631594,-58.617674771,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-03/955-1-03,1,2022-10-07 15:37
+-34.802698041,-58.202481509,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,90,2022-10-07 18:21
+-34.807180262,-58.208189560,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-27/080-2-27,312,2022-10-07 18:21
+-34.797094838,-58.195638996,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,367,2022-10-07 18:21
+-34.804982132,-58.205249108,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,174,2022-10-07 18:21
+-34.791567901,-58.189762664,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-2-27/080-2-27,65,2022-10-07 18:21
+-34.800303653,-58.199596857,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,47,2022-10-07 18:21
+-34.790241969,-58.191392922,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-2-27/080-2-27,135,2022-10-07 18:21
+-34.802627163,-58.208190302,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-2-27/080-2-27,197,2022-10-07 18:21
+-34.799740457,-58.195980212,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,386,2022-10-07 18:21
+-34.803314980,-58.198989371,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,1,2022-10-07 18:21
+-34.792498492,-58.189383223,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,35,2022-10-07 18:21
+-34.794439443,-58.187084067,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,28,2022-10-07 18:21
+-34.804941640,-58.205940477,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-2-27/080-2-27,1,2022-10-07 18:21
+-34.792832640,-58.189862895,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,17,2022-10-07 18:21
+-34.793549999,-58.188996491,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,23,2022-10-07 18:21
+-34.794225363,-58.188210505,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,12,2022-10-07 18:21
+-34.794837253,-58.187457607,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,18,2022-10-07 18:21
+-34.794852465,-58.189041240,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,14,2022-10-07 18:21
+-34.795445711,-58.188346424,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,20,2022-10-07 18:21
+-34.793447777,-58.190525372,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,18,2022-10-07 18:21
+-34.794451483,-58.191740244,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,9,2022-10-07 18:21
+-34.794909402,-58.192287862,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,33,2022-10-07 18:21
+-34.794255582,-58.191505972,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,16,2022-10-07 18:21
+-34.793996240,-58.191195343,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,15,2022-10-07 18:21
+-34.795009781,-58.190758805,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,28,2022-10-07 18:21
+-34.795464343,-58.190206946,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,13,2022-10-07 18:21
+-34.795870114,-58.189686293,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,24,2022-10-07 18:21
+-34.796213527,-58.189211949,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,14,2022-10-07 18:21
+-34.796657333,-58.189753264,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-2-27/080-2-27,26,2022-10-07 18:21
+-34.796343602,-58.191000200,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,13,2022-10-07 18:21
+-34.795972073,-58.191501244,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,23,2022-10-07 18:21
+-34.796439330,-58.191258448,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,10,2022-10-07 18:21
+-34.796587883,-58.191075783,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,36,2022-10-07 18:21
+-34.799627200,-58.187056387,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,16,2022-10-07 18:21
+-34.799378394,-58.188518703,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,15,2022-10-07 18:21
+-34.800076514,-58.187677875,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,19,2022-10-07 18:21
+-34.800137022,-58.188245984,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,15,2022-10-07 18:21
+-34.800967636,-58.187203032,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,18,2022-10-07 18:21
+-34.801214949,-58.186866468,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,12,2022-10-07 18:21
+-34.801132558,-58.188144454,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,3,2022-10-07 18:21
+-34.801737759,-58.187453839,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,46,2022-10-07 18:21
+-34.798716452,-58.188170946,11,media,Edesur,Berazategui,Berazategui,Ezpeleta,R:080-2-27/080-2-27,4,2022-10-07 18:21
+-34.799990690,-58.213414560,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-27/080-2-27,321,2022-10-07 18:21
+-34.713748628,-58.255298946,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,334,2022-10-07 18:02
+-34.713569282,-58.255359794,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,1,2022-10-07 18:02
 -34.875127014,-58.700834520,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,Sin Datos
 -34.875801742,-58.705815393,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,Sin Datos
 -34.869129869,-58.697863085,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,36,Sin Datos
 -34.871690163,-58.699280888,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,11,Sin Datos
 -34.863858707,-58.695342606,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
--34.611613324,-58.690055308,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr2/67-5511,221,2022-10-07 13:00
--34.684423270,-58.666687840,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,377,Sin Datos
 -34.661611965,-58.941746967,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,4,Sin Datos
 -34.506681896,-58.787829366,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C Paz/254-Tr1/254-5513,206,2022-10-07 14:00
--34.167094742,-58.645914747,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-07 13:00
--34.165449444,-58.653029468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-10-07 13:00
--34.164224014,-58.648090767,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-07 13:00
+-34.167094742,-58.645914747,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.165449444,-58.653029468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.164224014,-58.648090767,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
 -34.166318103,-58.650791123,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-10-07 14:00
--34.167329482,-58.641559087,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
--34.166570761,-58.648819391,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.167329482,-58.641559087,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-07 15:00
+-34.166570761,-58.648819391,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-07 15:00
+-34.606319452,-58.881339152,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,206,2022-10-07 16:00
+-34.608300195,-58.879372891,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,124,2022-10-07 16:00
+-34.608838300,-58.881070642,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,2,2022-10-07 16:00
+-34.402995254,-58.652055543,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5511,36,2022-10-07 15:00
+-34.401867253,-58.650452121,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5511,211,2022-10-07 15:00
+-34.403325759,-58.651293567,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5511,13,2022-10-07 15:00
+-34.405179722,-58.650992307,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Nordelta/156-Tr1/156-5511,34,2022-10-07 15:00
+-34.401955918,-58.648729863,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5511,132,2022-10-07 15:00
+-34.402365274,-58.647732453,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5511,278,2022-10-07 15:00
+-34.404028539,-58.651357113,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5511,2,2022-10-07 15:00
 -34.6106,-58.7357,22,baja,Edenor,Moreno,Trujui,,,17,
 -34.6348,-58.5809,22,baja,Edenor,Moron,Villa Sarmiento,,,13,
--34.5948,-58.8839,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,1,
 -34.6409,-58.4959,21,baja,Edesur,Capital,Villa Luro,,,6,
 -34.6344,-58.3755,21,baja,Edesur,Capital,Barracas,,,1,
--34.6204,-58.4108,21,baja,Edesur,Capital,San Cristobal,,,12,
+-34.6033,-58.4945,21,baja,Edesur,Capital,Villa Del Parque,,,4,
 -34.767,-58.3308,21,baja,Edesur,Almirante Brown,San Jose,,,7,
--34.6218,-58.4115,21,baja,Edesur,Capital,San Cristobal,,,8,
