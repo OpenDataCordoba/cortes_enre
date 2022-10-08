@@ -71,19 +71,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.865048490,-58.440613069,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,3,2022-10-08 20:52
 -34.862613808,-58.445565583,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,417,2022-10-08 20:52
 -34.865611612,-58.443376934,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,1,2022-10-08 20:52
--35.002354601,-58.382475246,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,106,2022-10-08 17:26
--35.001788287,-58.380023699,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,138,2022-10-08 17:26
--34.999217268,-58.385034593,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,137,2022-10-08 17:26
 -34.453518897,-58.605930907,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Talar/58-Tr1/58-5515,486,Sin Datos
--34.879968514,-58.673062669,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,359,2022-10-08 17:00
--34.879291287,-58.667620073,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,305,2022-10-08 17:00
--34.882293874,-58.670187030,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,159,2022-10-08 17:00
--34.884612411,-58.667599608,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,91,2022-10-08 17:00
--34.886926659,-58.664682543,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,112,2022-10-08 17:00
--34.889545774,-58.661431517,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,80,2022-10-08 17:00
--34.892904368,-58.657412959,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,44,2022-10-08 17:00
--34.884727705,-58.661722747,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,100,2022-10-08 17:00
--34.890839544,-58.659815330,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,79,2022-10-08 17:00
+-34.879968514,-58.673062669,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,359,Sin Datos
+-34.879291287,-58.667620073,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,305,Sin Datos
+-34.882293874,-58.670187030,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,159,Sin Datos
+-34.884612411,-58.667599608,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,91,Sin Datos
+-34.886926659,-58.664682543,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,112,Sin Datos
+-34.889545774,-58.661431517,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,80,Sin Datos
+-34.892904368,-58.657412959,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,44,Sin Datos
+-34.884727705,-58.661722747,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,100,Sin Datos
+-34.890839544,-58.659815330,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5515,79,Sin Datos
 -34.255625159,-58.556817734,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-10-08 17:00
 -34.259561235,-58.545352489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,13,2022-10-08 17:00
 -34.252709480,-58.546727976,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-08 17:00
@@ -129,10 +126,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.251230489,-58.563473335,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-08 17:00
 -34.254366077,-58.562056502,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-08 17:00
 -34.256223395,-58.561415163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-08 17:00
--34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,2,Sin Datos
 -34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,2,Sin Datos
--34.336433840,-58.675489405,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,8,Sin Datos
--34.326331135,-58.672323649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,23,Sin Datos
 -34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,20,Sin Datos
 -34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,26,Sin Datos
 -34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,6,Sin Datos
@@ -145,9 +139,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7249,-58.7214,22,baja,Edenor,Merlo,Pontevedra,,,4,
 -34.5221,-58.7168,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,4,
 -34.7617,-58.598,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,18,
--34.3631,-58.5366,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
+-34.4815,-58.7272,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,5,
 -34.6396,-58.5187,21,baja,Edesur,Capital,Liniers,,,2,
 -34.6307,-58.4334,21,baja,Edesur,Capital,Parque Chacabuco,,,38,
--34.8619,-58.1866,21,baja,Edesur,Florencio Varela,Ing. Allan,,,22,
--34.7802,-58.3075,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,
+-34.8619,-58.1866,21,baja,Edesur,Florencio Varela,Ing. Allan,,,26,
 -34.841,-58.3659,21,baja,Edesur,Almirante Brown,Burzaco,,,2,
