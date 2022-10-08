@@ -62,19 +62,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.118930060,-58.437714773,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,Sin Datos
 -35.111708854,-58.423432869,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,Sin Datos
 -35.103631596,-58.428234575,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,Sin Datos
--34.852951187,-58.446717041,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,3,Sin Datos
--34.857194823,-58.443658806,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,8,Sin Datos
--34.860127369,-58.441535296,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,3,Sin Datos
--34.865221825,-58.437854120,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,1,Sin Datos
--34.861102824,-58.440876665,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,600,Sin Datos
--34.863027635,-58.441971305,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,122,Sin Datos
--34.865048490,-58.440613069,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,3,Sin Datos
--34.862613808,-58.445565583,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,417,Sin Datos
--34.865611612,-58.443376934,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,1,Sin Datos
--34.866219606,-58.494688791,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,229,Sin Datos
--34.864643655,-58.495843699,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,82,Sin Datos
--34.832622762,-58.230942845,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,114,2022-10-08 21:53
--34.833222632,-58.227879373,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,153,2022-10-08 21:53
+-34.852951187,-58.446717041,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,3,2022-10-08 23:58
+-34.857194823,-58.443658806,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,8,2022-10-08 23:58
+-34.860127369,-58.441535296,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,3,2022-10-08 23:58
+-34.865221825,-58.437854120,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,1,2022-10-08 23:58
+-34.861102824,-58.440876665,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,600,2022-10-08 23:58
+-34.863027635,-58.441971305,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,122,2022-10-08 23:58
+-34.865048490,-58.440613069,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,3,2022-10-08 23:58
+-34.862613808,-58.445565583,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,417,2022-10-08 23:58
+-34.865611612,-58.443376934,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,1,2022-10-08 23:58
+-34.866219606,-58.494688791,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,229,2022-10-08 23:58
+-34.864643655,-58.495843699,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-4-45/083-4-45,82,2022-10-08 23:58
 -34.836964154,-58.226102972,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,22,2022-10-08 21:53
 -34.821321017,-58.241666882,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,36,2022-10-08 21:53
 -34.822140463,-58.241179697,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,25,2022-10-08 21:53
@@ -136,4 +134,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6489,-58.8406,22,baja,Edenor,Moreno,La Reja,,,54,
 -34.7152,-58.5163,22,baja,Edenor,La Matanza,Aldo Bonzi,,,28,
 -34.6396,-58.5187,21,baja,Edesur,Capital,Liniers,,,2,
--34.6307,-58.4334,21,baja,Edesur,Capital,Parque Chacabuco,,,44,
+-34.6307,-58.4334,21,baja,Edesur,Capital,Parque Chacabuco,,,45,
+-34.8304,-58.3699,21,baja,Edesur,Almirante Brown,Burzaco,,,1,
