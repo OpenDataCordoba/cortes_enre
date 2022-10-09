@@ -95,16 +95,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.250920781,-58.500706273,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,21,2022-10-09 05:00
 -34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-10-09 05:00
 -34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-09 05:00
--34.590084277,-58.958298434,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,56,Sin Datos
--34.580158174,-58.971955143,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,57,Sin Datos
--34.585477547,-58.969378438,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,47,Sin Datos
--34.583303240,-58.963049426,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,40,Sin Datos
--34.590058644,-58.968179066,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,141,Sin Datos
--34.585712681,-58.965111370,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,5,Sin Datos
--34.588284132,-58.974179206,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,28,Sin Datos
--34.594010746,-58.949700998,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,73,Sin Datos
--34.591375828,-58.949579656,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,217,Sin Datos
--34.579659451,-58.979700157,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,5,Sin Datos
+-34.590084277,-58.958298434,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,56,2022-10-09 05:00
+-34.580158174,-58.971955143,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,57,2022-10-09 05:00
+-34.585477547,-58.969378438,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,47,2022-10-09 05:00
+-34.583303240,-58.963049426,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,40,2022-10-09 05:00
+-34.590058644,-58.968179066,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,141,2022-10-09 05:00
+-34.585712681,-58.965111370,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,5,2022-10-09 05:00
+-34.588284132,-58.974179206,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,28,2022-10-09 05:00
+-34.594010746,-58.949700998,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,73,2022-10-09 05:00
+-34.591375828,-58.949579656,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,217,2022-10-09 05:00
+-34.579659451,-58.979700157,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,5,2022-10-09 05:00
 -34.370176840,-58.507001024,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-10-09 05:00
 -34.416396936,-58.556885254,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,16,2022-10-09 05:00
 -34.406810057,-58.562063094,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,36,2022-10-09 05:00
@@ -272,3 +272,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4308,-58.8651,22,baja,Edenor,Pilar,Villa Rosa,,,6,
 -34.8278,-58.2201,21,baja,Edesur,Florencio Varela,Bosques,,,5,
 -34.7946,-58.2757,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
+-34.6327,-58.4333,21,baja,Edesur,Capital,Parque Chacabuco,,,4,
