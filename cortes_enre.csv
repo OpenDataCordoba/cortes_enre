@@ -40,14 +40,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.017308326,-58.426053301,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-10 16:07
 -35.022960043,-58.423868181,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,41,2022-10-10 16:07
 -35.004658418,-58.403056917,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,22,2022-10-10 16:07
--34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
--34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,Sin Datos
--34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
--34.232176487,-58.510383400,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,Sin Datos
--34.230839382,-58.504108942,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
--34.232264295,-58.498656278,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
--34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
--34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-10-10 13:00
+-34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2022-10-10 13:00
+-34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-10-10 13:00
+-34.232176487,-58.510383400,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2022-10-10 13:00
+-34.230839382,-58.504108942,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-10 13:00
+-34.232264295,-58.498656278,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-10 13:00
+-34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-10-10 13:00
+-34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-10 13:00
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-10 13:00
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-10-10 13:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-10-10 13:00
@@ -489,10 +489,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.189682571,-58.407255354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-10-10 13:00
 -34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-10-10 13:00
 -34.244908257,-58.425054730,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-10 13:00
--34.397689549,-58.520940828,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Victoria/53-Tr2/53-5533,1,2022-10-10 13:00
+-34.397689549,-58.520940828,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Victoria/53-Tr2/53-5533,1,Sin Datos
 -34.2957,-58.6237,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
 -34.3565,-58.809,22,baja,Edenor,Escobar,Escobar,,,12,
--34.6039,-58.4844,21,baja,Edesur,Capital,Villa Del Parque,,,8,
--34.6172,-58.4771,21,baja,Edesur,Capital,Villa Sta. Rita,,,11,
--34.6251,-58.3885,21,baja,Edesur,Capital,Constitucion,,,16,
+-34.6251,-58.3885,21,baja,Edesur,Capital,Constitucion,,,17,
 -34.7864,-58.2204,21,baja,Edesur,Berazategui,Berazategui,,,10,
