@@ -6,11 +6,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.786742299,-58.885021040,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,7,2022-10-11 14:00
 -34.784949183,-58.886811850,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-10-11 14:00
 -34.778662663,-58.885732390,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2022-10-11 14:00
--34.748004595,-58.706249697,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5522,163,2022-10-11 14:00
--34.607798744,-58.828788990,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,187,2022-10-11 14:00
--34.570355313,-58.707437694,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,147,2022-10-11 13:00
+-34.748004595,-58.706249697,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5522,163,2022-10-11 15:00
+-34.607798744,-58.828788990,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,187,2022-10-11 15:00
+-34.570355313,-58.707437694,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,147,Sin Datos
 -34.458829416,-58.707720623,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Tortuguita/252-Tr2/252-5523,1,Sin Datos
--34.406193669,-58.688291753,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,206,2022-10-11 14:00
 -34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
 -34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,Sin Datos
 -34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
@@ -67,11 +66,44 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.256223395,-58.561415163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-11 14:00
 -34.397689549,-58.520940828,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Victoria/53-Tr2/53-5533,1,2022-10-11 14:00
 -34.454341938,-58.693104030,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Ford/151-Tr1/151-5513/151-5524/151-5525,189,2022-10-11 14:00
--34.450803620,-58.696050847,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Ford/151-Tr1/151-5513/151-5524/151-5525,124,2022-10-11 14:00
+-34.450803620,-58.696050847,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Ford/151-Tr1/151-5513/151-5524/151-5525,124,2022-10-11 15:00
+-34.542751117,-58.822561871,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,Sin Datos
+-34.533379732,-58.824632353,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,112,Sin Datos
+-34.531841664,-58.822305037,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,42,Sin Datos
+-34.530457890,-58.825263284,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,96,Sin Datos
+-34.550189053,-58.824781411,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,9,Sin Datos
+-34.542313250,-58.828667283,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,13,Sin Datos
+-34.549918020,-58.829691106,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,Sin Datos
+-34.546591499,-58.835629367,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,Sin Datos
+-34.543243085,-58.824979642,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,5,Sin Datos
+-34.534454958,-58.826244975,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,Sin Datos
+-34.484672878,-58.572261134,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,121,2022-10-11 14:00
+-34.478916274,-58.568514440,12,media,Edenor,San Isidro,Beccar,S/D,R:Boulogne/56-Tr1,255,2022-10-11 14:00
+-34.486291448,-58.566160422,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,162,2022-10-11 14:00
+-34.481019087,-58.572048129,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,288,2022-10-11 14:00
+-34.491132536,-58.564178099,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,120,2022-10-11 14:00
+-34.479209350,-58.566923360,12,media,Edenor,San Isidro,Beccar,S/D,R:Boulogne/56-Tr1,242,2022-10-11 14:00
+-34.486515987,-58.575826067,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,135,2022-10-11 14:00
+-34.487077124,-58.570272498,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,118,2022-10-11 14:00
+-34.490976372,-58.567939941,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,62,2022-10-11 14:00
+-34.489342006,-58.561543117,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,97,2022-10-11 14:00
+-34.498936074,-58.545658602,12,media,Edenor,San Isidro,San Isidro,S/D,R:Boulogne/56-Tr1,19,2022-10-11 14:00
+-34.483480958,-58.568376877,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,68,2022-10-11 14:00
+-34.497153551,-58.554089555,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,143,2022-10-11 14:00
+-34.481908938,-58.570975494,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,43,2022-10-11 14:00
+-34.499206936,-58.550973789,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,300,2022-10-11 14:00
+-34.500551643,-58.548101465,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,165,2022-10-11 14:00
+-34.499963264,-58.547343250,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,105,2022-10-11 14:00
+-34.499534568,-58.546749367,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,6,2022-10-11 14:00
+-34.493377509,-58.564091599,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,37,2022-10-11 14:00
+-34.499953749,-58.544565816,12,media,Edenor,San Isidro,San Isidro,S/D,R:Boulogne/56-Tr1,26,2022-10-11 14:00
+-34.487451210,-58.569247381,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1,1,2022-10-11 14:00
 -34.6204,-58.9721,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,25,
 -34.5609,-58.4653,22,baja,Edenor,Capital Federal,Belgrano,,,34,
 -34.523,-58.7518,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
 -34.6679,-58.7869,22,baja,Edenor,Moreno,Moreno,,,11,
 -34.7471,-58.5947,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,6,
+-34.6142,-58.785,22,baja,Edenor,Moreno,Moreno,,,17,
 -34.6028,-58.4076,21,baja,Edesur,Capital,Capital,,,1,
--34.6201,-58.5159,21,baja,Edesur,Capital,Monte Castro,,,14,
+-34.6335,-58.4402,21,baja,Edesur,Capital,Parque Chacabuco,,,17,
+-34.6201,-58.5159,21,baja,Edesur,Capital,Monte Castro,,,18,
