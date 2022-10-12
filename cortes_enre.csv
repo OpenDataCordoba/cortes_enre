@@ -1,28 +1,25 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.697081859,-58.381539179,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,646,Sin Datos
 -34.868804986,-58.581565642,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-03/955-1-03,3,2022-10-12 17:41
--34.397689549,-58.520940828,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Victoria/53-Tr2/53-5533,1,2022-10-12 14:00
+-34.397689549,-58.520940828,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Victoria/53-Tr2/53-5533,1,2022-10-12 16:00
 -34.772410576,-58.668115238,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr1/365-5516,97,Sin Datos
--34.469071707,-58.930659639,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,54,2022-10-12 14:00
--34.716893186,-58.628617927,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5523,427,2022-10-12 14:00
--34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-10-12 14:00
--34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2022-10-12 14:00
--34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-10-12 14:00
--34.232176487,-58.510383400,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,8,2022-10-12 14:00
--34.230839382,-58.504108942,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-12 14:00
--34.232264295,-58.498656278,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-12 14:00
--34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-10-12 14:00
--34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-12 14:00
--34.616342846,-58.810778814,12,media,Edenor,Moreno,La Reja,S/D,R:Catonas/256-Tr2/256-5535,254,Sin Datos
--34.619635410,-58.807383604,12,media,Edenor,Moreno,La Reja,S/D,R:Catonas/256-Tr2/256-5535,204,Sin Datos
--34.621924077,-58.805013735,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5535,250,Sin Datos
--34.631769705,-58.711306780,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,204,2022-10-12 15:00
--34.481552779,-58.751591703,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguita/252-Tr2/252-5534,104,2022-10-12 14:00
+-34.469071707,-58.930659639,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,54,2022-10-12 15:00
+-34.716893186,-58.628617927,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5523,427,Sin Datos
+-34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-10-12 15:00
+-34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2022-10-12 15:00
+-34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-10-12 15:00
+-34.232176487,-58.510383400,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,8,2022-10-12 15:00
+-34.230839382,-58.504108942,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-12 15:00
+-34.232264295,-58.498656278,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-12 15:00
+-34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-10-12 15:00
+-34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-12 15:00
+-34.616342846,-58.810778814,12,media,Edenor,Moreno,La Reja,S/D,R:Catonas/256-Tr2/256-5535,254,2022-10-12 15:00
+-34.619635410,-58.807383604,12,media,Edenor,Moreno,La Reja,S/D,R:Catonas/256-Tr2/256-5535,204,2022-10-12 15:00
+-34.621924077,-58.805013735,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5535,250,2022-10-12 15:00
 -34.6707,-58.5109,22,baja,Edenor,La Matanza,La Tablada,,,2,
 -34.4137,-58.6914,22,baja,Edenor,Tigre,Benavidez,,,2,
 -34.6682,-58.6839,22,baja,Edenor,Ituzaingo,Ituzaingo,,,51,
+-34.5509,-58.4806,22,baja,Edenor,Capital Federal,Saavedra,,,10,
 -34.612,-58.3975,21,baja,Edesur,Capital,Balvanera,,,1,
 -34.6349,-58.361,21,baja,Edesur,Capital,La Boca,,,14,
 -34.6307,-58.4321,21,baja,Edesur,Capital,Parque Chacabuco,,,5,
 -34.7444,-58.2721,21,baja,Edesur,Quilmes,Quilmes,,,5,
--34.7884,-58.2784,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
