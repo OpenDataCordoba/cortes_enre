@@ -1,8 +1,8 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.603090888,-58.375227793,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-1-13/115-1-13,39,2022-10-12 22:17
--34.750542156,-58.385617527,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,519,2022-10-12 22:17
--34.751264661,-58.386845523,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,1,2022-10-12 22:17
--34.752277476,-58.389293310,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-1-14/076-1-14,471,2022-10-12 22:17
+-34.603090888,-58.375227793,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-1-13/115-1-13,39,Sin Datos
+-34.750542156,-58.385617527,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,519,Sin Datos
+-34.751264661,-58.386845523,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,1,Sin Datos
+-34.752277476,-58.389293310,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-1-14/076-1-14,471,Sin Datos
 -35.084084797,-58.266420916,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,2,2022-10-12 21:55
 -34.968831804,-58.373105208,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,107,2022-10-12 21:55
 -34.974992153,-58.368523502,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,161,2022-10-12 21:55
@@ -103,9 +103,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.875755873,-58.356835365,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,111,2022-10-12 21:55
 -34.874773243,-58.360456474,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,62,2022-10-12 21:55
 -34.873004986,-58.357544759,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,85,2022-10-12 21:55
--34.556167996,-58.540458573,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Malaver/68-Tr4/68-5544,307,Sin Datos
+-34.556167996,-58.540458573,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Malaver/68-Tr4/68-5544,307,2022-10-12 18:00
 -34.610287203,-58.914544201,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5517,358,2022-10-12 19:00
--34.600521059,-58.747905394,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5528,320,2022-10-12 18:00
+-34.633250581,-58.846709870,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,53,Sin Datos
+-34.629611802,-58.846587792,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,30,Sin Datos
+-34.633348942,-58.848141515,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,106,Sin Datos
+-34.628519912,-58.850062698,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,156,Sin Datos
+-34.624820949,-58.845453835,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,144,Sin Datos
+-34.626969426,-58.852653423,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,69,Sin Datos
+-34.600521059,-58.747905394,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5528,320,2022-10-12 19:00
 -34.884583648,-58.747779636,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-10-12 18:00
 -34.865714369,-58.782709257,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-10-12 18:00
 -34.848933681,-58.751309182,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-10-12 18:00
@@ -148,8 +154,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.869723100,-58.750950059,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-10-12 18:00
 -34.862002562,-58.753992632,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,6,2022-10-12 18:00
 -34.6707,-58.5109,22,baja,Edenor,La Matanza,La Tablada,,,2,
--34.4137,-58.6914,22,baja,Edenor,Tigre,Benavidez,,,2,
+-34.4137,-58.6914,22,baja,Edenor,Tigre,Benavidez,,,3,
 -34.5753,-58.7368,22,baja,Edenor,San Miguel,San Miguel,,,8,
+-34.5361,-58.5806,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,4,
 -34.5668,-58.4375,22,baja,Edenor,Capital Federal,Palermo,,,27,
 -34.7345,-58.6186,22,baja,Edenor,La Matanza,Rafael Castillo,,,3,
 -34.612,-58.3975,21,baja,Edesur,Capital,Balvanera,,,1,
