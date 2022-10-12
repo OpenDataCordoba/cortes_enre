@@ -1,6 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.603090888,-58.375227793,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-1-13/115-1-13,39,2022-10-12 23:28
--34.750542156,-58.385617527,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,519,2022-10-12 23:28
 -35.084084797,-58.266420916,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,2,2022-10-12 21:55
 -34.968831804,-58.373105208,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,107,2022-10-12 21:55
 -34.974992153,-58.368523502,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,161,2022-10-12 21:55
@@ -101,17 +100,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.875755873,-58.356835365,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,111,2022-10-12 21:55
 -34.874773243,-58.360456474,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,62,2022-10-12 21:55
 -34.873004986,-58.357544759,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,85,2022-10-12 21:55
--34.556167996,-58.540458573,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Malaver/68-Tr4/68-5544,307,2022-10-12 19:00
--34.610287203,-58.914544201,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5517,358,2022-10-12 19:00
--34.628519912,-58.850062698,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,156,Sin Datos
--34.624820949,-58.845453835,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,144,Sin Datos
--34.626969426,-58.852653423,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,69,Sin Datos
--34.885203712,-58.954216671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
--34.867729564,-58.944540140,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
--34.864206302,-58.949164424,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos
--34.858173065,-58.935097754,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,Sin Datos
--34.864776019,-58.940878213,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos
--34.886579315,-58.955628544,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
+-34.556167996,-58.540458573,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Malaver/68-Tr4/68-5544,307,2022-10-12 20:00
+-34.610287203,-58.914544201,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5517,358,2022-10-12 20:00
+-34.628519912,-58.850062698,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,156,2022-10-12 19:00
+-34.624820949,-58.845453835,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,144,2022-10-12 19:00
+-34.885203712,-58.954216671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-12 19:00
+-34.867729564,-58.944540140,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-12 19:00
+-34.864206302,-58.949164424,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-12 19:00
+-34.858173065,-58.935097754,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,2022-10-12 19:00
+-34.864776019,-58.940878213,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-12 19:00
+-34.886579315,-58.955628544,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-12 19:00
 -34.600521059,-58.747905394,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5528,320,2022-10-12 19:00
 -34.884583648,-58.747779636,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-10-12 19:00
 -34.888580469,-58.762612321,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-10-12 19:00
@@ -144,13 +142,35 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.902804892,-58.824506716,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-10-12 19:00
 -34.928275259,-58.771253745,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,3,2022-10-12 19:00
 -34.941418633,-58.768169740,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-10-12 19:00
+-34.700237127,-58.822108206,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,16,2022-10-12 22:00
+-34.696169151,-58.812825727,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,81,2022-10-12 22:00
+-34.701597270,-58.813066157,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,6,2022-10-12 22:00
+-34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,481,2022-10-12 22:00
+-34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,215,2022-10-12 22:00
+-34.710756926,-58.814960202,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,9,2022-10-12 22:00
+-34.708131146,-58.811193226,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,28,2022-10-12 22:00
+-34.714751366,-58.809524019,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,1,2022-10-12 22:00
+-34.714603504,-58.817842411,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,10,2022-10-12 22:00
+-34.704243498,-58.825769210,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,32,2022-10-12 22:00
+-34.713198554,-58.816481412,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,21,2022-10-12 22:00
+-34.691069202,-58.803758137,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,7,2022-10-12 22:00
+-34.702247833,-58.819335284,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,12,2022-10-12 22:00
+-34.684352734,-58.804078431,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,4,2022-10-12 22:00
+-34.705228792,-58.807805515,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,17,2022-10-12 22:00
+-34.688877510,-58.801111512,12,media,Edenor,S/D,S/D,S/D,R:Paso Del Rey/258-Tr2/258-5525,101,2022-10-12 22:00
+-34.691669505,-58.799929720,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,11,2022-10-12 22:00
+-34.685123890,-58.808901908,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,37,2022-10-12 22:00
+-34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,171,2022-10-12 22:00
+-34.708242957,-58.818540899,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,7,2022-10-12 22:00
+-34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,227,2022-10-12 22:00
+-34.694473006,-58.798890318,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,52,2022-10-12 22:00
 -34.6707,-58.5109,22,baja,Edenor,La Matanza,La Tablada,,,2,
 -34.5753,-58.7368,22,baja,Edenor,San Miguel,San Miguel,,,8,
 -34.5361,-58.5806,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,4,
 -34.5668,-58.4375,22,baja,Edenor,Capital Federal,Palermo,,,27,
 -34.7345,-58.6186,22,baja,Edenor,La Matanza,Rafael Castillo,,,3,
+-34.5378,-58.747,22,baja,Edenor,Jose C Paz,Jose C Paz,,,18,
 -34.6307,-58.4321,21,baja,Edesur,Capital,Parque Chacabuco,,,7,
--34.7188,-58.2776,21,baja,Edesur,Quilmes,Quilmes,,,8,
+-34.7188,-58.2776,21,baja,Edesur,Quilmes,Quilmes,,,9,
 -34.6689,-58.3427,21,baja,Edesur,Avellaneda,Sarandi,,,3,
 -34.8112,-58.2605,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
--34.6088,-58.4861,21,baja,Edesur,Capital,Capital,,,1,
