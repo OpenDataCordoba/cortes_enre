@@ -25,8 +25,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.623654904,-58.374592499,11,media,Edesur,Capital Rp,San Telmo,Hernandarias,R:031-1-11/031-1-11,142,2022-10-14 23:30
 -34.818014289,-58.431162140,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-24/180-2-24/180-3-32,290,2022-10-14 23:30
 -34.831436675,-58.413186248,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-2-24/180-2-24/180-3-32,1,2022-10-14 23:30
--34.493393055,-58.848196316,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5527,542,2022-10-14 19:00
--34.493066439,-58.846134876,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5527,124,2022-10-14 19:00
+-34.493393055,-58.848196316,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5527,542,2022-10-14 20:00
+-34.493066439,-58.846134876,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5527,124,2022-10-14 20:00
 -34.595643804,-58.966254297,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,40,2022-10-14 20:00
 -34.594386371,-58.961529929,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,98,2022-10-14 20:00
 -34.591173882,-58.970023652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,152,2022-10-14 20:00
@@ -35,13 +35,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.598151414,-58.969005758,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,240,2022-10-14 20:00
 -34.598450864,-58.963602358,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,422,2022-10-14 20:00
 -34.586726765,-58.984154965,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,1,2022-10-14 20:00
--34.595722168,-58.943678344,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5562,1,2022-10-14 20:00
+-34.595722168,-58.943678344,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5562,1,2022-10-14 19:00
 -34.630759491,-58.827070595,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5515,203,Sin Datos
--34.714655827,-58.653756259,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,224,2022-10-14 20:00
--34.716653517,-58.651073165,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,1,2022-10-14 20:00
--34.720163081,-58.648603753,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,1,2022-10-14 20:00
--34.717907595,-58.646125690,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,1,2022-10-14 20:00
--34.718880302,-58.672472098,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5517,2,2022-10-14 20:00
+-34.714655827,-58.653756259,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,224,2022-10-14 19:00
+-34.716653517,-58.651073165,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,1,2022-10-14 19:00
+-34.720163081,-58.648603753,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,1,2022-10-14 19:00
+-34.717907595,-58.646125690,12,media,Edenor,Merlo,Libertad,S/D,R:Ituzaingo/264-Tr1/264-5516,1,2022-10-14 19:00
+-34.718880302,-58.672472098,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5517,2,2022-10-14 19:00
 -34.681966954,-58.549205031,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr1/65-5515,41,2022-10-14 19:00
 -34.6278,-58.753,22,baja,Edenor,Moreno,Paso Del Rey,,,25,
 -34.5944,-58.4065,22,baja,Edenor,Capital Federal,Recoleta,,,9,
@@ -49,17 +49,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5141,-58.5556,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,33,
 -34.5029,-58.8474,22,baja,Edenor,Pilar,Pte Derqui,,,14,
 -34.5922,-58.5052,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,5,
--34.5483,-58.5177,22,baja,Edenor,Vicente Lopez,Florida (Oeste),,,50,
--34.6073,-58.4773,21,baja,Edesur,Capital,Villa General Mitre,,,15,
+-34.6073,-58.4773,21,baja,Edesur,Capital,Villa General Mitre,,,16,
 -34.6823,-58.4381,21,baja,Edesur,Lanus,Lanus,,,4,
 -34.6551,-58.476,21,baja,Edesur,Capital,Parque Avellaneda,,,6,
 -34.6649,-58.4493,21,baja,Edesur,Capital,Villa Soldati,,,2,
 -34.6241,-58.4279,21,baja,Edesur,Capital,Caballito,,,2,
--34.8288,-58.4272,21,baja,Edesur,Almirante Brown,Burzaco,,,19,
--34.6217,-58.4439,21,baja,Edesur,Capital,Caballito,,,7,
+-34.8288,-58.4272,21,baja,Edesur,Almirante Brown,Burzaco,,,20,
+-34.6217,-58.4439,21,baja,Edesur,Capital,Caballito,,,8,
 -34.6937,-58.4246,21,baja,Edesur,Lanus,Lanus,,,15,
 -34.6156,-58.5299,21,baja,Edesur,Capital,Capital,,,6,
 -34.6199,-58.3777,21,baja,Edesur,Capital,Constitucion,,,6,
--34.6937,-58.4188,21,baja,Edesur,Lanus,Valentin Alsina,,,3,
--34.813,-58.4131,21,baja,Edesur,Almirante Brown,Adrogue,,,3,
--34.8057,-58.189,21,baja,Edesur,Berazategui,Berazategui,,,5,
+-34.8057,-58.189,21,baja,Edesur,Berazategui,Berazategui,,,6,
