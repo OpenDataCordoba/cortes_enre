@@ -10,11 +10,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.612909413,-58.374704963,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,175,2022-10-15 18:00
 -34.586639286,-58.983366768,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,6,Sin Datos
 -34.586726765,-58.984154965,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,1,Sin Datos
--34.568280695,-58.655028538,12,media,Edenor,Hurlingham,William Morris,S/D,R:Moron/67-Tr4/67-5535,1,2022-10-15 15:00
--34.483290019,-58.659862423,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5545,1,Sin Datos
+-34.568280695,-58.655028538,12,media,Edenor,Hurlingham,William Morris,S/D,R:Moron/67-Tr4/67-5535,1,2022-10-15 16:00
+-34.483290019,-58.659862423,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5545,1,2022-10-15 16:00
 -34.690756224,-58.608360174,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:Luzuriaga/64-Tr2/64-5527,370,2022-10-15 16:00
--34.575929954,-58.531097647,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr1/54-5546,221,2022-10-15 15:00
--34.840845319,-58.655782686,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,106,2022-10-15 15:00
+-34.575929954,-58.531097647,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr1/54-5546,221,2022-10-15 16:00
+-34.840845319,-58.655782686,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,106,2022-10-15 16:00
 -34.839897822,-58.654820603,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,144,2022-10-15 15:00
 -34.831184852,-58.949893213,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,100,2022-10-15 15:00
 -34.835023382,-58.971170778,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2022-10-15 15:00
@@ -38,15 +38,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.828999591,-58.986340491,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,2022-10-15 15:00
 -34.828416488,-58.957650960,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,9,2022-10-15 15:00
 -34.811736552,-58.965262977,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,2,2022-10-15 15:00
--34.834934718,-58.969151012,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,5,Sin Datos
--34.834878458,-58.961774420,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,4,Sin Datos
--34.823825572,-58.931691715,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,32,Sin Datos
--34.506846622,-58.580241287,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,392,Sin Datos
--34.510666446,-58.575636132,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,347,Sin Datos
--34.509484006,-58.572470490,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,309,Sin Datos
--34.505420004,-58.581763234,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,264,Sin Datos
--34.499211918,-58.577453543,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,109,Sin Datos
--34.509323527,-58.577227968,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,199,Sin Datos
+-34.834934718,-58.969151012,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,5,2022-10-15 16:00
+-34.834878458,-58.961774420,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,4,2022-10-15 16:00
+-34.823825572,-58.931691715,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,32,2022-10-15 16:00
+-34.506846622,-58.580241287,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,392,2022-10-15 15:00
+-34.510666446,-58.575636132,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,347,2022-10-15 15:00
+-34.509484006,-58.572470490,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,309,2022-10-15 15:00
+-34.505420004,-58.581763234,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,264,2022-10-15 15:00
+-34.509323527,-58.577227968,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,199,2022-10-15 15:00
 -34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-10-15 16:00
 -34.258289540,-58.647205781,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-15 16:00
 -34.251803923,-58.613449578,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-15 16:00
@@ -149,6 +148,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6621,-58.7191,22,baja,Edenor,Merlo,Merlo,,,21,
 -34.5361,-58.5806,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,11,
 -34.5928,-58.3886,21,baja,Edesur,Capital,Recoleta,,,6,
--34.6823,-58.4381,21,baja,Edesur,Lanus,Lanus,,,13,
--34.6271,-58.4299,21,baja,Edesur,Capital,Caballito,,,23,
+-34.6823,-58.4381,21,baja,Edesur,Lanus,Lanus,,,14,
+-34.6271,-58.4299,21,baja,Edesur,Capital,Caballito,,,24,
 -34.6139,-58.3793,21,baja,Edesur,Capital,Monserrat,,,6,
+-34.6039,-58.4232,21,baja,Edesur,Capital,Almagro,,,10,
