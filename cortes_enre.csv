@@ -1,5 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.613320088,-58.422891776,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,1,2022-10-15 10:22
+-34.613320088,-58.422891776,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,1,Sin Datos
 -34.919809775,-58.383361183,11,media,Edesur,Pte Peron,Guernica Oeste,Glew,R:277-4-47/277-4-47,138,2022-10-15 12:17
 -34.918311992,-58.383337510,11,media,Edesur,Pte Peron,San Pablo,Glew,R:277-4-47/277-4-47,111,2022-10-15 12:17
 -34.915441575,-58.386429220,11,media,Edesur,Pte Peron,Santa Elena,Glew,R:277-4-47/277-4-47,219,2022-10-15 12:17
@@ -8,19 +8,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.613007876,-58.375634109,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,138,2022-10-15 13:36
 -34.613254514,-58.372469107,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,177,2022-10-15 13:36
 -34.612909413,-58.374704963,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,175,2022-10-15 13:36
+-34.818014289,-58.431162140,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-24/180-2-24/180-3-32,290,2022-10-15 13:59
+-34.831436675,-58.413186248,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-2-24/180-2-24/180-3-32,1,2022-10-15 13:59
 -34.586639286,-58.983366768,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,6,Sin Datos
 -34.586726765,-58.984154965,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,1,Sin Datos
--34.475002882,-58.535855407,12,media,Edenor,San Isidro,San Isidro,S/D,R:Victoria/53-Tr2/53-5535,1,Sin Datos
+-34.475002882,-58.535855407,12,media,Edenor,San Isidro,San Isidro,S/D,R:Victoria/53-Tr2/53-5535,1,2022-10-15 12:00
 -34.675570002,-58.529404942,12,media,Edenor,La Matanza,La Tablada,S/D,R:San Justo/164-Tr1/164-5512,1,2022-10-15 11:00
--34.690756224,-58.608360174,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:Luzuriaga/64-Tr2/64-5527,370,2022-10-15 11:00
+-34.690756224,-58.608360174,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:Luzuriaga/64-Tr2/64-5527,370,2022-10-15 12:00
 -34.575929954,-58.531097647,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr1/54-5546,221,2022-10-15 11:00
--34.613438929,-58.790179269,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr1/256-5544,308,2022-10-15 11:00
--34.840845319,-58.655782686,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,106,2022-10-15 14:00
--34.839897822,-58.654820603,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,144,2022-10-15 14:00
+-34.840845319,-58.655782686,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,106,2022-10-15 12:00
+-34.839897822,-58.654820603,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,144,2022-10-15 11:00
 -34.4972,-58.8304,22,baja,Edenor,Pilar,Pte Derqui,,,13,
 -34.5932,-58.4154,22,baja,Edenor,Capital Federal,Palermo,,,18,
+-34.6611,-58.762,22,baja,Edenor,Moreno,Paso Del Rey,,,4,
 -34.5914,-58.4787,22,baja,Edenor,Capital Federal,Agronomia,,,13,
 -34.4488,-59.011,22,baja,Edenor,Pilar,Manzanares,,,11,
--34.6821,-58.439,21,baja,Edesur,Lanus,Lanus,,,4,
--34.8122,-58.2005,21,baja,Edesur,Berazategui,Berazategui,,,32,
--34.6271,-58.4299,21,baja,Edesur,Capital,Caballito,,,13,
+-34.6821,-58.439,21,baja,Edesur,Lanus,Lanus,,,6,
+-34.6271,-58.4299,21,baja,Edesur,Capital,Caballito,,,16,
