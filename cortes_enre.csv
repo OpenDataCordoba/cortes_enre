@@ -1,15 +1,15 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.613320088,-58.422891776,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,1,2022-10-15 22:22
--34.614003247,-58.374170742,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,457,Sin Datos
--34.614001013,-58.374136776,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,87,Sin Datos
--34.613007876,-58.375634109,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,138,Sin Datos
--34.612909413,-58.374704963,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,175,Sin Datos
--34.608509963,-58.427738326,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-45/122-4-45,519,Sin Datos
+-34.614003247,-58.374170742,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,457,2022-10-16 00:57
+-34.614001013,-58.374136776,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,87,2022-10-16 00:57
+-34.613007876,-58.375634109,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,138,2022-10-16 00:57
+-34.612909413,-58.374704963,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-3-35/126-3-35,175,2022-10-16 00:57
+-34.608509963,-58.427738326,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-45/122-4-45,519,2022-10-16 00:57
 -34.586639286,-58.983366768,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,6,Sin Datos
 -34.586726765,-58.984154965,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,1,Sin Datos
 -34.784750528,-58.896963551,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-10-15 20:00
--34.792747922,-58.902254872,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-10-15 21:00
--34.786756532,-58.912001691,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-10-15 21:00
+-34.792747922,-58.902254872,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-10-15 20:00
+-34.786756532,-58.912001691,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-10-15 20:00
 -34.506846622,-58.580241287,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,392,2022-10-15 20:00
 -34.510666446,-58.575636132,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,347,2022-10-15 20:00
 -34.509484006,-58.572470490,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,309,2022-10-15 20:00
@@ -89,15 +89,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.251230489,-58.563473335,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
 -34.254366077,-58.562056502,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
 -34.256223395,-58.561415163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.636265805,-58.572471006,12,media,Edenor,Moron,Villa Sarmiento,S/D,R:Ramos Mejia/66-Tr4/66-5536,328,Sin Datos
 -34.423749479,-58.949410273,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5481,129,Sin Datos
 -34.421750776,-58.953758828,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5481,151,Sin Datos
 -34.421188916,-58.943598522,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5481,123,Sin Datos
--34.375720799,-58.768076383,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,68,Sin Datos
--34.375934399,-58.770242879,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,60,Sin Datos
--34.376435911,-58.771201523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,30,Sin Datos
--34.375393318,-58.772938121,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,41,Sin Datos
--34.374332958,-58.773800284,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,Sin Datos
--34.372812817,-58.773649716,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,25,Sin Datos
+-34.375720799,-58.768076383,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,68,2022-10-15 21:00
+-34.375934399,-58.770242879,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,60,2022-10-15 21:00
+-34.376435911,-58.771201523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,30,2022-10-15 21:00
+-34.375393318,-58.772938121,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,41,2022-10-15 21:00
+-34.374332958,-58.773800284,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,2022-10-15 21:00
+-34.372812817,-58.773649716,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,25,2022-10-15 21:00
 -34.326418161,-58.655226207,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5513,15,Sin Datos
 -34.6888,-58.7398,22,baja,Edenor,Merlo,Merlo,,,21,
 -34.6845,-58.5896,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,31,
@@ -113,10 +114,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4331,-58.5765,22,baja,Edenor,Tigre,Ciudad De Tigre,,,29,
 -34.5033,-58.5324,22,baja,Edenor,San Isidro,Martinez,,,39,
 -34.2829,-58.6067,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,8,
+-34.4818,-58.8487,22,baja,Edenor,Pilar,Pte Derqui,,,15,
+-34.5892,-58.4137,22,baja,Edenor,Capital Federal,Palermo,,,9,
+-34.7234,-58.5177,22,baja,Edenor,La Matanza,Ciudad Evita,,,7,
 -34.5928,-58.3886,21,baja,Edesur,Capital,Recoleta,,,6,
 -34.6271,-58.4299,21,baja,Edesur,Capital,Caballito,,,41,
--34.6039,-58.4232,21,baja,Edesur,Capital,Almagro,,,32,
+-34.6039,-58.4232,21,baja,Edesur,Capital,Almagro,,,35,
 -34.693,-58.3924,21,baja,Edesur,Lanus,Lanus,,,22,
 -34.6228,-58.5137,21,baja,Edesur,Capital,Monte Castro,,,12,
--34.8439,-58.2891,21,baja,Edesur,Florencio Varela,Florencio Varela,,,28,
+-34.8439,-58.2891,21,baja,Edesur,Florencio Varela,Florencio Varela,,,30,
 -34.8209,-58.2415,21,baja,Edesur,Florencio Varela,Florencio Varela,,,9,
