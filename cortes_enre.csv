@@ -41,66 +41,93 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.407976163,-58.822584601,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,43,2022-10-17 18:00
 -34.412460539,-58.820558559,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,81,2022-10-17 18:00
 -34.407678367,-58.824905028,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,90,2022-10-17 18:00
--34.636559849,-58.720826729,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,30,2022-10-17 19:00
--34.636330953,-58.719377135,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,24,2022-10-17 19:00
--34.633144437,-58.718096323,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,13,2022-10-17 19:00
--34.633309365,-58.714490875,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,58,2022-10-17 19:00
--34.577859836,-58.691241010,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,164,2022-10-17 18:00
--34.571124614,-58.435600562,12,media,Edenor,Capital Federal,Palermo,S/D,R:Colegiales/46-Tr3/46-5534,606,2022-10-17 18:00
--34.570397106,-58.434953722,12,media,Edenor,Capital Federal,Palermo,S/D,R:Colegiales/46-Tr3/46-5534,295,2022-10-17 18:00
--34.571944357,-58.435709257,12,media,Edenor,Capital Federal,Palermo,S/D,R:Colegiales/46-Tr3/46-5534,229,2022-10-17 18:00
--34.932258685,-58.832816026,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:El Pino/353-Tr4/353-5481,1,2022-10-17 19:00
+-34.636559849,-58.720826729,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,30,2022-10-17 18:00
+-34.636330953,-58.719377135,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,24,2022-10-17 18:00
+-34.633144437,-58.718096323,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,13,2022-10-17 18:00
+-34.633309365,-58.714490875,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,58,2022-10-17 18:00
+-34.571124614,-58.435600562,12,media,Edenor,Capital Federal,Palermo,S/D,R:Colegiales/46-Tr3/46-5534,606,2022-10-17 19:00
+-34.570397106,-58.434953722,12,media,Edenor,Capital Federal,Palermo,S/D,R:Colegiales/46-Tr3/46-5534,295,2022-10-17 19:00
+-34.932258685,-58.832816026,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:El Pino/353-Tr4/353-5481,1,2022-10-17 18:00
+-34.393403347,-58.638303919,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5516,1,2022-10-17 20:00
+-34.394142108,-58.641791413,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5516,28,2022-10-17 20:00
+-34.375144082,-58.640072200,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,38,2022-10-17 20:00
+-34.397400978,-58.644125692,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5516,239,2022-10-17 20:00
+-34.360717352,-58.640527083,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,6,2022-10-17 20:00
+-34.389543424,-58.643546192,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5516,158,2022-10-17 20:00
+-34.384290924,-58.639718154,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5516,23,2022-10-17 20:00
+-34.385104728,-58.637654748,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5516,32,2022-10-17 20:00
+-34.389743007,-58.641002459,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5516,48,2022-10-17 20:00
+-34.388193263,-58.637485278,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5516,61,2022-10-17 20:00
+-34.379413518,-58.636287780,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,18,2022-10-17 20:00
+-34.376017177,-58.638052812,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,16,2022-10-17 20:00
+-34.363339527,-58.639959808,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,12,2022-10-17 20:00
+-34.357141255,-58.646451048,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,16,2022-10-17 20:00
+-34.352340229,-58.649847479,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,11,2022-10-17 20:00
+-34.344955696,-58.651811420,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,25,2022-10-17 20:00
+-34.331478109,-58.653480303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,13,2022-10-17 20:00
+-34.318466248,-58.649647619,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,21,2022-10-17 20:00
+-34.307268978,-58.644044069,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,13,2022-10-17 20:00
+-34.299668872,-58.641179720,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,7,2022-10-17 20:00
+-34.286030875,-58.647452348,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,2,2022-10-17 20:00
+-34.279652899,-58.649720577,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,19,2022-10-17 20:00
+-34.271975440,-58.653414997,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,11,2022-10-17 20:00
+-34.392909412,-58.640925211,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5516,8,2022-10-17 20:00
+-34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,9,2022-10-17 20:00
+-34.383207565,-58.634495971,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,1,2022-10-17 20:00
+-34.369163450,-58.641493089,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,5,2022-10-17 20:00
+-34.358542909,-58.648903434,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,29,2022-10-17 20:00
+-34.298163978,-58.644139960,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,33,2022-10-17 20:00
+-34.276144712,-58.653553859,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,12,2022-10-17 20:00
+-34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,7,2022-10-17 20:00
+-34.353846611,-58.650886606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,12,2022-10-17 20:00
+-34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,7,2022-10-17 20:00
+-34.326418161,-58.655226207,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,15,2022-10-17 20:00
+-34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,2,2022-10-17 20:00
 -34.484207337,-58.669490754,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5528,434,2022-10-17 19:00
 -34.483161952,-58.670762062,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5528,88,2022-10-17 19:00
 -34.478470931,-58.664019881,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5528,1,2022-10-17 19:00
 -34.487006502,-58.666309430,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5528,297,2022-10-17 19:00
 -34.479557760,-58.672981793,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5528,267,2022-10-17 19:00
 -34.480885552,-58.673435966,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5528,88,2022-10-17 19:00
--34.482487656,-58.677470304,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Talar/58-Tr4/58-5542,17,Sin Datos
--34.477972512,-58.680047766,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Talar/58-Tr4/58-5542,14,Sin Datos
--34.481154703,-58.674891614,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Talar/58-Tr4/58-5542,220,Sin Datos
--34.482574929,-58.672882764,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Talar/58-Tr4/58-5542,107,Sin Datos
--34.727064867,-58.759631465,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,103,2022-10-17 21:00
--34.741206892,-58.746079910,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-10-17 21:00
--34.734885407,-58.710725137,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,528,2022-10-17 21:00
--34.716651343,-58.777060532,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,341,2022-10-17 21:00
--34.720837303,-58.740841318,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,294,2022-10-17 21:00
--34.731812274,-58.750690671,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2022-10-17 21:00
--34.727002565,-58.729689807,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-10-17 21:00
--34.741599750,-58.763376691,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,6,2022-10-17 21:00
--34.736928414,-58.756155372,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,8,2022-10-17 21:00
--34.739233146,-58.715936254,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,14,2022-10-17 21:00
--34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,388,2022-10-17 21:00
--34.729080178,-58.727733989,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,422,2022-10-17 21:00
--34.749272513,-58.774573818,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-10-17 21:00
--34.726092626,-58.744535376,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-10-17 21:00
--34.721221808,-58.771041543,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,354,2022-10-17 21:00
--34.735232718,-58.719890297,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,180,2022-10-17 21:00
--34.734980942,-58.739454535,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,68,2022-10-17 21:00
--34.722854637,-58.738783991,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,319,2022-10-17 21:00
--34.736156054,-58.772885082,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,2022-10-17 21:00
--34.740218607,-58.710870742,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,36,2022-10-17 21:00
--34.724653367,-58.766357619,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2022-10-17 21:00
--34.726852065,-58.763365522,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,10,2022-10-17 21:00
--34.733347875,-58.722548179,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,26,2022-10-17 21:00
--34.739626539,-58.744493058,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,3,2022-10-17 21:00
--34.731640087,-58.760286501,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-10-17 21:00
--34.737985574,-58.716492571,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,8,2022-10-17 21:00
--34.724139807,-58.742493755,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-10-17 21:00
--34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,2022-10-17 21:00
--34.731161543,-58.765174804,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,3,2022-10-17 21:00
--34.738335032,-58.758167785,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-10-17 21:00
--34.718806981,-58.779439851,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,154,2022-10-17 21:00
--34.719814838,-58.774844891,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,143,2022-10-17 21:00
--34.734202796,-58.715621879,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,320,2022-10-17 21:00
--34.714392959,-58.780880898,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,151,2022-10-17 21:00
--34.732850084,-58.780999133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,140,2022-10-17 21:00
--34.719476277,-58.738929516,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,235,2022-10-17 21:00
--34.734017725,-58.738476478,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,73,2022-10-17 21:00
--34.728278047,-58.746864048,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,31,2022-10-17 21:00
--34.729200779,-58.743289638,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,99,2022-10-17 21:00
+-34.482487656,-58.677470304,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Talar/58-Tr4/58-5542,17,2022-10-17 18:00
+-34.477972512,-58.680047766,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Talar/58-Tr4/58-5542,14,2022-10-17 18:00
+-34.481154703,-58.674891614,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Talar/58-Tr4/58-5542,220,2022-10-17 18:00
+-34.482574929,-58.672882764,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Talar/58-Tr4/58-5542,107,2022-10-17 18:00
+-34.727064867,-58.759631465,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,103,2022-10-17 18:00
+-34.741206892,-58.746079910,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-10-17 18:00
+-34.716651343,-58.777060532,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,341,2022-10-17 18:00
+-34.720837303,-58.740841318,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,294,2022-10-17 18:00
+-34.731812274,-58.750690671,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2022-10-17 18:00
+-34.727002565,-58.729689807,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-10-17 18:00
+-34.741599750,-58.763376691,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,6,2022-10-17 18:00
+-34.736928414,-58.756155372,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,8,2022-10-17 18:00
+-34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,388,2022-10-17 18:00
+-34.729080178,-58.727733989,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,422,2022-10-17 18:00
+-34.749272513,-58.774573818,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-10-17 18:00
+-34.726092626,-58.744535376,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-10-17 18:00
+-34.721221808,-58.771041543,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,354,2022-10-17 18:00
+-34.734980942,-58.739454535,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,68,2022-10-17 18:00
+-34.722854637,-58.738783991,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,319,2022-10-17 18:00
+-34.736156054,-58.772885082,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,2022-10-17 18:00
+-34.724653367,-58.766357619,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2022-10-17 18:00
+-34.726852065,-58.763365522,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,10,2022-10-17 18:00
+-34.739626539,-58.744493058,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,3,2022-10-17 18:00
+-34.731640087,-58.760286501,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-10-17 18:00
+-34.724139807,-58.742493755,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-10-17 18:00
+-34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,2022-10-17 18:00
+-34.731161543,-58.765174804,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,3,2022-10-17 18:00
+-34.738335032,-58.758167785,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-10-17 18:00
+-34.718806981,-58.779439851,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,154,2022-10-17 18:00
+-34.719814838,-58.774844891,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,143,2022-10-17 18:00
+-34.714392959,-58.780880898,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,151,2022-10-17 18:00
+-34.732850084,-58.780999133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,140,2022-10-17 18:00
+-34.719476277,-58.738929516,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,235,2022-10-17 18:00
+-34.734017725,-58.738476478,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,73,2022-10-17 18:00
+-34.728278047,-58.746864048,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,31,2022-10-17 18:00
+-34.729200779,-58.743289638,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,99,2022-10-17 18:00
 -34.5637,-58.4499,22,baja,Edenor,Capital Federal,Belgrano,,,3,
 -34.6467,-58.7686,22,baja,Edenor,Moreno,Moreno,,,21,
+-34.6294,-58.627,22,baja,Edenor,Hurlingham,Villa Tesei,,,0,
 -34.6247,-58.8605,22,baja,Edenor,Moreno,Francisco Alvarez,,,55,
 -34.5657,-58.4563,22,baja,Edenor,Capital Federal,Belgrano,,,20,
 -34.3982,-58.7423,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,18,
@@ -108,10 +135,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6141,-58.5735,22,baja,Edenor,3 De Febrero,Caseros,,,29,
 -34.6204,-58.7921,22,baja,Edenor,Moreno,Moreno,,,23,
 -34.4095,-58.6116,22,baja,Edenor,Tigre,Rincon De Milberg,,,18,
+-34.6292,-58.6273,22,baja,Edenor,Hurlingham,Villa Tesei,,,2,
 -34.5978,-58.4013,21,baja,Edesur,Capital,Recoleta,,,1,
--34.6297,-58.529,21,baja,Edesur,Capital,Versalles,,,20,
+-34.6297,-58.529,21,baja,Edesur,Capital,Versalles,,,21,
 -34.7702,-58.3551,21,baja,Edesur,Almirante Brown,San Jose,,,6,
--34.6283,-58.3976,21,baja,Edesur,Capital,Parque Patricios,,,1,
+-34.6283,-58.3976,21,baja,Edesur,Capital,Parque Patricios,,,2,
 -34.6327,-58.4811,21,baja,Edesur,Capital,Capital,,,24,
--34.6441,-58.4301,21,baja,Edesur,Capital,Nueva Pompeya,,,16,
--34.7815,-58.1663,21,baja,Edesur,Berazategui,Platanos,,,10,
+-34.6441,-58.4301,21,baja,Edesur,Capital,Nueva Pompeya,,,18,
+-34.7815,-58.1663,21,baja,Edesur,Berazategui,Platanos,,,12,
