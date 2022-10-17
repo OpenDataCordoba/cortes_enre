@@ -1,59 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.698583399,-58.356975209,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,3,2022-10-17 09:17
--34.689882905,-58.370682799,11,media,Edesur,Avellaneda,Gerli A,Escalada,R:087-1-0102/087-1-0102,805,2022-10-17 09:17
--34.686018691,-58.364931788,11,media,Edesur,Avellaneda,Gerli A,Escalada,R:087-1-0102/087-1-0102,185,2022-10-17 09:17
--34.691631867,-58.356795968,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,253,2022-10-17 09:17
--34.685174659,-58.363287616,11,media,Edesur,Avellaneda,Gerli A,Escalada,R:087-1-0102/087-1-0102,57,2022-10-17 09:17
--34.713899747,-58.333039350,11,media,Edesur,Avellaneda,Wilde,Escalada,R:087-1-0102/087-1-0102,411,2022-10-17 09:17
--34.716970808,-58.334397319,11,media,Edesur,Avellaneda,Wilde,Escalada,R:087-1-0102/087-1-0102,475,2022-10-17 09:17
--34.719100048,-58.340715904,11,media,Edesur,Avellaneda,Wilde,Escalada,R:087-1-0102/087-1-0102,322,2022-10-17 09:17
--34.686790431,-58.366725109,11,media,Edesur,Avellaneda,Gerli A,Escalada,R:087-1-0102/087-1-0102,1,2022-10-17 09:17
--34.683395495,-58.362920499,11,media,Edesur,Avellaneda,Gerli A,Escalada,R:087-1-0102/087-1-0102,1,2022-10-17 09:17
--34.700010616,-58.358588937,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,24,2022-10-17 09:17
--34.701597720,-58.358238289,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,7,2022-10-17 09:17
--34.702314559,-58.358117071,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,4,2022-10-17 09:17
--34.702646161,-58.358010892,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,4,2022-10-17 09:17
--34.702631760,-58.357736429,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,26,2022-10-17 09:17
--34.700383849,-58.358128826,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,1,2022-10-17 09:17
--34.700899538,-58.357451401,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,10,2022-10-17 09:17
--34.701219564,-58.357030998,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,41,2022-10-17 09:17
--34.700757705,-58.358450029,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,6,2022-10-17 09:17
--34.701053321,-58.357232169,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,19,2022-10-17 09:17
--34.707845890,-58.356017670,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,544,2022-10-17 09:17
--34.712611063,-58.358765617,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,100,2022-10-17 09:17
--34.713944050,-58.358733984,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,5,2022-10-17 09:17
--34.716731696,-58.347565937,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-1-0102/087-1-0102,334,2022-10-17 09:17
--34.716089125,-58.376528544,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,879,2022-10-17 09:17
--34.719604005,-58.344332692,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-1-0102/087-1-0102,350,2022-10-17 09:17
--34.705261910,-58.366891641,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,444,2022-10-17 09:17
--34.724083195,-58.354999026,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-1-0102/087-1-0102,480,2022-10-17 09:17
--34.710163353,-58.356516062,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,252,2022-10-17 09:17
--34.709567777,-58.357371887,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,255,2022-10-17 09:17
--34.709951644,-58.354687623,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,330,2022-10-17 09:17
--34.719496341,-58.380305284,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-0102/087-1-0102,580,2022-10-17 09:17
--34.701666836,-58.364859633,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,2,2022-10-17 09:17
--34.715232007,-58.357960496,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,1,2022-10-17 09:17
--34.713586276,-58.374951041,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,438,2022-10-17 09:17
--34.701334427,-58.364496050,11,media,Edesur,Avellaneda,Sarandi,Escalada,R:087-1-0102/087-1-0102,29,2022-10-17 09:17
--34.715178921,-58.347564544,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-1-0102/087-1-0102,1,2022-10-17 09:17
--34.701051195,-58.363897696,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,1,2022-10-17 09:17
--34.843368732,-58.289796424,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,3,Sin Datos
--34.842927152,-58.289940012,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,40,Sin Datos
--34.843580849,-58.290348823,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,25,Sin Datos
--34.842637317,-58.290102097,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,16,Sin Datos
--34.842032613,-58.290394880,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,18,Sin Datos
--34.842332617,-58.291183789,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,15,Sin Datos
--34.840105770,-58.289266109,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,21,Sin Datos
--34.840250069,-58.289655217,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,26,Sin Datos
--34.840501845,-58.290311818,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,26,Sin Datos
--34.840677790,-58.290770081,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,16,Sin Datos
--34.840762277,-58.291119882,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,13,Sin Datos
--34.841550240,-58.290733205,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,17,Sin Datos
--34.839260580,-58.292082352,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,20,Sin Datos
--34.839760428,-58.291648484,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,19,Sin Datos
--34.840054159,-58.292444023,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,23,Sin Datos
--34.838880447,-58.292295807,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,15,Sin Datos
--34.838548069,-58.288211731,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,N:286-5-51/286-5-51,239,Sin Datos
 -35.004789228,-58.391565719,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,26,2022-10-17 13:11
 -35.016183495,-58.371331259,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,113,2022-10-17 13:11
 -35.014636104,-58.368021650,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,119,2022-10-17 13:11
@@ -91,8 +36,87 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.017417635,-58.408294740,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,24,2022-10-17 13:11
 -35.016972595,-58.406285187,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,179,2022-10-17 13:11
 -35.006347645,-58.394181891,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2022-10-17 13:11
+-34.404937892,-58.827685944,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,16,2022-10-17 11:00
+-34.403089266,-58.828479293,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,42,2022-10-17 11:00
+-34.410620609,-58.823951150,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,58,2022-10-17 11:00
+-34.407425501,-58.827811090,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,73,2022-10-17 11:00
+-34.409341242,-58.828544761,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,95,2022-10-17 11:00
+-34.414312455,-58.826380816,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,101,2022-10-17 11:00
+-34.406599268,-58.833215982,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,121,2022-10-17 11:00
+-34.412216585,-58.831312987,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,67,2022-10-17 11:00
+-34.399056111,-58.831551726,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,14,2022-10-17 11:00
+-34.414175532,-58.820036371,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,3,2022-10-17 11:00
+-34.414893804,-58.815722038,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,1,2022-10-17 11:00
+-34.393281096,-58.835943055,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,6,2022-10-17 11:00
+-34.402137526,-58.829167313,12,media,Edenor,Escobar,Garin,S/D,R:Matheu/51-Tr1/51-5514,97,2022-10-17 11:00
+-34.401006077,-58.827179427,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,43,2022-10-17 11:00
+-34.402413361,-58.824486747,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr1/51-5514,53,2022-10-17 11:00
+-34.404830956,-58.824649943,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,26,2022-10-17 11:00
+-34.408191410,-58.820518665,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr1/51-5514,105,2022-10-17 11:00
+-34.407976163,-58.822584601,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,43,2022-10-17 11:00
+-34.412460539,-58.820558559,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,81,2022-10-17 11:00
+-34.407678367,-58.824905028,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr1/51-5514,90,2022-10-17 11:00
+-34.773120898,-58.613826869,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr1/272-5511,317,2022-10-17 10:00
+-34.756403092,-58.782616888,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,2,2022-10-17 10:00
+-34.752779682,-58.788234872,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,7,2022-10-17 10:00
+-34.761972670,-58.791634324,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,5,2022-10-17 10:00
+-34.750984662,-58.791144968,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,6,2022-10-17 10:00
+-34.748421251,-58.795218987,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,102,2022-10-17 10:00
+-34.660901154,-58.744877601,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,417,2022-10-17 10:00
+-34.886579315,-58.955628544,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-17 12:58
+-34.636559849,-58.720826729,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,30,2022-10-17 11:00
+-34.636330953,-58.719377135,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,24,2022-10-17 11:00
+-34.633144437,-58.718096323,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,13,2022-10-17 11:00
+-34.633309365,-58.714490875,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,58,2022-10-17 11:00
+-34.552290769,-58.808351156,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,250,2022-10-17 10:00
+-34.443067901,-58.984696251,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr1/158-5515,83,2022-10-17 10:00
+-34.480173793,-58.950920232,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,5,2022-10-17 13:27
+-34.218782637,-58.451473109,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-10-17 10:00
+-34.227238783,-58.434336389,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.223935758,-58.428761588,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-17 10:00
+-34.225255235,-58.421292443,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-10-17 10:00
+-34.254253226,-58.433639926,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.221637198,-58.437895150,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-10-17 10:00
+-34.192894052,-58.493066220,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,9,2022-10-17 10:00
+-34.208328280,-58.469334008,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-10-17 10:00
+-34.164300558,-58.520980171,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-10-17 10:00
+-34.171802597,-58.513869818,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2022-10-17 10:00
+-34.187811877,-58.492469924,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,16,2022-10-17 10:00
+-34.190899341,-58.485358238,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.173590256,-58.512343370,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-10-17 10:00
+-34.217631575,-58.434974033,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-10-17 10:00
+-34.179710294,-58.506148513,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-10-17 10:00
+-34.199510860,-58.474812035,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.206537801,-58.465751524,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-10-17 10:00
+-34.218806922,-58.429929354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-10-17 10:00
+-34.193338500,-58.483000952,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-10-17 10:00
+-34.213702478,-58.450090844,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-10-17 10:00
+-34.223217377,-58.432125375,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-17 10:00
+-34.219345302,-58.460701910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.175793768,-58.510449786,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.216476759,-58.439967420,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2022-10-17 10:00
+-34.174458924,-58.511600998,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.153548131,-58.519720801,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-10-17 10:00
+-34.178689463,-58.507660578,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.197068360,-58.478267968,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.196427848,-58.484722653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.201818859,-58.471994717,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.224542687,-58.424751754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.199212918,-58.481276826,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.177536815,-58.509001370,12,media,Edenor,S/D,S/D,S/D,S/D,3,2022-10-17 10:00
+-34.179180259,-58.506916019,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-10-17 10:00
+-34.176254300,-58.490233877,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,2022-10-17 10:00
+-34.159970272,-58.496416049,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.154646752,-58.498857806,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.186904902,-58.488970702,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-10-17 10:00
+-34.226676680,-58.415762647,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.173627390,-58.489869084,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.213370133,-58.462434223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.175976663,-58.487966260,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2022-10-17 10:00
+-34.229184793,-58.415414699,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
+-34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-10-17 10:00
 -34.4622,-58.8111,22,baja,Edenor,Jose C Paz,Jose C Paz,,,1,
 -34.6311,-58.7094,22,baja,Edenor,Ituzaingo,Ituzaingo,,,14,
+-34.4547,-58.8611,22,baja,Edenor,Pilar,La Lonja,,,8,
 -34.6693,-58.4696,21,baja,Edesur,Capital,Capital,,,15,
--34.7442,-58.4023,21,baja,Edesur,Lomas De Zamora,Bandfield,,,8,
 -34.5978,-58.4013,21,baja,Edesur,Capital,Recoleta,,,1,
