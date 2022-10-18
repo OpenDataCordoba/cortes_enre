@@ -1,52 +1,112 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.468988437,-58.548273999,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr2/53-5537,352,2022-10-18 10:00
--34.466382003,-58.549740526,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr2/53-5537,21,2022-10-18 10:00
+-35.029215395,-58.442983312,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.029683192,-58.442907483,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.030562530,-58.440316351,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.030884420,-58.441370005,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.031168837,-58.442364953,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.031494996,-58.440192185,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.032434631,-58.442419215,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.032150409,-58.439119770,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,3,2022-10-18 12:16
+-35.032781243,-58.441420859,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,4,2022-10-18 12:16
+-35.033234232,-58.440148403,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.033662675,-58.441653827,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,3,2022-10-18 12:16
+-35.034300548,-58.435272537,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.034656471,-58.437233074,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.035321452,-58.437121223,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.035399402,-58.437731880,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.034493333,-58.439895226,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,3,2022-10-18 12:16
+-35.035502060,-58.439706187,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.035881857,-58.440663344,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.034463472,-58.442032945,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.036956084,-58.435678562,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.037610597,-58.435570155,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.037799696,-58.436639568,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.038440853,-58.436528693,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.036634765,-58.437486648,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.038396482,-58.437165116,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.037778549,-58.439270542,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,3,2022-10-18 12:16
+-35.036752458,-58.440491359,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.036867615,-58.441587033,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.038206618,-58.441327026,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.039112582,-58.438251643,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.039077450,-58.440420988,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.039875191,-58.438556125,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.039852505,-58.440359620,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.040751644,-58.439557891,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.041142845,-58.440786050,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.041749152,-58.441852472,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.032432838,-58.447638321,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.032616561,-58.449202401,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,94,2022-10-18 12:16
+-35.033074302,-58.450966423,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,6,2022-10-18 12:16
+-35.035495095,-58.455133358,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,13,2022-10-18 12:16
+-35.033996641,-58.445957309,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.035730158,-58.449926634,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.036590692,-58.451989989,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.037434071,-58.453998635,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.036304532,-58.448414746,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.036548242,-58.449013459,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-10-18 12:16
+-35.039525261,-58.452582535,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.032259949,-58.450110506,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,10,2022-10-18 12:16
+-35.031448050,-58.445915695,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.020084786,-58.434441265,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,106,2022-10-18 12:16
+-35.026967780,-58.438370050,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,116,2022-10-18 12:16
+-35.027575823,-58.440543181,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,4,2022-10-18 12:16
+-35.029066179,-58.445870395,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,3,2022-10-18 12:16
+-35.024511391,-58.430626988,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,91,2022-10-18 12:16
+-35.028301240,-58.443136024,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,12,2022-10-18 12:16
+-35.027817076,-58.438858220,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,2022-10-18 12:16
+-35.027393877,-58.439894749,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,3,2022-10-18 12:16
+-34.468988437,-58.548273999,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr2/53-5537,352,2022-10-18 11:00
+-34.466382003,-58.549740526,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr2/53-5537,21,2022-10-18 11:00
+-34.686931455,-58.517788357,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5543,33,2022-10-18 11:00
+-34.678732254,-58.723263240,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5522,100,2022-10-18 10:00
+-34.679136388,-59.038177119,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-10-18 11:00
+-34.706722499,-59.018238859,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-10-18 11:00
+-34.695852628,-59.024073741,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-10-18 11:00
 -34.610766981,-58.932916854,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5517,44,2022-10-18 10:00
--34.375144082,-58.640072200,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,38,2022-10-18 09:00
--34.360717352,-58.640527083,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,6,2022-10-18 09:00
--34.379413518,-58.636287780,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,18,2022-10-18 09:00
--34.376017177,-58.638052812,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,16,2022-10-18 09:00
--34.363339527,-58.639959808,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,12,2022-10-18 09:00
--34.357141255,-58.646451048,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,16,2022-10-18 09:00
--34.352340229,-58.649847479,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,11,2022-10-18 09:00
--34.344955696,-58.651811420,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,25,2022-10-18 09:00
--34.331478109,-58.653480303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,13,2022-10-18 09:00
--34.318466248,-58.649647619,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,21,2022-10-18 09:00
--34.307268978,-58.644044069,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,13,2022-10-18 09:00
--34.299668872,-58.641179720,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,7,2022-10-18 09:00
--34.286030875,-58.647452348,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,2,2022-10-18 09:00
--34.279652899,-58.649720577,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,19,2022-10-18 09:00
--34.271975440,-58.653414997,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,11,2022-10-18 09:00
--34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,9,2022-10-18 09:00
--34.369163450,-58.641493089,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,5,2022-10-18 09:00
--34.358542909,-58.648903434,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,29,2022-10-18 09:00
--34.298163978,-58.644139960,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,33,2022-10-18 09:00
--34.276144712,-58.653553859,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,12,2022-10-18 09:00
--34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,7,2022-10-18 09:00
--34.353846611,-58.650886606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,12,2022-10-18 09:00
--34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,7,2022-10-18 09:00
--34.326418161,-58.655226207,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,15,2022-10-18 09:00
--34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,2,2022-10-18 09:00
--34.506846622,-58.580241287,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,392,2022-10-18 09:00
--34.510666446,-58.575636132,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,347,2022-10-18 09:00
--34.509484006,-58.572470490,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,309,2022-10-18 09:00
--34.505420004,-58.581763234,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,264,2022-10-18 09:00
--34.499211918,-58.577453543,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,109,2022-10-18 09:00
--34.509323527,-58.577227968,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,199,2022-10-18 09:00
--34.216003680,-58.652915279,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-10-18 10:00
--34.219169018,-58.634993824,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-10-18 10:00
--34.212187776,-58.643305108,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-10-18 10:00
--34.189211152,-58.651275494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-10-18 10:00
--34.192684858,-58.634919388,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,12,2022-10-18 10:00
--34.207191811,-58.639751868,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-10-18 10:00
--34.208792495,-58.655222311,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-18 10:00
--34.215835213,-58.643792841,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-18 10:00
--34.215550241,-58.641244612,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-18 10:00
+-34.551465888,-58.802217118,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,281,2022-10-18 13:17
+-34.504093382,-58.938370663,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,42,2022-10-18 11:00
+-34.503519920,-58.940901338,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,75,2022-10-18 11:00
+-34.506172993,-58.935373529,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,85,2022-10-18 11:00
+-34.492186895,-58.757326276,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Delviso/251-Tr2/251-5532,456,2022-10-18 13:00
+-34.545710559,-58.732471063,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5514,300,2022-10-18 13:25
+-34.375144082,-58.640072200,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,38,2022-10-18 10:00
+-34.360717352,-58.640527083,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,6,2022-10-18 10:00
+-34.379413518,-58.636287780,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,18,2022-10-18 10:00
+-34.376017177,-58.638052812,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,16,2022-10-18 10:00
+-34.363339527,-58.639959808,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,12,2022-10-18 10:00
+-34.357141255,-58.646451048,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,16,2022-10-18 10:00
+-34.352340229,-58.649847479,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,11,2022-10-18 10:00
+-34.344955696,-58.651811420,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,25,2022-10-18 10:00
+-34.331478109,-58.653480303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,13,2022-10-18 10:00
+-34.318466248,-58.649647619,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,21,2022-10-18 10:00
+-34.307268978,-58.644044069,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,13,2022-10-18 10:00
+-34.299668872,-58.641179720,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,7,2022-10-18 10:00
+-34.286030875,-58.647452348,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,2,2022-10-18 10:00
+-34.279652899,-58.649720577,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,19,2022-10-18 10:00
+-34.271975440,-58.653414997,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,11,2022-10-18 10:00
+-34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,9,2022-10-18 10:00
+-34.369163450,-58.641493089,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,5,2022-10-18 10:00
+-34.358542909,-58.648903434,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,29,2022-10-18 10:00
+-34.298163978,-58.644139960,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,33,2022-10-18 10:00
+-34.276144712,-58.653553859,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,12,2022-10-18 10:00
+-34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,7,2022-10-18 10:00
+-34.353846611,-58.650886606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,12,2022-10-18 10:00
+-34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,7,2022-10-18 10:00
+-34.326418161,-58.655226207,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,15,2022-10-18 10:00
+-34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5516,2,2022-10-18 10:00
+-34.506846622,-58.580241287,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,392,2022-10-18 10:00
+-34.510666446,-58.575636132,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,347,2022-10-18 10:00
+-34.509484006,-58.572470490,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,309,2022-10-18 10:00
+-34.505420004,-58.581763234,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,264,2022-10-18 10:00
+-34.499211918,-58.577453543,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,109,2022-10-18 10:00
+-34.509323527,-58.577227968,12,media,Edenor,San Isidro,Boulogne,S/D,R:Suarez/266-Tr2/266-5531,199,2022-10-18 10:00
 -34.6204,-58.7921,22,baja,Edenor,Moreno,Moreno,,,23,
--34.4258,-58.5962,22,baja,Edenor,Tigre,Ciudad De Tigre,,,36,
--34.5705,-58.5046,22,baja,Edenor,Capital Federal,Villa Urquiza,,,7,
+-34.4258,-58.5962,22,baja,Edenor,Tigre,Ciudad De Tigre,,,15,
+-34.5923,-58.5265,22,baja,Edenor,Gral San Martin,Villa Lynch,,,13,
 -34.4324,-58.5639,22,baja,Edenor,Tigre,Ciudad De Tigre,,,26,
--34.4715,-58.5465,22,baja,Edenor,San Isidro,Beccar,,,4,
+-34.4715,-58.5465,22,baja,Edenor,San Isidro,Beccar,,,0,
 -34.7925,-58.845,22,baja,Edenor,Marcos Paz,Marcos Paz,,,1,
--34.6327,-58.4811,21,baja,Edesur,Capital,Capital,,,45,
--34.8683,-58.2656,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
+-34.4519,-58.8525,22,baja,Edenor,Pilar,La Lonja,,,4,
+-34.3703,-58.8723,22,baja,Edenor,Pilar,Zelaya,,,38,
+-34.7188,-58.341,21,baja,Edesur,Avellaneda,Wilde,,,7,
