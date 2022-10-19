@@ -1,34 +1,27 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.716089125,-58.376528544,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-18/075-1-18,880,2022-10-19 19:24
--34.713586276,-58.374951041,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-18/075-1-18,438,2022-10-19 19:24
 -34.692679694,-58.418946428,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-2-22/186-2-22,330,Sin Datos
 -34.850894276,-58.498320540,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-23/083-2-23,184,2022-10-19 20:00
 -34.851800617,-58.500189693,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-23/083-2-23,4,2022-10-19 20:00
 -34.848390587,-58.500732054,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-23/083-2-23,432,2022-10-19 20:00
 -34.852731105,-58.502042499,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-23/083-2-23,62,2022-10-19 20:00
 -34.845924027,-58.503448807,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-23/083-2-23,251,2022-10-19 20:00
--34.571909973,-58.445211424,12,media,Edenor,Capital Federal,Palermo,S/D,R:J. Newbery/235-Tr1/235-5521,82,2022-10-19 18:04
--34.566726933,-58.450235228,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,49,2022-10-19 18:04
--34.568400605,-58.448329800,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,270,2022-10-19 18:04
--34.570849397,-58.445921776,12,media,Edenor,Capital Federal,Palermo,S/D,R:J. Newbery/235-Tr1/235-5521,244,2022-10-19 18:04
--34.513156044,-58.549073069,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:V.Adelina/155-Tr1/155-5515,173,2022-10-19 16:00
--34.667835199,-58.519886374,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5544,242,2022-10-19 16:00
--34.893228591,-58.691072630,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,153,2022-10-19 16:00
--34.893970670,-58.690064373,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,80,2022-10-19 16:00
+-34.513156044,-58.549073069,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:V.Adelina/155-Tr1/155-5515,173,2022-10-19 17:00
+-34.667835199,-58.519886374,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5544,242,2022-10-19 17:00
+-34.893228591,-58.691072630,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,153,Sin Datos
+-34.893970670,-58.690064373,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,80,2022-10-19 17:00
 -34.891858900,-58.688215581,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,131,2022-10-19 17:00
--34.701327144,-58.554339456,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5524,182,2022-10-19 16:00
--34.700146039,-58.555872754,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5524,319,2022-10-19 16:00
--34.697729721,-58.559103576,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5524,204,2022-10-19 16:00
--34.653346919,-58.739296506,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,294,2022-10-19 17:00
--34.474723163,-58.944986156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2022-10-19 16:00
--34.863643160,-58.896299228,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,3,2022-10-19 16:00
--34.375720799,-58.768076383,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,2022-10-19 17:00
--34.375934399,-58.770242879,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,60,2022-10-19 17:00
--34.376435911,-58.771201523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,30,2022-10-19 17:00
--34.375393318,-58.772938121,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,41,2022-10-19 17:00
--34.374332958,-58.773800284,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,2022-10-19 17:00
--34.372812817,-58.773649716,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,25,2022-10-19 17:00
--34.375941980,-58.766817448,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,3,2022-10-19 17:00
+-34.701327144,-58.554339456,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5524,182,2022-10-19 17:00
+-34.700146039,-58.555872754,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5524,319,2022-10-19 17:00
+-34.697729721,-58.559103576,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5524,204,2022-10-19 17:00
+-34.474723163,-58.944986156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2022-10-19 17:00
+-34.863643160,-58.896299228,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,3,2022-10-19 18:00
+-34.375720799,-58.768076383,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,2022-10-19 18:00
+-34.375934399,-58.770242879,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,60,2022-10-19 18:00
+-34.376435911,-58.771201523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,30,2022-10-19 18:00
+-34.375393318,-58.772938121,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,41,2022-10-19 18:00
+-34.374332958,-58.773800284,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,2022-10-19 18:00
+-34.372812817,-58.773649716,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,25,2022-10-19 18:00
+-34.375941980,-58.766817448,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,3,2022-10-19 18:00
 -34.6064,-58.7312,22,baja,Edenor,Moreno,Trujui,,,2,
 -34.577,-58.76,22,baja,Edenor,Moreno,Trujui,,,8,
 -34.5727,-58.5337,22,baja,Edenor,Gral San Martin,Villa Maipu,,,38,
@@ -38,7 +31,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6277,-58.4059,21,baja,Edesur,Capital,San Cristobal,,,29,
 -34.625,-58.5164,21,baja,Edesur,Capital,Monte Castro,,,18,
 -34.6004,-58.4302,21,baja,Edesur,Capital,Capital,,,65,
--34.621,-58.4306,21,baja,Edesur,Capital,Caballito,,,10,
+-34.621,-58.4306,21,baja,Edesur,Capital,Caballito,,,11,
 -34.6565,-58.4279,21,baja,Edesur,Capital,Nueva Pompeya,,,25,
--34.614,-58.4797,21,baja,Edesur,Capital,Villa Sta. Rita,,,7,
+-34.614,-58.4797,21,baja,Edesur,Capital,Villa Sta. Rita,,,8,
 -34.615,-58.4802,21,baja,Edesur,Capital,Capital,,,20,
+-34.6208,-58.3736,21,baja,Edesur,Capital,San Telmo,,,6,
