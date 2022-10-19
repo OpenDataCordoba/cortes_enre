@@ -5,14 +5,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.848390587,-58.500732054,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-23/083-2-23,432,2022-10-19 20:00
 -34.852731105,-58.502042499,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-23/083-2-23,62,2022-10-19 20:00
 -34.845924027,-58.503448807,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-23/083-2-23,251,2022-10-19 20:00
--34.513156044,-58.549073069,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:V.Adelina/155-Tr1/155-5515,173,2022-10-19 17:00
--34.667835199,-58.519886374,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5544,242,2022-10-19 17:00
--34.893228591,-58.691072630,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,153,Sin Datos
--34.893970670,-58.690064373,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,80,2022-10-19 17:00
+-34.667835199,-58.519886374,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5544,242,2022-10-19 18:00
+-34.893228591,-58.691072630,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,153,2022-10-19 18:00
+-34.893970670,-58.690064373,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,80,Sin Datos
 -34.891858900,-58.688215581,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5523,131,2022-10-19 17:00
--34.701327144,-58.554339456,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5524,182,2022-10-19 17:00
--34.700146039,-58.555872754,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5524,319,2022-10-19 17:00
--34.697729721,-58.559103576,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5524,204,2022-10-19 17:00
 -34.474723163,-58.944986156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2022-10-19 17:00
 -34.863643160,-58.896299228,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,3,2022-10-19 18:00
 -34.375720799,-58.768076383,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,2022-10-19 18:00
@@ -26,12 +22,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.577,-58.76,22,baja,Edenor,Moreno,Trujui,,,8,
 -34.5727,-58.5337,22,baja,Edenor,Gral San Martin,Villa Maipu,,,38,
 -34.3658,-58.509,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,3,
--34.6519,-58.6181,22,baja,Edenor,Moron,Moron,,,11,
--34.7251,-58.2668,21,baja,Edesur,Quilmes,Quilmes,,,25,
--34.6277,-58.4059,21,baja,Edesur,Capital,San Cristobal,,,29,
+-34.7251,-58.2668,21,baja,Edesur,Quilmes,Quilmes,,,26,
+-34.6277,-58.4059,21,baja,Edesur,Capital,San Cristobal,,,31,
 -34.625,-58.5164,21,baja,Edesur,Capital,Monte Castro,,,18,
--34.6004,-58.4302,21,baja,Edesur,Capital,Capital,,,65,
--34.621,-58.4306,21,baja,Edesur,Capital,Caballito,,,11,
+-34.6004,-58.4302,21,baja,Edesur,Capital,Capital,,,66,
+-34.621,-58.4306,21,baja,Edesur,Capital,Caballito,,,12,
 -34.6565,-58.4279,21,baja,Edesur,Capital,Nueva Pompeya,,,25,
 -34.614,-58.4797,21,baja,Edesur,Capital,Villa Sta. Rita,,,8,
 -34.615,-58.4802,21,baja,Edesur,Capital,Capital,,,20,
