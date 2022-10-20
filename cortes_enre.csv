@@ -9,8 +9,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.817455445,-58.187268877,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,67,2022-10-20 16:35
 -34.816475847,-58.186055576,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,26,2022-10-20 16:35
 -34.818736981,-58.190601207,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,258,2022-10-20 16:35
--34.636683062,-58.411522868,11,media,Edesur,Capital Rp,Boedo,Patricios,R:015-1-12/015-1-12,36,2022-10-20 16:36
--34.636673567,-58.410470802,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-1-12/015-1-12,1,2022-10-20 16:36
 -35.061879240,-58.808920461,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,4,2022-10-20 16:36
 -35.069911108,-58.844035375,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2022-10-20 16:36
 -35.063569983,-58.818328281,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2022-10-20 16:36
@@ -28,94 +26,31 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.705317888,-58.348153211,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-13/172-1-13,311,2022-10-20 15:00
 -34.661050863,-58.445121269,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,R:039-1-17/039-1-17,2,2022-10-20 14:26
 -34.661181858,-58.447403089,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,R:039-1-17/039-1-17,111,2022-10-20 14:26
--34.474723163,-58.944986156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,Sin Datos
--34.858936864,-58.651602846,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5518,1,Sin Datos
+-34.782597925,-58.403977736,11,media,Edesur,Lomas De Zamora,Temperley,Santa Catalina,R:182-2-26/182-2-26,215,2022-10-20 15:12
+-34.783065102,-58.408484034,11,media,Edesur,Lomas De Zamora,Temperley,Santa Catalina,R:182-2-26/182-2-26,400,2022-10-20 15:12
+-34.783916960,-58.401354438,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,366,2022-10-20 15:12
+-34.474723163,-58.944986156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2022-10-20 12:00
+-34.858936864,-58.651602846,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5518,1,2022-10-20 13:00
 -34.461556310,-58.810979457,12,media,Edenor,Pilar,Del Viso,S/D,R:Delviso/251-Tr2/251-5536,235,2022-10-20 12:00
--34.487003163,-58.929942871,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,1,2022-10-20 12:00
 -34.616687436,-58.575173825,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5511,609,2022-10-20 13:00
--34.669479050,-58.775088902,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr2/258-5532,419,Sin Datos
--34.712779585,-58.748882158,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,417,Sin Datos
--34.714610313,-58.750917631,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,392,Sin Datos
--34.710553647,-58.746450056,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,302,Sin Datos
--34.828416488,-58.957650960,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,8,2022-10-20 12:00
--34.825060911,-58.961868445,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-20 12:00
--34.818990705,-58.969453498,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-20 12:00
--34.811736552,-58.965262977,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-20 12:00
--34.808838088,-58.961915633,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-20 12:00
--34.801023428,-58.952964387,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-20 12:00
--34.800532715,-58.992540200,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-20 12:00
--34.791107702,-59.004032300,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-10-20 12:00
--34.788968456,-58.992745772,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-20 12:00
--34.803127164,-58.989247634,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-20 12:00
--34.797004299,-58.996468874,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,2022-10-20 12:00
--34.797972957,-58.997546619,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-10-20 12:00
--34.459589920,-58.910099949,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,218,Sin Datos
--34.444875194,-58.905510711,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,250,Sin Datos
--34.449555122,-58.904461732,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,46,Sin Datos
--34.473001304,-58.896195686,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,162,Sin Datos
--34.447473178,-58.902943255,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,63,Sin Datos
--34.454665966,-58.908530611,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,172,Sin Datos
--34.445280218,-58.901046799,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,1,Sin Datos
--34.452280231,-58.932072817,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,128,Sin Datos
--34.450526371,-58.930633093,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,48,Sin Datos
--34.448715926,-58.899110201,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,320,Sin Datos
--34.441917752,-58.903556365,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,319,Sin Datos
--34.449021697,-58.901433118,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,44,Sin Datos
--34.466408234,-58.898845914,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,232,Sin Datos
--34.457845053,-58.913032116,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,154,Sin Datos
--34.456118301,-58.908928820,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,1,Sin Datos
--34.460168037,-58.902514541,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,246,Sin Datos
--34.462563901,-58.901624813,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,286,Sin Datos
--34.446314441,-58.904347487,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,258,Sin Datos
--34.441838656,-58.901881599,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,88,Sin Datos
--34.459967213,-58.906328035,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,111,Sin Datos
--34.453133523,-58.923377739,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,70,Sin Datos
--34.478101340,-58.894080682,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,318,Sin Datos
--34.467975127,-58.903410325,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,148,Sin Datos
--34.470871622,-58.897822939,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,256,Sin Datos
--34.468077858,-58.889782093,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,194,Sin Datos
--34.464557899,-58.893709556,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,217,Sin Datos
--34.450720378,-58.925285435,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,186,Sin Datos
--34.453160082,-58.933862799,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,302,Sin Datos
--34.449834623,-58.925713184,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,101,Sin Datos
--34.445025079,-58.908313605,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,10,Sin Datos
--34.445811850,-58.901634320,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,3,Sin Datos
--34.451226895,-58.928160941,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,13,Sin Datos
--34.453341214,-58.914368374,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,33,Sin Datos
--34.452189371,-58.914674348,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,141,Sin Datos
--34.451263365,-58.908794966,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,7,Sin Datos
--34.449382982,-58.902043581,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,1,Sin Datos
--34.474648546,-58.902231105,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,197,Sin Datos
--34.465514300,-58.896880727,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,170,Sin Datos
--34.477969548,-58.899684977,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,52,Sin Datos
--34.465746150,-58.901676954,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,37,Sin Datos
--34.442117262,-58.910566517,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,179,Sin Datos
--34.479966048,-58.886218502,12,media,Edenor,Pilar,Villa Astolfi,S/D,R:Pilar/158-Tr4/158-5481,126,Sin Datos
--34.479033705,-58.884464353,12,media,Edenor,Pilar,Villa Astolfi,S/D,R:Pilar/158-Tr4/158-5481,64,Sin Datos
--34.444563079,-58.908680709,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,113,Sin Datos
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,94,Sin Datos
--34.474191142,-58.895272631,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,36,Sin Datos
--34.466446899,-58.901114391,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,111,Sin Datos
--34.457440647,-58.910197073,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,36,Sin Datos
--34.423749479,-58.949410273,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5481,129,Sin Datos
--34.446464400,-58.933729082,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,35,Sin Datos
--34.442269415,-58.937163262,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,28,Sin Datos
--34.440553610,-58.938272760,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,35,Sin Datos
--34.421750776,-58.953758828,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5481,151,Sin Datos
--34.443935276,-58.935764801,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,71,Sin Datos
--34.523789011,-58.905779862,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,3,Sin Datos
--34.528560823,-58.911394945,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,1,Sin Datos
--34.518617060,-58.909456976,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,1,Sin Datos
--34.421188916,-58.943598522,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5481,123,Sin Datos
--34.581453546,-58.614191414,12,media,Edenor,S/D,S/D,S/D,R:Hurlingham/166-Tr2/166-5526,188,2022-10-20 12:00
--34.583788780,-58.616814873,12,media,Edenor,S/D,S/D,S/D,R:Hurlingham/166-Tr2/166-5526,650,2022-10-20 12:00
--34.582222070,-58.619643481,12,media,Edenor,S/D,S/D,S/D,R:Hurlingham/166-Tr2/166-5526,264,2022-10-20 12:00
+-34.712779585,-58.748882158,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,417,2022-10-20 12:00
+-34.714610313,-58.750917631,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,392,2022-10-20 12:00
+-34.710553647,-58.746450056,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,302,2022-10-20 12:00
+-34.423749479,-58.949410273,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5481,129,2022-10-20 12:00
+-34.421750776,-58.953758828,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5481,151,2022-10-20 12:00
+-34.523789011,-58.905779862,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,3,2022-10-20 12:00
+-34.528560823,-58.911394945,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,1,2022-10-20 12:00
+-34.518617060,-58.909456976,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,1,2022-10-20 12:00
+-34.421188916,-58.943598522,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5481,123,2022-10-20 12:00
+-34.581453546,-58.614191414,12,media,Edenor,S/D,S/D,S/D,R:Hurlingham/166-Tr2/166-5526,188,2022-10-20 13:00
+-34.583788780,-58.616814873,12,media,Edenor,S/D,S/D,S/D,R:Hurlingham/166-Tr2/166-5526,650,2022-10-20 13:00
+-34.582222070,-58.619643481,12,media,Edenor,S/D,S/D,S/D,R:Hurlingham/166-Tr2/166-5526,264,2022-10-20 13:00
 -34.5891,-58.5523,22,baja,Edenor,Gral San Martin,Ayacucho,,,10,
--34.6959,-58.7182,22,baja,Edenor,Merlo,Merlo,,,5,
--34.7426,-58.6913,22,baja,Edenor,Merlo,Pontevedra,,,1,
+-34.6959,-58.7182,22,baja,Edenor,Merlo,Merlo,,,6,
 -34.6658,-58.6158,22,baja,Edenor,Moron,Moron,,,6,
 -34.5077,-58.815,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
--34.6899,-58.7855,22,baja,Edenor,Merlo,Merlo,,,5,
--34.5856,-58.6099,22,baja,Edenor,3 De Febrero,Ejcto Militar (Tf),,,4,
+-34.6899,-58.7855,22,baja,Edenor,Merlo,Merlo,,,8,
+-34.7334,-58.5205,22,baja,Edenor,La Matanza,Ciudad Evita,,,1,
 -34.7876,-58.2765,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,
--34.7434,-58.3486,21,baja,Edesur,Lomas De Zamora,Temperley,,,9,
+-34.7434,-58.3486,21,baja,Edesur,Lomas De Zamora,Temperley,,,14,
+-34.6336,-58.3892,21,baja,Edesur,Capital,Constitucion,,,6,
