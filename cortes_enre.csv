@@ -1,13 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.849964076,-58.455965917,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,61,Sin Datos
--34.851180352,-58.458400005,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,3,Sin Datos
--34.847690999,-58.453862816,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,38,Sin Datos
--34.848312103,-58.453426778,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,39,Sin Datos
--34.849416963,-58.452651056,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,5,Sin Datos
--34.850068319,-58.452194176,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,19,Sin Datos
--34.847210504,-58.454876523,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,41,Sin Datos
--34.848089949,-58.454233862,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,47,Sin Datos
--34.848702890,-58.453784528,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-45/083-4-45,66,Sin Datos
 -34.639400420,-58.355568451,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-4-44/279-4-44,109,2022-10-21 16:30
 -34.867146900,-58.266121176,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11,9,2022-10-21 18:00
 -34.867632522,-58.265743686,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11,11,2022-10-21 18:00
@@ -33,34 +24,27 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.872986659,-58.272609521,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11,29,2022-10-21 18:00
 -34.474723163,-58.944986156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2022-10-21 16:00
 -34.523789011,-58.905779862,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,3,2022-10-21 16:00
--34.507363887,-58.484608062,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:V.Lopez/50-Tr1/50-5511,139,2022-10-21 16:00
+-34.507363887,-58.484608062,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:V.Lopez/50-Tr1/50-5511,139,2022-10-21 17:00
 -34.834840755,-58.698926368,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,7,Sin Datos
 -34.835615922,-58.705061119,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,Sin Datos
 -34.838177917,-58.694830497,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
 -34.837108014,-58.701675901,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,Sin Datos
--34.686291451,-58.514394932,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5531,74,2022-10-21 16:00
 -34.776581044,-58.956346907,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,2,2022-10-21 17:00
 -34.779458447,-58.959538729,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,3,2022-10-21 17:00
--34.600542362,-59.059491083,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,7,Sin Datos
--34.602924165,-59.056144501,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,64,Sin Datos
--34.601106117,-59.058274627,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,15,Sin Datos
+-34.600542362,-59.059491083,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,7,2022-10-21 16:00
+-34.602924165,-59.056144501,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,64,2022-10-21 16:00
+-34.601106117,-59.058274627,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,15,2022-10-21 16:00
 -34.701550321,-58.477164973,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5524,433,2022-10-21 17:00
 -34.701522822,-58.479702676,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5524,477,2022-10-21 17:00
 -34.5442,-58.7152,22,baja,Edenor,San Miguel,San Miguel,,,4,
--34.5893,-58.4013,22,baja,Edenor,Capital Federal,Recoleta,,,6,
 -34.5,-58.5446,22,baja,Edenor,San Isidro,San Isidro,,,5,
 -34.6952,-58.7737,22,baja,Edenor,Merlo,Merlo,,,29,
--34.4596,-58.9101,22,baja,Edenor,Pilar,Pilar,,,5,
 -34.6294,-58.4274,21,baja,Edesur,Capital,Parque Chacabuco,,,7,
--34.8206,-58.2065,21,baja,Edesur,Florencio Varela,Bosques,,,32,
+-34.8206,-58.2065,21,baja,Edesur,Florencio Varela,Bosques,,,33,
 -34.6029,-58.4729,21,baja,Edesur,Capital,La Paternal,,,24,
--34.7584,-58.1909,21,baja,Edesur,Berazategui,Berazategui,,,18,
--34.6347,-58.4792,21,baja,Edesur,Capital,Floresta,,,17,
 -34.5907,-58.5162,21,baja,Edesur,Capital,Villa Devoto,,,3,
--34.6412,-58.4093,21,baja,Edesur,Capital,Parque Patricios,,,23,
--34.6801,-58.4766,21,baja,Edesur,Capital,Villa Lugano,,,6,
+-34.6412,-58.4093,21,baja,Edesur,Capital,Parque Patricios,,,25,
+-34.6801,-58.4766,21,baja,Edesur,Capital,Villa Lugano,,,7,
 -34.6442,-58.5062,21,baja,Edesur,Capital,Capital,,,9,
 -34.7322,-58.3696,21,baja,Edesur,Lanus,Monte Chingolo,,,1,
--34.6336,-58.4144,21,baja,Edesur,Capital,Boedo,,,1,
--34.8142,-58.4752,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,
 -34.6102,-58.4616,21,baja,Edesur,Capital,Capital,,,1,
