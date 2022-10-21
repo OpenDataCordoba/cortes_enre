@@ -33,7 +33,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.909211115,-58.568321058,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,53,2022-10-21 21:06
 -34.821354107,-58.432023642,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-2-22/180-2-22,501,2022-10-21 21:27
 -34.474723163,-58.944986156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2022-10-21 20:00
--34.523789011,-58.905779862,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,3,Sin Datos
+-34.523789011,-58.905779862,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,3,2022-10-21 20:00
 -34.834840755,-58.698926368,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,7,Sin Datos
 -34.835615922,-58.705061119,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,Sin Datos
 -34.838177917,-58.694830497,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
@@ -42,19 +42,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.602924165,-59.056144501,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,64,2022-10-21 19:00
 -34.601106117,-59.058274627,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,15,2022-10-21 19:00
 -34.701522822,-58.479702676,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5524,477,2022-10-21 19:00
--34.385556840,-58.763290601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,104,2022-10-21 20:00
--34.380132555,-58.757271584,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,2,2022-10-21 20:00
--34.380440477,-58.763407447,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,2,2022-10-21 20:00
--34.381734784,-58.761444877,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,2,2022-10-21 20:00
--34.384293926,-58.761141692,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,47,2022-10-21 20:00
--34.386029908,-58.759752288,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,17,2022-10-21 20:00
+-34.385556840,-58.763290601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,104,2022-10-21 19:00
+-34.384293926,-58.761141692,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,47,2022-10-21 19:00
+-34.386029908,-58.759752288,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,17,2022-10-21 19:00
 -34.5442,-58.7152,22,baja,Edenor,San Miguel,San Miguel,,,4,
+-34.6862,-58.5142,22,baja,Edenor,La Matanza,La Tablada,,,4,
 -34.5334,-58.5023,22,baja,Edenor,Vicente Lopez,Florida,,,16,
 -34.6294,-58.4274,21,baja,Edesur,Capital,Parque Chacabuco,,,7,
 -34.8206,-58.2065,21,baja,Edesur,Florencio Varela,Bosques,,,35,
--34.6412,-58.4093,21,baja,Edesur,Capital,Parque Patricios,,,30,
+-34.6412,-58.4093,21,baja,Edesur,Capital,Parque Patricios,,,29,
 -34.6442,-58.5062,21,baja,Edesur,Capital,Capital,,,9,
--34.9064,-58.3891,21,baja,Edesur,Pte Peron,Guernica,,,18,
+-34.9064,-58.3891,21,baja,Edesur,Pte Peron,Guernica,,,20,
 -34.6077,-58.4422,21,baja,Edesur,Capital,Capital,,,14,
 -34.6897,-58.4246,21,baja,Edesur,Lanus,Lanus,,,2,
 -34.6801,-58.4348,21,baja,Edesur,Lanus,Valentin Alsina,,,1,
