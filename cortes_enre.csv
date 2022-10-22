@@ -1,52 +1,74 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.732199043,-58.343492550,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,559,2022-10-22 05:07
--34.730325575,-58.340534460,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,522,2022-10-22 05:07
--34.726118587,-58.336982531,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,10,2022-10-22 05:07
--34.728262545,-58.343089326,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,209,2022-10-22 05:07
--34.726020331,-58.342565900,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,55,2022-10-22 05:07
--34.728156532,-58.335290522,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,115,2022-10-22 05:07
--34.732706967,-58.340096735,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,186,2022-10-22 05:07
--34.726421416,-58.341887745,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,20,2022-10-22 05:07
--34.726704188,-58.341515609,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,14,2022-10-22 05:07
--34.725943798,-58.340164319,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,7,2022-10-22 05:07
--34.726502353,-58.340766809,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,19,2022-10-22 05:07
--34.726897426,-58.341192964,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,19,2022-10-22 05:07
--34.726188347,-58.339321023,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,14,2022-10-22 05:07
--34.726443235,-58.339573591,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,1,2022-10-22 05:07
--34.726913799,-58.340054347,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,12,2022-10-22 05:07
--34.727383840,-58.340563370,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,52,2022-10-22 05:07
--34.726205298,-58.338193481,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,18,2022-10-22 05:07
--34.726805016,-58.338821926,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,15,2022-10-22 05:07
--34.727631896,-58.339716179,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,36,2022-10-22 05:07
--34.727778999,-58.339893576,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,15,2022-10-22 05:07
--34.727271456,-58.333469599,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-22/184-2-22,107,2022-10-22 05:07
--34.726316617,-58.340566462,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,6,2022-10-22 05:07
--34.726472842,-58.338475332,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,7,2022-10-22 05:07
--34.727037840,-58.339073717,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,9,2022-10-22 05:07
--34.727451079,-58.339520627,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,5,2022-10-22 05:07
--34.726289797,-58.342109240,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,13,2022-10-22 05:07
--34.726700202,-58.340980223,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,14,2022-10-22 05:07
--34.725826725,-58.340038038,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,35,2022-10-22 05:07
--34.727232403,-58.340405996,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,15,2022-10-22 05:07
--34.725914099,-58.339036034,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,11,2022-10-22 05:07
--34.725982420,-58.337949430,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,2,2022-10-22 05:07
--34.726803449,-58.337658680,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,332,2022-10-22 05:07
--34.726208556,-58.343815269,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,24,2022-10-22 05:07
--34.726621162,-58.344542432,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,28,2022-10-22 05:07
--34.727196004,-58.345192512,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,20,2022-10-22 05:07
--34.727386693,-58.345269345,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,8,2022-10-22 05:07
--34.728282669,-58.345632942,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,10,2022-10-22 05:07
--34.728623664,-58.345774974,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,3,2022-10-22 05:07
--34.728058034,-58.345544206,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,11,2022-10-22 05:07
--34.727203682,-58.345109512,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,12,2022-10-22 05:07
--34.726362855,-58.344076329,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,11,2022-10-22 05:07
--34.726488059,-58.344304586,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,14,2022-10-22 05:07
--34.728499909,-58.345726088,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,4,2022-10-22 05:07
--34.885423892,-58.578488217,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,134,2022-10-22 05:09
--34.887084509,-58.575503468,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,258,2022-10-22 05:09
--34.885136289,-58.576988170,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,46,2022-10-22 05:09
--34.474723163,-58.944986156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2022-10-22 02:00
--34.523789011,-58.905779862,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,3,2022-10-22 03:00
+-34.726118587,-58.336982531,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,10,2022-10-22 07:01
+-34.728262545,-58.343089326,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,209,2022-10-22 07:01
+-34.726020331,-58.342565900,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,55,2022-10-22 07:01
+-34.726421416,-58.341887745,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,20,2022-10-22 07:01
+-34.726704188,-58.341515609,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,14,2022-10-22 07:01
+-34.725943798,-58.340164319,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,7,2022-10-22 07:01
+-34.726502353,-58.340766809,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,19,2022-10-22 07:01
+-34.726897426,-58.341192964,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,19,2022-10-22 07:01
+-34.726188347,-58.339321023,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,14,2022-10-22 07:01
+-34.726443235,-58.339573591,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,1,2022-10-22 07:01
+-34.726913799,-58.340054347,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,12,2022-10-22 07:01
+-34.727383840,-58.340563370,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,52,2022-10-22 07:01
+-34.726205298,-58.338193481,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,18,2022-10-22 07:01
+-34.726805016,-58.338821926,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,15,2022-10-22 07:01
+-34.727631896,-58.339716179,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,36,2022-10-22 07:01
+-34.727778999,-58.339893576,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,15,2022-10-22 07:01
+-34.726316617,-58.340566462,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,6,2022-10-22 07:01
+-34.726472842,-58.338475332,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,7,2022-10-22 07:01
+-34.727037840,-58.339073717,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,9,2022-10-22 07:01
+-34.727451079,-58.339520627,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,5,2022-10-22 07:01
+-34.726289797,-58.342109240,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,13,2022-10-22 07:01
+-34.726700202,-58.340980223,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,14,2022-10-22 07:01
+-34.725826725,-58.340038038,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,35,2022-10-22 07:01
+-34.727232403,-58.340405996,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,15,2022-10-22 07:01
+-34.725914099,-58.339036034,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,11,2022-10-22 07:01
+-34.725982420,-58.337949430,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,2,2022-10-22 07:01
+-34.726803449,-58.337658680,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,332,2022-10-22 07:01
+-34.726208556,-58.343815269,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,24,2022-10-22 07:01
+-34.726621162,-58.344542432,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,28,2022-10-22 07:01
+-34.727196004,-58.345192512,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,20,2022-10-22 07:01
+-34.727386693,-58.345269345,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,8,2022-10-22 07:01
+-34.728282669,-58.345632942,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,10,2022-10-22 07:01
+-34.728623664,-58.345774974,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,3,2022-10-22 07:01
+-34.728058034,-58.345544206,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,11,2022-10-22 07:01
+-34.727203682,-58.345109512,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,12,2022-10-22 07:01
+-34.726362855,-58.344076329,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,11,2022-10-22 07:01
+-34.726488059,-58.344304586,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,14,2022-10-22 07:01
+-34.728499909,-58.345726088,11,media,Edesur,Lanus,Monte Chingolo,Monte Chingolo,R:184-2-22/184-2-22,4,2022-10-22 07:01
+-34.885423892,-58.578488217,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,134,2022-10-22 07:19
+-34.887084509,-58.575503468,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,258,2022-10-22 07:19
+-34.885136289,-58.576988170,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,46,2022-10-22 07:19
+-34.721128542,-58.472018196,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,365,2022-10-22 06:28
+-34.724882103,-58.468584285,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,117,2022-10-22 06:28
+-34.723619262,-58.474754677,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,45,2022-10-22 06:28
+-34.723337938,-58.474436044,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,5,2022-10-22 06:28
+-34.723225053,-58.474308211,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,18,2022-10-22 06:28
+-34.722728862,-58.473739303,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,13,2022-10-22 06:28
+-34.722401642,-58.473375680,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,20,2022-10-22 06:28
+-34.722311592,-58.473273698,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,10,2022-10-22 06:28
+-34.722076192,-58.473007097,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,16,2022-10-22 06:28
+-34.721520999,-58.472378338,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,8,2022-10-22 06:28
+-34.721173079,-58.471984348,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,18,2022-10-22 06:28
+-34.722620664,-58.473624815,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,15,2022-10-22 06:28
+-34.722641647,-58.475051052,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,16,2022-10-22 06:28
+-34.719793705,-58.468651679,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:162-1-12/162-1-12,175,2022-10-22 06:28
+-34.720497968,-58.472857903,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,S/D,R:162-1-12/162-1-12,1,2022-10-22 06:28
+-34.901559432,-58.173124644,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,31,2022-10-22 05:52
+-34.910196987,-58.172583990,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,16,2022-10-22 05:52
+-34.911356245,-58.173948345,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,6,2022-10-22 05:52
+-34.917572532,-58.181074020,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,4,2022-10-22 05:52
+-34.912162122,-58.178005609,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,3,2022-10-22 05:52
+-34.904265291,-58.173125771,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,153,2022-10-22 05:52
+-34.904998858,-58.176024105,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,192,2022-10-22 05:52
+-34.905543139,-58.176656757,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,169,2022-10-22 05:52
+-34.906184820,-58.175832417,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,193,2022-10-22 05:52
+-34.910707068,-58.176261123,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,10,2022-10-22 05:52
+-34.900123661,-58.175149861,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,5,2022-10-22 05:52
+-34.910599317,-58.181952221,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-1-18/174-1-18/951-1-03,9,2022-10-22 05:52
+-34.474723163,-58.944986156,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,2,2022-10-22 04:00
+-34.523789011,-58.905779862,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,3,2022-10-22 04:00
 -34.221921046,-58.601023281,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
 -34.242768729,-58.599861242,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
 -34.231366305,-58.595229767,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
@@ -83,38 +105,29 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-10-22 03:00
 -34.303224239,-58.676794378,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-10-22 03:00
 -34.342866703,-58.693785661,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-10-22 03:00
--34.335925088,-58.678146072,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,19,2022-10-22 02:00
--34.295932896,-58.666560538,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,13,2022-10-22 02:00
--34.329198838,-58.702609965,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-10-22 02:00
--34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-10-22 02:00
--34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-10-22 02:00
--34.548625538,-58.747906402,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5515,105,2022-10-22 02:00
--34.554669037,-58.748751722,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5515,131,2022-10-22 02:00
--34.561065116,-58.745879432,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5515,242,2022-10-22 02:00
--34.548466641,-58.748120265,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5515,148,2022-10-22 02:00
--34.554238824,-58.744625824,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5515,591,2022-10-22 02:00
--34.559045831,-58.742983100,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5515,364,2022-10-22 02:00
--34.550644302,-58.745185481,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5515,405,2022-10-22 02:00
--34.557339159,-58.745048157,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5515,239,2022-10-22 02:00
--34.509532497,-58.730791537,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr2/159-5525,44,2022-10-22 04:00
--34.508986717,-58.728452050,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr2/159-5525,15,2022-10-22 04:00
--34.510321250,-58.729466811,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr2/159-5525,30,2022-10-22 04:00
--34.743702880,-58.612115125,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,353,2022-10-22 02:00
--34.745507928,-58.609821223,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,3,2022-10-22 02:00
--34.739152860,-58.614671337,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,358,2022-10-22 02:00
--34.739702232,-58.617198516,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,226,2022-10-22 02:00
--34.737502527,-58.619986209,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,30,2022-10-22 02:00
--34.744312872,-58.608583266,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,2,2022-10-22 02:00
--34.749601208,-58.617450209,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,139,2022-10-22 02:00
--34.751855051,-58.616968566,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,253,2022-10-22 02:00
--34.741255258,-58.618318587,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,288,2022-10-22 02:00
--34.626359251,-58.739524502,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr1/256-5513,41,Sin Datos
+-34.335925088,-58.678146072,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,19,2022-10-22 04:00
+-34.295932896,-58.666560538,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,13,2022-10-22 04:00
+-34.329198838,-58.702609965,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-10-22 04:00
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-10-22 04:00
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-10-22 04:00
+-34.509532497,-58.730791537,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr2/159-5525,44,2022-10-22 03:00
+-34.508986717,-58.728452050,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr2/159-5525,15,2022-10-22 03:00
+-34.510321250,-58.729466811,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr2/159-5525,30,2022-10-22 03:00
+-34.743702880,-58.612115125,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,353,Sin Datos
+-34.745507928,-58.609821223,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,3,Sin Datos
+-34.739152860,-58.614671337,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,358,Sin Datos
+-34.739702232,-58.617198516,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,226,Sin Datos
+-34.737502527,-58.619986209,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,30,Sin Datos
+-34.744312872,-58.608583266,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,2,Sin Datos
+-34.749601208,-58.617450209,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,139,Sin Datos
+-34.751855051,-58.616968566,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,253,Sin Datos
+-34.741255258,-58.618318587,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5528,288,Sin Datos
+-34.626359251,-58.739524502,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr1/256-5513,41,2022-10-22 04:00
 -34.5442,-58.7152,22,baja,Edenor,San Miguel,San Miguel,,,4,
--34.6228,-58.7475,22,baja,Edenor,Moreno,Paso Del Rey,,,15,
 -34.649,-58.851,22,baja,Edenor,Moreno,La Reja,,,10,
 -34.8107,-58.6528,22,baja,Edenor,La Matanza,Virrey Del Pino,,,11,
--34.6562,-58.6088,22,baja,Edenor,Moron,Moron,,,5,
 -34.6485,-58.73,22,baja,Edenor,Merlo,Merlo,,,1,
--34.6156,-58.4127,21,baja,Edesur,Capital,Capital,,,11,
+-34.7171,-58.5258,22,baja,Edenor,La Matanza,Ciudad Evita,,,20,
+-34.6426,-58.8556,22,baja,Edenor,Moreno,Francisco Alvarez,,,1,
 -34.6026,-58.3801,21,baja,Edesur,Capital,San Nicolas,,,5,
 -34.6897,-58.4246,21,baja,Edesur,Lanus,Lanus,,,2,
