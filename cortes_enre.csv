@@ -1,31 +1,26 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.788122584,-58.336045815,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-3-31/189-3-31,16,2022-10-25 12:21
--34.787758422,-58.336927112,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-3-31/189-3-31,10,2022-10-25 12:21
--34.789603007,-58.335818396,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-3-31/189-3-31,4,2022-10-25 12:21
--34.788762594,-58.337308733,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-3-31/189-3-31,13,2022-10-25 12:21
--34.789080250,-58.337928030,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-3-31/189-3-31,19,2022-10-25 12:21
--34.789588006,-58.337582502,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-3-31/189-3-31,13,2022-10-25 12:21
--34.788252905,-58.336306178,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-3-31/189-3-31,7,2022-10-25 12:21
--34.789247852,-58.336040185,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-3-31/189-3-31,55,2022-10-25 12:21
 -34.729720334,-58.364092639,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-45/087-4-45,364,2022-10-25 11:30
+-34.760619465,-58.346047671,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-33/184-3-33,110,2022-10-25 14:33
+-34.761602134,-58.346636439,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-33/184-3-33,529,2022-10-25 14:33
+-34.622618239,-58.425622332,11,media,Edesur,Capital Rp,Boedo,Independencia,R:020-3-35/020-3-35,602,2022-10-25 15:36
 -34.687342806,-58.530368518,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5532,1,2022-10-25 12:00
 -34.669175474,-58.656355857,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr1/264-5515,321,Sin Datos
--34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,273,2022-10-25 11:00
--34.410228669,-58.607273931,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,191,2022-10-25 12:00
+-34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,273,2022-10-25 12:00
+-34.410228669,-58.607273931,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,191,2022-10-25 13:00
 -34.714014528,-58.709707018,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5514,17,2022-10-25 12:00
--34.864037172,-58.734952317,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-10-25 11:00
--34.859353795,-58.741017129,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-10-25 11:00
--34.858200105,-58.742495273,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,5,2022-10-25 11:00
--34.869653571,-58.727841135,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-10-25 11:00
--34.861640112,-58.738038967,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,2022-10-25 11:00
--34.874384154,-58.721693323,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-10-25 11:00
--34.860476915,-58.739506190,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-10-25 11:00
--34.858956499,-58.741495211,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-10-25 11:00
--34.872124294,-58.724522508,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,9,2022-10-25 11:00
--34.477322599,-58.837385240,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5533,325,2022-10-25 14:00
+-34.864037172,-58.734952317,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.859353795,-58.741017129,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.858200105,-58.742495273,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,5,Sin Datos
+-34.869653571,-58.727841135,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.861640112,-58.738038967,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,Sin Datos
+-34.874384154,-58.721693323,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.860476915,-58.739506190,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.858956499,-58.741495211,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
+-34.872124294,-58.724522508,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,9,Sin Datos
+-34.477322599,-58.837385240,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5533,325,2022-10-25 12:00
 -34.593145959,-58.542440200,12,media,Edenor,Gral San Martin,Bernardo Monteagudo,S/D,R:Migueletes/54-Tr1/54-5518,478,Sin Datos
 -34.834158405,-58.947723762,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,3,2022-10-25 12:00
--34.767293814,-58.619386281,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5533,287,2022-10-25 11:00
+-34.767293814,-58.619386281,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5533,287,2022-10-25 12:00
 -34.603805238,-58.883338572,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,195,2022-10-25 12:00
 -34.606319452,-58.881339152,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,202,2022-10-25 12:00
 -34.608300195,-58.879372891,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,124,2022-10-25 12:00
@@ -33,15 +28,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.604055364,-58.877012280,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,144,2022-10-25 12:00
 -34.608838300,-58.881070642,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,2,2022-10-25 12:00
 -34.559285942,-58.668506626,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5527,245,2022-10-25 12:00
--34.465581700,-58.922065923,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5523,242,2022-10-25 11:00
+-34.465581700,-58.922065923,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5523,242,Sin Datos
 -34.6226,-58.793,22,baja,Edenor,Moreno,Moreno,,,21,
 -34.6769,-58.5435,22,baja,Edenor,La Matanza,San Justo,,,13,
--34.5843,-58.5673,22,baja,Edenor,Gral San Martin,Villa Libertad,,,19,
+-34.539,-58.5493,22,baja,Edenor,Gral San Martin,Gregoria Matorras,,,18,
 -34.5708,-58.4548,22,baja,Edenor,Capital Federal,Colegiales,,,25,
 -34.3356,-58.527,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,2,
 -34.7671,-58.6302,22,baja,Edenor,La Matanza,Gonzalez Catan,,,2,
 -34.667,-58.3854,21,baja,Edesur,Avellaneda,Avellaneda,,,8,
 -34.7651,-58.3952,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,3,
 -34.6423,-58.4095,21,baja,Edesur,Capital,Parque Patricios,,,1,
--34.6623,-58.3807,21,baja,Edesur,Avellaneda,Avellaneda,,,1,
 -34.6439,-58.5253,21,baja,Edesur,Capital,Liniers,,,5,
