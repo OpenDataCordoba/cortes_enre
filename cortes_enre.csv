@@ -11,18 +11,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.594729359,-58.391438985,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-1-18/117-1-18,46,2022-10-26 00:07
 -34.594750354,-58.391188436,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-1-18/117-1-18,357,2022-10-26 00:07
 -34.687342806,-58.530368518,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5532,1,2022-10-25 20:00
--34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,273,2022-10-25 20:00
--34.410228669,-58.607273931,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,191,Sin Datos
+-34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,273,Sin Datos
+-34.410228669,-58.607273931,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,191,2022-10-25 20:00
 -34.874384154,-58.721693323,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-10-25 20:00
--34.603805238,-58.883338572,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,195,2022-10-25 20:00
--34.606319452,-58.881339152,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,202,2022-10-25 20:00
--34.608300195,-58.879372891,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,124,2022-10-25 20:00
--34.607089822,-58.876311797,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,120,2022-10-25 20:00
--34.604055364,-58.877012280,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,144,2022-10-25 20:00
--34.608838300,-58.881070642,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,2,2022-10-25 20:00
--34.998087164,-58.855935281,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2022-10-25 21:00
+-34.603805238,-58.883338572,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,195,2022-10-25 21:00
+-34.606319452,-58.881339152,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,202,2022-10-25 21:00
+-34.608300195,-58.879372891,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,124,2022-10-25 21:00
+-34.607089822,-58.876311797,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,120,2022-10-25 21:00
+-34.604055364,-58.877012280,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,144,2022-10-25 21:00
+-34.608838300,-58.881070642,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,2,2022-10-25 21:00
+-34.998087164,-58.855935281,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5523,1,2022-10-25 20:00
 -34.622691978,-58.634566590,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5522,1,2022-10-25 20:00
--34.561551329,-58.447493095,12,media,Edenor,Capital Federal,Belgrano,S/D,S/D,269,2022-10-25 23:00
 -34.5458,-58.4633,22,baja,Edenor,Capital Federal,Nu?Ez,,,15,
 -34.6356,-58.6499,22,baja,Edenor,Moron,Castelar,,,23,
 -34.5405,-58.5493,22,baja,Edenor,Gral San Martin,Gregoria Matorras,,,18,
@@ -30,8 +29,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5943,-58.4102,22,baja,Edenor,Capital Federal,Recoleta,,,9,
 -34.4557,-58.6013,22,baja,Edenor,Tigre,Troncos Del Talar,,,27,
 -34.6096,-58.4175,21,baja,Edesur,Capital,Capital,,,18,
--34.6146,-58.4454,21,baja,Edesur,Capital,Caballito,,,54,
--34.7751,-58.25,21,baja,Edesur,Berazategui,Berazategui,,,11,
 -34.6423,-58.4095,21,baja,Edesur,Capital,Parque Patricios,,,1,
 -34.5978,-58.4018,21,baja,Edesur,Capital,Recoleta,,,1,
 -34.7435,-58.3333,21,baja,Edesur,Quilmes,Bernal,,,4,
