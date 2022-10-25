@@ -1,18 +1,15 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.812560961,-58.421952835,11,media,Edesur,Lomas De Zamora,Lavallol,Almirante Brown,R:180-3-32/180-3-32/180-2-24,1,2022-10-25 18:25
--34.812896922,-58.421326908,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,100,2022-10-25 18:25
--34.814927713,-58.420321085,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,248,2022-10-25 18:25
--34.813214653,-58.417531672,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,183,2022-10-25 18:25
--34.815832570,-58.417553907,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,289,2022-10-25 18:25
--34.818366754,-58.417512991,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,336,2022-10-25 18:25
--34.821346864,-58.415510864,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-32/180-3-32/180-2-24,225,2022-10-25 18:25
--34.820900290,-58.413953202,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-32/180-3-32/180-2-24,154,2022-10-25 18:25
--34.824090078,-58.413685548,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-32/180-3-32/180-2-24,225,2022-10-25 18:25
--34.739396710,-58.413642862,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:,807,2022-10-25 20:47
--34.740945597,-58.404818707,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:,464,2022-10-25 20:47
--34.738725191,-58.432442327,11,media,Edesur,Lomas De Zamora,Zona Rural,S/D,R:,539,2022-10-25 20:47
--34.594729359,-58.391438985,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-1-18/117-1-18,46,2022-10-25 22:59
--34.594750354,-58.391188436,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-1-18/117-1-18,357,2022-10-25 22:59
+-34.812560961,-58.421952835,11,media,Edesur,Lomas De Zamora,Lavallol,Almirante Brown,R:180-3-32/180-3-32/180-2-24,1,Sin Datos
+-34.812896922,-58.421326908,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,100,Sin Datos
+-34.814927713,-58.420321085,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,248,Sin Datos
+-34.813214653,-58.417531672,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,183,Sin Datos
+-34.815832570,-58.417553907,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,289,Sin Datos
+-34.818366754,-58.417512991,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32/180-2-24,336,Sin Datos
+-34.821346864,-58.415510864,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-32/180-3-32/180-2-24,225,Sin Datos
+-34.820900290,-58.413953202,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-32/180-3-32/180-2-24,154,Sin Datos
+-34.824090078,-58.413685548,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-32/180-3-32/180-2-24,225,Sin Datos
+-34.594729359,-58.391438985,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-1-18/117-1-18,46,Sin Datos
+-34.594750354,-58.391188436,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-1-18/117-1-18,357,Sin Datos
 -34.687342806,-58.530368518,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5532,1,Sin Datos
 -34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,273,Sin Datos
 -34.410228669,-58.607273931,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,191,2022-10-25 20:00
@@ -30,8 +27,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6356,-58.6499,22,baja,Edenor,Moron,Castelar,,,23,
 -34.6273,-58.7882,22,baja,Edenor,Moreno,Moreno,,,44,
 -34.5405,-58.5493,22,baja,Edenor,Gral San Martin,Gregoria Matorras,,,18,
--34.5648,-58.6977,22,baja,Edenor,San Miguel,Bella Vista,,,1,
 -34.461,-58.8834,22,baja,Edenor,Pilar,Pilar,,,17,
+-34.6696,-58.7215,22,baja,Edenor,Merlo,Merlo,,,21,
 -34.6096,-58.4175,21,baja,Edesur,Capital,Capital,,,18,
 -34.6146,-58.4454,21,baja,Edesur,Capital,Caballito,,,50,
 -34.7751,-58.25,21,baja,Edesur,Berazategui,Berazategui,,,11,
