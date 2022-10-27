@@ -1,33 +1,14 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -35.071091355,-58.293459462,11,media,Edesur,San Vicente,Domselaar,Burzaco,R:082-3-981/082-3-981,223,2022-10-27 23:13
 -34.687342806,-58.530368518,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5532,1,2022-10-27 20:00
--34.502642583,-58.586382463,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr2/56-5522,506,Sin Datos
--34.574999186,-58.509229112,12,media,Edenor,Capital Federal,Villa Pueyrred?N,S/D,R:Agronomia/47-Tr5/47-5561,1,Sin Datos
--34.928078866,-58.960436141,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,278,2022-10-27 22:00
--34.932490781,-58.962349767,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,172,2022-10-27 22:00
--34.928856523,-58.963855440,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,31,2022-10-27 22:00
--34.930201578,-58.956276294,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,93,2022-10-27 22:00
--34.932248697,-58.958560335,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,134,2022-10-27 22:00
--34.926950290,-58.953718186,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,161,2022-10-27 22:00
--34.933741509,-58.965382688,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,22,2022-10-27 22:00
--34.931542506,-58.981751333,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,5,2022-10-27 23:00
--34.930947940,-58.989578777,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,1,2022-10-27 23:00
--34.929637254,-58.993509394,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,1,2022-10-27 23:00
--34.933906785,-58.989579122,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,4,2022-10-27 23:00
--34.937828579,-58.986815502,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,3,2022-10-27 23:00
--34.928670174,-58.990307867,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,1,2022-10-27 23:00
--34.936548268,-58.975272530,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,1,2022-10-27 23:00
--34.936110013,-59.000954709,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,2,2022-10-27 23:00
--34.931004794,-58.987598103,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,3,2022-10-27 23:00
--34.928807332,-58.994533183,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,2,2022-10-27 23:00
--34.930565357,-58.988232102,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,1,2022-10-27 23:00
--34.931706951,-58.990702241,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513/269-5512,3,2022-10-27 23:00
+-34.502642583,-58.586382463,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr2/56-5522,506,2022-10-27 20:00
 -34.5203,-58.783,22,baja,Edenor,Jose C Paz,Jose C Paz,,,18,
 -34.7018,-58.5741,22,baja,Edenor,La Matanza,San Justo,,,43,
 -34.5915,-58.5101,22,baja,Edenor,Capital Federal,Villa Devoto,,,19,
 -34.6759,-58.5278,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,32,
--34.4425,-58.9073,22,baja,Edenor,Pilar,Pilar,,,23,
--34.656,-58.5963,22,baja,Edenor,Moron,Haedo,,,4,
+-34.656,-58.5963,22,baja,Edenor,Moron,Haedo,,,6,
+-34.5079,-58.6557,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,4,
+-34.5526,-58.4952,22,baja,Edenor,Capital Federal,Saavedra,,,12,
 -34.6054,-58.4902,21,baja,Edesur,Capital,Capital,,,12,
 -34.6779,-58.4044,21,baja,Edesur,Lanus,Valentin Alsina,,,4,
 -34.6257,-58.4426,21,baja,Edesur,Capital,Caballito,,,5,
