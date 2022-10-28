@@ -1,5 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.603838342,-58.403764730,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-2-26/113-2-26,364,Sin Datos
 -34.694452078,-58.350196181,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-16/172-1-16,220,2022-10-28 14:00
 -34.968666828,-58.377487535,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,272,2022-10-28 14:14
 -34.971177676,-58.382173530,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,10,2022-10-28 14:14
@@ -13,39 +12,50 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.967237031,-58.379543305,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,33,2022-10-28 14:14
 -34.968161801,-58.377883886,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,26,2022-10-28 14:14
 -34.966744012,-58.378572321,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,20,2022-10-28 14:14
--34.687342806,-58.530368518,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5532,1,2022-10-28 10:00
--34.833797966,-58.822283015,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5482,2,2022-10-28 10:00
--34.838369702,-58.823803445,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,13,2022-10-28 10:00
--34.685127072,-58.548540951,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5548,49,Sin Datos
--34.893232488,-58.730806302,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-10-28 16:59
+-34.784902577,-58.299878477,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,27,2022-10-28 13:20
+-34.784666128,-58.305760809,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,440,2022-10-28 13:20
+-34.781656947,-58.302080471,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,1,2022-10-28 13:20
+-34.784873279,-58.304791348,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2022-10-28 13:20
+-34.783507906,-58.302562692,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,19,2022-10-28 13:20
+-34.783900768,-58.300061713,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,45,2022-10-28 13:20
+-34.786908904,-58.301909511,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,16,2022-10-28 13:20
+-34.786296780,-58.300976614,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,13,2022-10-28 13:20
+-34.787140021,-58.302307957,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2022-10-28 13:20
+-34.786811904,-58.301776995,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,5,2022-10-28 13:20
+-34.785826460,-58.300189138,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,25,2022-10-28 13:20
+-34.785578453,-58.299777662,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2022-10-28 13:20
+-34.787211402,-58.301630094,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,10,2022-10-28 13:20
+-34.786695188,-58.300942635,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,11,2022-10-28 13:20
+-34.786163239,-58.300333175,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,15,2022-10-28 13:20
+-34.785851240,-58.299472988,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,10,2022-10-28 13:20
+-34.786526487,-58.299989591,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,19,2022-10-28 13:20
+-34.787323629,-58.300360050,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,11,2022-10-28 13:20
+-34.787536023,-58.299927097,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,1,2022-10-28 13:20
+-34.787130450,-58.299412465,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,3,2022-10-28 13:20
+-34.786970340,-58.299019012,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,4,2022-10-28 13:20
+-34.787737362,-58.299969207,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,3,2022-10-28 13:20
+-34.785388226,-58.299464553,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,12,2022-10-28 13:20
+-34.785685711,-58.299626360,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,8,2022-10-28 13:20
+-34.787928229,-58.300581790,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,7,2022-10-28 13:20
+-34.786529122,-58.302258975,11,media,Edesur,Quilmes,San Francisco Solano (Q),Rafael Calzada,R:189-2-24/189-2-24,30,2022-10-28 13:20
+-34.660464977,-58.366350205,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-27/279-2-27,173,2022-10-28 13:31
+-34.652465112,-58.363208569,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-27/279-2-27,14,2022-10-28 13:31
+-34.661428167,-58.367225803,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-27/279-2-27,379,2022-10-28 13:31
+-34.660308220,-58.367301536,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-27/279-2-27,304,2022-10-28 13:31
+-34.653790422,-58.364897695,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-27/279-2-27,236,2022-10-28 13:31
+-34.652623062,-58.363126297,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-27/279-2-27,5,2022-10-28 13:31
+-34.651872719,-58.359927395,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-27/279-2-27,5,2022-10-28 13:31
+-34.649446211,-58.362563327,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-27/279-2-27,7,2022-10-28 13:31
+-34.687342806,-58.530368518,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5532,1,2022-10-28 12:00
+-34.833797966,-58.822283015,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5482,2,Sin Datos
+-34.838369702,-58.823803445,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,13,2022-10-28 12:00
+-34.685127072,-58.548540951,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5548,49,2022-10-28 11:00
+-34.893232488,-58.730806302,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-10-28 12:00
 -34.609316909,-58.830300971,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,107,2022-10-28 11:00
--34.524107183,-58.693226291,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,2,2022-10-28 10:00
--34.881429929,-58.681869344,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5471,1,2022-10-28 10:00
--34.455588023,-59.007733397,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,287,2022-10-28 13:00
--34.459986269,-58.993822639,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,417,2022-10-28 13:00
--34.456272440,-58.999222163,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,802,2022-10-28 13:00
--34.456891046,-59.013328830,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,29,2022-10-28 13:00
--34.446605621,-59.035246422,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,8,2022-10-28 13:00
--34.443219380,-59.037795242,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,1,2022-10-28 13:00
--34.438618018,-59.041361197,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,3,2022-10-28 13:00
--34.446551187,-59.022072833,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,46,2022-10-28 13:00
--34.453079529,-59.006383494,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,169,2022-10-28 13:00
--34.451827503,-59.031140692,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,1,2022-10-28 13:00
--34.449200793,-59.016750936,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,100,2022-10-28 13:00
--34.453784923,-59.016500630,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,3,2022-10-28 13:00
--34.447516475,-59.004460231,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,136,2022-10-28 13:00
--34.450593220,-59.002197463,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,99,2022-10-28 13:00
--34.440719867,-59.014046257,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,41,2022-10-28 13:00
--34.458051211,-59.020107993,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,18,2022-10-28 13:00
--34.460732108,-59.003742197,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,18,2022-10-28 13:00
--34.448737246,-59.010860927,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,55,2022-10-28 13:00
--34.444957224,-59.011248306,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,99,2022-10-28 13:00
--34.456367582,-59.027443112,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,1,2022-10-28 13:00
--34.454090712,-59.003607457,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,243,2022-10-28 13:00
--34.448542293,-59.020525126,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,31,2022-10-28 13:00
--34.439178440,-59.011472564,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,20,2022-10-28 13:00
--34.449808954,-59.007549792,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,141,2022-10-28 13:00
--34.455174363,-59.009891111,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,89,2022-10-28 13:00
+-34.336903623,-58.806960107,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,149,2022-10-28 11:00
+-34.467290893,-58.945581034,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,16,2022-10-28 11:00
+-34.881429929,-58.681869344,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5471,1,2022-10-28 11:00
+-34.527459451,-58.516714358,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5524,236,2022-10-28 11:00
 -34.6952,-58.7737,22,baja,Edenor,Merlo,Merlo,,,29,
 -34.4322,-58.9015,22,baja,Edenor,Pilar,Pilar,,,1,
 -34.6228,-58.8002,22,baja,Edenor,Moreno,Moreno,,,21,
@@ -53,5 +63,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.68,-58.7815,22,baja,Edenor,Merlo,Merlo,,,29,
 -34.5852,-58.5095,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,15,
 -34.6978,-58.7461,22,baja,Edenor,Merlo,Merlo,,,12,
--34.6705,-58.6922,22,baja,Edenor,Merlo,San Antonio De Padua,,,43,
--34.6779,-58.4044,21,baja,Edesur,Lanus,Valentin Alsina,,,5,
+-34.3784,-58.8202,22,baja,Edenor,Escobar,Matheu,,,14,
+-34.6706,-58.6922,22,baja,Edenor,Merlo,San Antonio De Padua,,,73,
+-34.8369,-58.1865,21,baja,Edesur,Berazategui,Gutierrez,,,7,
+-34.9776,-58.3811,21,baja,Edesur,San Vicente,Alejandro Korn,,,1,
