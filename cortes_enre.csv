@@ -13,87 +13,47 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.968161801,-58.377883886,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,26,2022-10-28 14:14
 -34.966744012,-58.378572321,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,20,2022-10-28 14:14
 -34.291534910,-58.727792678,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos
--34.313106161,-58.710119283,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,22,Sin Datos
--34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,17,Sin Datos
--34.329198838,-58.702609965,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos
--34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos
--34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,2,Sin Datos
--34.342866703,-58.693785661,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos
--34.833797966,-58.822283015,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5482,2,Sin Datos
+-34.313106161,-58.710119283,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,22,2022-10-28 14:00
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,17,2022-10-28 14:00
+-34.329198838,-58.702609965,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,2022-10-28 14:00
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,2022-10-28 14:00
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,2,2022-10-28 14:00
+-34.342866703,-58.693785661,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,2022-10-28 14:00
+-34.833797966,-58.822283015,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5482,2,2022-10-28 14:00
 -34.838369702,-58.823803445,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,13,2022-10-28 13:00
--34.685127072,-58.548540951,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5548,49,2022-10-28 13:00
+-34.685127072,-58.548540951,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5548,49,2022-10-28 14:00
 -34.893232488,-58.730806302,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-10-28 13:00
 -34.468513777,-58.798617194,12,media,Edenor,Pilar,Del Viso,S/D,R:Delviso/251-Tr2/251-5534,118,2022-10-28 13:00
 -34.336903623,-58.806960107,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,149,2022-10-28 13:00
--34.881429929,-58.681869344,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5471,1,Sin Datos
--34.414342323,-58.985318730,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.420158699,-58.977736310,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.418619494,-58.981486828,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.419568386,-58.970889876,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.426647573,-58.969905677,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.423224184,-58.973746955,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,10,2022-10-28 15:00
--34.428492220,-58.967804574,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,4,2022-10-28 15:00
--34.428752614,-58.967361099,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.429598113,-58.966980920,12,media,Edenor,S/D,S/D,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.427450259,-58.967186796,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,7,2022-10-28 15:00
--34.432457985,-58.963183627,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.431831544,-58.964495844,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,6,2022-10-28 15:00
--34.432895222,-58.964545579,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,3,2022-10-28 15:00
--34.418331626,-58.982403956,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,2,2022-10-28 15:00
--34.431098036,-58.964110344,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.429932459,-58.963622336,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.424451024,-58.976945366,12,media,Edenor,S/D,S/D,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.413947408,-58.983352229,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.421685239,-58.956800908,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.424244952,-58.964964260,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,3,2022-10-28 15:00
--34.421026342,-58.980318653,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.427150522,-58.975845903,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.426670794,-58.961430785,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.416562443,-58.983633374,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.423132874,-58.960891535,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,3,2022-10-28 15:00
--34.419342241,-58.980938789,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.421581925,-58.957581736,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.419893713,-58.968700981,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,3,2022-10-28 15:00
--34.422861404,-58.961103982,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.421983793,-58.968431781,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.418331626,-58.982403956,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.427762614,-58.962157134,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.428778244,-58.962881997,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.415516441,-58.978802142,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.425460643,-58.977118647,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.419540401,-58.977780397,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.423372729,-58.977952530,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.425650590,-58.976903512,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 15:00
--34.495519710,-58.622207982,12,media,Edenor,Tigre,Don Torcuato,S/D,N:Pilar/158-Tr4/158-5482,175,2022-10-28 15:00
--34.486773804,-58.622955524,12,media,Edenor,Tigre,Don Torcuato,S/D,N:Pilar/158-Tr4/158-5482,68,2022-10-28 15:00
--34.497168982,-58.626168094,12,media,Edenor,Tigre,Don Torcuato,S/D,N:Pilar/158-Tr4/158-5482,209,2022-10-28 15:00
--34.498068791,-58.619036266,12,media,Edenor,Tigre,Don Torcuato,S/D,N:Pilar/158-Tr4/158-5482,329,2022-10-28 15:00
--34.499475625,-58.628188894,12,media,Edenor,Tigre,Don Torcuato,S/D,N:Pilar/158-Tr4/158-5482,349,2022-10-28 15:00
--34.500530913,-58.633545431,12,media,Edenor,Tigre,Don Torcuato,S/D,N:Pilar/158-Tr4/158-5482,395,2022-10-28 15:00
--34.420921252,-58.975012800,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,5,2022-10-28 15:00
--34.562685674,-58.443012460,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,258,2022-10-28 16:00
--34.558299128,-58.440883361,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,342,2022-10-28 16:00
--34.558038603,-58.442452314,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,77,2022-10-28 16:00
--34.557217065,-58.439574127,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,173,2022-10-28 16:00
--34.555608045,-58.438972681,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,34,2022-10-28 16:00
--34.559035017,-58.442918798,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,134,2022-10-28 16:00
--34.555419311,-58.437640112,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,66,2022-10-28 16:00
--34.557140637,-58.440813793,12,media,Edenor,S/D,S/D,S/D,R:Aguas/129-Tr2/129-5524,102,2022-10-28 16:00
--34.562992649,-58.443876606,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,249,2022-10-28 16:00
--34.556198992,-58.439300967,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,39,2022-10-28 16:00
--34.555990856,-58.437379467,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,27,2022-10-28 16:00
--34.557112675,-58.438918640,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,139,2022-10-28 16:00
--34.6952,-58.7737,22,baja,Edenor,Merlo,Merlo,,,29,
--34.6228,-58.8002,22,baja,Edenor,Moreno,Moreno,,,21,
+-34.881429929,-58.681869344,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5471,1,2022-10-28 14:00
+-34.419568386,-58.970889876,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 14:00
+-34.426647573,-58.969905677,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 14:00
+-34.423224184,-58.973746955,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,10,2022-10-28 14:00
+-34.428492220,-58.967804574,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,4,2022-10-28 14:00
+-34.428752614,-58.967361099,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 14:00
+-34.429598113,-58.966980920,12,media,Edenor,S/D,S/D,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 14:00
+-34.427450259,-58.967186796,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,7,2022-10-28 14:00
+-34.432457985,-58.963183627,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 14:00
+-34.431831544,-58.964495844,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,6,2022-10-28 14:00
+-34.432895222,-58.964545579,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,3,2022-10-28 14:00
+-34.431098036,-58.964110344,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 14:00
+-34.415516441,-58.978802142,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,1,2022-10-28 14:00
+-34.420921252,-58.975012800,12,media,Edenor,Pilar,Fatima,S/D,N:Pilar/158-Tr4/158-5482,5,2022-10-28 13:00
+-34.562685674,-58.443012460,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,258,Sin Datos
+-34.559035017,-58.442918798,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,134,Sin Datos
+-34.555419311,-58.437640112,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,66,Sin Datos
+-34.562992649,-58.443876606,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,249,Sin Datos
+-34.555990856,-58.437379467,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,27,Sin Datos
+-34.557112675,-58.438918640,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Aguas/129-Tr2/129-5524,139,Sin Datos
 -34.68,-58.7815,22,baja,Edenor,Merlo,Merlo,,,29,
--34.6903,-58.4964,22,baja,Edenor,La Matanza,Villa Madero,,,5,
--34.5791,-58.4442,22,baja,Edenor,Capital Federal,Colegiales,,,9,
+-34.6903,-58.4964,22,baja,Edenor,La Matanza,Villa Madero,,,6,
+-34.554,-58.4742,22,baja,Edenor,Capital Federal,Nu?Ez,,,5,
 -34.479,-58.5395,22,baja,Edenor,San Isidro,San Isidro,,,22,
 -34.3811,-58.8209,22,baja,Edenor,Escobar,Matheu,,,14,
--34.7595,-58.671,22,baja,Edenor,Merlo,Pontevedra,,,12,
+-34.5597,-58.4433,22,baja,Edenor,Capital Federal,Belgrano,,,1,
 -34.6088,-58.4025,21,baja,Edesur,Capital,Balvanera,,,5,
--34.8369,-58.1865,21,baja,Edesur,Berazategui,Gutierrez,,,23,
--34.8024,-58.4502,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,3,
+-34.8369,-58.1865,21,baja,Edesur,Berazategui,Gutierrez,,,25,
+-34.8024,-58.4502,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,
 -34.822,-58.3514,21,baja,Edesur,Almirante Brown,Claypole,,,5,
--34.7809,-58.3749,21,baja,Edesur,Almirante Brown,Marmol,,,41,
+-34.7809,-58.3749,21,baja,Edesur,Almirante Brown,Marmol,,,42,
 -34.6791,-58.4194,21,baja,Edesur,Lanus,Valentin Alsina,,,1,
