@@ -1,6 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--35.004320408,-58.389572492,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,5,2022-10-29 22:34
--35.038387743,-58.330881667,11,media,Edesur,San Vicente,Domselaar,Canuelas,R:271-3-72/271-3-72,49,2022-10-29 22:34
 -35.122361217,-58.577147776,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-3-72/271-3-72,1,2022-10-29 22:34
 -34.788927271,-58.199869102,11,media,Edesur,Berazategui,Ranelagh,Rigolleau,N:179-1-18/179-1-18,282,2022-10-30 01:31
 -34.793261590,-58.200553166,11,media,Edesur,Berazategui,Ranelagh,Rigolleau,N:179-1-18/179-1-18,290,2022-10-30 01:31
@@ -12,7 +10,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.698983914,-58.752943073,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,219,2022-10-29 21:00
 -34.700402635,-58.755043881,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,316,2022-10-29 21:00
 -34.700190080,-58.751260593,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,89,2022-10-29 21:00
--34.432576237,-58.688736834,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5546,254,2022-10-29 21:00
+-34.432576237,-58.688736834,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5546,254,2022-10-29 22:00
 -34.400662143,-58.599294013,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-10-29 21:00
 -34.386988105,-58.615600243,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,22,2022-10-29 21:00
 -34.404243945,-58.595261453,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,29,2022-10-29 21:00
@@ -57,7 +55,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5439,-58.4959,22,baja,Edenor,Vicente Lopez,Florida,,,16,
 -34.3565,-58.809,22,baja,Edenor,Escobar,Escobar,,,7,
 -34.5699,-58.4456,22,baja,Edenor,Capital Federal,Palermo,,,4,
--34.6952,-58.7737,22,baja,Edenor,Merlo,Merlo,,,6,
+-34.6581,-58.763,22,baja,Edenor,Moreno,Paso Del Rey,,,6,
 -34.785,-58.3914,21,baja,Edesur,Lomas De Zamora,Temperley,,,39,
 -34.6045,-58.4214,21,baja,Edesur,Capital,Almagro,,,10,
 -34.8553,-58.5515,21,baja,Edesur,Ezeiza,Barrio La Union,,,5,
