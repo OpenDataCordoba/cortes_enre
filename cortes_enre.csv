@@ -15,14 +15,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.908164929,-58.436062011,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18/277-4-44,1,2022-10-30 15:44
 -34.945340438,-58.459612225,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-18/277-1-18/277-4-44,6,2022-10-30 15:44
 -34.940537421,-58.451770454,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-18/277-1-18/277-4-44,1,2022-10-30 15:44
--34.698983914,-58.752943073,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,219,Sin Datos
--34.700402635,-58.755043881,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,316,Sin Datos
--34.700190080,-58.751260593,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,89,Sin Datos
--34.589480078,-58.559551405,12,media,Edenor,Gral San Martin,Villa Libertad,S/D,R:Migueletes/54-Tr1/54-5543,95,Sin Datos
+-34.698983914,-58.752943073,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,219,2022-10-30 12:00
+-34.700402635,-58.755043881,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,316,2022-10-30 12:00
+-34.700190080,-58.751260593,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,89,2022-10-30 12:00
+-34.589480078,-58.559551405,12,media,Edenor,Gral San Martin,Villa Libertad,S/D,R:Migueletes/54-Tr1/54-5543,95,2022-10-30 13:00
 -34.590714449,-58.888591770,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5521,64,Sin Datos
 -34.586764431,-58.892453991,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5521,1,Sin Datos
--34.718852355,-58.588416363,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5518,358,Sin Datos
--34.638162674,-58.945187241,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,Sin Datos
+-34.718852355,-58.588416363,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5518,358,2022-10-30 12:00
+-34.638162674,-58.945187241,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-10-30 13:00
 -34.400662143,-58.599294013,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos
 -34.386988105,-58.615600243,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,22,Sin Datos
 -34.404243945,-58.595261453,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,29,Sin Datos
@@ -62,20 +62,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.297655830,-58.635144163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos
 -34.384107956,-58.615460053,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,30,Sin Datos
 -34.576606214,-58.707950189,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,2,2022-10-30 13:00
--34.320098855,-58.623662991,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,2022-10-30 13:00
--34.276416428,-58.624711292,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2022-10-30 13:00
--34.321026055,-58.617681082,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-10-30 13:00
--34.315145147,-58.615980435,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-10-30 13:00
--34.345438931,-58.623981156,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,43,2022-10-30 13:00
--34.327509779,-58.622201755,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,31,2022-10-30 13:00
--34.309511824,-58.620832228,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,14,2022-10-30 13:00
--34.295742595,-58.623737731,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,38,2022-10-30 13:00
--34.280547217,-58.631004795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,10,2022-10-30 13:00
--34.280325788,-58.633355838,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,2022-10-30 13:00
--34.315019207,-58.620052647,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,2022-10-30 13:00
--34.273909103,-58.631289417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2022-10-30 13:00
--34.320122383,-58.616231818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2022-10-30 13:00
--34.334977758,-58.623286818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-10-30 13:00
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
 -34.242768729,-58.599861242,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
@@ -346,16 +332,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.189682571,-58.407255354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
 -34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
 -34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
--34.604592612,-58.896269703,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5521,107,Sin Datos
+-34.604592612,-58.896269703,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5521,107,2022-10-30 13:00
 -34.4945,-58.7319,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,4,
 -34.5699,-58.4456,22,baja,Edenor,Capital Federal,Palermo,,,1,
--34.3606,-58.8067,22,baja,Edenor,Escobar,Escobar,,,7,
 -34.5736,-58.5002,22,baja,Edenor,Capital Federal,Villa Urquiza,,,8,
 -34.5957,-58.4665,22,baja,Edenor,Capital Federal,La Paternal,,,5,
--34.6094,-58.815,22,baja,Edenor,Moreno,Moreno,,,63,
 -34.6092,-58.7717,22,baja,Edenor,Moreno,Moreno,,,25,
 -34.7182,-58.614,22,baja,Edenor,La Matanza,Rafael Castillo,,,7,
--34.5807,-58.4326,22,baja,Edenor,Capital Federal,Palermo,,,39,
 -34.5545,-58.476,22,baja,Edenor,Capital Federal,Saavedra,,,8,
 -34.639,-58.4189,21,baja,Edesur,Capital,Boedo,,,9,
 -34.8003,-58.2642,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
