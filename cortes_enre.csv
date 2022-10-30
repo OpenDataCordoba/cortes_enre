@@ -7,8 +7,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.700190080,-58.751260593,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,89,2022-10-30 09:00
 -34.590714449,-58.888591770,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5521,64,2022-10-30 09:00
 -34.586764431,-58.892453991,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5521,1,2022-10-30 09:00
--34.718852355,-58.588416363,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5518,358,2022-10-30 12:00
--34.628445314,-58.694138771,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:San Alberto/366-Tr2/366-5527,45,2022-10-30 09:00
+-34.718852355,-58.588416363,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5518,358,2022-10-30 10:00
+-34.628445314,-58.694138771,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:San Alberto/366-Tr2/366-5527,45,Sin Datos
 -34.400662143,-58.599294013,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos
 -34.386988105,-58.615600243,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,22,Sin Datos
 -34.404243945,-58.595261453,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,29,Sin Datos
@@ -47,6 +47,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.276996127,-58.639840258,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,Sin Datos
 -34.297655830,-58.635144163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos
 -34.384107956,-58.615460053,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,30,Sin Datos
+-34.578804236,-58.708362937,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,178,2022-10-30 12:00
+-34.571128781,-58.706413883,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,30,2022-10-30 12:00
+-34.574156237,-58.707543907,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,40,2022-10-30 12:00
+-34.574718910,-58.708416123,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,248,2022-10-30 12:00
+-34.570355313,-58.707437694,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,147,2022-10-30 12:00
+-34.576606214,-58.707950189,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,2,2022-10-30 12:00
+-34.579738980,-58.704968640,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,55,2022-10-30 12:00
+-34.577559816,-58.711135696,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5516,129,2022-10-30 12:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-10-30 09:00
 -34.258289540,-58.647205781,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-10-30 09:00
 -34.253127027,-58.615077823,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2022-10-30 09:00
@@ -193,4 +201,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6092,-58.7717,22,baja,Edenor,Moreno,Moreno,,,25,
 -34.7541,-58.6403,22,baja,Edenor,La Matanza,Gonzalez Catan,,,11,
 -34.4784,-58.9209,22,baja,Edenor,Pilar,Pilar,,,15,
+-34.5841,-58.6876,22,baja,Edenor,San Miguel,Bella Vista,,,21,
 -34.639,-58.4189,21,baja,Edesur,Capital,Boedo,,,5,
