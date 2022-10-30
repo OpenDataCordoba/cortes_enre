@@ -1,11 +1,12 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--35.122361217,-58.577147776,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-3-72/271-3-72,1,Sin Datos
--34.621853721,-58.401381465,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-1-18/015-1-18,2,2022-10-30 00:24
--34.622726585,-58.400673165,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-1-18/015-1-18,23,2022-10-30 00:24
--34.623239424,-58.400058047,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-1-18/015-1-18,128,2022-10-30 00:24
--34.698983914,-58.752943073,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,219,2022-10-29 23:00
--34.700402635,-58.755043881,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,316,2022-10-29 23:00
--34.700190080,-58.751260593,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,89,2022-10-29 23:00
+-35.122361217,-58.577147776,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-3-72/271-3-72,1,2022-10-30 04:34
+-34.621853721,-58.401381465,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-1-18/015-1-18,2,2022-10-30 06:24
+-34.622726585,-58.400673165,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-1-18/015-1-18,23,2022-10-30 06:24
+-34.623239424,-58.400058047,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-1-18/015-1-18,128,2022-10-30 06:24
+-34.621771046,-58.441598628,11,media,Edesur,Capital Rp,Caballito Rp,Caballito,R:122-4-43/122-4-43,96,2022-10-30 04:29
+-34.698983914,-58.752943073,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,219,2022-10-30 02:00
+-34.700402635,-58.755043881,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,316,2022-10-30 02:00
+-34.700190080,-58.751260593,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,89,2022-10-30 02:00
 -34.400662143,-58.599294013,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos
 -34.386988105,-58.615600243,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,22,Sin Datos
 -34.404243945,-58.595261453,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,29,Sin Datos
@@ -44,15 +45,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.276996127,-58.639840258,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,Sin Datos
 -34.297655830,-58.635144163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos
 -34.384107956,-58.615460053,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,30,Sin Datos
--34.392138972,-58.743086241,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5518,1,2022-10-30 00:00
+-34.550281625,-58.516227194,12,media,Edenor,Vicente Lopez,Villa Martelli,S/D,R:Munro/55-Tr2/55-5531,328,2022-10-30 02:00
+-34.550222587,-58.512291706,12,media,Edenor,Vicente Lopez,Villa Martelli,S/D,R:Munro/55-Tr2/55-5531,111,2022-10-30 02:00
+-34.548503176,-58.518594502,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5531,198,2022-10-30 02:00
+-34.549743538,-58.521062684,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5531,1,2022-10-30 02:00
+-34.550313722,-58.522294633,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5531,47,2022-10-30 02:00
 -34.4945,-58.7319,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,4,
--34.5699,-58.4456,22,baja,Edenor,Capital Federal,Palermo,,,5,
--34.6581,-58.763,22,baja,Edenor,Moreno,Paso Del Rey,,,6,
+-34.5699,-58.4456,22,baja,Edenor,Capital Federal,Palermo,,,1,
+-34.6581,-58.763,22,baja,Edenor,Moreno,Paso Del Rey,,,7,
 -34.5957,-58.4665,22,baja,Edenor,Capital Federal,La Paternal,,,5,
 -34.6094,-58.815,22,baja,Edenor,Moreno,Moreno,,,63,
 -34.6092,-58.7717,22,baja,Edenor,Moreno,Moreno,,,25,
 -34.5539,-58.6976,22,baja,Edenor,San Miguel,Muñiz,,,38,
+-34.7541,-58.6403,22,baja,Edenor,La Matanza,Gonzalez Catan,,,11,
 -34.6952,-58.7737,22,baja,Edenor,Merlo,Merlo,,,29,
 -34.8553,-58.5515,21,baja,Edesur,Ezeiza,Barrio La Union,,,7,
--34.8958,-58.3885,21,baja,Edesur,Almirante Brown,Glew,,,7,
--34.6013,-58.3989,21,baja,Edesur,Capital,Balvanera,,,1,
+-34.8958,-58.3885,21,baja,Edesur,Almirante Brown,Glew,,,8,
+-34.639,-58.4189,21,baja,Edesur,Capital,Boedo,,,5,
