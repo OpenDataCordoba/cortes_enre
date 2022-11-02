@@ -1,16 +1,16 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.835091496,-58.266228423,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,169,2022-11-02 13:08
--34.832660406,-58.261571218,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,7,2022-11-02 13:08
--34.837480625,-58.254867298,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,5,2022-11-02 13:08
--34.827710908,-58.252170689,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,2,2022-11-02 13:08
--34.837658594,-58.261404351,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,22,2022-11-02 13:08
--34.833949627,-58.260312305,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,3,2022-11-02 13:08
--34.840354800,-58.262896057,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,186,2022-11-02 13:08
--34.842235954,-58.260571037,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,124,2022-11-02 13:08
--34.841295855,-58.261727661,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,78,2022-11-02 13:08
--34.833870457,-58.266986570,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,171,2022-11-02 13:08
--34.834606160,-58.268407461,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,182,2022-11-02 13:08
--34.838004702,-58.259983604,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,3,2022-11-02 13:08
+-34.835091496,-58.266228423,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,169,Sin Datos
+-34.832660406,-58.261571218,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,7,Sin Datos
+-34.837480625,-58.254867298,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,5,Sin Datos
+-34.827710908,-58.252170689,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,2,Sin Datos
+-34.837658594,-58.261404351,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,22,Sin Datos
+-34.833949627,-58.260312305,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,3,Sin Datos
+-34.840354800,-58.262896057,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,186,Sin Datos
+-34.842235954,-58.260571037,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,124,Sin Datos
+-34.841295855,-58.261727661,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,78,Sin Datos
+-34.833870457,-58.266986570,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,171,Sin Datos
+-34.834606160,-58.268407461,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,182,Sin Datos
+-34.838004702,-58.259983604,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25,3,Sin Datos
 -35.029215395,-58.442983312,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,2022-11-02 16:17
 -35.029683192,-58.442907483,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,2022-11-02 16:17
 -35.030562530,-58.440316351,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,2022-11-02 16:17
@@ -290,26 +290,24 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.170382964,-58.431958659,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-11-02 14:00
 -34.189682571,-58.407255354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-11-02 14:00
 -34.523564847,-58.540753094,12,media,Edenor,Vicente Lopez,Villa Adelina (Vl),S/D,R:V.Adelina/155-Tr1/155-5516,425,2022-11-02 14:00
--34.809825338,-58.642450053,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,329,Sin Datos
--34.667422816,-58.559166691,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5545,289,Sin Datos
+-34.667422816,-58.559166691,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5545,289,2022-11-02 14:00
 -34.838177917,-58.694830497,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-11-02 14:00
 -34.893232488,-58.730806302,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-11-02 14:00
--34.799799193,-58.859250500,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,13,2022-11-02 13:00
--34.885203712,-58.954216671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-11-02 13:00
--34.482773469,-58.938722552,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,9,2022-11-02 13:00
+-34.799799193,-58.859250500,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,13,2022-11-02 14:00
+-34.885203712,-58.954216671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-11-02 15:00
+-34.482773469,-58.938722552,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,9,2022-11-02 14:00
 -34.572423847,-58.730456304,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,336,Sin Datos
 -34.573765608,-58.727781669,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,151,Sin Datos
 -34.574820117,-58.726320597,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,147,Sin Datos
--34.455988252,-58.700723894,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5516/151-5524/151-5533,15,2022-11-02 14:00
--34.385104728,-58.637654748,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5522,32,2022-11-02 14:00
--34.389743007,-58.641002459,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5522,48,2022-11-02 14:00
--34.6531,-58.5689,22,baja,Edenor,La Matanza,Ramos Mejia,,,5,
+-34.691193433,-58.552379680,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5534,129,Sin Datos
+-34.385104728,-58.637654748,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5522,32,Sin Datos
+-34.389743007,-58.641002459,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5522,48,Sin Datos
 -34.4613,-58.698,22,baja,Edenor,Malvinas Argentinas,El Triangulo,,,7,
 -34.5514,-58.4629,22,baja,Edenor,Capital Federal,Nu?Ez,,,33,
--34.6227,-58.7937,22,baja,Edenor,Moreno,Moreno,,,1,
 -34.9458,-58.7579,22,baja,Edenor,Marcos Paz,Marcos Paz,,,9,
--34.6231,-58.6238,22,baja,Edenor,Hurlingham,Villa Tesei,,,1,
+-34.6231,-58.6238,22,baja,Edenor,Hurlingham,Villa Tesei,,,2,
 -34.7403,-58.5777,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,99,
+-34.6926,-58.7715,22,baja,Edenor,Merlo,Merlo,,,29,
 -34.582,-58.7935,22,baja,Edenor,Moreno,Cuartel V,,,5,
 -34.8091,-58.1897,21,baja,Edesur,Berazategui,Berazategui,,,42,
 -34.6285,-58.3712,21,baja,Edesur,Capital,Barracas,,,19,
@@ -318,6 +316,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6283,-58.4744,21,baja,Edesur,Capital,Flores,,,5,
 -34.5945,-58.3847,21,baja,Edesur,Capital,Retiro,,,1,
 -34.6309,-58.4401,21,baja,Edesur,Capital,Parque Chacabuco,,,2,
--34.7558,-58.2889,21,baja,Edesur,Quilmes,Quilmes,,,9,
--34.7992,-58.2708,21,baja,Edesur,Florencio Varela,Florencio Varela,,,21,
+-34.7558,-58.2889,21,baja,Edesur,Quilmes,Quilmes,,,10,
+-34.7992,-58.2708,21,baja,Edesur,Florencio Varela,Florencio Varela,,,27,
 -34.6213,-58.4067,21,baja,Edesur,Capital,San Cristobal,,,1,
