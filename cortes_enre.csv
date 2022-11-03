@@ -2,20 +2,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.803489523,-58.343412812,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-1-11/189-1-11,316,Sin Datos
 -34.805338975,-58.346810392,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-1-11/189-1-11,310,Sin Datos
 -34.801305468,-58.339472895,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-1-11/189-1-11,80,Sin Datos
--34.866917158,-58.674977997,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,8,2022-11-03 13:00
--34.865916425,-58.673746545,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,52,2022-11-03 13:00
+-34.866917158,-58.674977997,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,8,Sin Datos
+-34.865916425,-58.673746545,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,52,2022-11-03 15:00
 -34.734329439,-58.588479976,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,348,2022-11-03 14:00
 -34.728800450,-58.595537854,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,500,2022-11-03 14:00
 -34.727343856,-58.597235332,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,131,2022-11-03 14:00
 -34.726665357,-58.593681513,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,72,2022-11-03 14:00
 -34.733664985,-58.589684592,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,275,2022-11-03 14:00
 -34.731097483,-58.591014472,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,422,2022-11-03 14:00
--34.761027296,-58.696466662,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5523,267,2022-11-03 13:00
--34.637499520,-58.867480504,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,213,2022-11-03 14:00
--34.540326179,-58.861945015,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,5,2022-11-03 13:00
--34.537943197,-58.857170880,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2022-11-03 13:00
+-34.761027296,-58.696466662,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5523,267,2022-11-03 15:00
+-34.637499520,-58.867480504,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,213,Sin Datos
+-34.540326179,-58.861945015,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,5,2022-11-03 14:00
+-34.537943197,-58.857170880,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2022-11-03 14:00
 -34.340779192,-58.763653812,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,14,2022-11-03 14:00
--34.617325535,-58.658298287,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Moron/67-Tr5/67-5545,1,2022-11-03 14:00
+-34.617325535,-58.658298287,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Moron/67-Tr5/67-5545,1,Sin Datos
 -34.592517586,-58.941074513,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5562,97,2022-11-03 14:00
 -34.594435697,-58.939662329,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5562,134,2022-11-03 14:00
 -34.590937125,-58.944285283,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5562,265,2022-11-03 14:00
@@ -32,4 +32,3 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6321,-58.4438,21,baja,Edesur,Capital,Parque Chacabuco,,,5,
 -34.6549,-58.4647,21,baja,Edesur,Capital,Capital,,,18,
 -34.6353,-58.3608,21,baja,Edesur,Capital,La Boca,,,19,
--34.9485,-58.2674,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
