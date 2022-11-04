@@ -12,58 +12,48 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.884468973,-58.338284941,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Canuelas,R:271-3-72/271-3-72,98,2022-11-04 19:10
 -34.658777309,-58.416768709,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-27/039-2-27,240,2022-11-04 20:46
 -34.657186008,-58.417785101,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-27/039-2-27,126,2022-11-04 20:46
--34.866917158,-58.674977997,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,8,Sin Datos
--34.690725395,-58.519311462,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5531,2,2022-11-04 19:00
--34.584112370,-58.447274432,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5566,95,2022-11-04 20:00
--34.583706093,-58.447904928,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5566,149,2022-11-04 20:00
--34.808878333,-58.657709828,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,42,Sin Datos
--34.811348019,-58.657567194,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,18,Sin Datos
--34.813759400,-58.660822091,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,27,Sin Datos
--34.808369488,-58.664184567,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,21,Sin Datos
--34.805084376,-58.673528651,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,10,Sin Datos
--34.804777190,-58.668686750,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.245765531,-58.751234918,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,11,2022-11-04 19:00
--34.235526966,-58.792870242,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,4,2022-11-04 19:00
--34.238961887,-58.784835650,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,4,2022-11-04 19:00
--34.242269923,-58.772051681,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,2022-11-04 19:00
+-34.623267076,-58.391475123,11,media,Edesur,Capital Rp,Constitucion,Patricios,R:015-2-26/015-2-26,406,2022-11-04 22:06
+-34.626210917,-58.393429513,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,768,2022-11-04 22:06
+-34.627148856,-58.395594372,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,379,2022-11-04 22:06
+-34.624423586,-58.401023432,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,3,2022-11-04 22:06
+-34.624252729,-58.390381095,11,media,Edesur,Capital Rp,Constitucion,Patricios,R:015-2-26/015-2-26,410,2022-11-04 22:06
+-34.627759087,-58.396617037,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,99,2022-11-04 22:06
+-34.630281180,-58.397027946,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-26/015-2-26,113,2022-11-04 22:06
+-34.627558670,-58.399410552,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,328,2022-11-04 22:06
+-34.625107740,-58.392522046,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,208,2022-11-04 22:06
+-34.623035877,-58.388674613,11,media,Edesur,Capital Rp,Constitucion,Patricios,R:015-2-26/015-2-26,249,2022-11-04 22:06
+-34.625358825,-58.401452629,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,310,2022-11-04 22:06
+-34.623806805,-58.400490004,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,683,2022-11-04 22:06
+-34.866917158,-58.674977997,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,8,2022-11-04 20:00
+-34.690725395,-58.519311462,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5531,2,Sin Datos
+-34.584112370,-58.447274432,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5566,95,2022-11-04 19:00
+-34.808878333,-58.657709828,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,42,2022-11-04 20:00
+-34.811348019,-58.657567194,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,18,2022-11-04 20:00
+-34.813759400,-58.660822091,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,27,2022-11-04 20:00
+-34.808369488,-58.664184567,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,21,2022-11-04 20:00
+-34.805084376,-58.673528651,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,10,2022-11-04 20:00
+-34.804777190,-58.668686750,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2022-11-04 20:00
+-34.245765531,-58.751234918,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,11,2022-11-04 20:00
+-34.235526966,-58.792870242,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,4,2022-11-04 20:00
+-34.238961887,-58.784835650,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,4,2022-11-04 20:00
+-34.242269923,-58.772051681,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,2022-11-04 20:00
 -34.588824470,-58.921466973,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5543,66,Sin Datos
 -34.586058437,-58.917873862,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5543,32,Sin Datos
 -34.472590360,-58.887924283,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5532,63,2022-11-04 19:00
--34.679592354,-58.509575315,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,313,Sin Datos
--34.336099825,-58.812054493,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,29,2022-11-04 19:00
--34.334882310,-58.803149333,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,228,2022-11-04 19:00
--34.327530963,-58.795863774,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,12,2022-11-04 19:00
--34.325988624,-58.812667482,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,9,2022-11-04 19:00
--34.326866089,-58.801530766,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,3,2022-11-04 19:00
--34.317476839,-58.821415846,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,2,2022-11-04 19:00
--34.311612524,-58.824834417,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,10,2022-11-04 19:00
--34.331268278,-58.800529009,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,155,2022-11-04 19:00
--34.320153235,-58.812608795,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,22,2022-11-04 19:00
--34.327383240,-58.815004169,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,2,2022-11-04 19:00
--34.317754935,-58.813843939,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,13,2022-11-04 19:00
--34.330660593,-58.811503223,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,111,2022-11-04 19:00
--34.337922212,-58.809099393,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,150,2022-11-04 19:00
--34.336460355,-58.806288267,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,23,2022-11-04 19:00
--34.316763933,-58.804324637,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,3,2022-11-04 19:00
--34.314968882,-58.801972005,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,2,2022-11-04 19:00
--34.311089641,-58.808776784,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,6,2022-11-04 19:00
--34.329965705,-58.816781297,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,5,2022-11-04 19:00
--34.322601847,-58.810776655,12,media,Edenor,Escobar,Garin,S/D,R:Matheu/51-Tr3/51-5474/4-5512,11,2022-11-04 19:00
--34.345680403,-58.792556283,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr3/51-5474/4-5512,49,2022-11-04 19:00
--34.336903623,-58.806960107,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,149,2022-11-04 19:00
--34.337221997,-58.804483594,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,118,2022-11-04 19:00
--34.333075349,-58.798462870,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,225,2022-11-04 19:00
--34.340842360,-58.808445479,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,91,2022-11-04 19:00
--34.345164479,-58.795311310,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,1,2022-11-04 19:00
--34.330860477,-58.816019721,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,20,2022-11-04 19:00
--34.561631273,-58.696853101,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,94,2022-11-04 20:00
--34.564986635,-58.688813634,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,91,2022-11-04 20:00
--34.557742275,-58.708866503,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Moron/67-Tr4/67-5524,239,2022-11-04 20:00
--34.572490281,-58.695634121,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,151,2022-11-04 20:00
--34.566832573,-58.695887616,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,230,2022-11-04 20:00
--34.559549882,-58.699637394,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,254,2022-11-04 20:00
--34.563197372,-58.701500826,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,361,2022-11-04 20:00
--34.564838868,-58.698160899,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,133,2022-11-04 20:00
+-34.679592354,-58.509575315,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,313,2022-11-04 19:00
+-34.327530963,-58.795863774,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,12,Sin Datos
+-34.316763933,-58.804324637,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,3,Sin Datos
+-34.314968882,-58.801972005,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,2,Sin Datos
+-34.311089641,-58.808776784,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,6,Sin Datos
+-34.345680403,-58.792556283,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr3/51-5474/4-5512,49,Sin Datos
+-34.561631273,-58.696853101,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,94,2022-11-04 19:00
+-34.564986635,-58.688813634,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,91,2022-11-04 19:00
+-34.557742275,-58.708866503,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Moron/67-Tr4/67-5524,239,2022-11-04 19:00
+-34.572490281,-58.695634121,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,151,2022-11-04 19:00
+-34.566832573,-58.695887616,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,230,2022-11-04 19:00
+-34.559549882,-58.699637394,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,254,2022-11-04 19:00
+-34.563197372,-58.701500826,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,361,2022-11-04 19:00
+-34.564838868,-58.698160899,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,133,2022-11-04 19:00
 -34.4944,-58.7035,22,baja,Edenor,Malvinas Argentinas,Malvinas Argentinas,,,10,
 -34.3162,-58.7595,22,baja,Edenor,Escobar,Escobar,,,7,
 -34.3537,-58.7957,22,baja,Edenor,Escobar,Escobar,,,38,
