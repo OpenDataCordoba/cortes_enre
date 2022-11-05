@@ -1,43 +1,16 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604278552,-58.373887604,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-2-03/022-2-03,19,2022-11-04 23:00
--34.604262390,-58.373145991,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-2-03/022-2-03,1,2022-11-04 23:00
--34.658777309,-58.416768709,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-27/039-2-27,240,2022-11-04 20:46
--34.657186008,-58.417785101,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-27/039-2-27,126,2022-11-04 20:46
--34.624423586,-58.401023432,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,3,2022-11-05 00:22
--34.627558670,-58.399410552,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,328,2022-11-05 00:22
--34.625358825,-58.401452629,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,310,2022-11-05 00:22
--34.623806805,-58.400490004,11,media,Edesur,Capital Rp,San Cristobal,Patricios,R:015-2-26/015-2-26,683,2022-11-05 00:22
--34.866917158,-58.674977997,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,8,Sin Datos
--34.690725395,-58.519311462,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5531,2,2022-11-04 21:00
--34.584112370,-58.447274432,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5566,95,2022-11-04 21:00
+-34.604278552,-58.373887604,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-2-03/022-2-03,19,2022-11-05 03:21
+-34.604262390,-58.373145991,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-2-03/022-2-03,1,2022-11-05 03:21
+-34.866917158,-58.674977997,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,8,2022-11-05 00:00
+-34.690725395,-58.519311462,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5531,2,2022-11-04 23:00
+-34.584112370,-58.447274432,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5566,95,2022-11-04 23:00
 -34.245765531,-58.751234918,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,11,Sin Datos
 -34.235526966,-58.792870242,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,4,Sin Datos
 -34.238961887,-58.784835650,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,4,Sin Datos
 -34.242269923,-58.772051681,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos
--34.588824470,-58.921466973,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5543,66,Sin Datos
--34.586058437,-58.917873862,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5543,32,Sin Datos
--34.472590360,-58.887924283,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5532,63,Sin Datos
--34.679592354,-58.509575315,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,313,2022-11-04 21:00
--34.327530963,-58.795863774,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,12,Sin Datos
--34.316763933,-58.804324637,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,3,Sin Datos
--34.314968882,-58.801972005,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,2,Sin Datos
--34.311089641,-58.808776784,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,6,Sin Datos
--34.754457179,-58.642671459,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,301,2022-11-04 21:00
--34.756463841,-58.645089786,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,261,2022-11-04 21:00
--34.751195105,-58.638967742,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,301,2022-11-04 21:00
--34.751062440,-58.636227119,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,419,2022-11-04 21:00
--34.749114060,-58.633978605,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,154,2022-11-04 21:00
--34.758466442,-58.644652944,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,285,2022-11-04 21:00
--34.745921337,-58.632563002,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,275,2022-11-04 21:00
--34.749252481,-58.628376026,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,170,2022-11-04 21:00
--34.755157762,-58.643507139,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5545,95,2022-11-04 21:00
--34.4496,-58.9447,22,baja,Edenor,Pilar,Pilar,,,4,
--34.7159,-58.6134,22,baja,Edenor,La Matanza,Rafael Castillo,,,8,
 -34.5574,-58.4834,22,baja,Edenor,Capital Federal,Saavedra,,,13,
 -34.4729,-58.6544,22,baja,Edenor,Tigre,El Talar,,,20,
--34.6367,-58.6386,22,baja,Edenor,Moron,Castelar,,,4,
--34.5678,-58.4363,22,baja,Edenor,Capital Federal,Palermo,,,8,
+-34.5684,-58.4347,22,baja,Edenor,Capital Federal,Palermo,,,22,
 -34.6243,-58.5108,21,baja,Edesur,Capital,Monte Castro,,,7,
--34.612,-58.3975,21,baja,Edesur,Capital,Balvanera,,,1,
 -34.6389,-58.463,21,baja,Edesur,Capital,Flores,,,3,
--34.8173,-58.3568,21,baja,Edesur,Almirante Brown,Claypole,,,5,
+-34.8173,-58.3568,21,baja,Edesur,Almirante Brown,Claypole,,,6,
