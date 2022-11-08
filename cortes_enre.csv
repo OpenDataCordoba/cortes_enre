@@ -1,10 +1,10 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.722403547,-58.364386822,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-1-0102/087-1-0102,387,2022-11-08 21:12
 -34.690725395,-58.519311462,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5531,2,2022-11-08 20:00
--34.517801757,-58.494487700,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:V.Lopez/50-Tr2/50-5526,344,Sin Datos
--34.518524135,-58.495344802,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:V.Lopez/50-Tr2/50-5526,336,Sin Datos
--34.623181309,-58.866292318,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,138,Sin Datos
--34.618151126,-58.862375712,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,87,Sin Datos
+-34.517801757,-58.494487700,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:V.Lopez/50-Tr2/50-5526,344,2022-11-08 20:00
+-34.518524135,-58.495344802,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:V.Lopez/50-Tr2/50-5526,336,2022-11-08 20:00
+-34.623181309,-58.866292318,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,138,2022-11-08 20:00
+-34.618151126,-58.862375712,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,87,2022-11-08 20:00
 -34.6212,-58.7353,22,baja,Edenor,Moreno,Trujui,,,9,
 -34.5528,-58.488,22,baja,Edenor,Capital Federal,Saavedra,,,35,
 -34.6988,-58.5305,22,baja,Edenor,La Matanza,La Tablada,,,1,
@@ -20,3 +20,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.9811,-58.3709,21,baja,Edesur,San Vicente,Alejandro Korn,,,15,
 -34.8719,-58.2765,21,baja,Edesur,Florencio Varela,Florencio Varela,,,9,
 -34.6794,-58.412,21,baja,Edesur,Lanus,Valentin Alsina,,,5,
+-34.6148,-58.4799,21,baja,Edesur,Capital,Villa Sta. Rita,,,11,
