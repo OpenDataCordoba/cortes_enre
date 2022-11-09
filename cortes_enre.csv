@@ -5,10 +5,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.652914461,-58.382149895,11,media,Edesur,Capital Rp,Barracas,Barracas,R:024-1-16/024-1-16,83,2022-11-09 17:00
 -34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-09 17:00
 -34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-11-09 17:00
--34.635736757,-58.881050035,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,269,2022-11-09 16:00
--34.632193208,-58.875768443,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,201,2022-11-09 16:00
--34.637728845,-58.880422705,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,181,2022-11-09 16:00
--34.633631067,-58.877831289,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,349,2022-11-09 16:00
+-34.635736757,-58.881050035,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,269,2022-11-09 18:00
+-34.632193208,-58.875768443,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,201,2022-11-09 18:00
+-34.637728845,-58.880422705,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,181,2022-11-09 18:00
+-34.633631067,-58.877831289,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,349,2022-11-09 18:00
 -34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
 -34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,Sin Datos
 -34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
@@ -24,17 +24,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
 -34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
 -34.632378083,-58.794381840,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr1/256-5547,139,2022-11-09 17:00
--34.495413830,-58.590856371,12,media,Edenor,San Isidro,Boulogne,S/D,R:Bancalari/157-Tr1/157-5512,77,2022-11-09 16:00
--34.494757793,-58.592074507,12,media,Edenor,San Isidro,Boulogne,S/D,R:Bancalari/157-Tr1/157-5512,1,2022-11-09 16:00
--34.536944842,-58.560707103,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:Suarez/266-Tr2/266-5526,262,2022-11-09 17:00
--34.542855411,-58.561792920,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:Suarez/266-Tr2/266-5526,396,2022-11-09 17:00
--34.556210914,-58.563229326,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:Suarez/266-Tr2/266-5526,426,2022-11-09 17:00
--34.538398610,-58.566919640,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:Suarez/266-Tr2/266-5526,409,2022-11-09 17:00
--34.561831362,-58.567629500,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:Malaver/68-Tr2/68-5521,687,2022-11-09 16:00
--34.564011229,-58.567016959,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr2/68-5521,314,2022-11-09 16:00
--34.561323928,-58.565364954,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:Malaver/68-Tr2/68-5521,334,2022-11-09 16:00
+-34.495413830,-58.590856371,12,media,Edenor,San Isidro,Boulogne,S/D,R:Bancalari/157-Tr1/157-5512,77,Sin Datos
+-34.494757793,-58.592074507,12,media,Edenor,San Isidro,Boulogne,S/D,R:Bancalari/157-Tr1/157-5512,1,Sin Datos
+-34.536944842,-58.560707103,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:Suarez/266-Tr2/266-5526,262,Sin Datos
+-34.542855411,-58.561792920,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:Suarez/266-Tr2/266-5526,396,Sin Datos
+-34.556210914,-58.563229326,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:Suarez/266-Tr2/266-5526,426,Sin Datos
+-34.538398610,-58.566919640,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:Suarez/266-Tr2/266-5526,409,Sin Datos
+-34.561831362,-58.567629500,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:Malaver/68-Tr2/68-5521,687,2022-11-09 17:00
+-34.564011229,-58.567016959,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr2/68-5521,314,2022-11-09 17:00
+-34.561323928,-58.565364954,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:Malaver/68-Tr2/68-5521,334,2022-11-09 17:00
 -34.5428,-58.5687,22,baja,Edenor,Gral San Martin,Villa Ballester,,,20,
--34.5893,-58.4291,22,baja,Edenor,Capital Federal,Palermo,,,14,
 -34.5859,-58.7502,22,baja,Edenor,Moreno,Trujui,,,12,
 -34.5028,-58.702,22,baja,Edenor,Malvinas Argentinas,Malvinas Argentinas,,,20,
 -34.4863,-58.6162,22,baja,Edenor,Tigre,Don Torcuato,,,61,
@@ -42,6 +41,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7045,-58.6378,22,baja,Edenor,La Matanza,Rafael Castillo,,,19,
 -34.6449,-58.6222,22,baja,Edenor,Moron,Moron,,,5,
 -34.628,-58.399,21,baja,Edesur,Capital,San Cristobal,,,10,
+-34.6427,-58.4979,21,baja,Edesur,Capital,Villa Luro,,,5,
 -34.795,-58.4482,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,21,
 -34.6148,-58.4799,21,baja,Edesur,Capital,Villa Sta. Rita,,,4,
 -34.9594,-58.4446,21,baja,Edesur,Pte Peron,Zona Rural,,,5,
