@@ -1,9 +1,12 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.877799871,-58.505873535,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,174,2022-11-09 18:00
--34.878517076,-58.504622646,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,39,2022-11-09 18:00
 -34.652226900,-58.381411135,11,media,Edesur,Capital Rp,Barracas,Barracas,R:024-1-16/024-1-16,92,Sin Datos
 -34.652914461,-58.382149895,11,media,Edesur,Capital Rp,Barracas,Barracas,R:024-1-16/024-1-16,83,Sin Datos
 -34.614020020,-58.437179342,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-2-25/122-2-25,1156,2022-11-09 19:35
+-34.596681318,-58.384888473,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-2-27/025-2-27,40,2022-11-09 20:56
+-34.595677902,-58.373789557,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-2-27/025-2-27,21,2022-11-09 20:56
+-34.597564122,-58.372872550,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-2-27/025-2-27,198,2022-11-09 20:56
+-34.595439414,-58.373817897,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-2-27/025-2-27,43,2022-11-09 20:56
+-34.597261747,-58.385241422,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-2-27/025-2-27,131,2022-11-09 20:56
 -34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-09 19:00
 -34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-11-09 19:00
 -34.241950387,-58.495328902,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,17,Sin Datos
@@ -22,7 +25,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6449,-58.6222,22,baja,Edenor,Moron,Moron,,,5,
 -34.4824,-58.7076,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,1,
 -34.628,-58.399,21,baja,Edesur,Capital,San Cristobal,,,10,
--34.795,-58.4482,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,27,
+-34.795,-58.4482,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,30,
 -34.6026,-58.4763,21,baja,Edesur,Capital,Capital,,,11,
--34.6148,-58.4799,21,baja,Edesur,Capital,Villa Sta. Rita,,,4,
--34.9594,-58.4446,21,baja,Edesur,Pte Peron,Zona Rural,,,5,
