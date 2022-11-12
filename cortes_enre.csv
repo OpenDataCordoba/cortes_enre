@@ -1,13 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.603179389,-58.423989838,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-4-41/049-4-41,19,2022-11-12 12:35
 -34.604152795,-58.424357605,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-4-41/049-4-41,393,2022-11-12 12:35
--34.612029071,-58.379755135,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-2-21/210-2-21,179,2022-11-12 13:35
--34.611625601,-58.380159287,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-2-21/210-2-21,70,2022-11-12 13:35
--34.611649593,-58.380351094,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-2-21/210-2-21,1,2022-11-12 13:35
--34.611649493,-58.380546491,11,media,Edesur,Capital Rp,Monserrat,Carlos Pellegrini,R:210-2-21/210-2-21,1,2022-11-12 13:35
--34.340779192,-58.763653812,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,14,2022-11-12 09:00
--34.344142529,-58.766647497,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,41,2022-11-12 09:00
--34.341774708,-58.763033347,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,7,2022-11-12 09:00
+-34.340779192,-58.763653812,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,14,Sin Datos
+-34.344142529,-58.766647497,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,41,Sin Datos
+-34.341774708,-58.763033347,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,7,Sin Datos
 -34.431080875,-58.952918095,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr1/158-5515,1,2022-11-12 09:00
 -34.431409775,-58.994687657,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr1/158-5515,135,2022-11-12 09:00
 -34.445051818,-58.977073542,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr1/158-5515,335,2022-11-12 09:00
@@ -36,6 +32,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.587,-58.8619,22,baja,Edenor,Moreno,Francisco Alvarez,,,14,
 -34.6218,-58.9442,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,10,
 -34.3585,-58.6489,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,22,
+-34.711,-58.7295,22,baja,Edenor,Merlo,Pontevedra,,,18,
 -34.6229,-58.4506,21,baja,Edesur,Capital,Caballito,,,12,
 -34.9115,-58.3908,21,baja,Edesur,Pte Peron,Villa Numancia Sur,,,7,
 -34.6901,-58.4711,21,baja,Edesur,Capital,Villa Riachuelo,,,11,
