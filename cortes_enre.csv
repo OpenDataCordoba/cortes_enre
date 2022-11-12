@@ -1,7 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.591248074,-58.394353955,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-23/117-2-23,746,Sin Datos
 -34.591412753,-58.394152565,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-23/117-2-23,532,Sin Datos
--34.834076257,-58.221246152,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-13/185-1-13,326,2022-11-12 20:57
+-34.834076257,-58.221246152,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-13/185-1-13,326,2022-11-12 21:52
 -34.606354545,-58.388586319,11,media,Edesur,Capital Rp,San Nicolas,Carlos Pellegrini,R:210-3-26/210-3-26,46,2022-11-12 18:30
 -34.606865841,-58.390169992,11,media,Edesur,Capital Rp,San Nicolas,Carlos Pellegrini,R:210-3-26/210-3-26,26,2022-11-12 18:30
 -34.854894507,-58.495501793,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,321,2022-11-12 19:23
@@ -15,7 +15,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.856842336,-58.499460244,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,252,2022-11-12 19:23
 -34.846454024,-58.498473152,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-37/083-3-37,189,2022-11-12 19:23
 -34.856162837,-58.496968965,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,153,2022-11-12 19:23
--34.574036837,-58.518094849,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr2/54-5533,369,Sin Datos
+-34.583578480,-58.447833682,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5566,110,Sin Datos
+-34.574036837,-58.518094849,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr2/54-5533,369,2022-11-12 17:00
 -34.340779192,-58.763653812,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,14,2022-11-12 17:00
 -34.344142529,-58.766647497,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,41,2022-11-12 17:00
 -34.341774708,-58.763033347,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5523,7,2022-11-12 17:00
@@ -25,4 +26,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7938,-58.4756,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,5,
 -34.6901,-58.4711,21,baja,Edesur,Capital,Villa Riachuelo,,,23,
 -34.6112,-58.4035,21,baja,Edesur,Capital,Balvanera,,,27,
+-34.6416,-58.455,21,baja,Edesur,Capital,Flores,,,6,
 -34.7883,-58.2886,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
