@@ -1,34 +1,55 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.703474470,-58.376250725,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,968,2022-11-13 02:34
 -34.699655159,-58.373097254,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,581,2022-11-13 02:34
--34.706954400,-58.376983665,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,536,2022-11-13 02:34
--34.697539435,-58.369673612,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,58,2022-11-13 02:34
--34.697517153,-58.369649913,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,2,2022-11-13 02:34
 -34.702171428,-58.376261314,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,1,2022-11-13 02:34
--34.704140388,-58.379298832,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,477,2022-11-13 02:34
--34.698979419,-58.370750505,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,4,2022-11-13 02:34
--34.709015680,-58.382640450,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,361,2022-11-13 02:34
--34.707573401,-58.381684007,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,275,2022-11-13 02:34
--34.574036837,-58.518094849,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr2/54-5533,369,2022-11-12 23:00
--34.478153639,-58.545529735,12,media,Edenor,San Isidro,San Isidro,S/D,R:Victoria/53-Tr2/53-5536,1,2022-11-12 23:00
--34.621976056,-58.855327255,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,56,Sin Datos
--34.655763873,-58.536621474,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,168,2022-11-12 23:00
--34.658962722,-58.541064462,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,334,2022-11-12 23:00
--34.655620576,-58.537575804,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,446,2022-11-12 23:00
--34.654681805,-58.532236890,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,163,2022-11-12 23:00
--34.660376617,-58.538194258,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,260,2022-11-12 23:00
--34.653314785,-58.536233151,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,397,2022-11-12 23:00
--34.659418928,-58.541667577,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,1,2022-11-12 23:00
--34.661963694,-58.536445210,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,414,2022-11-12 23:00
--34.655336944,-58.536143026,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,119,2022-11-12 23:00
--34.659168427,-58.539518634,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,136,2022-11-12 23:00
--34.657355745,-58.538855576,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,186,2022-11-12 23:00
--34.654244794,-58.533077909,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,143,2022-11-12 23:00
--34.654583049,-58.535038955,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,138,2022-11-12 23:00
--34.663194286,-58.542619321,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,333,2022-11-12 23:00
--34.663680742,-58.544610637,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,276,2022-11-12 23:00
+-34.574036837,-58.518094849,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr2/54-5533,369,2022-11-13 00:00
+-34.478153639,-58.545529735,12,media,Edenor,San Isidro,San Isidro,S/D,R:Victoria/53-Tr2/53-5536,1,2022-11-13 02:00
+-34.442341841,-58.574094233,12,media,Edenor,San Fernando,San Fernando,S/D,R:Bancalari/157-Tr1/157-5517,142,2022-11-13 03:00
+-34.443679346,-58.575363849,12,media,Edenor,San Fernando,San Fernando,S/D,R:Bancalari/157-Tr1/157-5517,122,2022-11-13 03:00
+-34.479505457,-58.600636989,12,media,Edenor,San Fernando,San Fernando,S/D,R:Bancalari/157-Tr1/157-5517,7,2022-11-13 03:00
+-34.445237625,-58.576746370,12,media,Edenor,San Fernando,San Fernando,S/D,R:Bancalari/157-Tr1/157-5517,49,2022-11-13 03:00
+-34.479548831,-58.602445657,12,media,Edenor,San Fernando,Victoria,S/D,R:Bancalari/157-Tr1/157-5517,5,2022-11-13 03:00
+-34.446171200,-58.597239886,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,3,2022-11-13 03:00
+-34.448465623,-58.592777834,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,157,2022-11-13 03:00
+-34.472700325,-58.609068519,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,85,2022-11-13 03:00
+-34.434459911,-58.586544984,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,319,2022-11-13 03:00
+-34.446898355,-58.581690796,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,410,2022-11-13 03:00
+-34.454021064,-58.615133219,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,163,2022-11-13 03:00
+-34.447885234,-58.597399082,12,media,Edenor,Tigre,El Talar,S/D,R:Bancalari/157-Tr1/157-5517,11,2022-11-13 03:00
+-34.450937256,-58.598957769,12,media,Edenor,Tigre,El Talar,S/D,R:Bancalari/157-Tr1/157-5517,200,2022-11-13 03:00
+-34.452101847,-58.603063724,12,media,Edenor,Tigre,El Talar,S/D,R:Bancalari/157-Tr1/157-5517,236,2022-11-13 03:00
+-34.443119015,-58.606876211,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,1,2022-11-13 03:00
+-34.446178724,-58.600038322,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,1,2022-11-13 03:00
+-34.454962500,-58.616429464,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr1/157-5517,210,2022-11-13 03:00
+-34.465583446,-58.613440619,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,53,2022-11-13 03:00
+-34.443235266,-58.594096492,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,167,2022-11-13 03:00
+-34.434597709,-58.587152690,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,68,2022-11-13 03:00
+-34.456320271,-58.613829712,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,383,2022-11-13 03:00
+-34.455388999,-58.611532026,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,319,2022-11-13 03:00
+-34.454790638,-58.609831616,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,325,2022-11-13 03:00
+-34.454678496,-58.616796349,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,1,2022-11-13 03:00
+-34.444458280,-58.601163607,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,2,2022-11-13 03:00
+-34.434511021,-58.587703732,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,233,2022-11-13 03:00
+-34.448947382,-58.598109139,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,300,2022-11-13 03:00
+-34.442287946,-58.592367890,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,442,2022-11-13 03:00
+-34.451047485,-58.609913456,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,97,2022-11-13 03:00
+-34.452977277,-58.612547867,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,284,2022-11-13 03:00
+-34.443723644,-58.604584515,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,2,2022-11-13 03:00
+-34.436565254,-58.591337765,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,4,2022-11-13 03:00
+-34.439082767,-58.592309999,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,3,2022-11-13 03:00
+-34.446961868,-58.583242994,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,180,2022-11-13 03:00
+-34.433609486,-58.585170222,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Bancalari/157-Tr1/157-5517,277,2022-11-13 03:00
+-34.447721312,-58.600948585,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,64,2022-11-13 03:00
+-34.443148088,-58.602207103,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,1,2022-11-13 03:00
+-34.443637514,-58.601669870,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,4,2022-11-13 03:00
+-34.454524259,-58.616171935,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,145,2022-11-13 03:00
+-34.456672578,-58.617575335,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,248,2022-11-13 03:00
+-34.459362582,-58.614978190,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,373,2022-11-13 03:00
+-34.462042326,-58.607982010,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,166,2022-11-13 03:00
+-34.466581062,-58.605684755,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,77,2022-11-13 03:00
+-34.451508145,-58.594917527,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr1/157-5517,1,2022-11-13 03:00
+-34.483479186,-58.604246379,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5517,1,2022-11-13 03:00
 -34.6302,-58.742,22,baja,Edenor,Moreno,Paso Del Rey,,,9,
 -34.5186,-58.793,22,baja,Edenor,Jose C Paz,Jose C Paz,,,14,
 -34.6554,-58.5437,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,
--34.6429,-58.4742,21,baja,Edesur,Capital,Parque Avellaneda,,,3,
--34.5928,-58.3764,21,baja,Edesur,Capital,Retiro,,,1,
+-34.6019,-58.5919,22,baja,Edenor,3 De Febrero,C J Lomas Del Palomar,,,12,
+-34.6909,-58.3931,21,baja,Edesur,Lanus,Lanus,,,4,
