@@ -1,17 +1,34 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.633920861,-58.478834886,11,media,Edesur,Capital Gp,Floresta,Falcon,R:016-1-12/016-1-12,252,2022-11-13 01:12
--34.634651510,-58.480125180,11,media,Edesur,Capital Gp,Floresta,Falcon,R:016-1-12/016-1-12,486,2022-11-13 01:12
--34.574036837,-58.518094849,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr2/54-5533,369,2022-11-12 22:00
--34.478153639,-58.545529735,12,media,Edenor,San Isidro,San Isidro,S/D,R:Victoria/53-Tr2/53-5536,1,2022-11-12 22:00
--34.5802,-58.7448,22,baja,Edenor,San Miguel,San Miguel,,,42,
--34.5861,-58.4718,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,4,
--34.6865,-58.5707,22,baja,Edenor,La Matanza,San Justo,,,13,
--34.7365,-58.5839,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,22,
--34.3765,-58.6719,22,baja,Edenor,Tigre,Dique Lujan,,,37,
--34.622,-58.8553,22,baja,Edenor,Moreno,Francisco Alvarez,,,11,
+-34.703474470,-58.376250725,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,968,2022-11-13 02:34
+-34.699655159,-58.373097254,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,581,2022-11-13 02:34
+-34.706954400,-58.376983665,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,536,2022-11-13 02:34
+-34.697539435,-58.369673612,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,58,2022-11-13 02:34
+-34.697517153,-58.369649913,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,2,2022-11-13 02:34
+-34.702171428,-58.376261314,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,1,2022-11-13 02:34
+-34.704140388,-58.379298832,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,477,2022-11-13 02:34
+-34.698979419,-58.370750505,11,media,Edesur,Lanus,Gerli L,Corina,R:075-1-16/075-1-16,4,2022-11-13 02:34
+-34.709015680,-58.382640450,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,361,2022-11-13 02:34
+-34.707573401,-58.381684007,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-16/075-1-16,275,2022-11-13 02:34
+-34.574036837,-58.518094849,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr2/54-5533,369,2022-11-12 23:00
+-34.478153639,-58.545529735,12,media,Edenor,San Isidro,San Isidro,S/D,R:Victoria/53-Tr2/53-5536,1,2022-11-12 23:00
+-34.621976056,-58.855327255,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,56,Sin Datos
+-34.655763873,-58.536621474,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,168,2022-11-12 23:00
+-34.658962722,-58.541064462,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,334,2022-11-12 23:00
+-34.655620576,-58.537575804,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,446,2022-11-12 23:00
+-34.654681805,-58.532236890,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,163,2022-11-12 23:00
+-34.660376617,-58.538194258,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,260,2022-11-12 23:00
+-34.653314785,-58.536233151,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,397,2022-11-12 23:00
+-34.659418928,-58.541667577,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,1,2022-11-12 23:00
+-34.661963694,-58.536445210,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,414,2022-11-12 23:00
+-34.655336944,-58.536143026,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,119,2022-11-12 23:00
+-34.659168427,-58.539518634,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,136,2022-11-12 23:00
+-34.657355745,-58.538855576,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,186,2022-11-12 23:00
+-34.654244794,-58.533077909,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,143,2022-11-12 23:00
+-34.654583049,-58.535038955,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,138,2022-11-12 23:00
+-34.663194286,-58.542619321,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,333,2022-11-12 23:00
+-34.663680742,-58.544610637,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,276,2022-11-12 23:00
 -34.6302,-58.742,22,baja,Edenor,Moreno,Paso Del Rey,,,9,
--34.3753,-58.6897,22,baja,Edenor,Tigre,Dique Lujan,,,19,
--34.3825,-58.6979,22,baja,Edenor,Tigre,Dique Lujan,,,31,
--34.6112,-58.4035,21,baja,Edesur,Capital,Balvanera,,,29,
--34.6416,-58.455,21,baja,Edesur,Capital,Flores,,,26,
--34.6788,-58.3993,21,baja,Edesur,Lanus,Gerli,,,1,
+-34.5186,-58.793,22,baja,Edenor,Jose C Paz,Jose C Paz,,,14,
+-34.6554,-58.5437,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,
+-34.6429,-58.4742,21,baja,Edesur,Capital,Parque Avellaneda,,,3,
+-34.5928,-58.3764,21,baja,Edesur,Capital,Retiro,,,1,
