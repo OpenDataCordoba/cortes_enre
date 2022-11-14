@@ -4,68 +4,39 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.846358969,-58.446708636,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,417,2022-11-14 02:43
 -34.850856795,-58.443415784,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,122,2022-11-14 02:43
 -34.850463379,-58.439879747,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,156,2022-11-14 02:43
--34.606551165,-58.517591197,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,779,2022-11-14 00:35
--34.605518576,-58.512531924,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,224,2022-11-14 00:35
--34.603056987,-58.515143307,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,364,2022-11-14 00:35
--34.782169919,-58.181873634,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28/179-1-18,346,2022-11-14 02:32
--34.782167536,-58.175803570,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28/179-1-18,429,2022-11-14 02:32
--34.786225129,-58.169456158,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28/179-1-18,583,2022-11-14 02:32
--34.785434506,-58.177933107,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28/179-1-18,286,2022-11-14 02:32
--34.871231108,-58.674427398,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,260,2022-11-14 01:00
--34.875463573,-58.674416335,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,41,2022-11-14 01:00
--34.874380011,-58.673646187,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:El Pino/353-Tr2/353-5522,83,2022-11-14 01:00
--34.539520446,-58.478459366,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Saavedra/137-Tr2/137-5534,131,Sin Datos
+-34.606551165,-58.517591197,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,779,Sin Datos
+-34.605518576,-58.512531924,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,224,Sin Datos
+-34.871231108,-58.674427398,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,260,2022-11-14 03:00
+-34.875463573,-58.674416335,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5522,41,2022-11-14 03:00
+-34.874380011,-58.673646187,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:El Pino/353-Tr2/353-5522,83,2022-11-14 03:00
+-34.539520446,-58.478459366,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Saavedra/137-Tr2/137-5534,131,2022-11-14 01:00
 -34.573114941,-58.489231539,12,media,Edenor,Capital Federal,Villa Urquiza,S/D,R:Coghlan/110-Tr1/110-5516,213,2022-11-14 01:00
--34.554148066,-58.492683911,12,media,Edenor,Capital Federal,Saavedra,S/D,R:Coghlan/110-Tr1/110-5515,380,Sin Datos
--34.555648399,-58.494929207,12,media,Edenor,Capital Federal,Saavedra,S/D,R:Coghlan/110-Tr1/110-5515,508,Sin Datos
--34.568747999,-58.460004300,12,media,Edenor,Capital Federal,Palermo,S/D,R:Vidal/114-Tr2/114-5524,494,2022-11-14 01:00
--34.569313974,-58.461790560,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,82,2022-11-14 01:00
--34.569334663,-58.461419896,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,61,2022-11-14 01:00
--34.569494455,-58.461235011,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,61,2022-11-14 01:00
--34.568067042,-58.460551157,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,293,2022-11-14 01:00
--34.568961118,-58.460891956,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,20,2022-11-14 01:00
--34.570219396,-58.458741093,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,500,2022-11-14 01:00
--34.569454699,-58.461733591,12,media,Edenor,Capital Federal,Villa Urquiza,S/D,R:Vidal/114-Tr2/114-5524,153,2022-11-14 01:00
--34.571274463,-58.458529591,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,76,2022-11-14 01:00
--34.567767568,-58.461559731,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,73,2022-11-14 01:00
--34.569002714,-58.461469192,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,202,2022-11-14 01:00
+-34.554148066,-58.492683911,12,media,Edenor,Capital Federal,Saavedra,S/D,R:Coghlan/110-Tr1/110-5515,380,2022-11-14 02:00
+-34.568747999,-58.460004300,12,media,Edenor,Capital Federal,Palermo,S/D,R:Vidal/114-Tr2/114-5524,494,2022-11-14 02:00
+-34.569313974,-58.461790560,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,82,2022-11-14 02:00
+-34.569334663,-58.461419896,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,61,2022-11-14 02:00
+-34.569494455,-58.461235011,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,61,2022-11-14 02:00
+-34.570219396,-58.458741093,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,500,2022-11-14 02:00
+-34.569454699,-58.461733591,12,media,Edenor,Capital Federal,Villa Urquiza,S/D,R:Vidal/114-Tr2/114-5524,153,2022-11-14 02:00
+-34.571274463,-58.458529591,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,76,2022-11-14 02:00
+-34.569002714,-58.461469192,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5524,202,2022-11-14 02:00
 -34.744631313,-58.606963913,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5521,1,2022-11-14 02:00
 -34.739725207,-58.604717302,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5521,134,2022-11-14 02:00
 -34.741980820,-58.605753083,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5521,72,2022-11-14 02:00
 -34.747384561,-58.605548949,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5521,289,2022-11-14 02:00
 -34.745060688,-58.607813141,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5521,77,2022-11-14 02:00
--34.747089894,-58.610189083,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5521,1,2022-11-14 02:00
 -34.748164648,-58.606428756,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5521,66,2022-11-14 02:00
--34.748166746,-58.609786869,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5521,1,2022-11-14 02:00
 -34.750923114,-58.611704287,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5521,4,2022-11-14 02:00
--34.609687564,-58.566705773,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5544,304,Sin Datos
--34.610813634,-58.563605192,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5544,289,Sin Datos
--34.609646819,-58.567713707,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5544,207,Sin Datos
--34.609041948,-58.566480932,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5544,173,Sin Datos
--34.610674466,-58.567859049,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5544,172,Sin Datos
--34.647566791,-58.789900699,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,357,2022-11-14 03:00
--34.650460964,-58.790463179,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,160,2022-11-14 03:00
--34.651247365,-58.789931320,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,73,2022-11-14 03:00
--34.648873160,-58.793187261,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,117,2022-11-14 03:00
--34.647611880,-58.797744908,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,66,2022-11-14 03:00
--34.650643611,-58.795691892,12,media,Edenor,Moreno,Trujui,S/D,R:La Reja/163-Tr2/163-5526,37,2022-11-14 03:00
--34.648999046,-58.791021280,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,344,2022-11-14 03:00
--34.650797142,-58.793078057,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,51,2022-11-14 03:00
--34.650797313,-58.792124017,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,181,2022-11-14 03:00
--34.648157845,-58.790707917,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,173,2022-11-14 03:00
--34.643715853,-58.789249033,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5526,1,2022-11-14 03:00
 -34.7078,-58.5143,22,baja,Edenor,La Matanza,Aldo Bonzi,,,4,
 -34.4826,-58.5045,22,baja,Edenor,San Isidro,Acassuso,,,24,
 -34.6397,-58.5443,22,baja,Edenor,3 De Febrero,Ciudadela,,,8,
 -34.5712,-58.4788,22,baja,Edenor,Capital Federal,Villa Urquiza,,,29,
 -34.5803,-58.4493,22,baja,Edenor,Capital Federal,Colegiales,,,14,
 -34.539,-58.5411,22,baja,Edenor,Vicente Lopez,Munro,,,18,
--34.4873,-58.5031,22,baja,Edenor,San Isidro,Martinez,,,16,
 -34.5821,-58.4764,22,baja,Edenor,Capital Federal,Agronomia,,,13,
 -34.8273,-58.6346,22,baja,Edenor,La Matanza,Virrey Del Pino,,,5,
 -34.6633,-58.5661,22,baja,Edenor,La Matanza,Ramos Mejia,,,29,
 -34.6799,-58.6678,22,baja,Edenor,Ituzaingo,Ituzaingo,,,11,
--34.5669,-58.4911,22,baja,Edenor,Capital Federal,Villa Urquiza,,,24,
 -34.7247,-58.5578,22,baja,Edenor,La Matanza,Ciudad Evita,,,14,
 -34.695,-58.6327,22,baja,Edenor,Moron,Moron,,,25,
 -34.5771,-58.4846,22,baja,Edenor,Capital Federal,Villa Urquiza,,,12,
@@ -74,49 +45,46 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5554,-58.4772,22,baja,Edenor,Capital Federal,Saavedra,,,13,
 -34.7044,-58.6378,22,baja,Edenor,La Matanza,Rafael Castillo,,,21,
 -34.3289,-58.7588,22,baja,Edenor,Escobar,Escobar,,,28,
--34.5707,-58.4888,22,baja,Edenor,Capital Federal,Villa Urquiza,,,74,
+-34.5707,-58.4888,22,baja,Edenor,Capital Federal,Villa Urquiza,,,76,
 -34.5727,-58.5007,22,baja,Edenor,Capital Federal,Villa Urquiza,,,53,
 -34.5582,-58.4855,22,baja,Edenor,Capital Federal,Saavedra,,,9,
 -34.5557,-58.466,22,baja,Edenor,Capital Federal,Nu?Ez,,,8,
 -34.5791,-58.4883,22,baja,Edenor,Capital Federal,Villa Urquiza,,,20,
--34.5101,-58.8128,22,baja,Edenor,Jose C Paz,Jose C Paz,,,20,
+-34.5101,-58.8128,22,baja,Edenor,Jose C Paz,Jose C Paz,,,21,
 -34.5906,-58.5224,22,baja,Edenor,Gral San Martin,Villa Lynch,,,5,
 -34.5747,-58.5018,22,baja,Edenor,Capital Federal,Villa Urquiza,,,24,
 -34.5814,-58.4859,22,baja,Edenor,Capital Federal,Villa Urquiza,,,14,
 -34.5565,-58.4838,22,baja,Edenor,Capital Federal,Saavedra,,,6,
--34.5941,-58.4688,22,baja,Edenor,Capital Federal,La Paternal,,,4,
+-34.5941,-58.4688,22,baja,Edenor,Capital Federal,La Paternal,,,31,
 -34.6787,-58.5192,22,baja,Edenor,La Matanza,La Tablada,,,85,
 -34.5591,-58.4655,22,baja,Edenor,Capital Federal,Belgrano,,,27,
 -34.5808,-58.4143,22,baja,Edenor,Capital Federal,Palermo,,,6,
+-34.5675,-58.4882,22,baja,Edenor,Capital Federal,Villa Urquiza,,,21,
 -34.5609,-58.4826,22,baja,Edenor,Capital Federal,Coghlan,,,6,
--34.5814,-58.4496,22,baja,Edenor,Capital Federal,Colegiales,,,9,
 -34.7681,-58.5931,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,20,
 -34.56,-58.4913,22,baja,Edenor,Capital Federal,Saavedra,,,6,
 -34.5678,-58.4587,22,baja,Edenor,Capital Federal,Belgrano,,,8,
--34.7105,-58.6618,22,baja,Edenor,Merlo,Libertad,,,11,
 -34.5753,-58.4878,22,baja,Edenor,Capital Federal,Villa Urquiza,,,31,
 -34.6927,-58.5944,22,baja,Edenor,La Matanza,Isidro Casanova,,,22,
 -34.556,-58.4751,22,baja,Edenor,Capital Federal,Coghlan,,,7,
 -34.5693,-58.4588,22,baja,Edenor,Capital Federal,Belgrano,,,8,
 -34.5864,-58.4652,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,4,
 -34.5805,-58.4495,22,baja,Edenor,Capital Federal,Colegiales,,,14,
--34.5694,-58.4584,22,baja,Edenor,Capital Federal,Belgrano,,,25,
 -34.5209,-58.5229,22,baja,Edenor,Vicente Lopez,Munro,,,30,
 -34.576,-58.4894,22,baja,Edenor,Capital Federal,Villa Urquiza,,,4,
 -34.5721,-58.6808,22,baja,Edenor,San Miguel,Bella Vista,,,4,
--34.6074,-58.5682,22,baja,Edenor,3 De Febrero,Caseros,,,60,
--34.6126,-58.5631,22,baja,Edenor,3 De Febrero,Caseros,,,7,
--34.611,-58.5597,22,baja,Edenor,3 De Febrero,Caseros,,,56,
+-34.5697,-58.4445,22,baja,Edenor,Capital Federal,Palermo,,,10,
 -34.5039,-58.649,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,1,
 -34.6492,-58.7885,22,baja,Edenor,Moreno,Moreno,,,26,
--34.5548,-58.4977,22,baja,Edenor,Capital Federal,Saavedra,,,5,
+-34.5548,-58.4977,22,baja,Edenor,Capital Federal,Saavedra,,,9,
+-34.6311,-58.7094,22,baja,Edenor,Ituzaingo,Ituzaingo,,,17,
 -34.6446,-58.4633,21,baja,Edesur,Capital,Flores,,,5,
--34.599,-58.4959,21,baja,Edesur,Capital,Capital,,,32,
+-34.599,-58.4959,21,baja,Edesur,Capital,Capital,,,39,
 -34.6203,-58.4843,21,baja,Edesur,Capital,Villa Sta. Rita,,,43,
 -34.6298,-58.526,21,baja,Edesur,Capital,Capital,,,5,
 -34.625,-58.4139,21,baja,Edesur,Capital,Boedo,,,15,
--34.628,-58.4909,21,baja,Edesur,Capital,Capital,,,106,
--34.666,-58.4843,21,baja,Edesur,Capital,Villa Lugano,,,3,
--34.6468,-58.4424,21,baja,Edesur,Capital,Flores,,,2,
+-34.628,-58.4909,21,baja,Edesur,Capital,Capital,,,109,
+-34.6468,-58.4424,21,baja,Edesur,Capital,Flores,,,3,
 -34.6701,-58.3609,21,baja,Edesur,Avellaneda,Avellaneda,,,2,
--34.8117,-58.2613,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,
+-34.8613,-58.4037,21,baja,Edesur,Almirante Brown,Longchamps,,,6,
+-34.8117,-58.2613,21,baja,Edesur,Florencio Varela,Florencio Varela,,,8,
