@@ -24,17 +24,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.351333754,-58.682781151,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,30,Sin Datos
 -34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,20,Sin Datos
 -34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,6,Sin Datos
--34.657425800,-58.547633967,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,347,Sin Datos
--34.600704733,-58.902531763,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,56,2022-11-16 08:00
--34.599752064,-58.913062386,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,153,2022-11-16 08:00
--34.594509901,-58.925965973,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,301,2022-11-16 08:00
--34.583094313,-58.923333865,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,26,2022-11-16 08:00
--34.597547834,-58.909441652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,55,2022-11-16 08:00
--34.600420073,-58.907244013,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,71,2022-11-16 08:00
--34.593827815,-58.906077300,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,53,2022-11-16 08:00
--34.596870413,-58.914261327,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,50,2022-11-16 08:00
--34.594966637,-58.909544233,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,36,2022-11-16 08:00
--34.599653033,-58.918796490,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,64,2022-11-16 08:00
+-34.657425800,-58.547633967,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,347,2022-11-16 08:00
+-34.600704733,-58.902531763,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,56,2022-11-16 09:00
+-34.599752064,-58.913062386,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,153,2022-11-16 09:00
+-34.594509901,-58.925965973,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,301,2022-11-16 09:00
+-34.583094313,-58.923333865,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,26,2022-11-16 09:00
+-34.597547834,-58.909441652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,55,2022-11-16 09:00
+-34.600420073,-58.907244013,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,71,2022-11-16 09:00
+-34.593827815,-58.906077300,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,53,2022-11-16 09:00
+-34.596870413,-58.914261327,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,50,2022-11-16 09:00
+-34.594966637,-58.909544233,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,36,2022-11-16 09:00
+-34.599653033,-58.918796490,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,64,2022-11-16 09:00
 -34.590310703,-58.931844400,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,237,2022-11-16 08:00
 -34.586383495,-58.929586375,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,286,2022-11-16 08:00
 -34.600623151,-58.909024888,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5543,122,2022-11-16 08:00
@@ -58,13 +58,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4962,-58.744,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,5,
 -34.6264,-58.7557,22,baja,Edenor,Moreno,Paso Del Rey,,,34,
 -34.5327,-58.7617,22,baja,Edenor,Jose C Paz,Jose C Paz,,,30,
--34.6124,-58.4035,21,baja,Edesur,Capital,Balvanera,,,55,
+-34.4981,-58.619,22,baja,Edenor,Tigre,Don Torcuato,,,65,
+-34.6124,-58.4035,21,baja,Edesur,Capital,Balvanera,,,56,
 -34.6161,-58.3753,21,baja,Edesur,Capital,Monserrat,,,6,
 -34.695,-58.4707,21,baja,Edesur,Capital,Villa Riachuelo,,,5,
 -34.6545,-58.4905,21,baja,Edesur,Capital,Capital,,,15,
 -34.6262,-58.3903,21,baja,Edesur,Capital,Constitucion,,,10,
--34.8086,-58.38,21,baja,Edesur,Almirante Brown,Adrogue,,,12,
+-34.8086,-58.38,21,baja,Edesur,Almirante Brown,Adrogue,,,13,
 -34.6169,-58.5155,21,baja,Edesur,Capital,Villa Devoto,,,5,
--34.8672,-58.1811,21,baja,Edesur,Berazategui,El Pato,,,16,
+-34.8672,-58.1811,21,baja,Edesur,Berazategui,El Pato,,,17,
 -34.6464,-58.3674,21,baja,Edesur,Capital,La Boca,,,11,
 -34.7529,-58.398,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,
