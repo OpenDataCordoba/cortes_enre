@@ -6,14 +6,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.679136388,-59.038177119,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,Sin Datos
 -34.706722499,-59.018238859,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
 -34.695852628,-59.024073741,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,Sin Datos
--34.554835615,-58.838569563,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,60,2022-11-16 21:00
--34.556306654,-58.834806605,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,32,2022-11-16 21:00
--34.551811941,-58.839293937,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,66,2022-11-16 21:00
--34.558117765,-58.843658695,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,142,2022-11-16 21:00
--34.555928922,-58.846061555,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,100,2022-11-16 21:00
--34.555392002,-58.835745456,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,2022-11-16 21:00
--34.663585008,-58.752896815,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,103,2022-11-16 22:00
--34.609602064,-58.964785275,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5513,135,Sin Datos
+-34.554835615,-58.838569563,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,60,2022-11-16 22:00
+-34.556306654,-58.834806605,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,32,2022-11-16 22:00
+-34.551811941,-58.839293937,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,66,2022-11-16 22:00
+-34.558117765,-58.843658695,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,142,2022-11-16 22:00
+-34.555928922,-58.846061555,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,100,2022-11-16 22:00
+-34.555392002,-58.835745456,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,2022-11-16 22:00
+-34.663585008,-58.752896815,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,103,Sin Datos
+-34.609602064,-58.964785275,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5513,135,2022-11-16 21:00
 -34.375720799,-58.768076383,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,2022-11-16 21:00
 -34.375934399,-58.770242879,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,60,2022-11-16 21:00
 -34.376435911,-58.771201523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,30,2022-11-16 21:00
@@ -31,10 +31,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7409,-58.6187,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,17,
 -34.5654,-58.6598,22,baja,Edenor,San Miguel,Bella Vista,,,31,
 -34.7294,-58.5621,22,baja,Edenor,La Matanza,Ciudad Evita,,,19,
+-34.5132,-58.6805,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,4,
 -34.7061,-58.5542,22,baja,Edenor,La Matanza,San Justo,,,37,
 -34.6882,-58.6799,22,baja,Edenor,Merlo,Libertad,,,113,
 -34.3378,-58.7866,22,baja,Edenor,Escobar,Escobar,,,43,
--34.7867,-58.6114,22,baja,Edenor,La Matanza,Gonzalez Catan,,,2,
+-34.5857,-58.6603,22,baja,Edenor,Hurlingham,William Morris,,,4,
 -34.4515,-58.8705,22,baja,Edenor,Pilar,Pilar,,,13,
 -34.6417,-58.6181,22,baja,Edenor,Moron,Haedo,,,40,
 -34.4479,-58.6055,22,baja,Edenor,Tigre,Troncos Del Talar,,,4,
@@ -52,20 +53,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.402,-58.6411,22,baja,Edenor,Tigre,Rincon De Milberg,,,18,
 -34.5732,-58.4607,22,baja,Edenor,Capital Federal,Belgrano,,,15,
 -34.6729,-58.5185,22,baja,Edenor,La Matanza,La Tablada,,,13,
--34.6124,-58.4035,21,baja,Edesur,Capital,Balvanera,,,74,
--34.8183,-58.4687,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,24,
+-34.6022,-58.658,22,baja,Edenor,Hurlingham,William Morris,,,24,
+-34.8183,-58.4687,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,28,
 -34.6355,-58.388,21,baja,Edesur,Capital,Barracas,,,5,
 -34.6202,-58.3686,21,baja,Edesur,Capital,San Telmo,,,2,
 -34.8829,-58.5723,21,baja,Edesur,Ezeiza,Tristan Suarez,,,23,
 -34.7848,-58.1931,21,baja,Edesur,Berazategui,Ranelagh,,,6,
 -34.7084,-58.4586,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,2,
--34.6173,-58.4855,21,baja,Edesur,Capital,Villa Sta. Rita,,,34,
+-34.6173,-58.4855,21,baja,Edesur,Capital,Villa Sta. Rita,,,35,
 -34.7401,-58.4367,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,12,
 -34.814,-58.4545,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,5,
 -34.7328,-58.4268,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,7,
 -34.6097,-58.3953,21,baja,Edesur,Capital,Balvanera,,,8,
--34.8052,-58.3987,21,baja,Edesur,Almirante Brown,Adrogue,,,18,
+-34.8052,-58.3987,21,baja,Edesur,Almirante Brown,Adrogue,,,26,
 -34.7541,-58.4291,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,8,
 -34.6351,-58.3745,21,baja,Edesur,Capital,Barracas,,,16,
 -34.6073,-58.3806,21,baja,Edesur,Capital,San Nicolas,,,1,
--34.6526,-58.4827,21,baja,Edesur,Capital,Capital,,,18,
+-34.6456,-58.4982,21,baja,Edesur,Capital,Mataderos,,,8,
+-34.6526,-58.4827,21,baja,Edesur,Capital,Capital,,,24,
