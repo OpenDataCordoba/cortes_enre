@@ -1,5 +1,10 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.608943924,-58.442004071,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,589,2022-11-16 08:05
+-34.744207436,-58.442341356,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,486,2022-11-16 09:32
+-34.746863590,-58.442624852,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,23,2022-11-16 09:32
+-34.746629942,-58.443192238,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,22,2022-11-16 09:32
+-34.747047963,-58.442858867,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,11,2022-11-16 09:32
+-34.747720347,-58.444162758,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-23/281-2-23,12,2022-11-16 09:32
 -34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,25,Sin Datos
 -34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,2,Sin Datos
 -34.368874441,-58.659077962,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,12,Sin Datos
@@ -19,6 +24,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.351333754,-58.682781151,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,30,Sin Datos
 -34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,20,Sin Datos
 -34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr4/154-5481/951-5522,6,Sin Datos
+-34.656349863,-58.546562836,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,355,2022-11-16 10:00
+-34.663102166,-58.539119611,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5533,298,2022-11-16 10:00
+-34.653641444,-58.549585556,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,438,2022-11-16 10:00
+-34.658197221,-58.544497885,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,175,2022-11-16 10:00
+-34.655400243,-58.547651941,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,163,2022-11-16 10:00
+-34.660979471,-58.541441851,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5533,134,2022-11-16 10:00
+-34.657241461,-58.545596394,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,12,2022-11-16 10:00
+-34.657425800,-58.547633967,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,347,2022-11-16 10:00
+-34.659961000,-58.542581863,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,198,2022-11-16 10:00
+-34.661816355,-58.540548109,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5533,142,2022-11-16 10:00
 -34.5583,-58.4472,22,baja,Edenor,Capital Federal,Belgrano,,,23,
 -34.7323,-58.6265,22,baja,Edenor,La Matanza,Rafael Castillo,,,43,
 -34.4565,-58.9107,22,baja,Edenor,Pilar,Pilar,,,13,
@@ -33,7 +48,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6264,-58.7557,22,baja,Edenor,Moreno,Paso Del Rey,,,34,
 -34.5327,-58.7617,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
 -34.5611,-58.6793,22,baja,Edenor,San Miguel,Bella Vista,,,7,
--34.5611,-58.6794,22,baja,Edenor,San Miguel,Bella Vista,,,0,
 -34.5953,-58.7382,22,baja,Edenor,Moreno,Trujui,,,4,
 -34.6124,-58.4035,21,baja,Edesur,Capital,Balvanera,,,53,
 -34.6161,-58.3753,21,baja,Edesur,Capital,Monserrat,,,6,
