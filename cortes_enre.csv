@@ -28,6 +28,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.795332848,-58.435098726,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-14/182-1-14,2,2022-11-17 09:55
 -34.807866519,-58.438268173,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-14/182-1-14,134,2022-11-17 09:55
 -34.810606409,-58.445788601,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-14/182-1-14,1,2022-11-17 09:55
+-34.554883704,-58.541335328,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Munro/55-Tr1/55-5547,361,2022-11-17 09:47
+-34.552462461,-58.543001116,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Munro/55-Tr1/55-5547,488,2022-11-17 09:47
+-34.553198367,-58.537033854,12,media,Edenor,Gral San Martin,Marques A De Aguado,S/D,R:Munro/55-Tr1/55-5547,98,2022-11-17 09:47
 -34.568529127,-58.603933001,12,media,Edenor,S/D,S/D,S/D,R:Rotonda/262-Tr1/262-5527,126,Sin Datos
 -34.584068975,-58.475939862,12,media,Edenor,Capital Federal,Agronomia,S/D,R:Urquiza136/136-Tr3/136-5524,428,2022-11-17 08:00
 -34.583927385,-58.478643283,12,media,Edenor,Capital Federal,Agronomia,S/D,R:Urquiza136/136-Tr3/136-5524,634,2022-11-17 08:00
@@ -46,9 +49,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.579144006,-58.485849750,12,media,Edenor,Capital Federal,Palermo,S/D,R:Urquiza136/136-Tr3/136-5524,111,2022-11-17 08:00
 -34.5654,-58.6598,22,baja,Edenor,San Miguel,Bella Vista,,,31,
 -34.7294,-58.5621,22,baja,Edenor,La Matanza,Ciudad Evita,,,19,
--34.5132,-58.6805,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,4,
+-34.5132,-58.6805,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,6,
 -34.5434,-58.4801,22,baja,Edenor,Capital Federal,Saavedra,,,8,
--34.402,-58.6411,22,baja,Edenor,Tigre,Rincon De Milberg,,,18,
 -34.68,-58.7524,22,baja,Edenor,Merlo,Merlo,,,29,
 -34.5182,-58.7652,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
 -34.6961,-58.7368,22,baja,Edenor,Merlo,Merlo,,,48,
@@ -56,19 +58,22 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4368,-58.9197,22,baja,Edenor,Pilar,Pilar,,,28,
 -34.4754,-58.7425,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,16,
 -34.6624,-58.7505,22,baja,Edenor,Merlo,Merlo,,,16,
--34.7116,-58.7225,22,baja,Edenor,Merlo,Pontevedra,,,19,
+-34.7116,-58.7225,22,baja,Edenor,Merlo,Pontevedra,,,93,
 -34.6591,-58.5964,22,baja,Edenor,Moron,Haedo,,,17,
 -34.6141,-58.8835,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
 -34.7234,-58.5178,22,baja,Edenor,La Matanza,Ciudad Evita,,,17,
 -34.5833,-58.7542,22,baja,Edenor,Moreno,Trujui,,,45,
--34.6413,-58.8634,22,baja,Edenor,Moreno,Francisco Alvarez,,,18,
+-34.7016,-58.5976,22,baja,Edenor,La Matanza,Isidro Casanova,,,27,
+-34.6399,-58.8657,22,baja,Edenor,Moreno,Francisco Alvarez,,,18,
+-34.4466,-58.982,22,baja,Edenor,Pilar,Fatima,,,30,
 -34.9563,-58.3792,21,baja,Edesur,San Vicente,Alejandro Korn,,,14,
 -34.6333,-58.3737,21,baja,Edesur,Capital,Barracas,,,58,
 -34.6253,-58.3906,21,baja,Edesur,Capital,Constitucion,,,13,
 -34.6073,-58.3806,21,baja,Edesur,Capital,San Nicolas,,,1,
 -34.7653,-58.387,21,baja,Edesur,Lomas De Zamora,Temperley,,,57,
 -34.7431,-58.4026,21,baja,Edesur,Lomas De Zamora,Bandfield,,,12,
--34.7219,-58.4333,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,4,
+-34.7219,-58.4333,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,5,
 -34.727,-58.439,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,9,
--34.8033,-58.3978,21,baja,Edesur,Almirante Brown,Adrogue,,,8,
--34.6371,-58.4219,21,baja,Edesur,Capital,Boedo,,,3,
+-34.8033,-58.3978,21,baja,Edesur,Almirante Brown,Adrogue,,,11,
+-34.6371,-58.4219,21,baja,Edesur,Capital,Boedo,,,4,
+-34.5927,-58.4005,21,baja,Edesur,Capital,Recoleta,,,13,
