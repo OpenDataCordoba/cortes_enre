@@ -16,12 +16,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.711696307,-58.258546778,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-42/073-4-42,56,2022-11-17 05:54
 -34.711795166,-58.258365633,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-42/073-4-42,4,2022-11-17 05:54
 -34.710764369,-58.267988076,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-4-42/073-4-42,229,2022-11-17 05:54
--34.689240643,-58.727045015,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5524,479,Sin Datos
+-34.689240643,-58.727045015,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5524,479,2022-11-17 03:00
+-34.383245013,-58.816333610,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,346,2022-11-17 03:00
+-34.367115314,-58.822900125,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,25,2022-11-17 05:00
+-34.373524869,-58.818103694,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,8,2022-11-17 05:00
+-34.373548740,-58.812708059,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5482/4-5523,128,2022-11-17 05:00
+-34.357859144,-58.829857647,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,3,2022-11-17 05:00
+-34.352887593,-58.833514332,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,8,2022-11-17 05:00
+-34.363394887,-58.829972100,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,8,2022-11-17 05:00
+-34.375301853,-58.814284773,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5482/4-5523,2,2022-11-17 05:00
+-34.378439288,-58.817835892,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5482/4-5523,167,2022-11-17 05:00
+-34.380714476,-58.814904362,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,251,2022-11-17 05:00
+-34.377500009,-58.813147628,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5482/4-5523,31,2022-11-17 05:00
+-34.348339247,-58.837250562,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr4/51-5482/4-5523,6,2022-11-17 05:00
+-34.364974062,-58.831743670,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr4/51-5482/4-5523,55,2022-11-17 05:00
+-34.361732720,-58.824963034,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5482/4-5523,86,2022-11-17 05:00
 -34.5654,-58.6598,22,baja,Edenor,San Miguel,Bella Vista,,,31,
 -34.7294,-58.5621,22,baja,Edenor,La Matanza,Ciudad Evita,,,19,
 -34.5132,-58.6805,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,4,
 -34.6399,-58.8657,22,baja,Edenor,Moreno,Francisco Alvarez,,,18,
--34.5994,-58.9222,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,19,
 -34.5434,-58.4801,22,baja,Edenor,Capital Federal,Saavedra,,,8,
 -34.402,-58.6411,22,baja,Edenor,Tigre,Rincon De Milberg,,,18,
 -34.6022,-58.658,22,baja,Edenor,Hurlingham,William Morris,,,24,
@@ -29,13 +42,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5182,-58.7652,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
 -34.6961,-58.7368,22,baja,Edenor,Merlo,Merlo,,,48,
 -34.3428,-58.8994,22,baja,Edenor,Pilar,Zelaya,,,3,
--34.503,-58.6841,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,21,
 -34.4889,-58.7049,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,36,
 -34.656,-58.6976,22,baja,Edenor,Ituzaingo,Ituzaingo,,,5,
 -34.6584,-58.7372,22,baja,Edenor,Merlo,Merlo,,,14,
 -34.656,-58.7015,22,baja,Edenor,Ituzaingo,Ituzaingo,,,17,
 -34.6213,-58.63,22,baja,Edenor,Hurlingham,Villa Tesei,,,22,
--34.6892,-58.727,22,baja,Edenor,Merlo,Merlo,,,46,
 -34.4754,-58.7425,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,16,
 -34.6624,-58.7505,22,baja,Edenor,Merlo,Merlo,,,16,
 -34.4718,-58.7398,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,14,
@@ -50,7 +61,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4923,-58.8343,22,baja,Edenor,Pilar,Pte Derqui,,,26,
 -34.4401,-58.6555,22,baja,Edenor,Tigre,General Pacheco,,,6,
 -34.7116,-58.7225,22,baja,Edenor,Merlo,Pontevedra,,,19,
--34.4811,-58.6335,22,baja,Edenor,Tigre,Don Torcuato,,,8,
+-34.4811,-58.6335,22,baja,Edenor,Tigre,Don Torcuato,,,9,
 -34.463,-58.5107,22,baja,Edenor,San Isidro,San Isidro,,,15,
 -34.6591,-58.5964,22,baja,Edenor,Moron,Haedo,,,12,
 -34.6141,-58.8835,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
@@ -61,6 +72,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7735,-58.351,21,baja,Edesur,Almirante Brown,San Jose,,,11,
 -34.6253,-58.3906,21,baja,Edesur,Capital,Constitucion,,,13,
 -34.6073,-58.3806,21,baja,Edesur,Capital,San Nicolas,,,1,
--34.7642,-58.3876,21,baja,Edesur,Lomas De Zamora,Temperley,,,41,
--34.7632,-58.3747,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,
+-34.7642,-58.3876,21,baja,Edesur,Lomas De Zamora,Temperley,,,45,
 -34.727,-58.439,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,7,
