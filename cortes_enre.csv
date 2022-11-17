@@ -18,8 +18,19 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.915446502,-58.362444887,11,media,Edesur,Pte Peron,Guernica Centro,Glew,R:277-2-28/277-2-28,129,2022-11-17 15:14
 -34.917822399,-58.373037489,11,media,Edesur,Pte Peron,Guernica Centro,Glew,R:277-2-28/277-2-28,156,2022-11-17 15:14
 -34.918551302,-58.368098367,11,media,Edesur,Pte Peron,Guernica Centro,Glew,R:277-2-28/277-2-28,197,2022-11-17 15:14
--34.688605571,-58.389750740,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-11/186-1-11,136,2022-11-17 17:56
--34.510348101,-58.539927246,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:V.Adelina/155-Tr2/155-5521,1,2022-11-17 14:00
+-34.627311034,-58.471586570,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-24/218-2-24,242,2022-11-17 16:59
+-34.628751113,-58.472710281,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-24/218-2-24,325,2022-11-17 16:59
+-34.631838605,-58.472008325,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-24/218-2-24,197,2022-11-17 16:59
+-34.632740893,-58.475836485,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,278,2022-11-17 16:59
+-34.630328540,-58.476907167,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,252,2022-11-17 16:59
+-34.627685026,-58.477632570,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,294,2022-11-17 16:59
+-34.631588719,-58.473987177,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,287,2022-11-17 16:59
+-34.627831740,-58.475966508,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,136,2022-11-17 16:59
+-34.628314522,-58.475440347,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,138,2022-11-17 16:59
+-34.629317579,-58.475661358,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,241,2022-11-17 16:59
+-34.627013362,-58.480136563,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,359,2022-11-17 16:59
+-34.628193269,-58.472966720,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-24/218-2-24,241,2022-11-17 16:59
+-34.510348101,-58.539927246,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:V.Adelina/155-Tr2/155-5521,1,2022-11-17 15:00
 -34.324417071,-58.500087163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-11-17 15:00
 -34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2022-11-17 15:00
 -34.332542105,-58.511704574,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2022-11-17 15:00
@@ -49,18 +60,31 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.345416270,-58.519823795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2022-11-17 14:00
 -34.345790391,-58.517667483,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2022-11-17 14:00
 -34.358701975,-58.501745977,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,2022-11-17 14:00
--34.394187514,-58.884857550,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5515,157,2022-11-17 15:00
--34.389223440,-58.888334424,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5515,315,2022-11-17 15:00
--34.395079808,-58.890697437,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5515,65,2022-11-17 15:00
--34.389684640,-58.896644749,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5515,110,2022-11-17 15:00
--34.492243814,-58.720687611,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguita/252-Tr2/252-5533,566,Sin Datos
+-34.394187514,-58.884857550,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5515,157,Sin Datos
+-34.389223440,-58.888334424,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5515,315,Sin Datos
+-34.395079808,-58.890697437,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5515,65,Sin Datos
+-34.389684640,-58.896644749,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5515,110,Sin Datos
 -34.412637656,-58.601938778,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Tigre/153-Tr1/153-5518,338,2022-11-17 14:00
 -34.600280857,-58.917891185,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5527,26,2022-11-17 14:00
--34.678633181,-59.033121153,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.596870413,-58.914261327,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5527,50,2022-11-17 15:00
+-34.678633181,-59.033121153,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-17 15:00
+-34.596870413,-58.914261327,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5527,50,2022-11-17 14:00
 -34.487006502,-58.666309430,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5528,296,2022-11-17 14:00
--34.580654960,-58.480013123,12,media,Edenor,Capital Federal,Villa Urquiza,S/D,R:Urquiza136/136-Tr3/136-5536,362,2022-11-17 14:00
+-34.580654960,-58.480013123,12,media,Edenor,Capital Federal,Villa Urquiza,S/D,R:Urquiza136/136-Tr3/136-5536,362,2022-11-17 15:00
+-34.427115678,-58.998255189,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,2,2022-11-17 17:00
+-34.422785742,-58.997444428,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,4,2022-11-17 17:00
+-34.425426575,-59.000600042,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,1,2022-11-17 17:00
+-34.423159657,-58.990612063,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,114,2022-11-17 17:00
+-34.427202956,-58.988749777,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,52,2022-11-17 17:00
+-34.430271362,-58.985303417,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,150,2022-11-17 17:00
+-34.432771310,-58.983302274,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,108,2022-11-17 17:00
+-34.419498681,-58.991016886,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,162,2022-11-17 17:00
+-34.437470065,-58.982308106,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,99,2022-11-17 17:00
+-34.435355975,-58.977232748,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,36,2022-11-17 17:00
+-34.432997591,-58.974633672,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,1,2022-11-17 17:00
+-34.425566200,-59.000384191,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,1,2022-11-17 17:00
+-34.436900353,-58.977142931,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr2/158-5527,1,2022-11-17 17:00
 -34.5654,-58.6598,22,baja,Edenor,San Miguel,Bella Vista,,,31,
+-34.3942,-58.5764,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,4,
 -34.5182,-58.7652,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
 -34.6961,-58.7368,22,baja,Edenor,Merlo,Merlo,,,123,
 -34.3428,-58.8994,22,baja,Edenor,Pilar,Zelaya,,,3,
@@ -70,19 +94,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7003,-58.5986,22,baja,Edenor,La Matanza,Isidro Casanova,,,27,
 -34.5044,-58.7736,22,baja,Edenor,Jose C Paz,Jose C Paz,,,24,
 -34.4337,-58.7662,22,baja,Edenor,Pilar,Manuel Alberti,,,10,
--34.4656,-58.6576,22,baja,Edenor,Tigre,El Talar,,,27,
+-34.4656,-58.6576,22,baja,Edenor,Tigre,El Talar,,,32,
 -34.6689,-58.5554,22,baja,Edenor,La Matanza,Ramos Mejia,,,15,
 -34.5732,-58.4607,22,baja,Edenor,Capital Federal,Belgrano,,,15,
+-34.7165,-58.522,22,baja,Edenor,La Matanza,Aldo Bonzi,,,33,
 -34.7127,-58.6263,22,baja,Edenor,La Matanza,Rafael Castillo,,,30,
--34.6333,-58.3737,21,baja,Edesur,Capital,Barracas,,,36,
+-34.6333,-58.3737,21,baja,Edesur,Capital,Barracas,,,32,
 -34.6176,-58.3822,21,baja,Edesur,Capital,Monserrat,,,6,
--34.7466,-58.3999,21,baja,Edesur,Lomas De Zamora,Bandfield,,,20,
--34.5915,-58.4,21,baja,Edesur,Capital,Recoleta,,,122,
+-34.7671,-58.3872,21,baja,Edesur,Lomas De Zamora,Temperley,,,13,
+-34.7431,-58.4026,21,baja,Edesur,Lomas De Zamora,Bandfield,,,22,
+-35.0308,-58.4176,21,baja,Edesur,San Vicente,San Vicente,,,2,
+-34.5915,-58.4,21,baja,Edesur,Capital,Recoleta,,,124,
 -34.7498,-58.3421,21,baja,Edesur,Lomas De Zamora,Temperley,,,4,
 -34.7545,-58.4021,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,11,
 -34.7848,-58.1941,21,baja,Edesur,Berazategui,Ranelagh,,,6,
--34.5995,-58.4967,21,baja,Edesur,Capital,Villa Del Parque,,,15,
--34.6508,-58.4832,21,baja,Edesur,Capital,Capital,,,29,
--34.6371,-58.4988,21,baja,Edesur,Capital,Capital,,,8,
--34.6113,-58.4208,21,baja,Edesur,Capital,Capital,,,10,
+-34.5995,-58.4967,21,baja,Edesur,Capital,Villa Del Parque,,,16,
+-34.6508,-58.4832,21,baja,Edesur,Capital,Capital,,,33,
+-34.6112,-58.4207,21,baja,Edesur,Capital,Almagro,,,11,
 -34.7408,-58.3787,21,baja,Edesur,Lomas De Zamora,Bandfield,,,2,
