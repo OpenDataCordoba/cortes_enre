@@ -15,28 +15,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.775453449,-58.393061859,11,media,Edesur,Lomas De Zamora,Temperley,S/D,R:952-1-01/952-1-01,370,Sin Datos
 -34.832085555,-58.407719621,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-43/180-4-43,86,2022-11-18 15:00
 -34.827629954,-58.411051869,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-43/180-4-43,305,2022-11-18 15:00
--35.028645529,-58.746105123,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-16/271-1-16,193,2022-11-18 16:24
--35.027992861,-58.752339252,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
--35.029811375,-58.754479891,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,2,2022-11-18 16:24
--35.031604289,-58.756544111,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,28,2022-11-18 16:24
--35.036786308,-58.756534977,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-16/271-1-16,62,2022-11-18 16:24
--35.019791086,-58.753798728,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,12,2022-11-18 16:24
--35.026949728,-58.762315964,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,2,2022-11-18 16:24
--35.023282875,-58.761765856,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,6,2022-11-18 16:24
--35.018418512,-58.779279024,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,4,2022-11-18 16:24
--35.018029913,-58.783277172,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
--35.014182658,-58.788051624,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
--35.027751341,-58.743317776,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-16/271-1-16,3,2022-11-18 16:24
--35.038924238,-58.758888337,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-16/271-1-16,22,2022-11-18 16:24
--35.032606200,-58.751892466,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-16/271-1-16,4,2022-11-18 16:24
--35.026927885,-58.745347574,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
--34.997047103,-58.784972542,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,2,2022-11-18 16:24
--35.003906750,-58.792686093,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
--34.987458943,-58.791199925,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
--35.029492226,-58.765318399,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
--35.029076588,-58.759659345,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
--35.012367086,-58.772091939,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
--35.022706102,-58.755181800,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-16/271-1-16,1,2022-11-18 16:24
 -34.884583648,-58.747779636,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-11-18 14:00
 -34.865714369,-58.782709257,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-11-18 14:00
 -34.848933681,-58.751309182,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-11-18 14:00
@@ -78,34 +56,36 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.879050979,-58.738914318,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-11-18 14:00
 -34.869723100,-58.750950059,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-11-18 14:00
 -34.862002562,-58.753992632,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,6,2022-11-18 14:00
--34.726930244,-58.589841590,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr1/451-5515,565,2022-11-18 14:00
--34.730445317,-58.542283219,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5517,1,2022-11-18 14:00
--34.816188180,-58.903583062,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,2,Sin Datos
--34.814628251,-58.906655089,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,1,2022-11-18 14:00
--34.814012604,-58.907668798,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,1,2022-11-18 15:00
+-34.730445317,-58.542283219,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5517,1,2022-11-18 15:00
+-34.816188180,-58.903583062,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,2,2022-11-18 14:00
+-34.814628251,-58.906655089,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,1,Sin Datos
+-34.814012604,-58.907668798,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,1,2022-11-18 14:00
 -34.637065699,-58.855903875,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5523,171,2022-11-18 15:00
--34.638130809,-58.857787584,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5523,158,Sin Datos
+-34.638130809,-58.857787584,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5523,158,2022-11-18 14:00
 -34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-18 14:00
--34.599824934,-58.649991553,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Moron/67-Tr5/67-5541,374,Sin Datos
 -34.5704,-58.4841,22,baja,Edenor,Capital Federal,Villa Urquiza,,,41,
--34.7175,-58.5603,22,baja,Edenor,La Matanza,Ciudad Evita,,,10,
 -34.6293,-58.663,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,25,
 -34.1316,-58.5923,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,1,
--34.6993,-58.7145,22,baja,Edenor,Merlo,Merlo,,,68,
 -34.6452,-58.5493,22,baja,Edenor,La Matanza,Ramos Mejia,,,9,
 -34.6858,-58.5037,22,baja,Edenor,La Matanza,Villa Madero,,,49,
 -34.5658,-58.5165,22,baja,Edenor,Gral San Martin,Gderos De San Mart?N,,,10,
+-34.6203,-58.7394,22,baja,Edenor,Moreno,Paso Del Rey,,,3,
+-34.4754,-58.7425,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,15,
+-34.5653,-58.4685,22,baja,Edenor,Capital Federal,Belgrano,,,14,
+-34.7564,-58.6451,22,baja,Edenor,La Matanza,Gonzalez Catan,,,15,
+-34.3519,-58.8036,22,baja,Edenor,Escobar,Escobar,,,43,
+-34.501,-58.6927,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,5,
 -34.954,-58.3825,21,baja,Edesur,San Vicente,Alejandro Korn,,,2,
 -34.6685,-58.5059,21,baja,Edesur,Capital,Mataderos,,,9,
--34.653,-58.5078,21,baja,Edesur,Capital,Capital,,,8,
+-34.653,-58.5078,21,baja,Edesur,Capital,Capital,,,9,
 -34.6378,-58.5033,21,baja,Edesur,Capital,Capital,,,7,
 -34.7543,-58.4022,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,16,
 -34.6775,-58.385,21,baja,Edesur,Avellaneda,Avellaneda,,,33,
--34.7342,-58.2826,21,baja,Edesur,Quilmes,Quilmes,,,74,
+-34.7342,-58.2826,21,baja,Edesur,Quilmes,Quilmes,,,75,
 -34.9278,-58.3764,21,baja,Edesur,Pte Peron,Parque Americano,,,1,
--34.8201,-58.2058,21,baja,Edesur,Florencio Varela,Bosques,,,11,
--34.6517,-58.4825,21,baja,Edesur,Capital,Parque Avellaneda,,,15,
+-34.8201,-58.2058,21,baja,Edesur,Florencio Varela,Bosques,,,13,
+-34.6517,-58.4825,21,baja,Edesur,Capital,Parque Avellaneda,,,16,
 -35.0308,-58.4176,21,baja,Edesur,San Vicente,San Vicente,,,1,
 -34.632,-58.3857,21,baja,Edesur,Capital,Constitucion,,,3,
--34.6112,-58.4207,21,baja,Edesur,Capital,Almagro,,,9,
--34.6372,-58.4997,21,baja,Edesur,Capital,Capital,,,16,
+-34.6112,-58.4207,21,baja,Edesur,Capital,Almagro,,,10,
+-34.6323,-58.4764,21,baja,Edesur,Capital,Floresta,,,20,
