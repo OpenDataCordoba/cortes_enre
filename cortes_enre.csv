@@ -1,20 +1,12 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.629317579,-58.475661358,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,241,2022-11-18 04:59
--34.510348101,-58.539927246,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:V.Adelina/155-Tr2/155-5521,1,2022-11-18 02:00
--34.325988624,-58.812667482,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,9,2022-11-18 02:00
--34.317476839,-58.821415846,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,2,2022-11-18 02:00
--34.311612524,-58.824834417,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,10,2022-11-18 02:00
--34.320153235,-58.812608795,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,22,2022-11-18 02:00
--34.327383240,-58.815004169,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,2,2022-11-18 02:00
--34.317754935,-58.813843939,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,13,2022-11-18 02:00
--34.330660593,-58.811503223,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr3/51-5474/4-5512,109,2022-11-18 02:00
--34.322601847,-58.810776655,12,media,Edenor,Escobar,Garin,S/D,R:Matheu/51-Tr3/51-5474/4-5512,11,2022-11-18 02:00
--34.710135459,-58.617272149,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,480,2022-11-18 02:00
--34.709357655,-58.621487095,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,401,2022-11-18 02:00
--34.706834319,-58.620081428,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,231,2022-11-18 02:00
--34.708894539,-58.618844083,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,108,2022-11-18 02:00
--34.706329126,-58.619177923,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,254,2022-11-18 02:00
--34.708557467,-58.616524632,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,302,2022-11-18 02:00
+-34.510348101,-58.539927246,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:V.Adelina/155-Tr2/155-5521,1,2022-11-18 03:00
+-34.710135459,-58.617272149,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,480,2022-11-18 03:00
+-34.709357655,-58.621487095,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,401,2022-11-18 03:00
+-34.706834319,-58.620081428,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,231,2022-11-18 03:00
+-34.708894539,-58.618844083,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,108,2022-11-18 03:00
+-34.706329126,-58.619177923,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,254,2022-11-18 03:00
+-34.708557467,-58.616524632,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,302,2022-11-18 03:00
 -34.7177,-58.5602,22,baja,Edenor,La Matanza,Ciudad Evita,,,10,
 -34.6921,-58.654,22,baja,Edenor,Moron,Castelar,,,50,
 -34.5351,-58.7099,22,baja,Edenor,San Miguel,San Miguel,,,14,
@@ -24,7 +16,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5999,-58.9353,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,21,
 -34.8825,-58.6959,22,baja,Edenor,La Matanza,Virrey Del Pino,,,14,
 -34.5613,-58.603,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,4,
--34.6508,-58.4832,21,baja,Edesur,Capital,Capital,,,67,
 -34.7077,-58.3178,21,baja,Edesur,Avellaneda,Wilde,,,30,
 -34.6685,-58.5059,21,baja,Edesur,Capital,Mataderos,,,16,
 -34.6315,-58.4762,21,baja,Edesur,Capital,Capital,,,57,
