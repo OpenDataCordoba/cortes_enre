@@ -1,5 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.629317579,-58.475661358,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,241,2022-11-18 20:17
+-34.629317579,-58.475661358,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-24/218-2-24,241,Sin Datos
 -34.800442892,-58.186063010,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,21,2022-11-18 22:28
 -34.801198432,-58.185128018,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,26,2022-11-18 22:28
 -34.801877072,-58.184281184,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,19,2022-11-18 22:28
@@ -48,8 +48,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.902804892,-58.824506716,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-11-18 21:00
 -34.928275259,-58.771253745,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,3,2022-11-18 21:00
 -34.941418633,-58.768169740,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-11-18 21:00
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,Sin Datos
--34.578182774,-58.381597539,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr1,2,2022-11-18 21:00
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-18 22:00
+-34.578182774,-58.381597539,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr1,2,Sin Datos
 -34.5665,-58.4376,22,baja,Edenor,Capital Federal,Palermo,,,7,
 -34.5542,-58.4573,22,baja,Edenor,Capital Federal,Nu?Ez,,,16,
 -34.492,-58.8307,22,baja,Edenor,Pilar,Pte Derqui,,,60,
@@ -67,21 +67,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4333,-58.9206,22,baja,Edenor,Pilar,Pilar,,,11,
 -34.4706,-58.7108,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,14,
 -34.5653,-58.4685,22,baja,Edenor,Capital Federal,Belgrano,,,9,
--34.6427,-58.5391,22,baja,Edenor,3 De Febrero,Ciudadela,,,8,
 -34.6428,-58.5391,22,baja,Edenor,3 De Febrero,Ciudadela,,,8,
 -34.6685,-58.5059,21,baja,Edesur,Capital,Mataderos,,,10,
 -34.653,-58.5078,21,baja,Edesur,Capital,Capital,,,14,
 -34.6378,-58.5033,21,baja,Edesur,Capital,Capital,,,7,
 -34.6226,-58.5052,21,baja,Edesur,Capital,Monte Castro,,,82,
--34.8201,-58.2058,21,baja,Edesur,Florencio Varela,Bosques,,,21,
--34.6517,-58.4825,21,baja,Edesur,Capital,Parque Avellaneda,,,22,
--34.6112,-58.4872,21,baja,Edesur,Capital,Villa Sta. Rita,,,1,
--34.6371,-58.501,21,baja,Edesur,Capital,Capital,,,45,
+-34.6371,-58.501,21,baja,Edesur,Capital,Capital,,,46,
 -34.6555,-58.5127,21,baja,Edesur,Capital,Capital,,,8,
 -34.7133,-58.4328,21,baja,Edesur,Lomas De Zamora,Bandfield,,,5,
--34.6543,-58.5105,21,baja,Edesur,Capital,Mataderos,,,28,
+-34.6543,-58.5105,21,baja,Edesur,Capital,Mataderos,,,30,
 -34.6456,-58.4288,21,baja,Edesur,Capital,Nueva Pompeya,,,3,
--34.6076,-58.4966,21,baja,Edesur,Capital,Villa Del Parque,,,27,
+-34.6076,-58.4966,21,baja,Edesur,Capital,Villa Del Parque,,,29,
 -34.7773,-58.322,21,baja,Edesur,Almirante Brown,Longchamps,,,7,
 -34.6781,-58.3856,21,baja,Edesur,Avellaneda,Avellaneda,,,14,
--34.6068,-58.4168,21,baja,Edesur,Capital,Capital,,,10,
