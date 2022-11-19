@@ -1,6 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.616171320,-58.391017496,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-1-11/023-1-11,603,2022-11-19 12:36
--34.615517033,-58.392588878,11,media,Edesur,Capital Rp,Balvanera Rp,Pozos,R:023-1-11/023-1-11,149,2022-11-19 12:36
+-34.616171320,-58.391017496,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-1-11/023-1-11,603,Sin Datos
+-34.615517033,-58.392588878,11,media,Edesur,Capital Rp,Balvanera Rp,Pozos,R:023-1-11/023-1-11,149,Sin Datos
 -34.627311034,-58.471586570,11,media,Edesur,Capital Gp,Flores Gp,Santa Rita,R:143-1-17/143-1-17,242,2022-11-19 16:06
 -34.628751113,-58.472710281,11,media,Edesur,Capital Gp,Flores Gp,Santa Rita,R:143-1-17/143-1-17,326,2022-11-19 16:06
 -34.627685026,-58.477632570,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-1-17/143-1-17,294,2022-11-19 16:06
@@ -18,6 +18,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.628193269,-58.472966720,11,media,Edesur,Capital Gp,Flores Gp,Santa Rita,R:143-1-17/143-1-17,241,2022-11-19 16:06
 -34.623910946,-58.486121152,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-1-17/143-1-17,301,2022-11-19 16:06
 -34.630121416,-58.482223417,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-1-17/143-1-17,263,2022-11-19 16:06
+-34.831336054,-58.492573757,11,media,Edesur,Esteban Echeverria,El Jaguel,Almirante Brown,R:180-3-32/180-3-32,125,2022-11-19 16:09
+-34.811255284,-58.451447193,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-3-32/180-3-32,251,2022-11-19 16:09
+-34.840740762,-58.498260146,11,media,Edesur,Esteban Echeverria,El Jaguel,Almirante Brown,R:180-3-32/180-3-32,332,2022-11-19 16:09
+-34.815222807,-58.451271371,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-3-32/180-3-32,542,2022-11-19 16:09
+-34.813450482,-58.447361368,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-3-32/180-3-32,623,2022-11-19 16:09
+-34.813079405,-58.459131618,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-3-32/180-3-32,111,2022-11-19 16:09
+-34.816335367,-58.464461333,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-3-32/180-3-32,50,2022-11-19 16:09
+-34.818209549,-58.469790519,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-3-32/180-3-32,348,2022-11-19 16:09
+-34.817604088,-58.446614421,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-3-32/180-3-32,150,2022-11-19 16:09
+-34.820194426,-58.442086614,11,media,Edesur,Esteban Echeverria,Luis Guillon,Almirante Brown,R:180-3-32/180-3-32,521,2022-11-19 16:09
+-34.815971696,-58.464565251,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-3-32/180-3-32,448,2022-11-19 16:09
+-34.817376029,-58.467170222,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-3-32/180-3-32,230,2022-11-19 16:09
+-34.841727954,-58.501671946,11,media,Edesur,Esteban Echeverria,El Jaguel,Almirante Brown,R:180-3-32/180-3-32,236,2022-11-19 16:09
+-34.818014289,-58.431162140,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-32/180-3-32,290,2022-11-19 16:09
+-34.831436675,-58.413186248,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-32/180-3-32,1,2022-11-19 16:09
+-34.818398087,-58.469959001,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-3-32/180-3-32,24,2022-11-19 16:09
+-34.843749497,-58.498352316,11,media,Edesur,Esteban Echeverria,El Jaguel,Almirante Brown,R:180-3-32/180-3-32,344,2022-11-19 16:09
 -34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-19 14:00
 -34.585123394,-58.467984685,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Colegiales/46-Tr4/46-5566,1,2022-11-19 13:00
 -34.606204634,-59.000676822,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,261,2022-11-19 14:00
@@ -151,23 +168,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5152,-58.5848,22,baja,Edenor,Gral San Martin,Gral Eugenio Necochea,,,26,
 -34.44,-58.8401,22,baja,Edenor,Pilar,La Lonja,,,26,
 -34.6895,-58.5478,22,baja,Edenor,La Matanza,La Tablada,,,4,
--34.4619,-58.6843,22,baja,Edenor,Tigre,Ricardo Rojas,,,31,
 -34.5577,-58.5255,22,baja,Edenor,Gral San Martin,Gderos De San Mart?N,,,14,
--34.5864,-58.4652,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,7,
 -34.8182,-58.6304,22,baja,Edenor,La Matanza,Virrey Del Pino,,,11,
 -34.8238,-58.6352,22,baja,Edenor,La Matanza,Virrey Del Pino,,,7,
 -34.5218,-58.7516,22,baja,Edenor,Jose C Paz,Jose C Paz,,,12,
 -34.8258,-58.6412,22,baja,Edenor,La Matanza,Virrey Del Pino,,,4,
--34.8202,-58.6288,22,baja,Edenor,La Matanza,Virrey Del Pino,,,0,
 -34.8291,-58.6321,22,baja,Edenor,La Matanza,Virrey Del Pino,,,2,
 -34.8199,-58.6283,22,baja,Edenor,La Matanza,Virrey Del Pino,,,5,
 -34.5978,-58.4023,21,baja,Edesur,Capital,Recoleta,,,4,
 -34.6372,-58.3585,21,baja,Edesur,Capital,La Boca,,,52,
--34.7775,-58.2411,21,baja,Edesur,Berazategui,Berazategui,,,43,
+-34.7775,-58.2411,21,baja,Edesur,Berazategui,Berazategui,,,44,
 -34.6563,-58.5129,21,baja,Edesur,Capital,Capital,,,15,
 -34.6186,-58.375,21,baja,Edesur,Capital,San Telmo,,,24,
 -34.6579,-58.5091,21,baja,Edesur,Capital,Mataderos,,,27,
--34.743,-58.4019,21,baja,Edesur,Lomas De Zamora,Bandfield,,,7,
+-34.743,-58.4019,21,baja,Edesur,Lomas De Zamora,Bandfield,,,8,
 -34.6124,-58.3835,21,baja,Edesur,Capital,Monserrat,,,5,
 -34.6385,-58.3589,21,baja,Edesur,Capital,La Boca,,,8,
 -34.7718,-58.2526,21,baja,Edesur,Berazategui,Berazategui,,,11,
@@ -175,5 +189,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6658,-58.5003,21,baja,Edesur,Capital,Capital,,,4,
 -34.9146,-58.374,21,baja,Edesur,Pte Peron,Guernica,,,5,
 -34.5873,-58.3874,21,baja,Edesur,Capital,Recoleta,,,8,
--34.7766,-58.3643,21,baja,Edesur,Almirante Brown,Marmol,,,4,
 -34.7513,-58.2275,21,baja,Edesur,Quilmes,Ezpeleta,,,1,
