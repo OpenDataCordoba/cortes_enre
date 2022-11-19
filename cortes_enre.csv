@@ -45,10 +45,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.858243515,-58.593129573,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-3-34/083-3-34,1,2022-11-19 07:11
 -34.837819682,-58.585101982,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-3-34/083-3-34,34,2022-11-19 07:11
 -34.855804578,-58.592376290,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-3-34/083-3-34,5,2022-11-19 07:11
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-19 04:00
--34.479701107,-58.646974288,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5531,1,2022-11-19 05:00
--34.578182774,-58.381597539,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr1,2,2022-11-19 05:00
--34.567970447,-58.568823600,12,media,Edenor,Gral San Martin,Juan M De Pueyrredon,S/D,R:Malaver/68-Tr2/68-5532,143,2022-11-19 05:00
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,Sin Datos
+-34.479701107,-58.646974288,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5531,1,Sin Datos
+-34.578182774,-58.381597539,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr1,2,Sin Datos
+-34.819056859,-58.634141705,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr2/168-5527,314,2022-11-19 05:00
 -34.5936,-58.4157,22,baja,Edenor,Capital Federal,Palermo,,,10,
 -34.3881,-58.8389,22,baja,Edenor,Escobar,Matheu,,,5,
 -34.3913,-58.7285,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,61,
@@ -69,7 +69,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5694,-58.4584,22,baja,Edenor,Capital Federal,Belgrano,,,57,
 -34.5693,-58.4911,22,baja,Edenor,Capital Federal,Villa Urquiza,,,9,
 -34.5776,-58.6034,22,baja,Edenor,3 De Febrero,Pablo Podesta,,,38,
--34.819,-58.6341,22,baja,Edenor,La Matanza,Virrey Del Pino,,,11,
 -34.4233,-58.8761,22,baja,Edenor,Pilar,Villa Rosa,,,7,
 -34.8138,-58.6204,22,baja,Edenor,La Matanza,Virrey Del Pino,,,3,
 -34.6372,-58.3585,21,baja,Edesur,Capital,La Boca,,,48,
