@@ -1,7 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.616171320,-58.391017496,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-1-11/023-1-11,604,2022-11-20 00:36
 -34.615517033,-58.392588878,11,media,Edesur,Capital Rp,Balvanera Rp,Pozos,R:023-1-11/023-1-11,149,2022-11-20 00:36
--34.601565687,-58.515390025,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,277,Sin Datos
 -34.890805822,-58.510143079,11,media,Edesur,Ezeiza,Canning Ez,Spegazzini,R:270-1-16/270-1-16,27,2022-11-19 20:43
 -34.893230204,-58.510887394,11,media,Edesur,Ezeiza,Canning Ez,Spegazzini,R:270-1-16/270-1-16,3,2022-11-19 20:43
 -34.902779110,-58.513095853,11,media,Edesur,Ezeiza,Canning Ez,Spegazzini,R:270-1-16/270-1-16,336,2022-11-19 20:43
@@ -60,16 +58,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.905029596,-58.511820348,11,media,Edesur,Ezeiza,Canning Ez,Spegazzini,R:270-1-16/270-1-16,1,2022-11-19 20:43
 -34.922753430,-58.567907403,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-1-16/270-1-16,2,2022-11-19 20:43
 -34.945334387,-58.546474137,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-1-16/270-1-16,1,2022-11-19 20:43
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-19 20:00
--34.580326014,-58.538965172,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Migueletes/54-Tr2/54-5531,222,Sin Datos
--34.479701107,-58.646974288,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5531,1,Sin Datos
--34.590864453,-58.528071698,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,43,Sin Datos
--34.591355721,-58.627915835,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Hurlingham/166-Tr3/166-5533,230,2022-11-19 20:00
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,Sin Datos
+-34.580326014,-58.538965172,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Migueletes/54-Tr2/54-5531,222,2022-11-19 20:00
+-34.479701107,-58.646974288,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5531,1,2022-11-19 20:00
+-34.590864453,-58.528071698,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,43,2022-11-19 20:00
+-34.591355721,-58.627915835,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Hurlingham/166-Tr3/166-5533,230,2022-11-19 21:00
 -34.823842182,-58.635220574,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,332,Sin Datos
 -34.5822,-58.6575,22,baja,Edenor,Hurlingham,William Morris,,,18,
 -34.5791,-58.659,22,baja,Edenor,Hurlingham,William Morris,,,4,
 -34.6573,-58.7432,22,baja,Edenor,Merlo,Merlo,,,6,
--34.5693,-58.6039,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,27,
+-34.5693,-58.6039,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,41,
 -34.6396,-58.6659,22,baja,Edenor,Ituzaingo,Ituzaingo,,,34,
 -34.6648,-58.5475,22,baja,Edenor,La Matanza,Ramos Mejia,,,20,
 -34.6214,-58.6211,22,baja,Edenor,Hurlingham,Villa Tesei,,,115,
@@ -81,13 +79,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4464,-58.8013,22,baja,Edenor,Pilar,Del Viso,,,23,
 -34.5659,-58.4692,22,baja,Edenor,Capital Federal,Belgrano,,,5,
 -34.7051,-58.5753,22,baja,Edenor,La Matanza,San Justo,,,2,
--34.1316,-58.5923,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,1,
+-34.1316,-58.5923,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,0,
+-34.5135,-58.7598,22,baja,Edenor,Jose C Paz,Jose C Paz,,,29,
 -34.6186,-58.375,21,baja,Edesur,Capital,San Telmo,,,26,
--34.6033,-58.4064,21,baja,Edesur,Capital,Capital,,,39,
+-34.6033,-58.4064,21,baja,Edesur,Capital,Capital,,,40,
 -34.6491,-58.507,21,baja,Edesur,Capital,Mataderos,,,11,
--34.5991,-58.5162,21,baja,Edesur,Capital,Villa Devoto,,,15,
+-34.5991,-58.5162,21,baja,Edesur,Capital,Villa Devoto,,,17,
 -34.9146,-58.374,21,baja,Edesur,Pte Peron,Guernica,,,7,
 -34.5873,-58.3874,21,baja,Edesur,Capital,Recoleta,,,22,
 -34.5941,-58.4308,21,baja,Edesur,Capital,Capital,,,14,
--34.8198,-58.4698,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,
+-34.7527,-58.2094,21,baja,Edesur,Berazategui,Berazategui,,,4,
 -34.7829,-58.4695,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,2,
+-34.61,-58.4031,21,baja,Edesur,Capital,Balvanera,,,13,
