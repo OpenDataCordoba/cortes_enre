@@ -1,10 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.983522794,-58.377380997,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,376,Sin Datos
--34.978779402,-58.380870908,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,45,Sin Datos
--34.984400381,-58.376745009,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,226,Sin Datos
--34.980990552,-58.376806646,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,352,Sin Datos
--34.616171320,-58.391017496,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-1-11/023-1-11,603,2022-11-19 05:31
--34.615517033,-58.392588878,11,media,Edesur,Capital Rp,Balvanera Rp,Pozos,R:023-1-11/023-1-11,149,2022-11-19 05:31
+-34.616171320,-58.391017496,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-1-11/023-1-11,603,Sin Datos
+-34.615517033,-58.392588878,11,media,Edesur,Capital Rp,Balvanera Rp,Pozos,R:023-1-11/023-1-11,149,Sin Datos
 -34.829049604,-58.580213199,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-3-34/083-3-34,3,2022-11-19 07:11
 -34.879660325,-58.598764129,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-3-34/083-3-34,1,2022-11-19 07:11
 -34.832849891,-58.582139623,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-3-34/083-3-34,1,2022-11-19 07:11
@@ -75,16 +71,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.842464034,-58.208529332,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,125,2022-11-19 08:32
 -34.842115286,-58.209430426,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,117,2022-11-19 08:32
 -34.852846480,-58.209793693,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,14,2022-11-19 08:32
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,Sin Datos
--34.479701107,-58.646974288,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5531,1,2022-11-19 07:00
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-19 07:00
+-34.479701107,-58.646974288,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5531,1,2022-11-19 06:00
 -34.578182774,-58.381597539,12,media,Edenor,Capital Federal,Recoleta,S/D,R:P.Nuevo/44-Tr1,2,2022-11-19 06:00
 -34.423294753,-58.876146304,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,211,2022-11-19 06:00
--34.815637949,-58.623695376,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,13,2022-11-19 07:00
--34.815035206,-58.622539489,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,37,2022-11-19 07:00
--34.814244493,-58.621104717,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,24,2022-11-19 07:00
--34.813725655,-58.620100579,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,15,2022-11-19 07:00
--34.813063188,-58.618744240,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,23,2022-11-19 07:00
--34.815781414,-58.623961487,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,56,2022-11-19 07:00
+-34.815637949,-58.623695376,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,13,2022-11-19 06:00
+-34.815035206,-58.622539489,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,37,2022-11-19 06:00
+-34.814244493,-58.621104717,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,24,2022-11-19 06:00
+-34.813725655,-58.620100579,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,15,2022-11-19 06:00
+-34.813063188,-58.618744240,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,23,2022-11-19 06:00
+-34.815781414,-58.623961487,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,56,2022-11-19 06:00
 -34.5936,-58.4157,22,baja,Edenor,Capital Federal,Palermo,,,10,
 -34.3881,-58.8389,22,baja,Edenor,Escobar,Matheu,,,5,
 -34.6709,-58.6789,22,baja,Edenor,Ituzaingo,Ituzaingo,,,20,
