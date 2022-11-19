@@ -11,7 +11,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.627013362,-58.480136563,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-1-17/143-1-17,359,2022-11-19 20:01
 -34.628193269,-58.472966720,11,media,Edesur,Capital Gp,Flores Gp,Santa Rita,R:143-1-17/143-1-17,241,2022-11-19 20:01
 -34.630121416,-58.482223417,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-1-17/143-1-17,263,2022-11-19 20:01
--34.613219315,-58.396779822,11,media,Edesur,Capital Rp,Balvanera Rp,Pozos,R:023-3-33/023-3-33,524,2022-11-19 20:00
 -34.601565687,-58.515390025,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,277,2022-11-19 17:13
 -34.889423231,-58.507671580,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-4-44/083-4-44,375,2022-11-19 18:40
 -34.886426182,-58.506154942,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-4-44/083-4-44,390,2022-11-19 18:40
@@ -22,17 +21,39 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.878517076,-58.504622646,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-4-44/083-4-44,39,2022-11-19 18:40
 -34.881966951,-58.504895503,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-4-44/083-4-44,79,2022-11-19 18:40
 -34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-19 16:00
--34.403021754,-58.974539209,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5473,1,2022-11-19 16:00
+-34.580326014,-58.538965172,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Migueletes/54-Tr2/54-5531,222,2022-11-19 19:00
+-34.403021754,-58.974539209,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5473,1,2022-11-19 17:00
 -34.479701107,-58.646974288,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5531,1,2022-11-19 16:00
--34.238849693,-58.640729559,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-11-19 17:00
--34.230941887,-58.644240967,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-11-19 17:00
--34.244910489,-58.642988149,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-11-19 17:00
+-34.238849693,-58.640729559,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-11-19 16:00
+-34.230941887,-58.644240967,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-11-19 16:00
+-34.244910489,-58.642988149,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-11-19 16:00
 -34.241985293,-58.641837590,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-11-19 16:00
 -34.240626193,-58.641389952,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-11-19 16:00
 -34.228686047,-58.636674544,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-11-19 16:00
--34.230901272,-58.640187232,12,media,Edenor,S/D,S/D,S/D,S/D,1,2022-11-19 17:00
+-34.230901272,-58.640187232,12,media,Edenor,S/D,S/D,S/D,S/D,1,2022-11-19 16:00
 -34.590864453,-58.528071698,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,43,2022-11-19 16:00
--34.591355721,-58.627915835,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Hurlingham/166-Tr3/166-5533,230,Sin Datos
+-34.591355721,-58.627915835,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Hurlingham/166-Tr3/166-5533,230,2022-11-19 17:00
+-34.837468505,-58.627643292,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,1,2022-11-19 16:00
+-34.827087861,-58.639537569,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,340,2022-11-19 16:00
+-34.823842182,-58.635220574,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,332,2022-11-19 16:00
+-34.828390884,-58.629660740,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,483,2022-11-19 16:00
+-34.831053368,-58.626337188,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,314,2022-11-19 16:00
+-34.829310207,-58.636789878,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,449,2022-11-19 16:00
+-34.819928165,-58.628291511,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,433,2022-11-19 16:00
+-34.827239917,-58.634608612,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,280,2022-11-19 16:00
+-34.825763492,-58.641175447,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,345,2022-11-19 16:00
+-34.826163417,-58.632302351,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,117,2022-11-19 16:00
+-34.818183592,-58.630399713,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,113,2022-11-19 16:00
+-34.832578064,-58.624460364,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,297,2022-11-19 16:00
+-34.825625758,-58.628720452,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,2,2022-11-19 16:00
+-34.827696364,-58.626117962,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,1,2022-11-19 16:00
+-34.829279677,-58.627940971,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,159,2022-11-19 16:00
+-34.820550256,-58.627641995,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,116,2022-11-19 16:00
+-34.834346155,-58.622295215,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,144,2022-11-19 16:00
+-34.826658429,-58.637572244,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,214,2022-11-19 16:00
+-34.830534253,-58.629315512,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,263,2022-11-19 16:00
+-34.825421430,-58.636074672,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,388,2022-11-19 16:00
+-34.826037315,-58.624165385,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,1,2022-11-19 16:00
 -34.3881,-58.8389,22,baja,Edenor,Escobar,Matheu,,,5,
 -34.5822,-58.6575,22,baja,Edenor,Hurlingham,William Morris,,,18,
 -34.759,-58.7257,22,baja,Edenor,Merlo,Pontevedra,,,4,
@@ -45,15 +66,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.407,-58.7163,22,baja,Edenor,Tigre,Benavidez,,,37,
 -34.5693,-58.6039,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,27,
 -34.6939,-58.5915,22,baja,Edenor,La Matanza,Isidro Casanova,,,118,
--34.6382,-58.3591,21,baja,Edesur,Capital,La Boca,,,52,
+-34.6371,-58.3582,21,baja,Edesur,Capital,La Boca,,,52,
 -34.6186,-58.375,21,baja,Edesur,Capital,San Telmo,,,24,
 -34.6579,-58.5091,21,baja,Edesur,Capital,Mataderos,,,28,
 -34.6124,-58.3835,21,baja,Edesur,Capital,Monserrat,,,6,
--34.6385,-58.3589,21,baja,Edesur,Capital,La Boca,,,8,
 -34.7718,-58.2526,21,baja,Edesur,Berazategui,Berazategui,,,11,
 -34.9146,-58.374,21,baja,Edesur,Pte Peron,Guernica,,,7,
 -34.5873,-58.3874,21,baja,Edesur,Capital,Recoleta,,,18,
 -34.7711,-58.1837,21,baja,Edesur,Berazategui,Platanos,,,7,
--34.7513,-58.2275,21,baja,Edesur,Quilmes,Ezpeleta,,,1,
 -34.7296,-58.4107,21,baja,Edesur,Lanus,Remedios De Escalada,,,2,
 -34.7538,-58.2735,21,baja,Edesur,Quilmes,Quilmes,,,1,
+-34.6161,-58.3893,21,baja,Edesur,Capital,Monserrat,,,15,
