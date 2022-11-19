@@ -1,5 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.615517033,-58.392588878,11,media,Edesur,Capital Rp,Balvanera Rp,Pozos,R:023-1-11/023-1-11,149,2022-11-20 00:36
 -34.890805822,-58.510143079,11,media,Edesur,Ezeiza,Canning Ez,Spegazzini,R:270-1-16/270-1-16,27,2022-11-19 20:43
 -34.893230204,-58.510887394,11,media,Edesur,Ezeiza,Canning Ez,Spegazzini,R:270-1-16/270-1-16,3,2022-11-19 20:43
 -34.902779110,-58.513095853,11,media,Edesur,Ezeiza,Canning Ez,Spegazzini,R:270-1-16/270-1-16,336,2022-11-19 20:43
@@ -63,59 +62,50 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.727777210,-58.428787698,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-12/076-1-12,498,2022-11-19 23:02
 -34.728729485,-58.434860614,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-12/076-1-12,424,2022-11-19 23:02
 -34.739501821,-58.400411019,11,media,Edesur,Lomas De Zamora,Bandfield,Heroes De Malvinas,R:076-1-12/076-1-12,8,2022-11-19 23:02
--34.739396710,-58.413642862,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-13/076-1-13,809,2022-11-19 23:03
--34.740945597,-58.404818707,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-13/076-1-13,466,2022-11-19 23:03
--34.738725191,-58.432442327,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-13/076-1-13,539,2022-11-19 23:03
--34.736235705,-58.433880618,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-13/076-1-13,125,2022-11-19 23:03
--34.736958637,-58.435611428,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-13/076-1-13,34,2022-11-19 23:03
--34.735102399,-58.437231382,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-13/076-1-13,589,2022-11-19 23:03
--34.738232194,-58.434761654,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-13/076-1-13,1,2022-11-19 23:03
 -34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-19 21:00
--34.580326014,-58.538965172,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Migueletes/54-Tr2/54-5531,222,Sin Datos
--34.479701107,-58.646974288,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5531,1,2022-11-19 22:00
--34.590864453,-58.528071698,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,43,Sin Datos
--34.102233028,-58.580977932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,15,Sin Datos
--34.131611416,-58.592838530,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
--34.095203393,-58.582693484,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
--34.122822817,-58.587455710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
--34.115211752,-58.583190984,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
--34.098561145,-58.581556899,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.580326014,-58.538965172,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Migueletes/54-Tr2/54-5531,222,2022-11-19 21:00
+-34.712166272,-58.740638931,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,258,Sin Datos
+-34.712779585,-58.748882158,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,417,Sin Datos
+-34.709843323,-58.743548373,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,380,Sin Datos
+-34.714610313,-58.750917631,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,392,Sin Datos
+-34.709445746,-58.738291230,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,151,Sin Datos
+-34.710800441,-58.736396176,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,146,Sin Datos
+-34.711008939,-58.739404348,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,278,Sin Datos
+-34.712343354,-58.743290711,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,181,Sin Datos
+-34.715260928,-58.746815063,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,292,Sin Datos
+-34.710553647,-58.746450056,12,media,Edenor,Merlo,Merlo,S/D,R:Pontevedra/261-Tr1/261-5515,303,Sin Datos
+-34.479701107,-58.646974288,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr3/58-5531,1,2022-11-19 21:00
+-34.590864453,-58.528071698,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,43,2022-11-19 21:00
 -34.591355721,-58.627915835,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Hurlingham/166-Tr3/166-5533,230,2022-11-19 21:00
--34.823842182,-58.635220574,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,332,2022-11-19 21:00
--34.459543693,-58.752449797,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Tortuguitas/252-Tr2/252-5538,68,2022-11-19 21:00
--34.511857037,-58.584559994,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,247,2022-11-19 21:00
--34.506991715,-58.585895020,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,173,2022-11-19 21:00
--34.510277432,-58.582664942,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,393,2022-11-19 21:00
--34.509655583,-58.587245777,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,114,2022-11-19 21:00
--34.510219101,-58.586345951,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,105,2022-11-19 21:00
--34.506008937,-58.586829216,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,252,2022-11-19 21:00
--34.514286532,-58.582282411,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,174,2022-11-19 21:00
--34.507788924,-58.584937405,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,123,2022-11-19 21:00
--34.704592771,-58.482233950,12,media,Edenor,La Matanza,Villa Madero,Tapiales,R:162-5533/162-5526,501,2022-11-20 00:00
--34.709685824,-58.476543893,12,media,Edenor,La Matanza,Villa Madero,Tapiales,R:162-5533/162-5526,498,2022-11-20 00:00
--34.704302382,-58.486076852,12,media,Edenor,La Matanza,Villa Madero,Tapiales,R:162-5533/162-5526,328,2022-11-20 00:00
--34.705972042,-58.480743006,12,media,Edenor,La Matanza,Villa Madero,Tapiales,R:162-5533/162-5526,733,2022-11-20 00:00
--34.703016358,-58.482814010,12,media,Edenor,La Matanza,Villa Madero,Tapiales,R:162-5533/162-5526,303,2022-11-20 00:00
--34.703583669,-58.485017068,12,media,Edenor,La Matanza,Villa Madero,Tapiales,R:162-5533/162-5526,424,2022-11-20 00:00
+-34.823842182,-58.635220574,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,332,Sin Datos
+-34.438145811,-58.549145959,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr1/53-5514,9,Sin Datos
+-34.511857037,-58.584559994,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,247,Sin Datos
+-34.506991715,-58.585895020,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,173,Sin Datos
+-34.510277432,-58.582664942,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,393,Sin Datos
+-34.509655583,-58.587245777,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,114,Sin Datos
+-34.510219101,-58.586345951,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,105,Sin Datos
+-34.506008937,-58.586829216,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,252,Sin Datos
+-34.514286532,-58.582282411,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,174,Sin Datos
+-34.507788924,-58.584937405,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:Suarez/266-Tr1/266-5517,123,Sin Datos
 -34.5822,-58.6575,22,baja,Edenor,Hurlingham,William Morris,,,18,
 -34.6648,-58.5475,22,baja,Edenor,La Matanza,Ramos Mejia,,,20,
 -34.6214,-58.6211,22,baja,Edenor,Hurlingham,Villa Tesei,,,115,
 -34.6873,-58.5967,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,42,
 -34.5863,-58.5712,22,baja,Edenor,Gral San Martin,Villa Libertad,,,3,
--34.6337,-58.8035,22,baja,Edenor,Moreno,Moreno,,,22,
 -34.4464,-58.8013,22,baja,Edenor,Pilar,Del Viso,,,23,
 -34.5659,-58.4692,22,baja,Edenor,Capital Federal,Belgrano,,,5,
--34.7051,-58.5753,22,baja,Edenor,La Matanza,San Justo,,,2,
+-34.7051,-58.5753,22,baja,Edenor,La Matanza,San Justo,,,19,
 -34.5135,-58.7598,22,baja,Edenor,Jose C Paz,Jose C Paz,,,29,
 -34.7535,-58.6292,22,baja,Edenor,La Matanza,Gonzalez Catan,,,41,
 -34.7525,-58.6244,22,baja,Edenor,La Matanza,Gonzalez Catan,,,22,
 -34.6186,-58.375,21,baja,Edesur,Capital,San Telmo,,,26,
 -34.6033,-58.4064,21,baja,Edesur,Capital,Capital,,,42,
+-34.9339,-58.4528,21,baja,Edesur,Pte Peron,Zona Rural,,,11,
 -34.6369,-58.421,21,baja,Edesur,Capital,Boedo,,,9,
--34.5991,-58.5162,21,baja,Edesur,Capital,Villa Devoto,,,18,
+-34.5991,-58.5162,21,baja,Edesur,Capital,Villa Devoto,,,24,
 -34.9146,-58.374,21,baja,Edesur,Pte Peron,Guernica,,,7,
 -34.5937,-58.4314,21,baja,Edesur,Capital,Capital,,,14,
 -34.6523,-58.4835,21,baja,Edesur,Capital,Parque Avellaneda,,,3,
--34.7527,-58.2094,21,baja,Edesur,Berazategui,Berazategui,,,6,
--34.7829,-58.4695,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,2,
--34.61,-58.4031,21,baja,Edesur,Capital,Balvanera,,,18,
+-34.7277,-58.4368,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,15,
+-34.7527,-58.2094,21,baja,Edesur,Berazategui,Berazategui,,,8,
+-34.7833,-58.3744,21,baja,Edesur,Almirante Brown,Marmol,,,1,
