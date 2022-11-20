@@ -17,12 +17,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.701666836,-58.364859633,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-17/075-1-17,2,2022-11-20 16:46
 -34.701334427,-58.364496050,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,29,2022-11-20 16:46
 -34.701051195,-58.363897696,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-17/075-1-17,1,2022-11-20 16:46
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-20 13:00
--34.407220973,-58.968505449,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5472,1,2022-11-20 14:00
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-20 14:00
+-34.407220973,-58.968505449,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5472,1,2022-11-20 13:00
 -34.502910362,-58.695307839,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5541,142,2022-11-20 13:00
--34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-20 13:00
--34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-11-20 13:00
+-34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-20 14:00
+-34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-11-20 14:00
 -34.583247847,-58.754174260,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5515,444,2022-11-20 13:00
+-34.583790902,-58.405523986,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5513,13,2022-11-20 14:00
 -34.5822,-58.6575,22,baja,Edenor,Hurlingham,William Morris,,,18,
 -34.381,-58.8607,22,baja,Edenor,Pilar,Villa Rosa,,,4,
 -34.5067,-58.7878,22,baja,Edenor,Jose C Paz,Jose C Paz,,,29,
@@ -31,8 +32,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5528,-58.4678,22,baja,Edenor,Capital Federal,Nu?Ez,,,4,
 -34.4935,-58.8335,22,baja,Edenor,Pilar,Pte Derqui,,,12,
 -34.5034,-58.6785,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,24,
--34.453,-58.6125,22,baja,Edenor,Tigre,Troncos Del Talar,,,6,
--34.5895,-58.4148,22,baja,Edenor,Capital Federal,Palermo,,,5,
+-34.68,-58.5007,22,baja,Edenor,La Matanza,Villa Madero,,,36,
+-34.453,-58.6125,22,baja,Edenor,Tigre,Troncos Del Talar,,,7,
+-34.5895,-58.4148,22,baja,Edenor,Capital Federal,Palermo,,,11,
 -34.6272,-58.51,21,baja,Edesur,Capital,Capital,,,5,
 -34.6527,-58.4783,21,baja,Edesur,Capital,Parque Avellaneda,,,45,
 -34.6003,-58.3809,21,baja,Edesur,Capital,San Nicolas,,,11,
@@ -40,5 +42,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7613,-58.2408,21,baja,Edesur,Berazategui,Berazategui,,,15,
 -34.5937,-58.4314,21,baja,Edesur,Capital,Capital,,,9,
 -34.5984,-58.5179,21,baja,Edesur,Capital,Villa Devoto,,,22,
--34.7111,-58.4015,21,baja,Edesur,Lanus,Lanus,,,12,
--34.897,-58.5426,21,baja,Edesur,Ezeiza,Tristan Suarez,,,1,
+-34.7111,-58.4015,21,baja,Edesur,Lanus,Lanus,,,13,
+-34.897,-58.5426,21,baja,Edesur,Ezeiza,Tristan Suarez,,,2,
