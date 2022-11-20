@@ -2,12 +2,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.701666836,-58.364859633,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-17/075-1-17,2,2022-11-20 16:46
 -34.701334427,-58.364496050,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,29,2022-11-20 16:46
 -34.701051195,-58.363897696,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-17/075-1-17,1,2022-11-20 16:46
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,Sin Datos
+-34.751697953,-58.338275738,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-32/184-3-32,243,2022-11-20 19:47
+-34.760953529,-58.335170049,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,301,2022-11-20 19:47
+-34.757976983,-58.334596903,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,313,2022-11-20 19:47
+-34.757177398,-58.338587676,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,310,2022-11-20 19:47
+-34.763888472,-58.331371541,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,509,2022-11-20 19:47
+-34.766943118,-58.327739835,11,media,Edesur,Almirante Brown,Rafael Calzada,Monte Chingolo,R:184-3-32/184-3-32,229,2022-11-20 19:47
+-34.761878489,-58.333548589,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,8,2022-11-20 19:47
+-34.764284248,-58.335237004,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,288,2022-11-20 19:47
+-34.766350313,-58.333649805,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,228,2022-11-20 19:47
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-20 17:00
 -34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
 -34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
--34.400662143,-58.599294013,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-11-20 17:00
--34.397346908,-58.602605295,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,55,2022-11-20 17:00
--34.393919003,-58.604077381,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2022-11-20 17:00
 -34.5528,-58.4678,22,baja,Edenor,Capital Federal,Nu?Ez,,,4,
 -34.422,-58.7524,22,baja,Edenor,Escobar,Garin,,,60,
 -34.68,-58.5007,22,baja,Edenor,La Matanza,Villa Madero,,,36,
@@ -16,6 +22,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4904,-58.8381,22,baja,Edenor,Pilar,Pte Derqui,,,38,
 -34.5747,-58.532,22,baja,Edenor,Gral San Martin,Villa Maipu,,,29,
 -34.5606,-58.6904,22,baja,Edenor,San Miguel,Bella Vista,,,22,
+-34.5429,-58.7649,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
 -34.6532,-58.4785,21,baja,Edesur,Capital,Parque Avellaneda,,,46,
 -34.7439,-58.2439,21,baja,Edesur,Quilmes,Ezpeleta,,,102,
 -34.5937,-58.4314,21,baja,Edesur,Capital,Capital,,,9,
@@ -24,6 +31,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.9219,-58.7118,21,baja,Edesur,Cañuelas,Cañuelas,,,5,
 -34.7291,-58.4355,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,4,
 -34.9152,-58.3636,21,baja,Edesur,Pte Peron,Guernica,,,3,
--34.7511,-58.3225,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,14,
--35.0213,-58.4292,21,baja,Edesur,San Vicente,San Vicente,,,2,
--34.7738,-58.3507,21,baja,Edesur,Almirante Brown,San Jose,,,12,
+-34.7511,-58.3225,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,15,
+-35.0213,-58.4292,21,baja,Edesur,San Vicente,San Vicente,,,3,
+-34.7738,-58.3507,21,baja,Edesur,Almirante Brown,San Jose,,,22,
