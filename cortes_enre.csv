@@ -1,32 +1,14 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.700212599,-58.363247600,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,132,2022-11-20 16:46
--34.698572658,-58.356963354,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,24,2022-11-20 16:46
--34.698583399,-58.356975209,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,3,2022-11-20 16:46
--34.700010616,-58.358588937,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,24,2022-11-20 16:46
--34.701597720,-58.358238289,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,7,2022-11-20 16:46
--34.702314559,-58.358117071,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,4,2022-11-20 16:46
--34.702646161,-58.358010892,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,4,2022-11-20 16:46
--34.702631760,-58.357736429,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,26,2022-11-20 16:46
--34.700383849,-58.358128826,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,1,2022-11-20 16:46
--34.700899538,-58.357451401,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,10,2022-11-20 16:46
--34.701219564,-58.357030998,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,41,2022-11-20 16:46
--34.700757705,-58.358450029,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,6,2022-11-20 16:46
--34.701053321,-58.357232169,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,19,2022-11-20 16:46
 -34.701666836,-58.364859633,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-17/075-1-17,2,2022-11-20 16:46
 -34.701334427,-58.364496050,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,29,2022-11-20 16:46
 -34.701051195,-58.363897696,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-17/075-1-17,1,2022-11-20 16:46
 -34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-20 15:00
 -34.407220973,-58.968505449,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5472,1,2022-11-20 14:00
--34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-20 15:00
--34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-11-20 15:00
--34.372341277,-58.896828046,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,17,Sin Datos
--34.583247847,-58.754174260,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5515,444,Sin Datos
--34.436131707,-58.683126857,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5546,160,Sin Datos
--34.5822,-58.6575,22,baja,Edenor,Hurlingham,William Morris,,,18,
+-34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-20 14:00
+-34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-11-20 14:00
 -34.381,-58.8607,22,baja,Edenor,Pilar,Villa Rosa,,,4,
 -34.5067,-58.7878,22,baja,Edenor,Jose C Paz,Jose C Paz,,,29,
 -34.5528,-58.4678,22,baja,Edenor,Capital Federal,Nu?Ez,,,4,
--34.4935,-58.8335,22,baja,Edenor,Pilar,Pte Derqui,,,26,
 -34.6609,-58.5822,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,4,
 -34.4899,-58.8371,22,baja,Edenor,Pilar,Pte Derqui,,,19,
 -34.422,-58.7524,22,baja,Edenor,Escobar,Garin,,,8,
@@ -35,9 +17,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5895,-58.4148,22,baja,Edenor,Capital Federal,Palermo,,,25,
 -34.6527,-58.4783,21,baja,Edesur,Capital,Parque Avellaneda,,,45,
 -34.6003,-58.3809,21,baja,Edesur,Capital,San Nicolas,,,11,
--34.7439,-58.2439,21,baja,Edesur,Quilmes,Ezpeleta,,,99,
+-34.7439,-58.2439,21,baja,Edesur,Quilmes,Ezpeleta,,,100,
 -34.5937,-58.4314,21,baja,Edesur,Capital,Capital,,,9,
 -34.7111,-58.4015,21,baja,Edesur,Lanus,Lanus,,,23,
--34.7369,-58.4415,21,baja,Edesur,Lomas De Zamora,Bandfield,,,7,
+-34.7369,-58.4415,21,baja,Edesur,Lomas De Zamora,Bandfield,,,8,
 -34.897,-58.5426,21,baja,Edesur,Ezeiza,Tristan Suarez,,,2,
 -34.6606,-58.4375,21,baja,Edesur,Capital,Villa Soldati,,,2,
+-34.9219,-58.7118,21,baja,Edesur,Cañuelas,Cañuelas,,,5,
