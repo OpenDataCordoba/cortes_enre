@@ -1,11 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-21 05:00
--34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-21 05:00
--34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-11-21 05:00
--34.667400805,-59.042327612,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,Sin Datos
+-34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.667400805,-59.042327612,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-21 06:00
 -34.576067678,-58.724625340,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5513,120,2022-11-21 05:00
--34.580181008,-58.729084769,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5513,9,2022-11-21 05:00
--34.579849156,-58.726391318,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5513,14,2022-11-21 05:00
 -34.577776335,-58.727042246,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5513,199,2022-11-21 05:00
 -34.577235754,-58.721075370,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5513,159,2022-11-21 05:00
 -34.4295,-58.8208,22,baja,Edenor,Pilar,Del Viso,,,2,
@@ -15,7 +13,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.3321,-58.5955,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,26,
 -34.283,-58.6067,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
 -34.5035,-58.7015,22,baja,Edenor,Malvinas Argentinas,Malvinas Argentinas,,,17,
--34.6388,-58.6227,22,baja,Edenor,Moron,Castelar,,,44,
 -34.6248,-58.4164,21,baja,Edesur,Capital,Boedo,,,1,
 -34.7291,-58.4355,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,6,
 -34.7983,-58.2588,21,baja,Edesur,Florencio Varela,Florencio Varela,,,56,
