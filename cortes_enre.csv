@@ -1,10 +1,14 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.861406792,-58.553218289,11,media,Edesur,Ezeiza,Barrio La Union,Spegazzini,R:270-2-26/270-2-26,222,Sin Datos
--34.865259573,-58.550282889,11,media,Edesur,Ezeiza,Barrio La Union,Spegazzini,R:270-2-26/270-2-26,164,Sin Datos
--34.859358546,-58.555340319,11,media,Edesur,Ezeiza,Barrio La Union,Spegazzini,R:270-2-26/270-2-26,71,Sin Datos
 -34.648239058,-58.425543417,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,4,2022-11-21 21:47
 -34.638754177,-58.424605493,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-4-41/039-4-41,156,2022-11-21 21:47
+-34.647684923,-58.433992167,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,225,2022-11-21 21:47
 -34.647767696,-58.431536061,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,520,2022-11-21 21:47
+-34.647039903,-58.435646913,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,198,2022-11-21 21:47
+-34.649336034,-58.436139142,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,309,2022-11-21 21:47
+-34.650858262,-58.429855985,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,74,2022-11-21 21:47
+-34.649625506,-58.438078362,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,195,2022-11-21 21:47
+-34.649606593,-58.438053098,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,164,2022-11-21 21:47
+-34.650263414,-58.438934396,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,67,2022-11-21 21:47
 -34.648239058,-58.425543417,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,4,Sin Datos
 -34.638754177,-58.424605493,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-36/039-3-36,156,Sin Datos
 -34.663840024,-58.372134335,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-3-34/279-3-34,355,2022-11-21 20:48
@@ -15,17 +19,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.600957161,-58.479570230,11,media,Edesur,Capital Gp,Villa Del Parque,Santa Rita,R:143-2-22/143-2-22,53,2022-11-21 20:47
 -34.602427164,-58.474915646,11,media,Edesur,Capital Gp,La Paternal,Santa Rita,R:143-2-22/143-2-22,453,2022-11-21 20:47
 -34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-21 18:00
--34.667400805,-59.042327612,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-21 18:00
--34.329198838,-58.702609965,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos
--34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,Sin Datos
--34.342866703,-58.693785661,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos
+-34.667400805,-59.042327612,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
+-34.329198838,-58.702609965,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-11-21 19:00
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-11-21 19:00
+-34.342866703,-58.693785661,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-11-21 19:00
 -34.618520283,-58.981315858,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,278,2022-11-21 18:00
 -34.5763,-58.4841,22,baja,Edenor,Capital Federal,Villa Urquiza,,,5,
 -34.6186,-58.9813,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,16,
 -34.6233,-58.5253,21,baja,Edesur,Capital,Villa Real,,,18,
--34.7604,-58.2425,21,baja,Edesur,Quilmes,Ezpeleta,,,9,
+-34.7604,-58.2425,21,baja,Edesur,Quilmes,Ezpeleta,,,10,
 -34.604,-58.4142,21,baja,Edesur,Capital,Capital,,,17,
 -34.596,-58.5188,21,baja,Edesur,Capital,Villa Devoto,,,9,
 -34.6324,-58.4578,21,baja,Edesur,Capital,Flores,,,13,
 -34.6943,-58.4086,21,baja,Edesur,Lanus,Lanus,,,20,
--34.7659,-58.4165,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,47,
+-34.7659,-58.4165,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,51,
