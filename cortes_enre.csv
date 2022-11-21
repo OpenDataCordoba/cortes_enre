@@ -14,14 +14,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.647039903,-58.435646913,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,198,2022-11-21 16:21
 -34.649625506,-58.438078362,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,195,2022-11-21 16:21
 -34.649606593,-58.438053098,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,164,2022-11-21 16:21
--34.621771046,-58.441598628,11,media,Edesur,Capital Rp,Caballito Rp,Caballito,R:122-4-43/122-4-43,96,2022-11-21 17:05
--34.687222221,-58.372658392,11,media,Edesur,Avellaneda,Gerli A,9 De Julio,R:279-3-36/279-3-36,597,2022-11-21 15:10
--34.686482069,-58.370553768,11,media,Edesur,Avellaneda,Gerli A,9 De Julio,R:279-3-36/279-3-36,310,2022-11-21 15:10
--34.687943265,-58.375743697,11,media,Edesur,Avellaneda,Gerli A,9 De Julio,R:279-3-36/279-3-36,236,2022-11-21 15:10
--34.701176645,-58.380018336,11,media,Edesur,Lanus,Lanus Este,9 De Julio,R:279-3-36/279-3-36,433,2022-11-21 15:10
--34.698020680,-58.378503878,11,media,Edesur,Lanus,Gerli L,9 De Julio,R:279-3-36/279-3-36,783,2022-11-21 15:10
--34.702641174,-58.381984985,11,media,Edesur,Lanus,Lanus Este,9 De Julio,R:279-3-36/279-3-36,1,2022-11-21 15:10
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-21 12:00
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,Sin Datos
 -34.590084277,-58.958298434,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,56,Sin Datos
 -34.580158174,-58.971955143,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,57,Sin Datos
 -34.585477547,-58.969378438,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,47,Sin Datos
@@ -32,36 +25,24 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.594010746,-58.949700998,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,73,Sin Datos
 -34.591375828,-58.949579656,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,217,Sin Datos
 -34.579659451,-58.979700157,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,5,Sin Datos
--34.507489107,-58.736966048,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr2/159-5525,206,Sin Datos
 -34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-21 13:00
 -34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2022-11-21 13:00
--34.667400805,-59.042327612,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-21 13:00
--34.576067678,-58.724625340,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5513,120,Sin Datos
--34.577776335,-58.727042246,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5513,199,Sin Datos
--34.577235754,-58.721075370,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr1/265-5513,159,Sin Datos
--34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2022-11-21 12:00
--34.318723988,-58.534047967,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2022-11-21 12:00
--34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-11-21 12:00
--34.314133371,-58.532329527,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-11-21 12:00
--34.314930035,-58.534574950,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-11-21 12:00
--34.307593565,-58.536181417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-11-21 12:00
--34.307000075,-58.533444764,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-11-21 12:00
--34.335556818,-58.527011012,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,2022-11-21 12:00
--34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2022-11-21 12:00
--34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2022-11-21 12:00
--34.444056456,-58.647965995,12,media,Edenor,Tigre,General Pacheco,S/D,R:Nordelta/156-Tr2/156-5525,207,2022-11-21 12:00
--34.792747922,-58.902254872,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-11-21 13:00
--34.5763,-58.4841,22,baja,Edenor,Capital Federal,Villa Urquiza,,,4,
+-34.667400805,-59.042327612,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
+-34.444056456,-58.647965995,12,media,Edenor,Tigre,General Pacheco,S/D,R:Nordelta/156-Tr2/156-5525,207,2022-11-21 13:00
+-34.792747922,-58.902254872,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-11-21 14:00
+-34.5763,-58.4841,22,baja,Edenor,Capital Federal,Villa Urquiza,,,6,
+-34.751,-58.5835,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,17,
 -34.4075,-58.7144,22,baja,Edenor,Tigre,Benavidez,,,4,
 -34.633,-58.7858,22,baja,Edenor,Moreno,Moreno,,,3,
 -34.5645,-58.9276,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,17,
+-34.5457,-58.5662,22,baja,Edenor,Gral San Martin,Gral Jose De Sucre,,,4,
 -34.5634,-58.9341,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,18,
 -34.7171,-58.5258,22,baja,Edenor,La Matanza,Ciudad Evita,,,20,
--34.6248,-58.4164,21,baja,Edesur,Capital,Boedo,,,23,
+-34.6248,-58.4164,21,baja,Edesur,Capital,Boedo,,,30,
 -34.6233,-58.5253,21,baja,Edesur,Capital,Villa Real,,,3,
 -34.8047,-58.43,21,baja,Edesur,Lomas De Zamora,Lavallol,,,42,
 -34.604,-58.4142,21,baja,Edesur,Capital,Capital,,,17,
 -34.6547,-58.4154,21,baja,Edesur,Capital,Nueva Pompeya,,,16,
 -34.7294,-58.4353,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,7,
--34.625,-58.4141,21,baja,Edesur,Capital,Boedo,,,79,
--34.6243,-58.4144,21,baja,Edesur,Capital,Boedo,,,2,
+-34.596,-58.5188,21,baja,Edesur,Capital,Villa Devoto,,,5,
+-34.625,-58.4141,21,baja,Edesur,Capital,Boedo,,,93,
