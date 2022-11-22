@@ -1,16 +1,21 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-22 11:00
--34.420768628,-58.974972731,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5475,1,2022-11-22 10:00
--34.238756220,-58.556535095,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-11-22 10:00
--34.243490261,-58.556284265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-22 10:00
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,Sin Datos
+-34.536961712,-58.505924407,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr1/55-5516,449,Sin Datos
+-34.736072808,-58.640710382,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr1/365-5513,6,2022-11-22 11:00
+-34.420768628,-58.974972731,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5475,1,2022-11-22 11:00
+-34.238756220,-58.556535095,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-11-22 11:00
+-34.243490261,-58.556284265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-11-22 11:00
 -34.659330182,-58.788175996,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr1/258-5513,64,2022-11-22 11:00
 -34.659522523,-58.786998840,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5513,300,2022-11-22 11:00
--34.5619,-58.6049,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,4,
 -34.6568,-58.5949,22,baja,Edenor,Moron,Haedo,,,166,
--34.7646,-58.4173,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,
+-34.5613,-58.603,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,35,
+-34.7646,-58.4173,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,
 -34.6474,-58.3682,21,baja,Edesur,Capital,La Boca,,,14,
 -34.7901,-58.2054,21,baja,Edesur,Berazategui,Ranelagh,,,27,
--34.8188,-58.2031,21,baja,Edesur,Florencio Varela,Bosques,,,15,
 -34.8006,-58.2208,21,baja,Edesur,Berazategui,Sourigues,,,30,
--34.6238,-58.5239,21,baja,Edesur,Capital,Capital,,,44,
--34.7108,-58.313,21,baja,Edesur,Quilmes,Bernal,,,2,
+-34.6238,-58.5239,21,baja,Edesur,Capital,Capital,,,45,
+-34.6439,-58.4033,21,baja,Edesur,Capital,Parque Patricios,,,6,
+-34.7557,-58.2963,21,baja,Edesur,Quilmes,Quilmes,,,11,
+-34.7108,-58.313,21,baja,Edesur,Quilmes,Bernal,,,3,
+-34.7603,-58.4052,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,25,
+-34.9161,-58.3867,21,baja,Edesur,Pte Peron,Guernica,,,2,
