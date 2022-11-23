@@ -1,56 +1,39 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.726129803,-58.551520773,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,131,Sin Datos
--34.724441788,-58.548815450,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,301,Sin Datos
--34.723610351,-58.555542636,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,217,Sin Datos
--34.724800800,-58.553308010,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,205,Sin Datos
--34.729977480,-58.555702931,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,291,Sin Datos
--34.727642252,-58.556620614,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,233,Sin Datos
--34.727866135,-58.558545185,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,277,Sin Datos
--34.727209472,-58.553776436,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,267,Sin Datos
--34.723630677,-58.550754450,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Casanova/63-Tr1/63-5512,296,Sin Datos
--34.881507580,-58.992513482,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-11-23 19:00
--34.820050237,-58.651179058,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,314,Sin Datos
+-34.726129803,-58.551520773,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,131,2022-11-23 18:00
+-34.724441788,-58.548815450,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,301,2022-11-23 18:00
+-34.723610351,-58.555542636,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,217,2022-11-23 18:00
+-34.724800800,-58.553308010,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,205,2022-11-23 18:00
+-34.729977480,-58.555702931,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,291,2022-11-23 18:00
+-34.727642252,-58.556620614,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,233,2022-11-23 18:00
+-34.727866135,-58.558545185,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,277,2022-11-23 18:00
+-34.727209472,-58.553776436,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5512,267,2022-11-23 18:00
+-34.723630677,-58.550754450,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Casanova/63-Tr1/63-5512,296,2022-11-23 18:00
 -34.510113746,-58.694340875,12,media,Edenor,Malvinas Argentinas,Malvinas Argentinas,S/D,R:Nogues/159-Tr2/159-5521,212,Sin Datos
--34.509753122,-58.698184161,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,171,Sin Datos
--34.508869313,-58.696901899,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,186,Sin Datos
--34.466351664,-58.627157662,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,247,Sin Datos
--34.468517708,-58.625420223,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,49,Sin Datos
--34.464603514,-58.628532090,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,89,Sin Datos
--34.469270146,-58.624830536,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,59,Sin Datos
--34.464511504,-58.625034668,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,1,Sin Datos
--34.470624565,-58.624081755,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,101,Sin Datos
--34.472422200,-58.617045498,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,212,Sin Datos
--34.474895211,-58.610776831,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,3,Sin Datos
--34.722488556,-58.604749885,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5525,543,2022-11-23 21:00
--34.711710440,-58.613686023,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,372,2022-11-23 21:00
--34.715908047,-58.613404098,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,413,2022-11-23 21:00
--34.724007404,-58.602718720,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5525,468,2022-11-23 21:00
--34.725597472,-58.600746859,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5525,263,2022-11-23 21:00
--34.719604200,-58.608322766,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5525,303,2022-11-23 21:00
--34.714696249,-58.617617820,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,367,2022-11-23 21:00
--34.713425642,-58.615525703,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,278,2022-11-23 21:00
--34.717572697,-58.611098357,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,131,2022-11-23 21:00
--34.720852986,-58.610437000,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,214,2022-11-23 21:00
--34.716511835,-58.612315494,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,155,2022-11-23 21:00
--34.718249656,-58.613999019,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,231,2022-11-23 21:00
--34.712263462,-58.614294855,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr2/451-5525,225,2022-11-23 21:00
--34.718969676,-58.612773709,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,145,2022-11-23 21:00
--34.721058456,-58.606482536,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5525,458,2022-11-23 21:00
--34.715472114,-58.615552769,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5525,358,2022-11-23 21:00
+-34.509753122,-58.698184161,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,171,2022-11-23 18:00
+-34.508869313,-58.696901899,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,186,2022-11-23 18:00
+-34.466351664,-58.627157662,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,247,2022-11-23 19:00
+-34.468517708,-58.625420223,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,49,2022-11-23 19:00
+-34.464603514,-58.628532090,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,89,2022-11-23 19:00
+-34.469270146,-58.624830536,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,59,2022-11-23 19:00
+-34.464511504,-58.625034668,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,1,2022-11-23 19:00
+-34.470624565,-58.624081755,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,101,2022-11-23 19:00
+-34.472422200,-58.617045498,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,212,2022-11-23 19:00
+-34.474895211,-58.610776831,12,media,Edenor,Tigre,General Pacheco,S/D,R:Bancalari/157-Tr2/157-5521,3,2022-11-23 19:00
 -34.6544,-58.6236,22,baja,Edenor,Moron,Moron,,,5,
--34.5851,-58.5891,22,baja,Edenor,3 De Febrero,Martin Coronado,,,4,
 -34.704,-58.6997,22,baja,Edenor,Merlo,Libertad,,,4,
 -34.3294,-58.6087,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,8,
 -34.6413,-58.5666,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,
 -34.445,-58.555,22,baja,Edenor,San Fernando,San Fernando,,,46,
 -34.7502,-58.5871,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,27,
+-34.6458,-58.6986,22,baja,Edenor,Ituzaingo,Ituzaingo,,,69,
+-34.4608,-58.6813,22,baja,Edenor,Tigre,Ricardo Rojas,,,58,
 -34.7816,-58.1985,21,baja,Edesur,Berazategui,Ranelagh,,,6,
 -34.6041,-58.4288,21,baja,Edesur,Capital,Capital,,,8,
 -34.6225,-58.4689,21,baja,Edesur,Capital,Flores,,,2,
 -34.5994,-58.3877,21,baja,Edesur,Capital,San Nicolas,,,10,
 -34.6036,-58.5014,21,baja,Edesur,Capital,Villa Del Parque,,,6,
--34.6159,-58.3956,21,baja,Edesur,Capital,Balvanera,,,10,
+-34.6159,-58.3956,21,baja,Edesur,Capital,Balvanera,,,11,
 -34.7067,-58.3232,21,baja,Edesur,Avellaneda,Wilde,,,10,
--34.6288,-58.435,21,baja,Edesur,Capital,Parque Chacabuco,,,79,
+-34.6288,-58.435,21,baja,Edesur,Capital,Parque Chacabuco,,,81,
 -34.6248,-58.4164,21,baja,Edesur,Capital,Boedo,,,2,
 -34.6859,-58.3892,21,baja,Edesur,Lanus,Gerli,,,3,
