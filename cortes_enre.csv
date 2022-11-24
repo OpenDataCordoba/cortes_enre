@@ -3,17 +3,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.802131632,-58.322262437,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,13,2022-11-24 14:00
 -34.802777963,-58.320699076,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,7,2022-11-24 14:00
 -34.822716039,-58.488519322,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,443,2022-11-24 15:28
--34.812154757,-58.482672120,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-27/083-2-27,336,2022-11-24 15:28
--34.814660415,-58.488427060,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-27/083-2-27,368,2022-11-24 15:28
--34.811076237,-58.492359767,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,5,2022-11-24 15:28
--34.813971868,-58.496106885,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,24,2022-11-24 15:28
 -34.823947567,-58.490790487,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,174,2022-11-24 15:28
 -34.824479664,-58.491905420,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,199,2022-11-24 15:28
 -34.827425737,-58.489499423,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,208,2022-11-24 15:28
--34.811184051,-58.480847871,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-27/083-2-27,234,2022-11-24 15:28
 -34.826170210,-58.487083474,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,27,2022-11-24 15:28
 -34.823161644,-58.492888059,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,1,2022-11-24 15:28
--34.815661289,-58.494840926,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,233,2022-11-24 15:28
 -34.715277107,-58.430405689,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,351,2022-11-24 15:54
 -34.720485242,-58.425197864,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,327,2022-11-24 15:54
 -34.714691525,-58.430850629,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,59,2022-11-24 15:54
@@ -44,37 +38,40 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.697037971,-58.435725164,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-17/089-1-17,212,2022-11-24 15:54
 -34.699027253,-58.441075442,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,156,2022-11-24 15:54
 -34.699971923,-58.439433732,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,118,2022-11-24 15:54
--34.537323819,-58.532079342,12,media,Edenor,Vicente Lopez,Munro,S/D,R:V.Adelina/155-Tr2/155-5523,13,Sin Datos
--34.675570002,-58.529404942,12,media,Edenor,La Matanza,La Tablada,S/D,R:San Justo/164-Tr1/164-5512,318,2022-11-24 13:00
--34.692355789,-58.742475707,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5523,446,2022-11-24 13:00
+-34.537323819,-58.532079342,12,media,Edenor,Vicente Lopez,Munro,S/D,R:V.Adelina/155-Tr2/155-5523,13,2022-11-24 14:00
+-34.675570002,-58.529404942,12,media,Edenor,La Matanza,La Tablada,S/D,R:San Justo/164-Tr1/164-5512,318,2022-11-24 14:00
+-34.692355789,-58.742475707,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5523,446,2022-11-24 14:00
 -34.941973629,-58.951952419,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,59,2022-11-24 13:00
--34.850648141,-59.049681508,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-11-24 13:00
--34.454378704,-58.730411133,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,184,2022-11-24 14:00
--34.565431853,-58.659803397,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,281,2022-11-24 13:00
+-34.850648141,-59.049681508,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-11-24 14:00
+-34.454378704,-58.730411133,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,184,2022-11-24 13:00
 -34.410228669,-58.607273931,12,media,Edenor,S/D,S/D,S/D,R:Nordelta/156-Tr2/156-5524,331,2022-11-24 13:00
--34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,224,2022-11-24 13:00
--34.419867177,-59.003180240,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,15,Sin Datos
+-34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,224,2022-11-24 14:00
+-34.419867177,-59.003180240,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,15,2022-11-24 13:00
 -34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,389,Sin Datos
 -34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,Sin Datos
--34.821287760,-58.776483973,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,Sin Datos
--34.822498743,-58.774986255,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,Sin Datos
--34.824109351,-58.772988201,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,Sin Datos
--34.818940883,-58.791561850,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,3,Sin Datos
--34.824498781,-58.784700380,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,Sin Datos
--34.816743691,-58.794461664,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,Sin Datos
--34.805522034,-58.770619235,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,Sin Datos
--34.817643331,-58.780967303,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,Sin Datos
+-34.821287760,-58.776483973,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 14:00
+-34.822498743,-58.774986255,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2022-11-24 14:00
+-34.824109351,-58.772988201,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 14:00
+-34.818940883,-58.791561850,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,3,2022-11-24 14:00
+-34.824498781,-58.784700380,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2022-11-24 14:00
+-34.816743691,-58.794461664,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 14:00
+-34.805522034,-58.770619235,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 14:00
+-34.817643331,-58.780967303,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 14:00
 -34.7502,-58.5871,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,38,
+-34.6322,-58.8758,22,baja,Edenor,Moreno,Francisco Alvarez,,,4,
+-34.5456,-58.6977,22,baja,Edenor,San Miguel,Muñiz,,,1,
+-34.4829,-58.9365,22,baja,Edenor,Pilar,Pilar,,,11,
+-34.5487,-58.5671,22,baja,Edenor,Gral San Martin,Gral Jose De Sucre,,,4,
 -34.5932,-58.6207,22,baja,Edenor,Hurlingham,Hurlingham,,,21,
 -34.4973,-58.8324,22,baja,Edenor,Pilar,Pte Derqui,,,12,
 -34.5245,-58.7871,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
--34.5396,-58.7288,22,baja,Edenor,San Miguel,San Miguel,,,19,
+-34.5396,-58.7288,22,baja,Edenor,San Miguel,San Miguel,,,23,
 -34.5218,-58.7516,22,baja,Edenor,Jose C Paz,Jose C Paz,,,12,
--34.6159,-58.3956,21,baja,Edesur,Capital,Balvanera,,,16,
 -34.6171,-58.3848,21,baja,Edesur,Capital,Monserrat,,,12,
--34.612,-58.3831,21,baja,Edesur,Capital,Monserrat,,,7,
+-34.612,-58.3831,21,baja,Edesur,Capital,Monserrat,,,8,
 -34.626,-58.4441,21,baja,Edesur,Capital,Caballito,,,8,
--34.625,-58.4164,21,baja,Edesur,Capital,Boedo,,,2,
+-34.625,-58.4164,21,baja,Edesur,Capital,Boedo,,,3,
 -34.6051,-58.4876,21,baja,Edesur,Capital,Capital,,,58,
 -34.7278,-58.3747,21,baja,Edesur,Lanus,Remedios De Escalada,,,1,
 -34.9012,-58.2426,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
+-35.0308,-58.4176,21,baja,Edesur,San Vicente,San Vicente,,,1,
