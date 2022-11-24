@@ -1,49 +1,29 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.537323819,-58.532079342,12,media,Edenor,Vicente Lopez,Munro,S/D,R:V.Adelina/155-Tr2/155-5523,13,2022-11-24 11:00
+-34.804821333,-58.319841724,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,203,2022-11-24 14:00
+-34.802131632,-58.322262437,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,13,2022-11-24 14:00
+-34.802777963,-58.320699076,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,7,2022-11-24 14:00
+-34.537323819,-58.532079342,12,media,Edenor,Vicente Lopez,Munro,S/D,R:V.Adelina/155-Tr2/155-5523,13,2022-11-24 12:00
 -34.675570002,-58.529404942,12,media,Edenor,La Matanza,La Tablada,S/D,R:San Justo/164-Tr1/164-5512,318,2022-11-24 12:00
--34.692355789,-58.742475707,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5523,446,2022-11-24 12:00
--34.941973629,-58.951952419,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,59,2022-11-24 11:00
--34.850648141,-59.049681508,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-11-24 11:00
--34.454378704,-58.730411133,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,184,2022-11-24 12:00
--34.469071707,-58.930659639,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,54,2022-11-24 11:00
+-34.692355789,-58.742475707,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5523,446,Sin Datos
+-34.941973629,-58.951952419,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,59,2022-11-24 12:00
+-34.850648141,-59.049681508,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
+-34.454378704,-58.730411133,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,184,Sin Datos
+-34.469071707,-58.930659639,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,54,Sin Datos
 -34.427633374,-58.858838747,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,233,2022-11-24 12:00
--34.565431853,-58.659803397,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,281,2022-11-24 12:00
+-34.565431853,-58.659803397,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,281,2022-11-24 13:00
 -34.410228669,-58.607273931,12,media,Edenor,S/D,S/D,S/D,R:Nordelta/156-Tr2/156-5524,331,2022-11-24 12:00
--34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,224,Sin Datos
--34.419867177,-59.003180240,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,15,2022-11-24 11:00
--34.727064867,-58.759631465,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,106,2022-11-24 11:00
--34.716651343,-58.777060532,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,342,2022-11-24 11:00
--34.731812274,-58.750690671,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2022-11-24 11:00
--34.741599750,-58.763376691,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,6,2022-11-24 11:00
--34.736928414,-58.756155372,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,8,2022-11-24 11:00
--34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,389,2022-11-24 11:00
--34.749272513,-58.774573818,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-11-24 11:00
--34.726092626,-58.744535376,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-11-24 11:00
--34.721221808,-58.771041543,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,355,2022-11-24 11:00
--34.736156054,-58.772885082,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,37,2022-11-24 11:00
--34.724653367,-58.766357619,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2022-11-24 11:00
--34.726852065,-58.763365522,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,10,2022-11-24 11:00
--34.731640087,-58.760286501,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-11-24 11:00
--34.724139807,-58.742493755,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-11-24 11:00
--34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,2022-11-24 11:00
--34.731161543,-58.765174804,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,3,2022-11-24 11:00
--34.738335032,-58.758167785,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-11-24 11:00
--34.718806981,-58.779439851,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,154,2022-11-24 11:00
--34.719814838,-58.774844891,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,144,2022-11-24 11:00
--34.714392959,-58.780880898,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,151,2022-11-24 11:00
--34.732850084,-58.780999133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,141,2022-11-24 11:00
--34.728278047,-58.746864048,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,31,2022-11-24 11:00
--34.729200779,-58.743289638,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,98,2022-11-24 11:00
--34.583337946,-58.825273711,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,1,2022-11-24 11:00
--34.580221558,-58.822162660,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,2,2022-11-24 11:00
--34.821287760,-58.776483973,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 11:00
--34.822498743,-58.774986255,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2022-11-24 11:00
--34.824109351,-58.772988201,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 11:00
--34.818940883,-58.791561850,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,3,2022-11-24 11:00
--34.824498781,-58.784700380,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2022-11-24 11:00
--34.816743691,-58.794461664,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 11:00
--34.805522034,-58.770619235,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 11:00
--34.817643331,-58.780967303,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 11:00
+-34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,224,2022-11-24 12:00
+-34.419867177,-59.003180240,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,15,2022-11-24 12:00
+-34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,389,Sin Datos
+-34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,Sin Datos
+-34.821287760,-58.776483973,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 12:00
+-34.822498743,-58.774986255,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2022-11-24 12:00
+-34.824109351,-58.772988201,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 12:00
+-34.818940883,-58.791561850,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,3,2022-11-24 12:00
+-34.824498781,-58.784700380,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2022-11-24 12:00
+-34.816743691,-58.794461664,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 12:00
+-34.805522034,-58.770619235,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 12:00
+-34.817643331,-58.780967303,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 12:00
 -34.3936,-58.8482,22,baja,Edenor,Pilar,Villa Rosa,,,11,
 -34.5864,-58.4652,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,8,
 -34.7502,-58.5871,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,38,
@@ -51,7 +31,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5932,-58.6207,22,baja,Edenor,Hurlingham,Hurlingham,,,21,
 -34.6159,-58.3956,21,baja,Edesur,Capital,Balvanera,,,16,
 -34.6171,-58.3848,21,baja,Edesur,Capital,Monserrat,,,5,
+-34.612,-58.3831,21,baja,Edesur,Capital,Monserrat,,,6,
 -34.626,-58.4441,21,baja,Edesur,Capital,Caballito,,,7,
--34.654,-58.5231,21,baja,Edesur,Capital,Capital,,,23,
--34.625,-58.4164,21,baja,Edesur,Capital,Boedo,,,1,
--34.6051,-58.4876,21,baja,Edesur,Capital,Capital,,,37,
+-34.625,-58.4164,21,baja,Edesur,Capital,Boedo,,,2,
+-34.6051,-58.4876,21,baja,Edesur,Capital,Capital,,,43,
