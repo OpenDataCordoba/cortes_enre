@@ -1,7 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.804821333,-58.319841724,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,203,2022-11-24 14:00
--34.802131632,-58.322262437,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,13,2022-11-24 14:00
--34.802777963,-58.320699076,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,7,2022-11-24 14:00
+-34.804821333,-58.319841724,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,203,Sin Datos
+-34.802131632,-58.322262437,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,13,Sin Datos
+-34.802777963,-58.320699076,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-23/189-2-23,7,Sin Datos
 -34.822716039,-58.488519322,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,443,2022-11-24 15:28
 -34.823947567,-58.490790487,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,174,2022-11-24 15:28
 -34.824479664,-58.491905420,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-27/083-2-27,199,2022-11-24 15:28
@@ -38,12 +38,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.697037971,-58.435725164,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-17/089-1-17,212,2022-11-24 15:54
 -34.699027253,-58.441075442,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,156,2022-11-24 15:54
 -34.699971923,-58.439433732,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-17/089-1-17,118,2022-11-24 15:54
--34.537323819,-58.532079342,12,media,Edenor,Vicente Lopez,Munro,S/D,R:V.Adelina/155-Tr2/155-5523,13,2022-11-24 15:00
+-34.537323819,-58.532079342,12,media,Edenor,Vicente Lopez,Munro,S/D,R:V.Adelina/155-Tr2/155-5523,13,Sin Datos
 -34.692355789,-58.742475707,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr2/361-5523,446,2022-11-24 15:00
--34.941973629,-58.951952419,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,59,2022-11-24 14:00
+-34.941973629,-58.951952419,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,59,Sin Datos
 -34.410228669,-58.607273931,12,media,Edenor,S/D,S/D,S/D,R:Nordelta/156-Tr2/156-5524,331,2022-11-24 15:00
 -34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,224,2022-11-24 15:00
--34.419867177,-59.003180240,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,15,2022-11-24 14:00
 -34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,389,Sin Datos
 -34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,Sin Datos
 -34.821287760,-58.776483973,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-11-24 15:00
@@ -57,13 +56,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6322,-58.8758,22,baja,Edenor,Moreno,Francisco Alvarez,,,32,
 -34.5456,-58.6977,22,baja,Edenor,San Miguel,Muñiz,,,1,
 -34.493,-58.5486,22,baja,Edenor,San Isidro,San Isidro,,,5,
--34.5932,-58.6207,22,baja,Edenor,Hurlingham,Hurlingham,,,21,
 -34.5935,-58.619,22,baja,Edenor,Hurlingham,Hurlingham,,,10,
 -34.4973,-58.8324,22,baja,Edenor,Pilar,Pte Derqui,,,12,
--34.5245,-58.7871,22,baja,Edenor,Jose C Paz,Jose C Paz,,,9,
+-34.5245,-58.7871,22,baja,Edenor,Jose C Paz,Jose C Paz,,,15,
 -34.6822,-58.562,22,baja,Edenor,La Matanza,San Justo,,,4,
 -34.5658,-58.5165,22,baja,Edenor,Gral San Martin,Gderos De San Mart?N,,,11,
--34.5039,-58.6907,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,4,
+-34.5039,-58.6907,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,42,
 -34.4644,-58.9197,22,baja,Edenor,Pilar,Pilar,,,18,
 -34.6291,-58.5363,22,baja,Edenor,3 De Febrero,Ciudadela,,,31,
 -34.5833,-58.7542,22,baja,Edenor,Moreno,Trujui,,,45,
@@ -71,11 +69,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7072,-58.579,22,baja,Edenor,La Matanza,Isidro Casanova,,,22,
 -34.2543,-58.5812,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,9,
 -34.6201,-58.9204,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,1,
--34.6171,-58.3848,21,baja,Edesur,Capital,Monserrat,,,14,
--34.612,-58.3831,21,baja,Edesur,Capital,Monserrat,,,9,
+-34.6171,-58.3848,21,baja,Edesur,Capital,Monserrat,,,15,
+-34.612,-58.3831,21,baja,Edesur,Capital,Monserrat,,,10,
 -34.626,-58.4441,21,baja,Edesur,Capital,Caballito,,,8,
 -34.625,-58.4164,21,baja,Edesur,Capital,Boedo,,,3,
 -34.6051,-58.4876,21,baja,Edesur,Capital,Capital,,,58,
 -34.7278,-58.3747,21,baja,Edesur,Lanus,Remedios De Escalada,,,1,
--34.9012,-58.2426,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
 -35.0308,-58.4176,21,baja,Edesur,San Vicente,San Vicente,,,1,
