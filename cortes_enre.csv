@@ -1,24 +1,45 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.576301425,-58.729033068,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,84,2022-11-24 12:00
--34.571982617,-58.734985840,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,119,2022-11-24 12:00
--34.570546535,-58.737402418,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,2,2022-11-24 12:00
--34.573817284,-58.732290964,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,360,2022-11-24 12:00
--34.572423847,-58.730456304,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,336,2022-11-24 12:00
--34.573765608,-58.727781669,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,151,2022-11-24 12:00
--34.574820117,-58.726320597,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,147,2022-11-24 12:00
--34.567142259,-58.741617984,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,273,2022-11-24 12:00
--34.570724933,-58.736684969,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,1,2022-11-24 12:00
--34.569175943,-58.738732414,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,3,2022-11-24 12:00
--34.566714339,-58.740084802,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,1,2022-11-24 12:00
--34.575586559,-58.730407625,12,media,Edenor,San Miguel,San Miguel,S/D,R:Muniz/265-Tr2/265-5528,1,2022-11-24 12:00
--34.410228669,-58.607273931,12,media,Edenor,S/D,S/D,S/D,R:Nordelta/156-Tr2/156-5524,331,2022-11-24 15:52
--34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,224,2022-11-24 15:52
--34.419867177,-59.003180240,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,15,2022-11-24 09:00
--34.537216319,-58.596830387,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Suarez/266-Tr1/266-5511,1,Sin Datos
+-34.675570002,-58.529404942,12,media,Edenor,La Matanza,La Tablada,S/D,R:San Justo/164-Tr1/164-5512,318,2022-11-24 12:00
+-34.410228669,-58.607273931,12,media,Edenor,S/D,S/D,S/D,R:Nordelta/156-Tr2/156-5524,331,2022-11-24 09:00
+-34.413095218,-58.606626599,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr2/156-5524,224,2022-11-24 09:00
+-34.419867177,-59.003180240,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,15,Sin Datos
+-34.537216319,-58.596830387,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:Suarez/266-Tr1/266-5511,1,2022-11-24 10:00
+-34.727064867,-58.759631465,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,106,2022-11-24 12:00
+-34.741206892,-58.746079910,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-11-24 12:00
+-34.716651343,-58.777060532,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,342,2022-11-24 12:00
+-34.720837303,-58.740841318,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,294,2022-11-24 12:00
+-34.731812274,-58.750690671,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2022-11-24 12:00
+-34.727002565,-58.729689807,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-11-24 12:00
+-34.741599750,-58.763376691,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,6,2022-11-24 12:00
+-34.736928414,-58.756155372,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,8,2022-11-24 12:00
+-34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,389,2022-11-24 12:00
+-34.729080178,-58.727733989,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,420,2022-11-24 12:00
+-34.749272513,-58.774573818,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-11-24 12:00
+-34.726092626,-58.744535376,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2022-11-24 12:00
+-34.721221808,-58.771041543,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,355,2022-11-24 12:00
+-34.734980942,-58.739454535,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,67,2022-11-24 12:00
+-34.722854637,-58.738783991,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,319,2022-11-24 12:00
+-34.736156054,-58.772885082,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,37,2022-11-24 12:00
+-34.724653367,-58.766357619,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2022-11-24 12:00
+-34.726852065,-58.763365522,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,10,2022-11-24 12:00
+-34.739626539,-58.744493058,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2022-11-24 12:00
+-34.731640087,-58.760286501,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-11-24 12:00
+-34.724139807,-58.742493755,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-11-24 12:00
+-34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,2022-11-24 12:00
+-34.731161543,-58.765174804,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,3,2022-11-24 12:00
+-34.738335032,-58.758167785,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2022-11-24 12:00
+-34.718806981,-58.779439851,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,154,2022-11-24 12:00
+-34.719814838,-58.774844891,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,144,2022-11-24 12:00
+-34.714392959,-58.780880898,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,151,2022-11-24 12:00
+-34.732850084,-58.780999133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,141,2022-11-24 12:00
+-34.719476277,-58.738929516,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,235,2022-11-24 12:00
+-34.734017725,-58.738476478,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,73,2022-11-24 12:00
+-34.728278047,-58.746864048,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,31,2022-11-24 12:00
+-34.729200779,-58.743289638,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,98,2022-11-24 12:00
 -34.6548,-58.6414,22,baja,Edenor,Moron,Castelar,,,4,
 -34.3936,-58.8482,22,baja,Edenor,Pilar,Villa Rosa,,,11,
 -34.5864,-58.4652,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,7,
 -34.7502,-58.5871,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,27,
--34.7083,-58.4084,21,baja,Edesur,Lanus,Lanus,,,23,
+-34.7083,-58.4084,21,baja,Edesur,Lanus,Lanus,,,26,
 -34.6159,-58.3956,21,baja,Edesur,Capital,Balvanera,,,16,
 -34.7247,-58.4294,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,3,
