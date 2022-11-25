@@ -5,7 +5,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.849464070,-58.362440776,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Florencio Varela,R:183-2-22/183-2-22,274,Sin Datos
 -34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,389,Sin Datos
 -34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,36,Sin Datos
--34.562039587,-58.859045886,12,media,Edenor,Moreno,Cuartel V,S/D,R:Malvinas/169-Tr1/169-5534,2,2022-11-25 02:00
+-34.562039587,-58.859045886,12,media,Edenor,Moreno,Cuartel V,S/D,R:Malvinas/169-Tr1/169-5534,2,2022-11-25 01:00
 -34.491,-58.7265,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,4,
 -34.4131,-58.6066,22,baja,Edenor,Tigre,Rincon De Milberg,,,12,
 -34.5644,-58.4596,22,baja,Edenor,Capital Federal,Belgrano,,,21,
@@ -17,7 +17,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.3452,-58.7842,22,baja,Edenor,Escobar,Escobar,,,12,
 -34.4167,-58.8705,22,baja,Edenor,Pilar,Villa Rosa,,,16,
 -34.53,-58.4978,22,baja,Edenor,Vicente Lopez,Florida,,,9,
--34.6051,-58.6902,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,4,
+-34.6051,-58.6902,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,20,
 -34.4391,-58.7625,22,baja,Edenor,Pilar,Manuel Alberti,,,13,
 -34.4817,-58.8486,22,baja,Edenor,Pilar,Pte Derqui,,,25,
 -34.483,-58.7841,22,baja,Edenor,Jose C Paz,Jose C Paz,,,19,
@@ -30,12 +30,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5103,-58.5462,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,35,
 -34.5788,-58.4828,22,baja,Edenor,Capital Federal,Villa Urquiza,,,20,
 -34.4318,-58.7296,22,baja,Edenor,Escobar,Garin,,,55,
--34.6035,-58.9441,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,12,
+-34.6035,-58.9441,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,13,
 -34.4118,-58.6839,22,baja,Edenor,Tigre,Benavidez,,,43,
 -34.5702,-58.7487,22,baja,Edenor,San Miguel,San Miguel,,,16,
 -34.6449,-58.4444,21,baja,Edesur,Capital,Flores,,,5,
 -34.7569,-58.4275,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,
--34.6576,-58.5148,21,baja,Edesur,Capital,Mataderos,,,16,
+-34.6576,-58.5148,21,baja,Edesur,Capital,Mataderos,,,17,
 -34.678,-58.4898,21,baja,Edesur,Capital,Villa Lugano,,,3,
 -34.6508,-58.4832,21,baja,Edesur,Capital,Capital,,,10,
 -34.8127,-58.4148,21,baja,Edesur,Almirante Brown,Adrogue,,,2,
@@ -43,7 +43,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6337,-58.3689,21,baja,Edesur,Capital,La Boca,,,36,
 -34.8056,-58.4145,21,baja,Edesur,Lomas De Zamora,Lavallol,,,29,
 -34.818,-58.4808,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,
--34.6851,-58.385,21,baja,Edesur,Avellaneda,Gerli,,,26,
 -34.8118,-58.2612,21,baja,Edesur,Florencio Varela,Florencio Varela,,,17,
 -34.8641,-58.4846,21,baja,Edesur,Esteban Echeverria,Canning,,,34,
 -34.7533,-58.4403,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,12,
@@ -52,6 +51,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6062,-58.4405,21,baja,Edesur,Capital,Caballito,,,2,
 -34.6282,-58.4573,21,baja,Edesur,Capital,Flores,,,9,
 -34.7092,-58.4334,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,12,
--34.7304,-58.4171,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,37,
+-34.7304,-58.4171,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,39,
 -34.7366,-58.4081,21,baja,Edesur,Lomas De Zamora,Bandfield,,,7,
 -34.777,-58.3221,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,13,
+-34.7716,-58.2868,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,
