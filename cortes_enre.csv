@@ -1,27 +1,19 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.817955653,-58.197639227,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-27/174-2-27,278,2022-11-26 00:36
--34.818475305,-58.196487380,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-2-27/174-2-27,1,2022-11-26 00:36
+-34.817955653,-58.197639227,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-27/174-2-27,278,Sin Datos
+-34.818475305,-58.196487380,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-2-27/174-2-27,1,Sin Datos
 -34.616171320,-58.391017496,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-1-11/023-1-11,604,Sin Datos
 -34.615517033,-58.392588878,11,media,Edesur,Capital Rp,Balvanera Rp,Pozos,R:023-1-11/023-1-11,149,Sin Datos
 -34.696929428,-58.331049551,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-27/172-2-27,501,2022-11-25 19:26
--34.633697870,-58.443055301,11,media,Edesur,Capital Rp,Parque Chacabuco,Caballito,R:122-4-47/122-4-47,2,2022-11-25 23:27
+-34.633697870,-58.443055301,11,media,Edesur,Capital Rp,Parque Chacabuco,Caballito,R:122-4-47/122-4-47,2,Sin Datos
 -34.918947481,-58.736737732,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,2022-11-25 20:00
--34.919060402,-58.746893921,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,2022-11-25 20:00
--34.551317054,-58.681130813,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr2/362-5528,33,2022-11-25 21:00
+-34.919060402,-58.746893921,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,2022-11-25 21:00
+-34.551317054,-58.681130813,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr2/362-5528,33,2022-11-25 20:00
 -34.551789336,-58.681683460,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr2/362-5528,226,2022-11-25 20:00
--34.405408126,-58.849145948,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,94,Sin Datos
 -34.797972957,-58.997546619,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,1,Sin Datos
--34.711710440,-58.613686023,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5544,372,2022-11-25 20:00
--34.714696249,-58.617617820,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5544,367,2022-11-25 20:00
--34.713425642,-58.615525703,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5544,278,2022-11-25 20:00
--34.718249656,-58.613999019,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5544,231,2022-11-25 20:00
--34.712263462,-58.614294855,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Aeroclub/451-Tr1/451-5544,225,2022-11-25 20:00
--34.715472114,-58.615552769,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5544,358,2022-11-25 20:00
--34.4754,-58.7425,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,16,
+-34.4754,-58.7425,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,18,
 -34.6392,-58.5631,22,baja,Edenor,Moron,Villa Sarmiento,,,6,
 -34.4417,-58.905,22,baja,Edenor,Pilar,Pilar,,,24,
 -34.3831,-58.8352,22,baja,Edenor,Escobar,Matheu,,,20,
--34.4831,-58.7469,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,27,
 -34.5699,-58.459,22,baja,Edenor,Capital Federal,Belgrano,,,10,
 -34.5537,-58.6998,22,baja,Edenor,San Miguel,Muñiz,,,27,
 -34.5218,-58.7516,22,baja,Edenor,Jose C Paz,Jose C Paz,,,19,
@@ -30,9 +22,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6449,-58.4444,21,baja,Edesur,Capital,Flores,,,8,
 -34.6337,-58.3689,21,baja,Edesur,Capital,La Boca,,,25,
 -34.6033,-58.3991,21,baja,Edesur,Capital,Balvanera,,,17,
--34.7153,-58.4318,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,18,
--34.6019,-58.4551,21,baja,Edesur,Capital,Villa Crespo,,,31,
--34.7003,-58.279,21,baja,Edesur,Quilmes,Bernal,,,31,
+-34.6019,-58.4551,21,baja,Edesur,Capital,Villa Crespo,,,32,
+-34.7003,-58.279,21,baja,Edesur,Quilmes,Bernal,,,34,
 -34.5928,-58.3764,21,baja,Edesur,Capital,Retiro,,,5,
 -34.6544,-58.4129,21,baja,Edesur,Capital,Nueva Pompeya,,,3,
 -34.6438,-58.429,21,baja,Edesur,Capital,Nueva Pompeya,,,4,
@@ -43,4 +34,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7728,-58.3557,21,baja,Edesur,Almirante Brown,San Jose,,,16,
 -34.7896,-58.1512,21,baja,Edesur,Berazategui,Hudson,,,13,
 -34.7261,-58.4403,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,8,
--34.7389,-58.4319,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,25,
+-34.7389,-58.4319,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,26,
