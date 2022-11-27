@@ -1,7 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.658777309,-58.416768709,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-27/039-2-27,239,Sin Datos
--34.657186008,-58.417785101,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-27/039-2-27,126,Sin Datos
--34.657310641,-58.422127881,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-31/039-3-31,99,Sin Datos
 -34.893081310,-58.576441135,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,483,2022-11-27 21:49
 -34.876235578,-58.557676637,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-07/955-1-07,508,2022-11-27 21:49
 -34.888062563,-58.573786755,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,318,2022-11-27 21:49
@@ -26,29 +23,24 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.895109754,-58.578453830,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,217,2022-11-27 21:49
 -34.870540264,-58.565747382,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,13,2022-11-27 21:49
 -34.882244274,-58.573344949,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,8,2022-11-27 21:49
--34.738658958,-58.376941575,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-1-0304/087-1-0304,565,2022-11-27 19:04
 -34.586688500,-58.570823481,12,media,Edenor,Gral San Martin,Villa Libertad,S/D,R:Malaver/68-Tr4/68-5512,515,2022-11-27 18:00
--34.679608189,-58.540715871,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,211,Sin Datos
--34.470047222,-58.502075037,12,media,Edenor,San Isidro,San Isidro,S/D,R:San Isidro/152-Tr1/152-5513,240,2022-11-27 17:00
--34.895167563,-58.759824664,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,2022-11-27 17:00
--34.887795034,-58.769250315,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,2022-11-27 17:00
--34.6132,-58.8088,22,baja,Edenor,Moreno,Moreno,,,6,
+-34.679608189,-58.540715871,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,211,2022-11-27 18:00
+-34.895167563,-58.759824664,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,Sin Datos
+-34.887795034,-58.769250315,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,Sin Datos
 -34.5562,-58.4639,22,baja,Edenor,Capital Federal,Nu?Ez,,,30,
 -34.6237,-58.6234,22,baja,Edenor,Hurlingham,Villa Tesei,,,28,
 -34.5182,-58.7652,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
 -34.6952,-58.7737,22,baja,Edenor,Merlo,Merlo,,,4,
 -34.6294,-58.7603,22,baja,Edenor,Moreno,Paso Del Rey,,,66,
--34.4131,-58.6066,22,baja,Edenor,Tigre,Rincon De Milberg,,,12,
 -34.4277,-58.8105,22,baja,Edenor,Pilar,Manuel Alberti,,,10,
 -34.5898,-58.4282,22,baja,Edenor,Capital Federal,Palermo,,,13,
 -34.6048,-58.4416,21,baja,Edesur,Capital,Villa Crespo,,,36,
 -34.6865,-58.4786,21,baja,Edesur,Capital,Capital,,,6,
 -34.643,-58.5251,21,baja,Edesur,Capital,Liniers,,,18,
--34.6096,-58.45,21,baja,Edesur,Capital,Caballito,,,31,
+-34.6096,-58.45,21,baja,Edesur,Capital,Caballito,,,32,
 -34.614,-58.5235,21,baja,Edesur,Capital,Villa Devoto,,,26,
 -34.6412,-58.443,21,baja,Edesur,Capital,Parque Chacabuco,,,2,
--34.9119,-58.1783,21,baja,Edesur,Berazategui,El Pato,,,7,
 -34.7793,-58.1867,21,baja,Edesur,Berazategui,Berazategui,,,6,
--34.7212,-58.3528,21,baja,Edesur,Lanus,Monte Chingolo,,,1,
--34.6331,-58.4126,21,baja,Edesur,Capital,Boedo,,,16,
+-34.6331,-58.4126,21,baja,Edesur,Capital,Boedo,,,20,
+-34.7491,-58.2087,21,baja,Edesur,Berazategui,Berazategui,,,8,
 -34.6624,-58.4028,21,baja,Edesur,Avellaneda,Piñeyro,,,1,
