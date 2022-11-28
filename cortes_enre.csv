@@ -1,14 +1,8 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.893081310,-58.576441135,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,483,2022-11-27 23:39
--34.896760780,-58.589176917,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-07/955-1-07,1,2022-11-27 23:39
--34.885423892,-58.578488217,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,135,2022-11-27 23:39
--34.887084509,-58.575503468,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,260,2022-11-27 23:39
--34.901481863,-58.598039628,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-07/955-1-07,6,2022-11-27 23:39
--34.891118547,-58.578727010,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,284,2022-11-27 23:39
--34.902930843,-58.596370639,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-07/955-1-07,434,2022-11-27 23:39
--34.906438806,-58.593667705,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-07/955-1-07,430,2022-11-27 23:39
--34.885136289,-58.576988170,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,47,2022-11-27 23:39
--34.891489141,-58.572182898,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,197,2022-11-27 23:39
+-34.893081310,-58.576441135,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,483,2022-11-28 02:54
+-34.896760780,-58.589176917,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-07/955-1-07,1,2022-11-28 02:54
+-34.891118547,-58.578727010,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,284,2022-11-28 02:54
+-34.891489141,-58.572182898,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,197,2022-11-28 02:54
 -35.067637574,-58.758336821,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,449,2022-11-27 23:19
 -35.080051198,-58.769077845,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,6,2022-11-27 23:19
 -35.081874243,-58.760872292,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,1,2022-11-27 23:19
@@ -24,31 +18,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.077358035,-58.761624652,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,3,2022-11-27 23:19
 -35.084549451,-58.770009399,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,1,2022-11-27 23:19
 -35.072814710,-58.751649947,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,1,2022-11-27 23:19
--34.586688500,-58.570823481,12,media,Edenor,Gral San Martin,Villa Libertad,S/D,R:Malaver/68-Tr4/68-5512,515,2022-11-27 21:00
--34.633252334,-58.947006719,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,5,Sin Datos
--34.650513446,-58.944935245,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,Sin Datos
--34.651086688,-58.935410814,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,2,Sin Datos
--34.650891101,-58.941614291,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,Sin Datos
--34.650852971,-58.943833715,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,37,Sin Datos
--34.649597679,-58.940904953,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,Sin Datos
--34.646394334,-58.938725685,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,26,Sin Datos
--34.639175752,-58.947958265,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,5,Sin Datos
--34.636605947,-58.950220458,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,5,Sin Datos
--34.635166617,-58.937377124,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,Sin Datos
--34.635910686,-58.953538788,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,Sin Datos
--34.634468703,-58.950890365,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,2,Sin Datos
--34.5562,-58.4639,22,baja,Edenor,Capital Federal,Nu?Ez,,,30,
+-34.716631766,-58.355284713,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,157,2022-11-28 01:28
+-34.722905658,-58.352571707,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,43,2022-11-28 01:28
+-34.720794542,-58.350154809,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,98,2022-11-28 01:28
+-34.720763671,-58.348848434,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,14,2022-11-28 01:28
+-34.722289780,-58.348302447,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,41,2022-11-28 01:28
+-34.723473470,-58.347829737,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,98,2022-11-28 01:28
+-34.723217163,-58.352529797,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,23,2022-11-28 01:28
+-34.720750356,-58.352801107,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,52,2022-11-28 01:28
+-34.721060645,-58.353144836,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,49,2022-11-28 01:28
+-34.721475194,-58.353599800,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,49,2022-11-28 01:28
+-34.720981171,-58.347760687,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,73,2022-11-28 01:28
+-34.586688500,-58.570823481,12,media,Edenor,Gral San Martin,Villa Libertad,S/D,R:Malaver/68-Tr4/68-5512,515,2022-11-27 23:00
+-34.598748837,-58.733174289,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,147,2022-11-27 23:00
+-34.602651026,-58.733030989,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,276,2022-11-27 23:00
+-34.601023820,-58.730103598,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,170,2022-11-27 23:00
+-34.599595708,-58.740133059,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,220,2022-11-27 23:00
+-34.596866003,-58.732979110,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,255,2022-11-27 23:00
+-34.595495342,-58.731518242,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,138,2022-11-27 23:00
 -34.5549,-58.7454,22,baja,Edenor,San Miguel,San Miguel,,,4,
--34.4131,-58.6066,22,baja,Edenor,Tigre,Rincon De Milberg,,,12,
 -34.5837,-58.491,22,baja,Edenor,Capital Federal,Villa Urquiza,,,13,
 -34.668,-58.8262,22,baja,Edenor,Moreno,Moreno,,,11,
--34.6119,-58.9173,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
--34.6947,-58.4949,22,baja,Edenor,La Matanza,Villa Madero,,,20,
 -34.4711,-58.5879,22,baja,Edenor,San Fernando,Virreyes,,,90,
--34.5561,-58.5228,22,baja,Edenor,Gral San Martin,Gderos De San Mart?N,,,38,
 -34.4681,-58.8088,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
--34.5918,-58.4104,22,baja,Edenor,Capital Federal,Recoleta,,,16,
--34.643,-58.5251,21,baja,Edesur,Capital,Liniers,,,20,
+-34.4501,-58.7856,22,baja,Edenor,Pilar,Manuel Alberti,,,18,
+-34.7153,-58.5163,22,baja,Edenor,La Matanza,Aldo Bonzi,,,19,
+-34.5467,-58.4733,22,baja,Edenor,Capital Federal,Saavedra,,,28,
+-34.5143,-58.5495,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,55,
+-34.643,-58.5251,21,baja,Edesur,Capital,Liniers,,,21,
 -34.6097,-58.4499,21,baja,Edesur,Capital,Capital,,,32,
 -34.614,-58.5235,21,baja,Edesur,Capital,Villa Devoto,,,26,
 -34.6331,-58.4126,21,baja,Edesur,Capital,Boedo,,,23,
+-34.8199,-58.4305,21,baja,Edesur,Almirante Brown,Burzaco,,,5,
+-34.6524,-58.4831,21,baja,Edesur,Capital,Parque Avellaneda,,,5,
+-34.6077,-58.4516,21,baja,Edesur,Capital,Caballito,,,8,
+-34.6875,-58.4819,21,baja,Edesur,Capital,Villa Lugano,,,1,
