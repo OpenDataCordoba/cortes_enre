@@ -1,10 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.691973673,-58.381359485,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,878,2022-11-28 16:40
--34.694933437,-58.395165546,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-1-15/186-1-15,478,2022-11-28 16:40
--34.690460312,-58.380997165,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,439,2022-11-28 16:40
--34.694064628,-58.377714136,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,190,2022-11-28 16:40
--34.696233108,-58.374560649,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,466,2022-11-28 16:40
--34.689296575,-58.377347433,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,298,2022-11-28 16:40
+-34.691973673,-58.381359485,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,878,2022-11-28 18:16
+-34.694933437,-58.395165546,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-1-15/186-1-15,478,2022-11-28 18:16
+-34.690460312,-58.380997165,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,439,2022-11-28 18:16
+-34.694064628,-58.377714136,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,190,2022-11-28 18:16
+-34.696233108,-58.374560649,11,media,Edesur,Lanus,Gerli L,Gerli,R:186-1-15/186-1-15,466,2022-11-28 18:16
 -34.714252538,-58.776693449,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5523,219,2022-11-28 14:00
 -34.394610820,-58.992562268,12,media,Edenor,Pilar,Pilar,S/D,R:Parque/357-Tr4/357-5484,1,2022-11-28 14:00
 -34.884583648,-58.747779636,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-11-28 15:00
@@ -48,7 +47,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.636251075,-58.618124943,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5542,377,2022-11-28 15:00
 -34.635448802,-58.620457711,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5542,184,2022-11-28 15:00
 -34.641662429,-58.618135616,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5542,332,2022-11-28 15:00
--34.577,-58.76,22,baja,Edenor,Moreno,Trujui,,,47,
 -34.6431,-58.6865,22,baja,Edenor,Ituzaingo,Ituzaingo,,,16,
 -34.6524,-58.8438,22,baja,Edenor,Moreno,La Reja,,,6,
 -34.6099,-58.9532,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,58,
@@ -63,15 +61,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6394,-58.485,21,baja,Edesur,Capital,Capital,,,16,
 -34.6302,-58.5235,21,baja,Edesur,Capital,Versalles,,,8,
 -34.6482,-58.3703,21,baja,Edesur,Capital,Barracas,,,6,
--34.6174,-58.3977,21,baja,Edesur,Capital,Balvanera,,,14,
+-34.6174,-58.3977,21,baja,Edesur,Capital,Balvanera,,,16,
 -34.6193,-58.4572,21,baja,Edesur,Capital,Flores,,,8,
 -34.7182,-58.426,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,3,
 -34.6133,-58.436,21,baja,Edesur,Capital,Caballito,,,16,
 -34.6665,-58.4728,21,baja,Edesur,Capital,Capital,,,8,
 -34.6911,-58.4159,21,baja,Edesur,Lanus,Lanus,,,16,
 -34.7765,-58.3907,21,baja,Edesur,Lomas De Zamora,Temperley,,,6,
+-34.7213,-58.3368,21,baja,Edesur,Avellaneda,Avellaneda,,,12,
 -34.6477,-58.3675,21,baja,Edesur,Capital,La Boca,,,4,
--34.6123,-58.4977,21,baja,Edesur,Capital,Monte Castro,,,18,
+-34.6123,-58.4977,21,baja,Edesur,Capital,Monte Castro,,,20,
 -34.7511,-58.4452,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,1,
 -34.8135,-58.3718,21,baja,Edesur,Almirante Brown,Burzaco,,,1,
 -34.6624,-58.4028,21,baja,Edesur,Avellaneda,Piñeyro,,,1,
