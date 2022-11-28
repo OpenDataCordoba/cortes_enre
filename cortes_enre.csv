@@ -1,8 +1,13 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.893081310,-58.576441135,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,483,2022-11-28 13:08
+-34.888062563,-58.573786755,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,318,2022-11-28 13:08
 -34.896760780,-58.589176917,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-07/955-1-07,1,2022-11-28 13:08
 -34.891118547,-58.578727010,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,284,2022-11-28 13:08
+-34.886288840,-58.570384474,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,204,2022-11-28 13:08
+-34.884603683,-58.571031952,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,528,2022-11-28 13:08
 -34.891489141,-58.572182898,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,197,2022-11-28 13:08
+-34.887881496,-58.568775200,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,111,2022-11-28 13:08
+-34.882244274,-58.573344949,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-07/955-1-07,8,2022-11-28 13:08
 -35.067637574,-58.758336821,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,449,Sin Datos
 -35.080051198,-58.769077845,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,6,Sin Datos
 -35.081874243,-58.760872292,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,1,Sin Datos
@@ -18,40 +23,53 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.077358035,-58.761624652,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,3,Sin Datos
 -35.084549451,-58.770009399,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,1,Sin Datos
 -35.072814710,-58.751649947,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,1,Sin Datos
--34.722216958,-58.371273397,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-4-44/087-4-44,595,2022-11-28 13:01
--34.720295054,-58.369475920,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-4-44/087-4-44,592,2022-11-28 13:01
--34.727162336,-58.371520065,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-44/087-4-44,488,2022-11-28 13:01
 -34.834878458,-58.961774420,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,4,2022-11-28 11:00
 -34.714252538,-58.776693449,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5523,219,Sin Datos
--34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,Sin Datos
--34.702444061,-58.834377718,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,36,Sin Datos
+-34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,2022-11-28 12:00
+-34.702444061,-58.834377718,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,36,2022-11-28 11:00
 -34.394610820,-58.992562268,12,media,Edenor,Pilar,Pilar,S/D,R:Parque/357-Tr4/357-5484,1,2022-11-28 11:00
 -34.415195514,-58.865120021,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,85,2022-11-28 11:00
--34.448715926,-58.899110201,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5531,326,Sin Datos
--34.579201987,-58.688248486,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,117,Sin Datos
--34.865714369,-58.782709257,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-11-28 11:00
--34.522662881,-58.699988166,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,8,2022-11-28 11:00
--34.523386012,-58.701497567,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,251,2022-11-28 11:00
--34.527175795,-58.694606406,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,195,2022-11-28 11:00
--34.519851065,-58.692693441,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,96,2022-11-28 11:00
--34.521965363,-58.695054966,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,16,2022-11-28 11:00
--34.524956192,-58.697201661,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,21,2022-11-28 11:00
--34.524107183,-58.693226291,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,2,2022-11-28 11:00
--34.701193287,-58.600551660,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5542,356,Sin Datos
--34.703857735,-58.612981263,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,7,Sin Datos
+-34.472851275,-58.934946651,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,10,2022-11-28 12:58
+-34.448715926,-58.899110201,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5531,326,2022-11-28 11:00
+-34.579201987,-58.688248486,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,117,2022-11-28 11:00
+-34.527175795,-58.694606406,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,195,2022-11-28 12:00
+-34.701193287,-58.600551660,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5542,356,2022-11-28 11:00
+-34.703857735,-58.612981263,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,7,2022-11-28 11:00
+-34.473001304,-58.896195686,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,161,2022-11-28 14:00
+-34.466408234,-58.898845914,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,233,2022-11-28 14:00
+-34.460168037,-58.902514541,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,246,2022-11-28 14:00
+-34.462563901,-58.901624813,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,285,2022-11-28 14:00
+-34.459967213,-58.906328035,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,111,2022-11-28 14:00
+-34.478101340,-58.894080682,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,311,2022-11-28 14:00
+-34.467975127,-58.903410325,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,148,2022-11-28 14:00
+-34.470871622,-58.897822939,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,253,2022-11-28 14:00
+-34.468077858,-58.889782093,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,194,2022-11-28 14:00
+-34.464557899,-58.893709556,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,216,2022-11-28 14:00
+-34.471894439,-58.893961926,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,173,2022-11-28 14:00
+-34.474175597,-58.890418899,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,161,2022-11-28 14:00
+-34.474648546,-58.902231105,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,198,2022-11-28 14:00
+-34.465514300,-58.896880727,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,170,2022-11-28 14:00
+-34.477969548,-58.899684977,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,52,2022-11-28 14:00
+-34.465746150,-58.901676954,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,37,2022-11-28 14:00
+-34.479966048,-58.886218502,12,media,Edenor,Pilar,Villa Astolfi,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,126,2022-11-28 14:00
+-34.479033705,-58.884464353,12,media,Edenor,Pilar,Villa Astolfi,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,66,2022-11-28 14:00
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2022-11-28 14:00
+-34.484945324,-58.887158637,12,media,Edenor,Pilar,Villa Astolfi,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,31,2022-11-28 14:00
+-34.474191142,-58.895272631,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,36,2022-11-28 14:00
+-34.466446899,-58.901114391,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,111,2022-11-28 14:00
 -34.668,-58.8262,22,baja,Edenor,Moreno,Moreno,,,26,
 -34.4806,-58.6204,22,baja,Edenor,Tigre,Don Torcuato,,,36,
--34.591,-58.6622,22,baja,Edenor,Hurlingham,William Morris,,,14,
 -34.9561,-58.7651,22,baja,Edenor,Marcos Paz,Marcos Paz,,,7,
 -34.5419,-58.5378,22,baja,Edenor,Vicente Lopez,Munro,,,18,
 -34.4741,-58.9295,22,baja,Edenor,Pilar,Pilar,,,8,
--34.577,-58.76,22,baja,Edenor,Moreno,Trujui,,,8,
--34.5218,-58.7516,22,baja,Edenor,Jose C Paz,Jose C Paz,,,6,
--34.8199,-58.4305,21,baja,Edesur,Almirante Brown,Burzaco,,,50,
--34.6077,-58.4516,21,baja,Edesur,Capital,Caballito,,,19,
--34.6394,-58.485,21,baja,Edesur,Capital,Capital,,,4,
+-34.577,-58.76,22,baja,Edenor,Moreno,Trujui,,,45,
+-34.5218,-58.7516,22,baja,Edenor,Jose C Paz,Jose C Paz,,,7,
+-34.6077,-58.4516,21,baja,Edesur,Capital,Caballito,,,20,
+-34.6394,-58.485,21,baja,Edesur,Capital,Capital,,,8,
 -34.6482,-58.3703,21,baja,Edesur,Capital,Barracas,,,4,
 -34.6193,-58.4572,21,baja,Edesur,Capital,Flores,,,5,
 -34.6625,-58.4053,21,baja,Edesur,Avellaneda,Piñeyro,,,2,
 -34.7048,-58.3828,21,baja,Edesur,Lanus,Lanus,,,2,
 -34.7282,-58.3751,21,baja,Edesur,Lanus,Remedios De Escalada,,,2,
+-34.7255,-58.3714,21,baja,Edesur,Lanus,Remedios De Escalada,,,2,
+-34.6911,-58.4159,21,baja,Edesur,Lanus,Lanus,,,3,
