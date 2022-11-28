@@ -1,14 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.826007014,-58.200564957,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-1-12/174-1-12,368,2022-11-28 17:00
 -34.843425121,-58.188843271,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-1-12/174-1-12,8,2022-11-28 17:00
--34.831861038,-58.201678325,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-1-12/174-1-12,3,2022-11-28 17:00
--34.830530377,-58.201141860,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-1-12/174-1-12,3,2022-11-28 17:00
--34.829513081,-58.203542750,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-1-12/174-1-12,3,2022-11-28 17:00
--34.829888400,-58.202632416,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-1-12/174-1-12,1,2022-11-28 17:00
 -34.850852974,-58.186056145,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-1-12/174-1-12,1,2022-11-28 17:00
--34.696390670,-58.364163222,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-2-25/075-2-25,368,2022-11-28 20:19
--34.692564589,-58.366239844,11,media,Edesur,Avellaneda,Gerli A,Corina,R:075-2-25/075-2-25,763,2022-11-28 20:19
--34.693984813,-58.363801451,11,media,Edesur,Avellaneda,Gerli A,Corina,R:075-2-25/075-2-25,3,2022-11-28 20:19
 -34.642356663,-58.470401245,11,media,Edesur,Capital Gp,Parque Avellaneda,Falcon,R:016-3-35/016-3-35,186,2022-11-28 18:56
 -34.642375888,-58.470376331,11,media,Edesur,Capital Gp,Parque Avellaneda,Falcon,R:016-3-35/016-3-35,445,2022-11-28 18:56
 -34.641042990,-58.474259214,11,media,Edesur,Capital Gp,Parque Avellaneda,Falcon,R:016-3-35/016-3-35,759,2022-11-28 18:56
@@ -17,8 +10,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.644051058,-58.471697644,11,media,Edesur,Capital Gp,Parque Avellaneda,Falcon,R:016-3-35/016-3-35,744,2022-11-28 18:56
 -34.639820551,-58.478139757,11,media,Edesur,Capital Gp,Parque Avellaneda,Falcon,R:016-3-35/016-3-35,97,2022-11-28 18:56
 -34.638512258,-58.474883052,11,media,Edesur,Capital Gp,Parque Avellaneda,Falcon,R:016-3-35/016-3-35,36,2022-11-28 18:56
--34.635989783,-58.484114689,11,media,Edesur,Capital Gp,Velez Sarfield,Falcon,R:016-3-35/016-3-35,113,2022-11-28 19:15
--34.638025194,-58.483879214,11,media,Edesur,Capital Gp,Velez Sarfield,Falcon,R:016-3-35/016-3-35,420,2022-11-28 19:15
 -34.714252538,-58.776693449,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5523,219,Sin Datos
 -34.394610820,-58.992562268,12,media,Edenor,Pilar,Pilar,S/D,R:Parque/357-Tr4/357-5484,1,Sin Datos
 -34.703857735,-58.612981263,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,7,2022-11-28 18:00
@@ -48,26 +39,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.3815,-58.743,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,5,
 -34.6077,-58.4516,21,baja,Edesur,Capital,Caballito,,,19,
 -34.6302,-58.5235,21,baja,Edesur,Capital,Versalles,,,11,
--34.6482,-58.3703,21,baja,Edesur,Capital,Barracas,,,6,
--34.7572,-58.3874,21,baja,Edesur,Lomas De Zamora,Bandfield,,,29,
+-34.6482,-58.3703,21,baja,Edesur,Capital,Barracas,,,7,
+-34.7572,-58.3874,21,baja,Edesur,Lomas De Zamora,Bandfield,,,35,
 -34.6174,-58.3977,21,baja,Edesur,Capital,Balvanera,,,32,
--34.6193,-58.4572,21,baja,Edesur,Capital,Flores,,,8,
+-34.6193,-58.4572,21,baja,Edesur,Capital,Flores,,,9,
 -34.7182,-58.426,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,3,
 -34.6123,-58.4025,21,baja,Edesur,Capital,Balvanera,,,5,
 -34.6665,-58.4728,21,baja,Edesur,Capital,Capital,,,12,
--34.6916,-58.4171,21,baja,Edesur,Lanus,Lanus,,,23,
+-34.6911,-58.4159,21,baja,Edesur,Lanus,Lanus,,,23,
 -34.7498,-58.4007,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,63,
 -34.7137,-58.3049,21,baja,Edesur,Quilmes,Bernal,,,33,
 -34.6334,-58.3706,21,baja,Edesur,Capital,Barracas,,,13,
 -34.7765,-58.3907,21,baja,Edesur,Lomas De Zamora,Temperley,,,11,
--34.7213,-58.3368,21,baja,Edesur,Avellaneda,Avellaneda,,,15,
 -34.6119,-58.4993,21,baja,Edesur,Capital,Monte Castro,,,28,
 -34.611,-58.4202,21,baja,Edesur,Capital,Almagro,,,17,
--34.7962,-58.3862,21,baja,Edesur,Almirante Brown,Adrogue,,,14,
+-34.7962,-58.3862,21,baja,Edesur,Almirante Brown,Adrogue,,,16,
 -35.06,-58.276,21,baja,Edesur,San Vicente,Domselaar,,,2,
 -34.7976,-58.3185,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,5,
 -34.6564,-58.5135,21,baja,Edesur,Capital,Mataderos,,,11,
--34.6462,-58.4715,21,baja,Edesur,Capital,Parque Avellaneda,,,69,
--34.794,-58.4573,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,14,
+-34.6462,-58.4715,21,baja,Edesur,Capital,Parque Avellaneda,,,74,
+-34.794,-58.4573,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,16,
 -34.8129,-58.465,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,5,
--34.6578,-58.4153,21,baja,Edesur,Capital,Nueva Pompeya,,,5,
+-34.6578,-58.4153,21,baja,Edesur,Capital,Nueva Pompeya,,,7,
