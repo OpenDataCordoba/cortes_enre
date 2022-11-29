@@ -1,101 +1,49 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.645506674,-58.374670797,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,86,2022-11-29 09:31
--34.557297135,-58.417006134,12,media,Edenor,Capital Federal,Palermo,S/D,R:Aguas/129-Tr2/129-5527,1,Sin Datos
+-34.645506674,-58.374670797,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,86,Sin Datos
+-34.557297135,-58.417006134,12,media,Edenor,Capital Federal,Palermo,S/D,R:Aguas/129-Tr2/129-5527,1,2022-11-29 10:00
 -34.554188051,-58.520791773,12,media,Edenor,Vicente Lopez,Villa Martelli,S/D,R:Munro/55-Tr1/55-5544,97,2022-11-29 10:00
--34.704243498,-58.825769210,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,32,2022-11-29 10:00
--34.713198554,-58.816481412,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,21,2022-11-29 13:00
--34.569423559,-58.692372695,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,166,Sin Datos
--34.491067335,-58.654370299,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr4/58-5545,173,Sin Datos
--34.449701025,-58.689139467,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Ford/151-Tr2/151-5525,144,2022-11-29 13:00
--34.451851254,-58.688734820,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Ford/151-Tr2/151-5525,43,2022-11-29 13:00
--34.622899466,-58.556104988,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5512,1,2022-11-29 13:00
--34.624401118,-58.555393882,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5512,33,2022-11-29 13:00
--34.622821790,-58.555967015,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5512,198,2022-11-29 13:00
--34.624007062,-58.554058337,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5512,160,2022-11-29 13:00
--34.623426257,-58.552948473,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5512,1,2022-11-29 13:00
--34.623711131,-58.557889975,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5512,70,2022-11-29 13:00
--34.623559771,-58.557788952,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5512,1,2022-11-29 13:00
--34.621555857,-58.559395977,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5512,23,2022-11-29 13:00
--34.655272932,-58.945815057,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,7,2022-11-29 13:00
--34.680274550,-58.955338634,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,4,2022-11-29 13:00
--34.687450138,-58.956566989,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,118,2022-11-29 13:00
--34.690259935,-58.960071567,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,32,2022-11-29 13:00
--34.675334007,-58.948971228,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,34,2022-11-29 13:00
--34.689257168,-58.950050718,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,2022-11-29 13:00
--34.677839446,-58.964102677,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,13,2022-11-29 13:00
--34.670252644,-58.953458792,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-29 13:00
--34.648637776,-58.945517510,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-29 13:00
--34.683417753,-58.970750758,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,22,2022-11-29 13:00
--34.674538783,-58.956788027,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2022-11-29 13:00
--34.650513446,-58.944935245,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.685447994,-58.961738098,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,270,2022-11-29 13:00
--34.671843695,-58.948382453,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.693474112,-58.958821390,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2022-11-29 13:00
--34.659497553,-58.946237767,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.670983961,-58.970414227,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,26,2022-11-29 13:00
--34.682156339,-58.979156405,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,7,2022-11-29 13:00
--34.679624959,-58.985190234,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,2022-11-29 13:00
--34.678284523,-58.992316536,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,4,2022-11-29 13:00
--34.651086688,-58.935410814,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-29 13:00
--34.672564587,-58.985457201,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,7,2022-11-29 13:00
--34.693874557,-58.931910615,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2022-11-29 13:00
--34.638162674,-58.945187241,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.650891101,-58.941614291,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.687541603,-58.949634104,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,14,2022-11-29 13:00
--34.686977899,-58.940662617,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2022-11-29 13:00
--34.657311922,-58.946300383,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2022-11-29 13:00
--34.688679359,-58.920517953,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-29 13:00
--34.670192690,-58.961302255,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2022-11-29 13:00
--34.697058336,-58.917525503,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,7,2022-11-29 13:00
--34.681153760,-58.995882109,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.686513263,-58.951125097,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.676707900,-58.972108911,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-29 13:00
--34.681664697,-58.925995217,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2022-11-29 13:00
--34.656062242,-58.945857327,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.649157760,-58.945425013,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.682912402,-58.948683249,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,15,2022-11-29 13:00
--34.650852971,-58.943833715,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,37,2022-11-29 13:00
--34.695616813,-58.966395018,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,2022-11-29 13:00
--34.698006342,-58.926905247,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-29 13:00
--34.649597679,-58.940904953,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.648129904,-58.944807668,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.636490347,-58.945333545,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.661954208,-58.945133992,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 13:00
--34.687404300,-58.959406398,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,82,2022-11-29 13:00
--34.638574186,-58.944294619,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,10,2022-11-29 13:00
+-34.704243498,-58.825769210,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,32,2022-11-29 11:00
+-34.713198554,-58.816481412,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,21,2022-11-29 11:00
+-34.569423559,-58.692372695,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,166,2022-11-29 10:00
+-34.491067335,-58.654370299,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr4/58-5545,173,2022-11-29 10:00
+-34.449701025,-58.689139467,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Ford/151-Tr2/151-5525,144,2022-11-29 10:00
+-34.451851254,-58.688734820,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Ford/151-Tr2/151-5525,43,2022-11-29 10:00
+-34.623711131,-58.557889975,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5512,70,2022-11-29 11:00
+-34.623559771,-58.557788952,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5512,1,2022-11-29 11:00
+-34.621555857,-58.559395977,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5512,23,2022-11-29 11:00
+-34.638162674,-58.945187241,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 10:00
+-34.636490347,-58.945333545,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-29 10:00
+-34.638574186,-58.944294619,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,10,2022-11-29 10:00
 -34.6071,-58.9434,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
 -34.5575,-58.7404,22,baja,Edenor,San Miguel,San Miguel,,,19,
--34.548,-58.5785,22,baja,Edenor,Gral San Martin,Godoy Cruz,,,11,
 -34.5847,-58.495,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,17,
--34.6252,-58.6568,22,baja,Edenor,Hurlingham,Villa Tesei,,,67,
--34.5215,-58.8165,22,baja,Edenor,Moreno,Cuartel V,,,6,
 -34.7431,-58.5972,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,12,
--34.6201,-58.8941,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,2,
 -34.5202,-58.7072,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,16,
--34.629,-58.5324,22,baja,Edenor,3 De Febrero,Ciudadela,,,42,
 -34.4401,-58.5613,22,baja,Edenor,San Fernando,San Fernando,,,14,
--34.4431,-58.7534,22,baja,Edenor,Pilar,Manuel Alberti,,,4,
+-34.4431,-58.7534,22,baja,Edenor,Pilar,Manuel Alberti,,,5,
 -34.6492,-58.6219,22,baja,Edenor,Moron,Moron,,,4,
 -34.6095,-58.7261,22,baja,Edenor,Moreno,Trujui,,,48,
--34.5941,-58.4121,22,baja,Edenor,Capital Federal,Recoleta,,,4,
+-34.5941,-58.4121,22,baja,Edenor,Capital Federal,Recoleta,,,30,
+-34.3451,-58.7911,22,baja,Edenor,Escobar,Escobar,,,1,
 -34.6229,-58.368,21,baja,Edesur,Capital,San Telmo,,,5,
 -34.7182,-58.426,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,3,
 -34.6334,-58.3706,21,baja,Edesur,Capital,Barracas,,,20,
 -34.7976,-58.3185,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,6,
--34.6564,-58.5135,21,baja,Edesur,Capital,Mataderos,,,16,
+-34.6564,-58.5135,21,baja,Edesur,Capital,Mataderos,,,17,
 -34.7979,-58.2846,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
 -34.6691,-58.5052,21,baja,Edesur,Capital,Capital,,,35,
 -34.8129,-58.465,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,6,
--34.6133,-58.436,21,baja,Edesur,Capital,Caballito,,,28,
+-34.6133,-58.436,21,baja,Edesur,Capital,Caballito,,,29,
 -34.8822,-58.1809,21,baja,Edesur,Berazategui,El Pato,,,14,
 -35.022,-58.4235,21,baja,Edesur,San Vicente,San Vicente,,,3,
--34.6034,-58.4496,21,baja,Edesur,Capital,Villa Crespo,,,13,
+-34.6034,-58.4496,21,baja,Edesur,Capital,Villa Crespo,,,17,
 -34.775,-58.4047,21,baja,Edesur,Lomas De Zamora,Temperley,,,28,
 -34.6992,-58.3737,21,baja,Edesur,Lanus,Gerli,,,10,
 -34.6964,-58.427,21,baja,Edesur,Lanus,Lanus,,,1,
 -34.7976,-58.3864,21,baja,Edesur,Almirante Brown,Adrogue,,,19,
 -34.7975,-58.3871,21,baja,Edesur,Almirante Brown,Adrogue,,,17,
--34.6458,-58.4242,21,baja,Edesur,Capital,Nueva Pompeya,,,8,
+-34.6458,-58.4242,21,baja,Edesur,Capital,Nueva Pompeya,,,10,
 -34.667,-58.4731,21,baja,Edesur,Capital,Capital,,,2,
 -34.7837,-58.2667,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
 -34.7255,-58.3714,21,baja,Edesur,Lanus,Remedios De Escalada,,,1,
+-34.6946,-58.4721,21,baja,Edesur,Capital,Capital,,,2,
