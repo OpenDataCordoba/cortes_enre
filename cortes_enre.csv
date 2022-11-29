@@ -79,6 +79,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.904748575,-58.279263268,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11/185-2-25,1,2022-11-29 06:27
 -34.903349507,-58.275028657,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-11/185-1-11/185-2-25,5,2022-11-29 06:27
 -34.645506674,-58.374670797,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-1-15/124-1-15,86,2022-11-29 09:31
+-35.040523408,-58.413640049,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,258,2022-11-29 09:04
+-35.037594145,-58.413981823,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,261,2022-11-29 09:04
+-35.042181999,-58.411384329,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,47,2022-11-29 09:04
+-35.040136530,-58.414164125,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,353,2022-11-29 09:04
 -34.639181116,-58.431742018,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-33/039-3-33,421,2022-11-29 09:13
 -34.639998361,-58.430119003,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-33/039-3-33,414,2022-11-29 09:13
 -34.642486495,-58.437680063,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-33/039-3-33,302,2022-11-29 09:13
@@ -88,23 +92,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.639840459,-58.433072992,11,media,Edesur,Capital Rp,Parque Chacabuco,Pompeya,R:039-3-33/039-3-33,248,2022-11-29 09:13
 -34.796398716,-58.435055206,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-3-37/182-3-37,1,2022-11-29 09:17
 -34.794566322,-58.432658112,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-3-37/182-3-37,372,2022-11-29 09:17
--34.659982756,-58.468273198,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,2,2022-11-29 09:15
--34.668658806,-58.469997304,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,583,2022-11-29 09:15
--34.668807465,-58.472260557,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,252,2022-11-29 09:15
--34.664546487,-58.468550447,11,media,Edesur,Capital Gp,Villa Soldati Gp,Perito Moreno,R:048-2-24/048-2-24,396,2022-11-29 09:15
--34.654253863,-58.466114041,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,175,2022-11-29 09:15
--34.654351715,-58.469997808,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,107,2022-11-29 09:15
--34.651342612,-58.472192605,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,589,2022-11-29 09:15
--34.661388973,-58.469329062,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,430,2022-11-29 09:15
--34.662785763,-58.471336493,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,498,2022-11-29 09:15
--34.660422096,-58.469310218,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,575,2022-11-29 09:15
--34.666469196,-58.472946620,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,517,2022-11-29 09:15
--34.664521637,-58.471908476,11,media,Edesur,Capital Gp,Villa Lugano,Perito Moreno,R:048-2-24/048-2-24,649,2022-11-29 09:15
--34.662456714,-58.468791865,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,29,2022-11-29 09:15
--34.662699692,-58.468329335,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,146,2022-11-29 09:15
--34.654941890,-58.465036126,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,59,2022-11-29 09:15
--34.379724891,-58.745926513,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,7,Sin Datos
--34.381497835,-58.743039037,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,120,Sin Datos
+-34.654253863,-58.466114041,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,175,2022-11-29 11:01
+-34.654941890,-58.465036126,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-24/048-2-24,59,2022-11-29 11:01
+-34.783532191,-58.430315523,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-28/182-2-28,5,2022-11-29 09:47
+-34.779748404,-58.421661259,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-28/182-2-28,80,2022-11-29 09:47
+-34.379724891,-58.745926513,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,7,2022-11-29 08:00
+-34.381497835,-58.743039037,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,120,2022-11-29 08:00
 -34.6524,-58.8438,22,baja,Edenor,Moreno,La Reja,,,12,
 -34.4134,-58.5803,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,6,
 -34.7143,-58.6229,22,baja,Edenor,La Matanza,Rafael Castillo,,,7,
@@ -112,17 +105,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5575,-58.7404,22,baja,Edenor,San Miguel,San Miguel,,,19,
 -34.5833,-58.7542,22,baja,Edenor,Moreno,Trujui,,,45,
 -34.548,-58.5785,22,baja,Edenor,Gral San Martin,Godoy Cruz,,,11,
--34.5113,-58.742,22,baja,Edenor,Jose C Paz,Jose C Paz,,,15,
 -34.6294,-58.7601,22,baja,Edenor,Moreno,Paso Del Rey,,,33,
 -34.5847,-58.495,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,17,
 -34.7544,-58.6427,22,baja,Edenor,La Matanza,Gonzalez Catan,,,39,
 -34.6252,-58.6568,22,baja,Edenor,Hurlingham,Villa Tesei,,,67,
 -34.7431,-58.5972,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,12,
+-34.6201,-58.8941,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,2,
 -34.8919,-58.6882,22,baja,Edenor,La Matanza,Virrey Del Pino,,,26,
--34.4541,-59.0036,22,baja,Edenor,Pilar,Manzanares,,,34,
--34.5192,-58.7676,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
 -34.6248,-58.9706,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,10,
 -34.5202,-58.7072,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,9,
+-34.629,-58.5324,22,baja,Edenor,3 De Febrero,Ciudadela,,,5,
 -34.6229,-58.368,21,baja,Edesur,Capital,San Telmo,,,5,
 -34.7182,-58.426,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,3,
 -34.6334,-58.3706,21,baja,Edesur,Capital,Barracas,,,19,
@@ -141,3 +133,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7976,-58.3864,21,baja,Edesur,Almirante Brown,Adrogue,,,17,
 -34.7975,-58.3871,21,baja,Edesur,Almirante Brown,Adrogue,,,14,
 -34.6458,-58.4242,21,baja,Edesur,Capital,Nueva Pompeya,,,3,
+-34.667,-58.4731,21,baja,Edesur,Capital,Capital,,,1,
