@@ -91,8 +91,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.628007927,-58.428549779,11,media,Edesur,Capital Rp,Parque Chacabuco,Caballito,R:122-3-34/122-3-34,247,2022-11-29 04:30
 -34.628171724,-58.433094068,11,media,Edesur,Capital Rp,Parque Chacabuco,Caballito,R:122-3-34/122-3-34,1,2022-11-29 04:30
 -34.627689981,-58.433609713,11,media,Edesur,Capital Rp,Caballito Rp,Caballito,R:122-3-34/122-3-34,24,2022-11-29 04:30
--34.379724891,-58.745926513,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,7,2022-11-29 03:00
--34.381497835,-58.743039037,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,120,2022-11-29 03:00
+-34.379724891,-58.745926513,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,7,2022-11-29 04:00
+-34.381497835,-58.743039037,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,120,2022-11-29 04:00
+-34.463530970,-58.535848022,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,552,2022-11-29 06:00
+-34.465509918,-58.540292421,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,513,2022-11-29 06:00
+-34.462841408,-58.544991109,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,309,2022-11-29 06:00
+-34.462799640,-58.540344345,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,258,2022-11-29 06:00
+-34.466786554,-58.537349400,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,706,2022-11-29 06:00
+-34.464693824,-58.542798854,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,376,2022-11-29 06:00
+-34.460917124,-58.540954400,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,356,2022-11-29 06:00
+-34.461826155,-58.542890129,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,1,2022-11-29 06:00
+-34.464911044,-58.538873752,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,146,2022-11-29 06:00
+-34.461424620,-58.536871902,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,138,2022-11-29 06:00
+-34.460407074,-58.539816827,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,229,2022-11-29 06:00
+-34.463614524,-58.543507736,12,media,Edenor,San Isidro,Martinez,S/D,R:Victoria/53-Tr1/53-5542,58,2022-11-29 06:00
+-34.463661709,-58.546701471,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5542,27,2022-11-29 06:00
 -34.6524,-58.8438,22,baja,Edenor,Moreno,La Reja,,,12,
 -34.4134,-58.5803,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,6,
 -34.7143,-58.6229,22,baja,Edenor,La Matanza,Rafael Castillo,,,7,
@@ -107,19 +120,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5847,-58.495,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,17,
 -34.4234,-58.8226,22,baja,Edenor,Pilar,Villa Rosa,,,5,
 -34.7544,-58.6427,22,baja,Edenor,La Matanza,Gonzalez Catan,,,39,
--34.4007,-58.7748,22,baja,Edenor,Escobar,Maquinista Savio,,,24,
 -34.5467,-58.7198,22,baja,Edenor,San Miguel,San Miguel,,,16,
 -34.6252,-58.6568,22,baja,Edenor,Hurlingham,Villa Tesei,,,34,
 -34.7431,-58.5972,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,12,
--34.7169,-58.6286,22,baja,Edenor,La Matanza,Rafael Castillo,,,0,
 -34.8919,-58.6882,22,baja,Edenor,La Matanza,Virrey Del Pino,,,26,
 -34.6569,-58.5948,22,baja,Edenor,Moron,Haedo,,,44,
--34.657,-58.5946,22,baja,Edenor,Moron,Haedo,,,0,
 -34.4541,-59.0036,22,baja,Edenor,Pilar,Manzanares,,,34,
 -34.5961,-58.4238,22,baja,Edenor,Capital Federal,Palermo,,,6,
 -34.5192,-58.7676,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
--34.493,-58.5032,22,baja,Edenor,San Isidro,Martinez,,,11,
--34.7307,-58.5657,22,baja,Edenor,La Matanza,Isidro Casanova,,,101,
 -34.6248,-58.9706,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,10,
 -34.5202,-58.7072,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,9,
 -34.6229,-58.368,21,baja,Edesur,Capital,San Telmo,,,5,
