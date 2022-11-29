@@ -1,7 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.826007014,-58.200564957,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-1-12/174-1-12,368,Sin Datos
--34.843425121,-58.188843271,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-1-12/174-1-12,8,Sin Datos
--34.850852974,-58.186056145,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-1-12/174-1-12,1,Sin Datos
 -35.074368533,-58.401656375,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,Sin Datos
 -35.083599574,-58.295288632,11,media,Edesur,San Vicente,Domselaar,Canuelas,R:271-4-81/271-4-81,1,Sin Datos
 -35.045847096,-58.409164758,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,2,Sin Datos
@@ -57,27 +55,62 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.658797278,-58.346348355,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-23/279-2-23,556,2022-11-29 00:18
 -34.657748789,-58.341106726,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-23/279-2-23,6,2022-11-29 00:18
 -34.660549200,-58.346993573,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-23/279-2-23,1,2022-11-29 00:18
--34.735745866,-58.264151855,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,534,2022-11-29 01:16
--34.736963593,-58.265782250,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,862,2022-11-29 01:16
--34.743000714,-58.265056127,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,2,2022-11-29 01:16
--34.740700346,-58.257103386,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,44,2022-11-29 01:16
--34.743348236,-58.264179031,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,6,2022-11-29 01:16
+-34.790661764,-58.488778244,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-13/182-1-13,497,2022-11-29 01:45
+-34.789443443,-58.486372997,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-13/182-1-13,225,2022-11-29 01:45
+-34.787708596,-58.482937771,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-13/182-1-13,258,2022-11-29 01:45
+-34.843162264,-58.447539303,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,3,2022-11-29 02:02
+-34.841992151,-58.447994785,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,220,2022-11-29 02:02
+-34.847856977,-58.442419916,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,173,2022-11-29 02:02
+-34.840034574,-58.437703169,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,8,2022-11-29 02:02
+-34.840785631,-58.437482827,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,24,2022-11-29 02:02
+-34.839129792,-58.439603920,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,23,2022-11-29 02:02
+-34.839951532,-58.438989062,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,14,2022-11-29 02:02
+-34.841389239,-58.437910089,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,31,2022-11-29 02:02
+-34.840654769,-58.439622135,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,21,2022-11-29 02:02
+-34.840750684,-58.439117564,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,39,2022-11-29 02:02
+-34.841006002,-58.440336127,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,22,2022-11-29 02:02
+-34.841084814,-58.439787405,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,14,2022-11-29 02:02
+-34.841487610,-58.441291265,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,34,2022-11-29 02:02
+-34.841726393,-58.441072481,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,34,2022-11-29 02:02
+-34.842323394,-58.442272123,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,28,2022-11-29 02:02
+-34.842279557,-58.442767571,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,3,2022-11-29 02:02
+-34.842508763,-58.442647089,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,16,2022-11-29 02:02
+-34.841555031,-58.443612755,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,43,2022-11-29 02:02
+-34.842354958,-58.443016909,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,29,2022-11-29 02:02
+-34.842684247,-58.443581907,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,17,2022-11-29 02:02
+-34.842631266,-58.442894891,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,85,2022-11-29 02:02
+-34.843502443,-58.444662037,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,33,2022-11-29 02:02
+-34.843822757,-58.445316419,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,38,2022-11-29 02:02
+-34.844084376,-58.445849698,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,10,2022-11-29 02:02
+-34.844213588,-58.446112100,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,12,2022-11-29 02:02
+-34.840163702,-58.437952080,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,8,2022-11-29 02:02
+-34.840498915,-58.438576830,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,10,2022-11-29 02:02
+-34.839693503,-58.439124729,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,15,2022-11-29 02:02
+-34.842325667,-58.437214427,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,15,2022-11-29 02:02
+-34.842518913,-58.439663785,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,132,2022-11-29 02:02
+-34.839962203,-58.444787541,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,142,2022-11-29 02:02
+-34.846390938,-58.452258850,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-4-45/180-4-45,182,2022-11-29 02:02
+-34.614316820,-58.517827587,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-16/038-1-16,8,2022-11-29 03:01
+-34.618866770,-58.522702072,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,1,2022-11-29 03:01
+-34.618965530,-58.521838831,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,479,2022-11-29 03:01
+-34.615872117,-58.526169231,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,348,2022-11-29 03:01
+-34.616513019,-58.528945994,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,272,2022-11-29 03:01
+-34.619179807,-58.526980159,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,723,2022-11-29 03:01
+-34.614875280,-58.526825809,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,533,2022-11-29 03:01
+-34.618635371,-58.523335658,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,344,2022-11-29 03:01
 -34.703857735,-58.612981263,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr1/63-5542,7,2022-11-29 00:00
 -34.379724891,-58.745926513,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,7,Sin Datos
 -34.381497835,-58.743039037,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5517,120,Sin Datos
 -34.6524,-58.8438,22,baja,Edenor,Moreno,La Reja,,,12,
 -34.5792,-58.4345,22,baja,Edenor,Capital Federal,Palermo,,,10,
--34.7143,-58.6229,22,baja,Edenor,La Matanza,Rafael Castillo,,,6,
+-34.7143,-58.6229,22,baja,Edenor,La Matanza,Rafael Castillo,,,7,
+-34.6071,-58.9434,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
 -34.7455,-58.6387,22,baja,Edenor,La Matanza,Gonzalez Catan,,,2,
 -34.6924,-58.7717,22,baja,Edenor,Merlo,Merlo,,,4,
--34.5499,-58.8113,22,baja,Edenor,Moreno,Cuartel V,,,4,
--34.5533,-58.8117,22,baja,Edenor,Moreno,Cuartel V,,,5,
 -34.499,-58.723,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,17,
 -34.6764,-58.5146,22,baja,Edenor,La Matanza,La Tablada,,,45,
--34.5502,-58.8071,22,baja,Edenor,Moreno,Cuartel V,,,4,
 -34.5833,-58.7542,22,baja,Edenor,Moreno,Trujui,,,45,
 -34.629,-58.5324,22,baja,Edenor,3 De Febrero,Ciudadela,,,42,
--34.5766,-58.6375,22,baja,Edenor,Hurlingham,Hurlingham,,,52,
 -34.5535,-58.5279,22,baja,Edenor,Gral San Martin,Gderos De San Mart?N,,,8,
 -34.4564,-58.9289,22,baja,Edenor,Pilar,Pilar,,,30,
 -34.4135,-58.7811,22,baja,Edenor,Pilar,Luis Lagomarsino,,,16,
@@ -88,22 +121,30 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.505,-58.6312,22,baja,Edenor,Tigre,Don Torcuato,,,62,
 -34.5664,-58.4365,22,baja,Edenor,Capital Federal,Palermo,,,19,
 -34.5309,-58.7797,22,baja,Edenor,Jose C Paz,Jose C Paz,,,21,
+-34.5113,-58.742,22,baja,Edenor,Jose C Paz,Jose C Paz,,,15,
+-34.5668,-58.4359,22,baja,Edenor,Capital Federal,Palermo,,,18,
+-34.4564,-58.9289,22,baja,Edenor,Pilar,Pilar,,,11,
+-34.5097,-58.7447,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
+-34.5193,-58.7676,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
+-34.5112,-58.7477,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
+-34.4234,-58.8226,22,baja,Edenor,Pilar,Villa Rosa,,,4,
+-34.6229,-58.368,21,baja,Edesur,Capital,San Telmo,,,5,
 -34.7182,-58.426,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,3,
 -34.6123,-58.4025,21,baja,Edesur,Capital,Balvanera,,,7,
 -34.6334,-58.3706,21,baja,Edesur,Capital,Barracas,,,16,
--34.7765,-58.3907,21,baja,Edesur,Lomas De Zamora,Temperley,,,37,
--34.6119,-58.4993,21,baja,Edesur,Capital,Monte Castro,,,35,
--34.611,-58.4202,21,baja,Edesur,Capital,Almagro,,,24,
--35.0419,-58.414,21,baja,Edesur,San Vicente,San Vicente,,,31,
--34.7962,-58.3862,21,baja,Edesur,Almirante Brown,Adrogue,,,28,
+-34.7765,-58.3907,21,baja,Edesur,Lomas De Zamora,Temperley,,,39,
+-35.0419,-58.414,21,baja,Edesur,San Vicente,San Vicente,,,38,
+-34.7962,-58.3862,21,baja,Edesur,Almirante Brown,Adrogue,,,34,
 -34.7976,-58.3185,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,6,
 -34.6564,-58.5135,21,baja,Edesur,Capital,Mataderos,,,14,
 -34.7979,-58.2846,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
 -34.6691,-58.5052,21,baja,Edesur,Capital,Capital,,,34,
 -34.8129,-58.465,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,5,
--34.6133,-58.436,21,baja,Edesur,Capital,Caballito,,,18,
+-34.6133,-58.436,21,baja,Edesur,Capital,Caballito,,,19,
+-34.8822,-58.1809,21,baja,Edesur,Berazategui,El Pato,,,14,
 -35.022,-58.4235,21,baja,Edesur,San Vicente,San Vicente,,,3,
--34.981,-58.3827,21,baja,Edesur,San Vicente,San Vicente,,,11,
--34.6034,-58.4496,21,baja,Edesur,Capital,Villa Crespo,,,7,
--34.7509,-58.209,21,baja,Edesur,Berazategui,Berazategui,,,31,
--34.7785,-58.4064,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,
+-34.6034,-58.4496,21,baja,Edesur,Capital,Villa Crespo,,,11,
+-34.775,-58.4047,21,baja,Edesur,Lomas De Zamora,Temperley,,,15,
+-34.6992,-58.3737,21,baja,Edesur,Lanus,Gerli,,,9,
+-34.6964,-58.427,21,baja,Edesur,Lanus,Lanus,,,1,
+-34.8175,-58.208,21,baja,Edesur,Florencio Varela,Bosques,,,2,
