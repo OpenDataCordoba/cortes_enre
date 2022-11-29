@@ -1,7 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604047606,-58.380816128,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,48,2022-11-29 18:17
--34.604564292,-58.379889538,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,67,2022-11-29 18:17
--34.604180626,-58.380577581,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,71,2022-11-29 18:17
+-34.604047606,-58.380816128,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,48,Sin Datos
+-34.604564292,-58.379889538,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,67,Sin Datos
+-34.604180626,-58.380577581,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,71,Sin Datos
 -34.847645934,-58.297753389,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-51/286-5-51,2,2022-11-29 22:43
 -34.847475770,-58.289843054,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-51/286-5-51,13,2022-11-29 22:43
 -34.845540139,-58.286094177,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-51/286-5-51,14,2022-11-29 22:43
@@ -84,55 +84,58 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.442269415,-58.937163262,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,28,2022-11-29 19:00
 -34.440553610,-58.938272760,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,35,2022-11-29 19:00
 -34.443935276,-58.935764801,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,71,2022-11-29 19:00
--34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,2022-11-29 19:00
--34.342778613,-58.863635151,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,193,Sin Datos
--34.342515395,-58.869661171,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,43,Sin Datos
--34.347070987,-58.870602067,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5524,73,Sin Datos
--34.350699316,-58.872678601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr2/51-5524,97,Sin Datos
+-34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,Sin Datos
+-34.342778613,-58.863635151,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,193,2022-11-29 19:00
+-34.342515395,-58.869661171,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,43,2022-11-29 19:00
+-34.347070987,-58.870602067,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5524,73,2022-11-29 19:00
+-34.350699316,-58.872678601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr2/51-5524,97,2022-11-29 19:00
 -34.449701025,-58.689139467,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Ford/151-Tr2/151-5525,144,2022-11-29 19:00
 -34.6071,-58.9434,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
+-34.7019,-58.7493,22,baja,Edenor,Merlo,Merlo,,,5,
 -34.5824,-58.6575,22,baja,Edenor,Escobar,Escobar,,,18,
 -34.7029,-58.5643,22,baja,Edenor,La Matanza,San Justo,,,46,
 -34.5766,-58.6375,22,baja,Edenor,Hurlingham,Hurlingham,,,52,
 -34.4894,-58.5027,22,baja,Edenor,San Isidro,Martinez,,,129,
 -34.6549,-58.5582,22,baja,Edenor,La Matanza,Ramos Mejia,,,9,
--34.595,-58.4548,22,baja,Edenor,Capital Federal,Chacarita,,,13,
+-34.4903,-58.496,22,baja,Edenor,San Isidro,Martinez,,,6,
+-34.595,-58.4548,22,baja,Edenor,Capital Federal,Chacarita,,,17,
 -34.5952,-58.6461,22,baja,Edenor,Hurlingham,Hurlingham,,,42,
 -34.6516,-58.6597,22,baja,Edenor,Ituzaingo,Ituzaingo,,,1,
 -34.4043,-58.6357,22,baja,Edenor,Tigre,Rincon De Milberg,,,42,
 -34.5521,-58.8134,22,baja,Edenor,Moreno,Cuartel V,,,10,
 -34.6572,-58.5635,22,baja,Edenor,La Matanza,Ramos Mejia,,,15,
--34.6208,-58.5956,22,baja,Edenor,Moron,El Palomar,,,58,
+-34.6208,-58.5956,22,baja,Edenor,Moron,El Palomar,,,63,
 -34.75,-58.5937,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,23,
--34.4525,-58.6539,22,baja,Edenor,Tigre,General Pacheco,,,4,
+-34.4525,-58.6539,22,baja,Edenor,Tigre,General Pacheco,,,5,
 -34.5062,-58.7246,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,17,
 -34.6508,-58.7902,22,baja,Edenor,Moreno,Moreno,,,6,
 -34.5903,-58.4295,22,baja,Edenor,Capital Federal,Palermo,,,9,
 -34.555,-58.677,22,baja,Edenor,San Miguel,Bella Vista,,,24,
+-34.6201,-58.8941,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,6,
 -34.5722,-58.4588,22,baja,Edenor,Capital Federal,Colegiales,,,42,
 -34.4755,-58.7425,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,10,
 -34.4496,-58.8382,22,baja,Edenor,Pilar,La Lonja,,,1,
 -34.6229,-58.368,21,baja,Edesur,Capital,San Telmo,,,3,
--34.6329,-58.3707,21,baja,Edesur,Capital,Barracas,,,20,
--34.6564,-58.5135,21,baja,Edesur,Capital,Mataderos,,,19,
--34.8063,-58.4415,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,23,
--34.6034,-58.4496,21,baja,Edesur,Capital,Villa Crespo,,,56,
+-34.6562,-58.5127,21,baja,Edesur,Capital,Mataderos,,,17,
+-34.8074,-58.44,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,23,
+-34.6036,-58.4494,21,baja,Edesur,Capital,Capital,,,57,
 -34.8173,-58.1854,21,baja,Edesur,Berazategui,Berazategui,,,14,
--34.6414,-58.5006,21,baja,Edesur,Capital,Villa Luro,,,9,
+-34.6414,-58.5006,21,baja,Edesur,Capital,Villa Luro,,,8,
 -34.7764,-58.4024,21,baja,Edesur,Lomas De Zamora,Temperley,,,32,
--34.6477,-58.3698,21,baja,Edesur,Capital,Barracas,,,43,
+-34.6477,-58.3698,21,baja,Edesur,Capital,Barracas,,,44,
 -34.7346,-58.3567,21,baja,Edesur,Lanus,Monte Chingolo,,,6,
 -34.8119,-58.2178,21,baja,Edesur,Florencio Varela,Bosques,,,6,
 -34.9163,-58.3868,21,baja,Edesur,Pte Peron,Guernica,,,10,
--34.6372,-58.3693,21,baja,Edesur,Capital,La Boca,,,53,
+-34.6372,-58.3693,21,baja,Edesur,Capital,La Boca,,,55,
 -34.8178,-58.4803,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,10,
 -34.7568,-58.2309,21,baja,Edesur,Berazategui,Berazategui,,,22,
--34.6674,-58.3819,21,baja,Edesur,Avellaneda,Avellaneda,,,27,
+-34.6664,-58.3815,21,baja,Edesur,Avellaneda,Avellaneda,,,26,
 -34.7253,-58.4265,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,17,
 -34.6123,-58.4977,21,baja,Edesur,Capital,Monte Castro,,,28,
--34.6243,-58.5074,21,baja,Edesur,Capital,Monte Castro,,,73,
+-34.6243,-58.5074,21,baja,Edesur,Capital,Monte Castro,,,82,
 -34.6953,-58.4721,21,baja,Edesur,Capital,Capital,,,6,
 -34.5924,-58.3988,21,baja,Edesur,Capital,Recoleta,,,2,
 -34.8035,-58.2395,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
--34.7141,-58.3798,21,baja,Edesur,Lanus,Lanus,,,9,
+-34.7141,-58.3798,21,baja,Edesur,Lanus,Lanus,,,11,
 -34.8131,-58.3993,21,baja,Edesur,Almirante Brown,Burzaco,,,1,
+-34.6129,-58.5104,21,baja,Edesur,Capital,Villa Devoto,,,1,
