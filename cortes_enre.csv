@@ -1,37 +1,29 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,2022-11-30 08:00
--34.342778613,-58.863635151,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,193,2022-11-30 08:00
--34.342515395,-58.869661171,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,43,2022-11-30 08:00
--34.347070987,-58.870602067,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5524,73,2022-11-30 08:00
--34.350699316,-58.872678601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr2/51-5524,97,2022-11-30 08:00
--34.664598229,-58.782308865,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5522,242,2022-11-30 09:00
--34.572490281,-58.695634121,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,151,2022-11-30 08:00
--34.566832573,-58.695887616,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,232,2022-11-30 08:00
--34.606204634,-59.000676822,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,261,2022-11-30 08:00
--34.605474172,-58.985433923,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,276,2022-11-30 08:00
--34.602727804,-58.993964437,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,197,2022-11-30 08:00
--34.612662794,-58.995629742,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 08:00
--34.603079267,-58.998811892,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,219,2022-11-30 08:00
--34.607375250,-58.989024549,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,255,2022-11-30 08:00
--34.612369869,-58.990762627,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,51,2022-11-30 08:00
--34.615684408,-58.993358302,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,64,2022-11-30 08:00
--34.605539636,-58.989520226,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,240,2022-11-30 08:00
--34.610371349,-58.990059178,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,18,2022-11-30 08:00
--34.613298728,-58.989656096,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,73,2022-11-30 08:00
--34.541162305,-58.597256294,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr2/266-5533,213,2022-11-30 10:00
--34.587642811,-58.410700885,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,90,2022-11-30 11:00
--34.588183635,-58.409062073,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,463,2022-11-30 11:00
--34.589799397,-58.408852568,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Melo/237-Tr1/237-5517,101,2022-11-30 11:00
--34.589026551,-58.410234080,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,418,2022-11-30 11:00
--34.588513394,-58.409290850,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,44,2022-11-30 11:00
--34.587847029,-58.409726605,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,49,2022-11-30 11:00
--34.587963740,-58.411098333,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,3,2022-11-30 11:00
--34.588259561,-58.411115340,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,5,2022-11-30 11:00
--34.588888413,-58.410444008,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,211,2022-11-30 11:00
+-34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,Sin Datos
+-34.342778613,-58.863635151,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,193,2022-11-30 09:00
+-34.342515395,-58.869661171,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,43,2022-11-30 09:00
+-34.347070987,-58.870602067,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5524,73,2022-11-30 09:00
+-34.350699316,-58.872678601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr2/51-5524,97,2022-11-30 09:00
+-34.664598229,-58.782308865,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5522,242,Sin Datos
+-34.606204634,-59.000676822,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,261,2022-11-30 10:00
+-34.605474172,-58.985433923,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,276,2022-11-30 10:00
+-34.602727804,-58.993964437,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,197,2022-11-30 10:00
+-34.612662794,-58.995629742,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 10:00
+-34.603079267,-58.998811892,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,219,2022-11-30 10:00
+-34.607375250,-58.989024549,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,255,2022-11-30 10:00
+-34.612369869,-58.990762627,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,51,2022-11-30 10:00
+-34.615684408,-58.993358302,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,64,2022-11-30 10:00
+-34.605539636,-58.989520226,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,240,2022-11-30 10:00
+-34.610371349,-58.990059178,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,18,2022-11-30 10:00
+-34.613298728,-58.989656096,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,73,2022-11-30 10:00
+-34.587642811,-58.410700885,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,90,2022-11-30 09:00
+-34.588183635,-58.409062073,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,463,2022-11-30 09:00
+-34.587847029,-58.409726605,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,49,2022-11-30 09:00
+-34.587963740,-58.411098333,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,3,2022-11-30 09:00
+-34.588259561,-58.411115340,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5517,5,2022-11-30 09:00
 -34.5824,-58.6575,22,baja,Edenor,Escobar,Escobar,,,18,
 -34.6158,-58.9482,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,9,
 -34.3767,-58.7763,22,baja,Edenor,Escobar,Escobar,,,15,
--34.4568,-58.9075,22,baja,Edenor,Pilar,Pilar,,,1,
 -34.4928,-58.7093,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,4,
 -34.4843,-58.6592,22,baja,Edenor,Tigre,El Talar,,,74,
 -34.4927,-58.6295,22,baja,Edenor,Tigre,Don Torcuato,,,27,
@@ -40,23 +32,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.638,-58.6624,22,baja,Edenor,Ituzaingo,Ituzaingo,,,22,
 -34.5961,-58.4174,22,baja,Edenor,Capital Federal,Palermo,,,18,
 -34.4692,-58.6505,22,baja,Edenor,Tigre,El Talar,,,70,
--34.5405,-58.5953,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,1,
+-34.5752,-58.4897,22,baja,Edenor,Capital Federal,Villa Urquiza,,,4,
+-34.4953,-58.9295,22,baja,Edenor,Pilar,Pilar,,,12,
 -34.7568,-58.2309,21,baja,Edesur,Berazategui,Berazategui,,,44,
 -34.9188,-58.3682,21,baja,Edesur,Pte Peron,Guernica,,,12,
 -34.6666,-58.3818,21,baja,Edesur,Avellaneda,Avellaneda,,,36,
--34.8278,-58.393,21,baja,Edesur,Almirante Brown,Burzaco,,,27,
+-34.8278,-58.393,21,baja,Edesur,Almirante Brown,Burzaco,,,28,
 -34.5906,-58.3875,21,baja,Edesur,Capital,Recoleta,,,29,
 -34.6147,-58.4457,21,baja,Edesur,Capital,Caballito,,,92,
 -34.9337,-58.6165,21,baja,Edesur,Cañuelas,Maximo Paz,,,7,
--34.6953,-58.4721,21,baja,Edesur,Capital,Capital,,,10,
+-34.6953,-58.4721,21,baja,Edesur,Capital,Capital,,,12,
 -34.6315,-58.4159,21,baja,Edesur,Capital,Boedo,,,3,
--34.7537,-58.2769,21,baja,Edesur,Quilmes,Quilmes,,,38,
--34.7834,-58.166,21,baja,Edesur,Berazategui,Platanos,,,17,
--34.7124,-58.2687,21,baja,Edesur,Quilmes,Bernal,,,16,
+-34.7537,-58.2769,21,baja,Edesur,Quilmes,Quilmes,,,39,
+-34.7834,-58.166,21,baja,Edesur,Berazategui,Platanos,,,18,
+-34.7124,-58.2687,21,baja,Edesur,Quilmes,Bernal,,,19,
 -34.7143,-58.4086,21,baja,Edesur,Lanus,Lanus,,,9,
 -34.8749,-58.1865,21,baja,Edesur,Berazategui,Berazategui,,,7,
--34.7334,-58.3471,21,baja,Edesur,Lanus,Monte Chingolo,,,6,
+-34.7334,-58.3471,21,baja,Edesur,Lanus,Monte Chingolo,,,8,
 -34.7287,-58.2863,21,baja,Edesur,Quilmes,Quilmes,,,6,
--34.7069,-58.4021,21,baja,Edesur,Lanus,Lanus,,,23,
--34.754,-58.2319,21,baja,Edesur,Quilmes,Ezpeleta,,,4,
+-34.7069,-58.4021,21,baja,Edesur,Lanus,Lanus,,,27,
+-34.8074,-58.3362,21,baja,Edesur,Almirante Brown,Claypole,,,1,
+-34.754,-58.2319,21,baja,Edesur,Quilmes,Ezpeleta,,,7,
 -34.8155,-58.488,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,2,
