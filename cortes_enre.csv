@@ -1,26 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.735010269,-58.338427685,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,3,2022-11-30 19:15
--34.731830789,-58.334191892,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.736236915,-58.341481241,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,3,2022-11-30 19:15
--34.734062416,-58.333247873,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.736813749,-58.336521634,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.733284332,-58.338652446,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,3,2022-11-30 19:15
--34.730624498,-58.330658369,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,4,2022-11-30 19:15
--34.736149271,-58.335694369,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.735174965,-58.329104207,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,15,2022-11-30 19:15
--34.733476227,-58.328489658,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,2,2022-11-30 19:15
--34.737860775,-58.333674886,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,2,2022-11-30 19:15
--34.730914562,-58.333789074,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,2,2022-11-30 19:15
--34.735484928,-58.335815217,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.731694085,-58.336916805,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,4,2022-11-30 19:15
--34.737456283,-58.341224124,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.732346691,-58.331239285,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.738291868,-58.338323740,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.737588403,-58.337457288,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.737442993,-58.334156234,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.735474277,-58.330282557,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
--34.737085622,-58.331389455,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,3,2022-11-30 19:15
--34.737245283,-58.337066709,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-1-16/184-1-16,1,2022-11-30 19:15
 -34.655950701,-58.344850310,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-23/279-2-23,598,2022-11-30 19:03
 -34.654355195,-58.343357448,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-23/279-2-23,682,2022-11-30 19:03
 -34.657839187,-58.344064894,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-23/279-2-23,91,2022-11-30 19:03
@@ -29,103 +7,863 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.658797278,-58.346348355,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-23/279-2-23,556,2022-11-30 19:03
 -34.657748789,-58.341106726,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-23/279-2-23,6,2022-11-30 19:03
 -34.660549200,-58.346993573,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-23/279-2-23,1,2022-11-30 19:03
--34.582271524,-58.371500588,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,1,2022-11-30 17:47
--34.583995143,-58.368573697,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,5,2022-11-30 17:47
--34.592816161,-58.373916937,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,3,2022-11-30 17:47
--34.585077682,-58.370885857,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,1,2022-11-30 17:47
--34.585263704,-58.371668034,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,4,2022-11-30 17:47
--34.585278416,-58.371652797,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,14,2022-11-30 17:47
--34.593211174,-58.395618465,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,55,2022-11-30 18:33
--34.593205970,-58.395651944,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,535,2022-11-30 18:33
--34.593345691,-58.394753121,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,4,2022-11-30 18:33
--34.594976800,-58.394009315,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,2,2022-11-30 18:33
--34.594229369,-58.393803149,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,658,2022-11-30 18:33
--34.594504096,-58.394188793,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,65,2022-11-30 18:33
--34.594257446,-58.394505069,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,54,2022-11-30 18:33
--34.590067944,-58.395776180,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,77,2022-11-30 18:33
--34.594441325,-58.394971412,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,666,2022-11-30 18:33
--34.593383445,-58.394511405,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,30,2022-11-30 18:33
--34.593789693,-58.394418613,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,445,2022-11-30 18:33
--34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,Sin Datos
--34.342778613,-58.863635151,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,193,2022-11-30 16:00
--34.342515395,-58.869661171,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,43,2022-11-30 16:00
--34.347070987,-58.870602067,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5524,73,2022-11-30 16:00
--34.350699316,-58.872678601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr2/51-5524,97,2022-11-30 16:00
--34.573041434,-58.602918441,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr2/262-5535,443,2022-11-30 19:00
--34.577189891,-58.600930396,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr2/262-5535,162,2022-11-30 19:00
--34.576732742,-58.597956309,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr2/262-5535,188,2022-11-30 19:00
--34.583964592,-58.601459804,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr2/262-5535,233,2022-11-30 19:00
--34.580122534,-58.599586985,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr2/262-5535,221,2022-11-30 19:00
--34.583627686,-58.600153489,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr2/262-5535,525,2022-11-30 19:00
--34.571264458,-58.605285922,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr2/262-5535,376,2022-11-30 19:00
--34.577861649,-58.597804511,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr2/262-5535,146,2022-11-30 19:00
--34.918947481,-58.736737732,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,Sin Datos
--34.919060402,-58.746893921,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,Sin Datos
--34.405784685,-58.982406779,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5471,1,Sin Datos
--34.472104602,-58.565047350,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5518,1,2022-11-30 16:00
--34.637589265,-58.724538794,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,36,Sin Datos
--34.690214499,-58.520019861,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5514/65-5534/65-5531,251,2022-11-30 16:00
--34.622586416,-59.002990316,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 16:00
--34.606204634,-59.000676822,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,261,2022-11-30 16:00
--34.623615055,-59.035830333,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,3,2022-11-30 16:00
--34.605474172,-58.985433923,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,276,2022-11-30 16:00
--34.617854923,-58.987531447,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,3,2022-11-30 16:00
--34.624502224,-59.061910238,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.623412769,-59.029338051,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 16:00
--34.624255930,-59.044691349,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 16:00
--34.630077823,-59.078580840,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.602727804,-58.993964437,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,197,2022-11-30 16:00
--34.601652656,-59.039178995,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,19,2022-11-30 16:00
--34.614672480,-59.039573401,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,5,2022-11-30 16:00
--34.612662794,-58.995629742,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 16:00
--34.603395467,-59.004580783,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,44,2022-11-30 16:00
--34.607790307,-59.004574329,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,112,2022-11-30 16:00
--34.610019627,-59.008758375,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,82,2022-11-30 16:00
--34.603079267,-58.998811892,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,219,2022-11-30 16:00
--34.593767362,-59.038990134,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,10,2022-11-30 16:00
--34.596609048,-59.039035704,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.623651667,-59.015315338,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 16:00
--34.608980158,-59.039381226,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.600542362,-59.059491083,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,7,2022-11-30 16:00
--34.602924165,-59.056144501,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,66,2022-11-30 16:00
--34.607375250,-58.989024549,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,255,2022-11-30 16:00
--34.612369869,-58.990762627,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,51,2022-11-30 16:00
--34.629263959,-59.038199819,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 16:00
--34.615684408,-58.993358302,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,64,2022-11-30 16:00
--34.614267606,-59.010365483,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,24,2022-11-30 16:00
--34.611019182,-59.012836662,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,14,2022-11-30 16:00
--34.643142171,-59.057044019,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.629726098,-59.067359871,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.635915087,-59.062546567,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,3,2022-11-30 16:00
--34.599764835,-59.049870501,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 16:00
--34.638905439,-59.095016837,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 16:00
--34.607954397,-59.034780712,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 16:00
--34.619135483,-59.025960857,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.617609279,-59.027823687,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,3,2022-11-30 16:00
--34.601635530,-59.047248074,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.614023962,-59.055241911,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,76,2022-11-30 16:00
--34.603670921,-59.044849949,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.605539636,-58.989520226,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,240,2022-11-30 16:00
--34.600722361,-59.002338480,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,118,2022-11-30 16:00
--34.610371349,-58.990059178,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,18,2022-11-30 16:00
--34.601106117,-59.058274627,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,17,2022-11-30 16:00
--34.613298728,-58.989656096,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,73,2022-11-30 16:00
--34.639342969,-59.060127830,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 16:00
--34.617880155,-59.046639725,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,25,2022-11-30 16:00
--34.697260829,-58.970231870,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,3,2022-11-30 16:00
--34.710956584,-58.998993878,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 16:00
--34.694126101,-58.974196877,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,6,2022-11-30 16:00
--34.722014506,-59.053621308,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 16:00
--34.721954884,-59.077074495,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 16:00
--34.667400805,-59.042327612,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 16:00
--34.629460032,-58.977349546,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,4,2022-11-30 16:00
--34.732269412,-59.063443646,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 16:00
--34.676744711,-59.072189268,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 16:00
--34.640422788,-58.992309865,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 16:00
--34.741107839,-59.016978513,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 16:00
--34.656399915,-59.007091317,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 16:00
--34.647852753,-58.995130408,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 16:00
--34.650517083,-58.998293414,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 16:00
+-34.592816161,-58.373916937,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,3,Sin Datos
+-34.585263704,-58.371668034,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,4,Sin Datos
+-34.585278416,-58.371652797,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-37/025-3-37,14,Sin Datos
+-34.594229369,-58.393803149,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,658,Sin Datos
+-34.594504096,-58.394188793,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,65,Sin Datos
+-34.594257446,-58.394505069,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-3-38/117-3-38,54,Sin Datos
+-34.786910061,-58.257060641,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,255,Sin Datos
+-34.795062751,-58.273006027,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,276,Sin Datos
+-34.792605196,-58.267900917,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,25,Sin Datos
+-34.796003389,-58.266417071,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,325,Sin Datos
+-34.790327856,-58.253465469,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,106,Sin Datos
+-34.788223558,-58.259581351,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,37,Sin Datos
+-34.792496278,-58.276337146,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,529,Sin Datos
+-34.789350392,-58.264569225,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,294,Sin Datos
+-34.795533690,-58.269926587,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,486,Sin Datos
+-34.792863964,-58.265919146,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,192,Sin Datos
+-34.791992174,-58.262114738,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,229,Sin Datos
+-34.788864519,-58.255974174,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,155,Sin Datos
+-34.788074751,-58.255478627,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,6,Sin Datos
+-34.796837109,-58.513867701,11,media,Edesur,Esteban Echeverria,Estado Nacional,Echeverria,R:083-2-22/083-2-22,2,Sin Datos
+-34.801140231,-58.511486220,11,media,Edesur,Esteban Echeverria,Estado Nacional,Echeverria,R:083-2-22/083-2-22,1,Sin Datos
+-34.803571581,-58.508445188,11,media,Edesur,Esteban Echeverria,Estado Nacional,Echeverria,R:083-2-22/083-2-22,2,Sin Datos
+-34.788230941,-58.521406554,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,79,Sin Datos
+-34.789745853,-58.520194215,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,112,Sin Datos
+-34.790261941,-58.523738555,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,72,Sin Datos
+-34.792730936,-58.525557702,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,103,Sin Datos
+-34.793733082,-58.523020137,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,47,Sin Datos
+-34.783547996,-58.519307285,11,media,Edesur,Esteban Echeverria,Estado Nacional,Echeverria,R:083-2-22/083-2-22,1,Sin Datos
+-34.810551665,-58.492797624,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-22/083-2-22,267,Sin Datos
+-34.810210954,-58.487531123,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-22/083-2-22,395,Sin Datos
+-34.807585191,-58.486937412,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-22/083-2-22,1,Sin Datos
+-34.794445627,-58.515280259,11,media,Edesur,Esteban Echeverria,Estado Nacional,Echeverria,R:083-2-22/083-2-22,3,Sin Datos
+-34.806183170,-58.484162544,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-22/083-2-22,255,Sin Datos
+-34.789591687,-58.520557096,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,3,Sin Datos
+-34.806116069,-58.490452903,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-22/083-2-22,114,Sin Datos
+-34.805906071,-58.512858066,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,1,Sin Datos
+-34.803905428,-58.485321850,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-22/083-2-22,147,Sin Datos
+-34.789249000,-58.519491126,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,1,Sin Datos
+-34.803190278,-58.489373223,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-22/083-2-22,145,Sin Datos
+-34.801479438,-58.510008930,11,media,Edesur,Esteban Echeverria,Estado Nacional,Echeverria,R:083-2-22/083-2-22,2,Sin Datos
+-34.807391786,-58.506606655,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-22/083-2-22,8,Sin Datos
+-34.806069438,-58.503414262,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-22/083-2-22,1,Sin Datos
+-34.796561410,-58.522294631,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,37,Sin Datos
+-34.795367509,-58.519958579,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,22,Sin Datos
+-34.794161217,-58.517583967,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-2-22/083-2-22,31,Sin Datos
+-34.807866519,-58.438268173,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-14/182-1-14,134,2022-11-30 21:17
+-34.810606409,-58.445788601,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-14/182-1-14,1,2022-11-30 21:17
+-34.790526802,-58.399342334,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,504,Sin Datos
+-34.787642056,-58.400042053,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,317,Sin Datos
+-34.787725818,-58.399652145,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,2,Sin Datos
+-34.788322567,-58.396883860,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,5,Sin Datos
+-34.728213628,-58.414120538,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1516/087-2-1516,600,Sin Datos
+-34.825968611,-58.347919344,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,544,Sin Datos
+-34.823465525,-58.343034340,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,412,Sin Datos
+-34.822062023,-58.340101154,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,8,Sin Datos
+-34.827987450,-58.333493227,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,8,Sin Datos
+-34.822967615,-58.358235302,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,225,Sin Datos
+-34.829065130,-58.343585836,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,8,Sin Datos
+-34.821195337,-58.338471635,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,259,Sin Datos
+-34.824966457,-58.337362558,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,1,Sin Datos
+-34.828381238,-58.352547221,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,164,Sin Datos
+-34.826831428,-58.339177995,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,2,Sin Datos
+-34.829157591,-58.338891290,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,1,Sin Datos
+-34.829234268,-58.354490508,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,309,Sin Datos
+-34.824920160,-58.351891079,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,8,Sin Datos
+-34.820418486,-58.353979416,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,11,Sin Datos
+-34.822011396,-58.352773755,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,7,Sin Datos
+-34.822858784,-58.352156858,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,16,Sin Datos
+-34.824593895,-58.350814064,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,10,Sin Datos
+-34.825359491,-58.350243105,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,147,Sin Datos
+-34.824806088,-58.351008550,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,12,Sin Datos
+-34.823833753,-58.351754564,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,13,Sin Datos
+-34.820801260,-58.354050596,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,22,Sin Datos
+-34.820735384,-58.354058581,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,13,Sin Datos
+-34.821039681,-58.354793655,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,24,Sin Datos
+-34.821803027,-58.353924328,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,19,Sin Datos
+-34.822915392,-58.353387612,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,16,Sin Datos
+-34.824113782,-58.352479999,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,22,Sin Datos
+-34.825261450,-58.351636497,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,12,Sin Datos
+-34.826290773,-58.350981547,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,15,Sin Datos
+-34.825605657,-58.352323989,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,5,Sin Datos
+-34.825064284,-58.352729244,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,25,Sin Datos
+-34.823948732,-58.353578606,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,35,Sin Datos
+-34.822945095,-58.354334171,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,12,Sin Datos
+-34.822188281,-58.354616678,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,19,Sin Datos
+-34.821408551,-58.355104613,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,8,Sin Datos
+-34.821598874,-58.355445216,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,22,Sin Datos
+-34.820780352,-58.355078482,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,23,Sin Datos
+-34.822216841,-58.356567553,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,30,Sin Datos
+-34.821949062,-58.356082350,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,11,Sin Datos
+-34.823331448,-58.355006129,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,15,Sin Datos
+-34.824228052,-58.354329346,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,12,Sin Datos
+-34.825537398,-58.353344520,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,19,Sin Datos
+-34.825997099,-58.352999237,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,22,Sin Datos
+-34.826299802,-58.353743467,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,42,Sin Datos
+-34.824690568,-58.354931270,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,36,Sin Datos
+-34.823395539,-58.355917696,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,23,Sin Datos
+-34.822899787,-58.355904908,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,16,Sin Datos
+-34.822528053,-58.357162905,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,17,Sin Datos
+-34.822299079,-58.356764771,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,13,Sin Datos
+-34.821853445,-58.357089225,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,18,Sin Datos
+-34.822807716,-58.357722748,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,5,Sin Datos
+-34.823884711,-58.354587663,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,2,Sin Datos
+-34.823792628,-58.351436889,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,68,Sin Datos
+-34.822841711,-58.356319039,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,13,Sin Datos
+-34.823482254,-58.352001455,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,3,Sin Datos
+-34.821213922,-58.354755733,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,14,Sin Datos
+-34.821034509,-58.354433670,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,4,Sin Datos
+-34.827675391,-58.331544545,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,1,Sin Datos
+-34.824380306,-58.351303143,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,3,Sin Datos
+-34.826125159,-58.351910011,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,2,Sin Datos
+-34.823117827,-58.339144311,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,5,Sin Datos
+-34.821658827,-58.428519986,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,180,Sin Datos
+-34.824806407,-58.424216712,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,217,Sin Datos
+-34.823703650,-58.427019088,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,85,Sin Datos
+-34.830093423,-58.416979449,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,32,Sin Datos
+-34.824346866,-58.426555873,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,21,Sin Datos
+-34.825049127,-58.425034824,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,23,Sin Datos
+-34.825782904,-58.424516537,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,11,Sin Datos
+-34.826177388,-58.424216980,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,16,Sin Datos
+-34.825469066,-58.424715916,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,22,Sin Datos
+-34.826940281,-58.424799086,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,15,Sin Datos
+-34.825167839,-58.425954761,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,69,Sin Datos
+-34.826953704,-58.424665344,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,16,Sin Datos
+-34.827473165,-58.424275548,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,47,Sin Datos
+-34.827427885,-58.425088975,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,17,Sin Datos
+-34.827640191,-58.425759437,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,30,Sin Datos
+-34.827758074,-58.425747260,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,32,Sin Datos
+-34.828185510,-58.426599665,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,21,Sin Datos
+-34.828211567,-58.427649969,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,23,Sin Datos
+-34.828359276,-58.426946269,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,4,Sin Datos
+-34.829085049,-58.427003045,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,18,Sin Datos
+-34.828758031,-58.427743834,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,12,Sin Datos
+-34.828208123,-58.429293646,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,10,Sin Datos
+-34.829114023,-58.428629195,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,16,Sin Datos
+-34.829760747,-58.428160542,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,25,Sin Datos
+-34.829574792,-58.428504901,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,11,Sin Datos
+-34.827537935,-58.429784024,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-3-34/180-3-34,35,Sin Datos
+-34.835082666,-58.424321407,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-34/180-3-34,7,Sin Datos
+-34.744306888,-58.390621933,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,396,Sin Datos
+-34.755250552,-58.386598887,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-1-14/076-1-14,474,Sin Datos
+-34.751783109,-58.391513777,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-1-14/076-1-14,389,Sin Datos
+-34.751264661,-58.386845523,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,1,Sin Datos
+-34.752277476,-58.389293310,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-1-14/076-1-14,475,Sin Datos
+-34.747274998,-58.390267409,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,928,Sin Datos
+-34.741706714,-58.390128400,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,341,Sin Datos
+-34.742471261,-58.394893182,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,199,Sin Datos
+-34.745491996,-58.390271545,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-14/076-1-14,1,Sin Datos
+-34.738934956,-58.395052311,11,media,Edesur,Lomas De Zamora,Bandfield,Heroes De Malvinas,R:076-1-14/076-1-14,61,Sin Datos
+-34.742544805,-58.394191776,11,media,Edesur,Lomas De Zamora,Bandfield,Heroes De Malvinas,R:076-1-14/076-1-14,285,Sin Datos
+-34.778914635,-58.333496294,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,223,Sin Datos
+-34.775088226,-58.332359372,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,133,Sin Datos
+-34.773853334,-58.325549829,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,34,Sin Datos
+-34.773287371,-58.329080549,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,36,Sin Datos
+-34.772330472,-58.327170893,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,14,Sin Datos
+-34.771762800,-58.327720516,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,9,Sin Datos
+-34.772733633,-58.326761966,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,12,Sin Datos
+-34.773604417,-58.328843081,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,25,Sin Datos
+-34.774413751,-58.326570235,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,6,Sin Datos
+-34.774077693,-58.326219736,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,19,Sin Datos
+-34.773764197,-58.325692970,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,9,Sin Datos
+-34.777476275,-58.332668109,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,47,Sin Datos
+-34.775425952,-58.330548168,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,27,Sin Datos
+-34.775070813,-58.329856901,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,22,Sin Datos
+-34.774624295,-58.329104389,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,20,Sin Datos
+-34.773744904,-58.326551281,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,13,Sin Datos
+-34.773119676,-58.326375020,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,19,Sin Datos
+-34.773165170,-58.327113441,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,26,Sin Datos
+-34.774840682,-58.331119541,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,13,Sin Datos
+-34.774483669,-58.330427560,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,12,Sin Datos
+-34.774067328,-58.329648692,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,13,Sin Datos
+-34.772750071,-58.328105895,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,12,Sin Datos
+-34.772521285,-58.326974809,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,3,Sin Datos
+-34.775906426,-58.334251213,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,21,Sin Datos
+-34.774972066,-58.332843466,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,18,Sin Datos
+-34.774488427,-58.331832639,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,10,Sin Datos
+-34.774307063,-58.331634481,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,19,Sin Datos
+-34.773700551,-58.331144306,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,24,Sin Datos
+-34.772327434,-58.327899223,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,18,Sin Datos
+-34.771913675,-58.327574439,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,22,Sin Datos
+-34.775534585,-58.334592038,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,16,Sin Datos
+-34.774696036,-58.333103283,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,17,Sin Datos
+-34.773662145,-58.332245063,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,21,Sin Datos
+-34.773318117,-58.331488990,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,17,Sin Datos
+-34.773171141,-58.330395804,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,11,Sin Datos
+-34.772025354,-58.328153204,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,12,Sin Datos
+-34.775017660,-58.335065149,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,17,Sin Datos
+-34.774191621,-58.333579572,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,16,Sin Datos
+-34.773542867,-58.332724083,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,14,Sin Datos
+-34.773184517,-58.332687262,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,4,Sin Datos
+-34.771479028,-58.327983753,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,21,Sin Datos
+-34.771065838,-58.328392429,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,2,Sin Datos
+-34.774803328,-58.335261218,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,17,Sin Datos
+-34.773624218,-58.334118733,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,14,Sin Datos
+-34.772773987,-58.331855557,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,14,Sin Datos
+-34.772339073,-58.331098049,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,15,Sin Datos
+-34.772455404,-58.332254299,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,15,Sin Datos
+-34.772748293,-58.333083798,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,7,Sin Datos
+-34.772551458,-58.333671146,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,15,Sin Datos
+-34.771618202,-58.332477353,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,10,Sin Datos
+-34.770937662,-58.331281353,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,8,Sin Datos
+-34.770227724,-58.330100834,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,21,Sin Datos
+-34.771736582,-58.330787416,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,8,Sin Datos
+-34.771190197,-58.329858733,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,12,Sin Datos
+-34.770904622,-58.329373667,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,17,Sin Datos
+-34.771135799,-58.329944811,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,10,Sin Datos
+-34.773551688,-58.325904092,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,13,Sin Datos
+-34.774199204,-58.332105328,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,10,Sin Datos
+-34.771737326,-58.328396316,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,8,Sin Datos
+-34.771320826,-58.328749992,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,23,Sin Datos
+-34.771254948,-58.328205385,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,8,Sin Datos
+-34.770790266,-58.331037223,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,11,Sin Datos
+-34.768611551,-58.326563396,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,163,Sin Datos
+-34.770758411,-58.325255104,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,332,Sin Datos
+-34.780060228,-58.331228990,11,media,Edesur,Almirante Brown,San Francisco Solano,Rafael Calzada,R:189-3-34/189-3-34,126,Sin Datos
+-34.750052824,-58.258817781,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-1-11/085-1-11,495,Sin Datos
+-34.754866913,-58.267695852,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-1-11/085-1-11,595,Sin Datos
+-34.754127520,-58.263242474,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-1-11/085-1-11,545,Sin Datos
+-34.751784191,-58.267974254,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-1-11/085-1-11,125,Sin Datos
+-34.751180892,-58.260816393,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-1-11/085-1-11,13,Sin Datos
+-34.752332387,-58.259090383,11,media,Edesur,Quilmes,Ezpeleta,Calchaqui,R:085-1-11/085-1-11,274,Sin Datos
+-34.843436296,-58.259166149,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,4,Sin Datos
+-34.835091496,-58.266228423,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,175,Sin Datos
+-34.832660406,-58.261571218,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,7,Sin Datos
+-34.837480625,-58.254867298,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,6,Sin Datos
+-34.827710908,-58.252170689,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,2,Sin Datos
+-34.837658594,-58.261404351,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,22,Sin Datos
+-34.833949627,-58.260312305,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,3,Sin Datos
+-34.840354800,-58.262896057,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,186,Sin Datos
+-34.842235954,-58.260571037,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,125,Sin Datos
+-34.841295855,-58.261727661,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,78,Sin Datos
+-34.833870457,-58.266986570,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,174,Sin Datos
+-34.834606160,-58.268407461,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,182,Sin Datos
+-34.838004702,-58.259983604,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-25/185-2-25/185-1-11,3,Sin Datos
+-34.769895192,-58.274149215,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,338,Sin Datos
+-34.759182104,-58.271121879,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,622,Sin Datos
+-34.766611377,-58.276616511,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,389,Sin Datos
+-34.759841456,-58.273481332,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,55,Sin Datos
+-34.763295674,-58.279187176,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,271,Sin Datos
+-34.768825735,-58.272237951,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,4,Sin Datos
+-34.760885449,-58.275546658,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,1,Sin Datos
+-34.770980241,-58.276093005,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,1,Sin Datos
+-34.773994086,-58.274628926,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-28/085-2-28,435,Sin Datos
+-34.771935834,-58.271360212,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-28/085-2-28,15,Sin Datos
+-34.769408411,-58.272359134,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-28/085-2-28,66,Sin Datos
+-34.761272299,-58.272347410,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,3,Sin Datos
+-34.771554414,-58.276135260,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-28/085-2-28,3,Sin Datos
+-34.776966245,-58.272579716,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-28/085-2-28,51,Sin Datos
+-34.844890040,-58.250834347,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,Sin Datos
+-34.842484487,-58.252631727,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,Sin Datos
+-34.853232368,-58.238122400,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,Sin Datos
+-34.850645364,-58.240043400,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,Sin Datos
+-34.848299597,-58.241795564,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.847013274,-58.242662720,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,4,Sin Datos
+-34.845464335,-58.243817675,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,Sin Datos
+-34.839559422,-58.248212225,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.850686969,-58.233944969,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,Sin Datos
+-34.847777088,-58.236144371,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,5,Sin Datos
+-34.845343456,-58.237881097,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.839963722,-58.241828464,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,3,Sin Datos
+-34.837334549,-58.243736739,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,Sin Datos
+-34.835975964,-58.238645223,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,5,Sin Datos
+-34.833612573,-58.240394138,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,3,Sin Datos
+-34.836723307,-58.247556327,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,8,Sin Datos
+-34.835891659,-58.245968844,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.834371465,-58.243045597,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.846369681,-58.252200928,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,Sin Datos
+-34.841594530,-58.243171929,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,13,Sin Datos
+-34.841034707,-58.242092125,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.840408241,-58.240915991,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,Sin Datos
+-34.846618364,-58.238963749,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,Sin Datos
+-34.845102028,-58.236096736,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,2,Sin Datos
+-34.851215717,-58.233422614,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.829393669,-58.243526855,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,100,Sin Datos
+-34.844075937,-58.244852877,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.834458381,-58.253291895,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,51,Sin Datos
+-34.837050309,-58.236873480,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,170,Sin Datos
+-34.835315054,-58.239134311,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,5,Sin Datos
+-34.838057782,-58.250136944,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,7,Sin Datos
+-34.840402568,-58.255705519,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.827892942,-58.241613405,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,161,Sin Datos
+-34.825939445,-58.242006953,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,93,Sin Datos
+-34.840606402,-58.254035009,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,Sin Datos
+-34.833585792,-58.233084667,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,12,Sin Datos
+-34.833339551,-58.234160901,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,22,Sin Datos
+-34.833987502,-58.233522858,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,11,Sin Datos
+-34.833507883,-58.234857781,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,15,Sin Datos
+-34.834322755,-58.233888560,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,8,Sin Datos
+-34.833971361,-58.235176753,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,26,Sin Datos
+-34.834762887,-58.234368674,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,16,Sin Datos
+-34.834517240,-58.235336885,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,14,Sin Datos
+-34.835055596,-58.235529645,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,15,Sin Datos
+-34.835909945,-58.235618947,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,10,Sin Datos
+-34.835711131,-58.233700603,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,124,Sin Datos
+-34.828401944,-58.241568779,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,5,Sin Datos
+-34.828973282,-58.241144244,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,8,Sin Datos
+-34.826658015,-58.244800842,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,28,Sin Datos
+-34.827428074,-58.244238725,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,32,Sin Datos
+-34.828118978,-58.243734369,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,16,Sin Datos
+-34.829177986,-58.242953814,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,19,Sin Datos
+-34.829758942,-58.242517443,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,25,Sin Datos
+-34.830268454,-58.242147266,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,10,Sin Datos
+-34.830886109,-58.241700549,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,25,Sin Datos
+-34.827239866,-58.244430343,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,28,Sin Datos
+-34.829903158,-58.242411651,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,16,Sin Datos
+-34.829549667,-58.240713489,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,10,Sin Datos
+-34.828669022,-58.243336883,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.844331344,-58.234703061,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,13,Sin Datos
+-34.844054375,-58.233922731,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,17,Sin Datos
+-34.844820416,-58.234342806,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,6,Sin Datos
+-34.845436625,-58.233909082,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,10,Sin Datos
+-34.845087656,-58.233224301,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,15,Sin Datos
+-34.845600895,-58.233768584,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,9,Sin Datos
+-34.843910679,-58.238919283,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.832375732,-58.239945243,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,1,Sin Datos
+-34.831823079,-58.239367837,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,10,Sin Datos
+-34.830435325,-58.242022150,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,6,Sin Datos
+-34.827848089,-58.241964646,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,5,Sin Datos
+-34.810379510,-58.217423168,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,302,Sin Datos
+-34.816726051,-58.222636017,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,434,Sin Datos
+-34.812139299,-58.225111467,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,598,Sin Datos
+-34.824380735,-58.224067720,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,168,Sin Datos
+-34.814787064,-58.213034304,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,285,Sin Datos
+-34.821903226,-58.220644904,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,43,Sin Datos
+-34.812497193,-58.218599763,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,154,Sin Datos
+-34.818320476,-58.222968189,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,235,Sin Datos
+-34.810696524,-58.226973463,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,579,Sin Datos
+-34.807914266,-58.220316519,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,12,Sin Datos
+-34.808123273,-58.219640585,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,8,Sin Datos
+-34.808923383,-58.216602722,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,13,Sin Datos
+-34.808950474,-58.215389855,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,14,Sin Datos
+-34.807607445,-58.222826106,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,33,Sin Datos
+-34.807854161,-58.221659335,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,36,Sin Datos
+-34.808107360,-58.220457445,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,14,Sin Datos
+-34.808270027,-58.219690472,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,13,Sin Datos
+-34.808441808,-58.218880795,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,16,Sin Datos
+-34.808845822,-58.217454205,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,8,Sin Datos
+-34.809231059,-58.216410364,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,9,Sin Datos
+-34.809337052,-58.216128561,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,10,Sin Datos
+-34.809714819,-58.215138757,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,13,Sin Datos
+-34.808790401,-58.220587180,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,19,Sin Datos
+-34.808932317,-58.219894791,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,21,Sin Datos
+-34.809452877,-58.218157702,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,19,Sin Datos
+-34.809281894,-58.218052548,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,2,Sin Datos
+-34.809727570,-58.218305585,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,9,Sin Datos
+-34.809442125,-58.216905354,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,16,Sin Datos
+-34.810228783,-58.216090822,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,11,Sin Datos
+-34.810512688,-58.216246529,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,5,Sin Datos
+-34.807995571,-58.220980380,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,10,Sin Datos
+-34.810812851,-58.216415755,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,5,Sin Datos
+-34.814190333,-58.219783217,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,234,Sin Datos
+-34.807952739,-58.219577755,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,2,Sin Datos
+-34.822335668,-58.221141539,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,3,Sin Datos
+-34.794257921,-58.258228090,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,148,Sin Datos
+-34.797536172,-58.259739206,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,4,Sin Datos
+-34.796943762,-58.258589829,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,10,Sin Datos
+-34.787241067,-58.249069509,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,5,Sin Datos
+-34.788978208,-58.247024942,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,164,Sin Datos
+-34.791320003,-58.249168110,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,254,Sin Datos
+-34.796132873,-58.241207809,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,398,Sin Datos
+-34.788923534,-58.251025324,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,572,Sin Datos
+-34.794432859,-58.246016270,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,38,Sin Datos
+-34.792849141,-58.236753488,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,906,Sin Datos
+-34.787859703,-58.253723976,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,1,Sin Datos
+-34.792080097,-58.247293069,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,106,Sin Datos
+-34.787132119,-58.252470363,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,10,Sin Datos
+-34.794173774,-58.242592377,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,387,Sin Datos
+-34.794917091,-58.254741607,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,254,Sin Datos
+-34.790403931,-58.259057342,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,267,Sin Datos
+-34.790382582,-58.261529312,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,2,Sin Datos
+-34.804312298,-58.181383119,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,347,Sin Datos
+-34.806701882,-58.184371924,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,741,Sin Datos
+-34.824595709,-58.192451200,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-11/174-1-11,177,Sin Datos
+-34.809172498,-58.187974039,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,248,Sin Datos
+-34.813004965,-58.190296169,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,269,Sin Datos
+-34.816682716,-58.193739533,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,108,Sin Datos
+-34.815672275,-58.192032763,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,2,Sin Datos
+-34.824204469,-58.194752993,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-1-11/174-1-11,286,Sin Datos
+-34.827751577,-58.193675126,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-1-11/174-1-11,382,Sin Datos
+-34.807896380,-58.182854150,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,400,Sin Datos
+-34.800442892,-58.186063010,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,21,Sin Datos
+-34.801198432,-58.185128018,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,26,Sin Datos
+-34.801877072,-58.184281184,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,19,Sin Datos
+-34.803040682,-58.182840646,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,15,Sin Datos
+-34.802761635,-58.184363183,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,9,Sin Datos
+-34.803067566,-58.183986366,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,16,Sin Datos
+-34.803273790,-58.183732356,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,16,Sin Datos
+-34.802432467,-58.185311936,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,27,Sin Datos
+-34.802735066,-58.185001860,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,9,Sin Datos
+-34.803159286,-58.184397870,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,20,Sin Datos
+-34.803427949,-58.184057506,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,17,Sin Datos
+-34.802872476,-58.185919533,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,25,Sin Datos
+-34.802981282,-58.185781327,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,6,Sin Datos
+-34.803535529,-58.185087616,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,8,Sin Datos
+-34.803838208,-58.184715891,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,21,Sin Datos
+-34.803705284,-58.186153489,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,194,Sin Datos
+-34.802290130,-58.184917656,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-11/174-1-11,15,Sin Datos
+-34.804726861,-58.247510180,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,196,Sin Datos
+-34.804736733,-58.247502728,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,201,Sin Datos
+-34.812780008,-58.239646591,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,333,Sin Datos
+-34.808174522,-58.238401234,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,275,Sin Datos
+-34.812046918,-58.231857835,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,159,Sin Datos
+-34.806226007,-58.247262042,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,721,Sin Datos
+-34.806801012,-58.241162769,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,56,Sin Datos
+-34.815145985,-58.234262238,11,media,Edesur,Florencio Varela,Bosques,Ezpeleta,R:080-1-03/080-1-03,14,Sin Datos
+-34.811830831,-58.234022631,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,15,Sin Datos
+-34.811653003,-58.234234863,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,9,Sin Datos
+-34.811511754,-58.233771766,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,13,Sin Datos
+-34.812471061,-58.234367545,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,11,Sin Datos
+-34.813080167,-58.234878332,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,26,Sin Datos
+-34.812861035,-58.235676947,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,56,Sin Datos
+-34.813227581,-58.235002447,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,22,Sin Datos
+-34.814548363,-58.233844380,11,media,Edesur,Florencio Varela,Bosques,Ezpeleta,R:080-1-03/080-1-03,56,Sin Datos
+-34.814594146,-58.236252813,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,36,Sin Datos
+-34.811666358,-58.233909326,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,2,Sin Datos
+-34.787987588,-58.234327392,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-03/080-1-03,133,Sin Datos
+-34.796880360,-58.236804730,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-03/080-1-03,492,Sin Datos
+-34.804913611,-58.243846740,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,1,Sin Datos
+-34.837279083,-58.188417864,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,428,Sin Datos
+-34.828053776,-58.188106938,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,495,Sin Datos
+-34.834230931,-58.175813929,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,297,Sin Datos
+-34.827273006,-58.170796390,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,475,Sin Datos
+-34.831707458,-58.178697130,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,200,Sin Datos
+-34.816914319,-58.183926100,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,96,Sin Datos
+-34.835413552,-58.170737546,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,302,Sin Datos
+-34.818558678,-58.166237500,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,129,Sin Datos
+-34.815751304,-58.174592309,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,229,Sin Datos
+-34.832893267,-58.181151893,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,292,Sin Datos
+-34.837884347,-58.181849497,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,426,Sin Datos
+-34.826502646,-58.184803640,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,382,Sin Datos
+-34.827131409,-58.184055882,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,83,Sin Datos
+-34.833486195,-58.170018256,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,49,Sin Datos
+-34.828243396,-58.174428917,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,2,Sin Datos
+-34.840269881,-58.188033949,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,4,Sin Datos
+-34.839516473,-58.160883530,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,129,Sin Datos
+-34.839415710,-58.154711214,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,66,Sin Datos
+-34.830072928,-58.165947829,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,31,Sin Datos
+-34.826738784,-58.181558801,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,7,Sin Datos
+-34.823258156,-58.188560709,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,7,Sin Datos
+-34.834746408,-58.187486349,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,298,Sin Datos
+-34.839446432,-58.185699567,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,225,Sin Datos
+-34.839530924,-58.150182110,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,16,Sin Datos
+-34.825104411,-58.183497204,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,86,Sin Datos
+-34.822083757,-58.165965207,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,37,Sin Datos
+-34.823957294,-58.182327381,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,14,Sin Datos
+-34.823339136,-58.170648948,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,122,Sin Datos
+-34.825609981,-58.168771964,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,54,Sin Datos
+-34.839315117,-58.181025780,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,41,Sin Datos
+-34.825165461,-58.168243826,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,71,Sin Datos
+-34.817725896,-58.176569665,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,114,Sin Datos
+-34.821212192,-58.164727686,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,41,Sin Datos
+-34.821390680,-58.161535293,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,326,Sin Datos
+-34.825672876,-58.163488276,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,59,Sin Datos
+-34.827068363,-58.161130023,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,55,Sin Datos
+-34.813411433,-58.175162369,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,5,Sin Datos
+-34.823777099,-58.157770428,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-18/174-1-18,1,Sin Datos
+-34.831467798,-58.188410762,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,242,Sin Datos
+-34.829031231,-58.179698032,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,2,Sin Datos
+-34.815026722,-58.181373004,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,12,Sin Datos
+-34.836102458,-58.176864105,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,110,Sin Datos
+-34.834757346,-58.178451085,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-1-18/174-1-18,250,Sin Datos
+-34.830629588,-58.174843567,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,322,Sin Datos
+-34.865007281,-58.202637824,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,513,Sin Datos
+-34.850781164,-58.191359646,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,218,Sin Datos
+-34.847096918,-58.191563648,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,3,Sin Datos
+-34.842177098,-58.189212586,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,1,Sin Datos
+-34.865447161,-58.213006020,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,30,Sin Datos
+-34.863234727,-58.210313087,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,5,Sin Datos
+-34.863363306,-58.208069297,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,17,Sin Datos
+-34.867252065,-58.210388992,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,28,Sin Datos
+-34.865922819,-58.207334996,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,23,Sin Datos
+-34.867314436,-58.208173900,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,75,Sin Datos
+-34.865278850,-58.205799616,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,69,Sin Datos
+-34.866118382,-58.209014035,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,21,Sin Datos
+-34.855541062,-58.195658391,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,8,Sin Datos
+-34.855106561,-58.194050356,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,19,Sin Datos
+-34.854970070,-58.193549181,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,9,Sin Datos
+-34.854646405,-58.192363732,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,9,Sin Datos
+-34.854070541,-58.190648837,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,14,Sin Datos
+-34.856331366,-58.195909033,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,20,Sin Datos
+-34.856120341,-58.194978385,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,15,Sin Datos
+-34.855928038,-58.194438218,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,22,Sin Datos
+-34.855786445,-58.193919786,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,16,Sin Datos
+-34.855512098,-58.192913064,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,12,Sin Datos
+-34.855354925,-58.192336245,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,15,Sin Datos
+-34.854711184,-58.190398732,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,8,Sin Datos
+-34.857535746,-58.196024497,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,13,Sin Datos
+-34.856752080,-58.194716728,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,16,Sin Datos
+-34.856576963,-58.192509153,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,17,Sin Datos
+-34.858045192,-58.196763768,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,66,Sin Datos
+-34.857730911,-58.195746303,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,17,Sin Datos
+-34.857293561,-58.194493418,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,23,Sin Datos
+-34.856851414,-58.192579907,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,17,Sin Datos
+-34.856622848,-58.191696703,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,27,Sin Datos
+-34.856309218,-58.190621625,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,18,Sin Datos
+-34.845946621,-58.190997508,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,1,Sin Datos
+-34.861077744,-58.208742124,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,4,Sin Datos
+-34.864100495,-58.198695880,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,221,Sin Datos
+-34.860347648,-58.203510835,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,417,Sin Datos
+-34.862420284,-58.205857846,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,300,Sin Datos
+-34.866647133,-58.211945162,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,4,Sin Datos
+-34.853223522,-58.192349043,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,186,Sin Datos
+-34.843069390,-58.189625224,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,3,Sin Datos
+-34.855281427,-58.194680186,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,8,Sin Datos
+-34.857910258,-58.192172553,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,7,Sin Datos
+-34.855535831,-58.190073627,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,70,Sin Datos
+-34.859328576,-58.193480182,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,22,Sin Datos
+-34.859811058,-58.204173807,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,1,Sin Datos
+-34.862425192,-58.198772632,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,175,Sin Datos
+-34.828894018,-58.228182221,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,398,Sin Datos
+-34.829506589,-58.222183698,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,251,Sin Datos
+-34.824923707,-58.228468382,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,236,Sin Datos
+-34.829598857,-58.217013628,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,1,Sin Datos
+-34.828736258,-58.219738937,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,1,Sin Datos
+-34.829110972,-58.219287743,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,56,Sin Datos
+-34.830080723,-58.220337401,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,15,Sin Datos
+-34.831083924,-58.227954260,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,234,Sin Datos
+-34.828079770,-58.224030231,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,195,Sin Datos
+-34.830965889,-58.218691929,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,191,Sin Datos
+-34.826274841,-58.226015026,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,89,Sin Datos
+-34.817955653,-58.197639227,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-27/174-2-27,281,Sin Datos
+-34.872838681,-58.192726621,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,475,Sin Datos
+-34.837802355,-58.190665737,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-27/174-2-27,6,Sin Datos
+-34.877138049,-58.196671413,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,638,Sin Datos
+-34.873333317,-58.199255058,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,26,Sin Datos
+-34.873196740,-58.197826784,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,56,Sin Datos
+-34.873912271,-58.198513649,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,27,Sin Datos
+-34.872627197,-58.198545140,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,26,Sin Datos
+-34.867660265,-58.204827729,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,43,Sin Datos
+-34.868119936,-58.204286919,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,30,Sin Datos
+-34.868563217,-58.203759314,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,35,Sin Datos
+-34.869055858,-58.203099432,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,29,Sin Datos
+-34.869427235,-58.202596441,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,5,Sin Datos
+-34.870285326,-58.201480514,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,26,Sin Datos
+-34.870733926,-58.200934095,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,32,Sin Datos
+-34.871128046,-58.200428515,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,24,Sin Datos
+-34.871268499,-58.200248337,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,55,Sin Datos
+-34.872225778,-58.199041913,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,16,Sin Datos
+-34.872878735,-58.199830730,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,29,Sin Datos
+-34.872049332,-58.200886997,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,37,Sin Datos
+-34.870681712,-58.201905982,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,74,Sin Datos
+-34.870525833,-58.203629249,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,15,Sin Datos
+-34.869460703,-58.205014382,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,53,Sin Datos
+-34.870870857,-58.204027794,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,29,Sin Datos
+-34.868418616,-58.196691660,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,6,Sin Datos
+-34.869417371,-58.197137922,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,20,Sin Datos
+-34.868677278,-58.198112146,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,28,Sin Datos
+-34.868493359,-58.198339319,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,37,Sin Datos
+-34.869780574,-58.198266581,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,12,Sin Datos
+-34.868170031,-58.200902450,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,45,Sin Datos
+-34.870357307,-58.198252153,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,42,Sin Datos
+-34.869108527,-58.199819112,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,36,Sin Datos
+-34.873895415,-58.189094817,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,173,Sin Datos
+-34.870929323,-58.195214377,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,158,Sin Datos
+-34.870400789,-58.201603309,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,8,Sin Datos
+-34.875249928,-58.199923873,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,26,Sin Datos
+-34.818475305,-58.196487380,11,media,Edesur,Berazategui,Gutierrez,Gutierrez Ii,R:174-2-27/174-2-27,1,Sin Datos
+-34.870281283,-58.180074124,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-27/174-2-27,90,Sin Datos
+-34.875692871,-58.189037742,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-27/174-2-27,365,Sin Datos
+-34.877148292,-58.187197415,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-27/174-2-27,153,Sin Datos
+-34.871687738,-58.185163668,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-27/174-2-27,2,Sin Datos
+-34.872012485,-58.184748362,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-27/174-2-27,38,Sin Datos
+-34.873450718,-58.182917185,11,media,Edesur,Berazategui,El Pato,Gutierrez Ii,R:174-2-27/174-2-27,21,Sin Datos
+-34.870322724,-58.188802420,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,155,Sin Datos
+-34.869279779,-58.192458874,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,353,Sin Datos
+-34.901559432,-58.173124644,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,31,Sin Datos
+-34.904914072,-58.189153118,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,3,Sin Datos
+-34.903607254,-58.178266000,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,134,Sin Datos
+-34.884536311,-58.157232583,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,55,Sin Datos
+-34.903061564,-58.165771941,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,12,Sin Datos
+-34.895560906,-58.166492412,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,45,Sin Datos
+-34.901849353,-58.163536402,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,4,Sin Datos
+-34.898056704,-58.167984170,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,2,Sin Datos
+-34.908348251,-58.170429981,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,6,Sin Datos
+-34.904306608,-58.165706313,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,9,Sin Datos
+-34.901142040,-58.170245190,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,18,Sin Datos
+-34.892737859,-58.169030486,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,68,Sin Datos
+-34.892518399,-58.162969560,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,53,Sin Datos
+-34.889868191,-58.159890410,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,9,Sin Datos
+-34.898310316,-58.158829053,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,4,Sin Datos
+-34.896816281,-58.157053809,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.888724604,-58.152320462,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,32,Sin Datos
+-34.887391658,-58.154078333,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,26,Sin Datos
+-34.889277511,-58.167403928,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,46,Sin Datos
+-34.887384979,-58.165302679,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,5,Sin Datos
+-34.885003930,-58.163016728,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,59,Sin Datos
+-34.882360880,-58.162124950,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,5,Sin Datos
+-34.879533567,-58.161612569,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,14,Sin Datos
+-34.882694241,-58.170201345,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,26,Sin Datos
+-34.882387418,-58.167086410,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,68,Sin Datos
+-34.885876784,-58.169644264,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,145,Sin Datos
+-34.895816257,-58.169010221,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,3,Sin Datos
+-34.904248360,-58.185940240,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,20,Sin Datos
+-34.910196987,-58.172583990,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,18,Sin Datos
+-34.911356245,-58.173948345,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,6,Sin Datos
+-34.917572532,-58.181074020,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,4,Sin Datos
+-34.920631370,-58.189448033,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,7,Sin Datos
+-34.915984048,-58.193516555,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,2,Sin Datos
+-34.903802083,-58.181614769,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,116,Sin Datos
+-34.887596359,-58.165550779,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,12,Sin Datos
+-34.879542213,-58.170694928,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,54,Sin Datos
+-34.910953938,-58.198982711,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,4,Sin Datos
+-34.915227048,-58.202799245,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.911243608,-58.199303765,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.881541962,-58.161841836,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.912162122,-58.178005609,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,3,Sin Datos
+-34.906417774,-58.168227855,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,4,Sin Datos
+-34.875638274,-58.169989959,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,33,Sin Datos
+-34.907233431,-58.186187485,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,26,Sin Datos
+-34.889068658,-58.172186259,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,8,Sin Datos
+-34.896402089,-58.158754158,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.908959862,-58.184523525,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,3,Sin Datos
+-34.906745889,-58.181995017,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,21,Sin Datos
+-34.889582096,-58.159564259,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.883011028,-58.172965930,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,3,Sin Datos
+-34.904265291,-58.173125771,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,153,Sin Datos
+-34.904998858,-58.176024105,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,195,Sin Datos
+-34.905543139,-58.176656757,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,171,Sin Datos
+-34.906184820,-58.175832417,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,193,Sin Datos
+-34.910707068,-58.176261123,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,10,Sin Datos
+-34.912155869,-58.199384894,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,3,Sin Datos
+-34.900197739,-58.170241520,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,3,Sin Datos
+-34.883597863,-58.164694531,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,29,Sin Datos
+-34.900123661,-58.175149861,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,5,Sin Datos
+-34.882941902,-58.172315095,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,4,Sin Datos
+-34.888828864,-58.158670142,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,5,Sin Datos
+-34.876459275,-58.162665438,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.904374820,-58.191276841,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.912733310,-58.199933522,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.910599317,-58.181952221,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,9,Sin Datos
+-34.902371625,-58.166735883,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,5,Sin Datos
+-34.879914292,-58.161303682,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,8,Sin Datos
+-34.879848773,-58.173285566,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,77,Sin Datos
+-34.910161765,-58.185845710,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,7,Sin Datos
+-34.916111173,-58.192721450,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,1,Sin Datos
+-34.879453149,-58.163128929,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,3,Sin Datos
+-34.781513593,-58.228551402,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,488,Sin Datos
+-34.786681630,-58.238205081,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,417,Sin Datos
+-34.789463095,-58.243361114,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,106,Sin Datos
+-34.787900542,-58.240379285,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,319,Sin Datos
+-34.782928765,-58.240379090,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,557,Sin Datos
+-34.780307414,-58.241953222,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,451,Sin Datos
+-34.781519774,-58.236539256,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,392,Sin Datos
+-34.780280801,-58.242503692,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,182,Sin Datos
+-34.784295262,-58.233774147,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,89,Sin Datos
+-34.780464619,-58.232436479,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,90,Sin Datos
+-34.785451615,-58.236017922,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,6,Sin Datos
+-34.790643364,-58.243946030,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,4,Sin Datos
+-34.783565619,-58.232364831,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,15,Sin Datos
+-34.785910650,-58.243529996,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-05/080-1-05,334,Sin Datos
+-34.826007014,-58.200564957,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-21/174-2-21,368,Sin Datos
+-34.831861038,-58.201678325,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-21/174-2-21,3,Sin Datos
+-34.830530377,-58.201141860,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-21/174-2-21,3,Sin Datos
+-34.789177925,-58.173419712,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,3,Sin Datos
+-34.789854831,-58.172265471,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,1,Sin Datos
+-34.805635235,-58.171960564,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,56,Sin Datos
+-34.808189181,-58.175790381,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,19,Sin Datos
+-34.807553580,-58.176666449,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,44,Sin Datos
+-34.804760520,-58.173006674,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,128,Sin Datos
+-34.787205942,-58.172806464,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,1,Sin Datos
+-34.829513081,-58.203542750,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-21/174-2-21,3,Sin Datos
+-34.829888400,-58.202632416,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-21/174-2-21,1,Sin Datos
+-34.865685525,-58.185945655,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,221,Sin Datos
+-34.862302709,-58.187297712,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,99,Sin Datos
+-34.864349842,-58.186481467,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,291,Sin Datos
+-34.862484464,-58.192101262,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,117,Sin Datos
+-34.861660803,-58.188967450,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,13,Sin Datos
+-34.853521929,-58.186804038,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,4,Sin Datos
+-34.857427567,-58.186680649,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,187,Sin Datos
+-34.864639743,-58.189580882,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,1,Sin Datos
+-34.862672776,-58.185836846,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,35,Sin Datos
+-34.862361936,-58.184662237,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,21,Sin Datos
+-34.862498486,-58.183630771,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,13,Sin Datos
+-34.862042852,-58.183473481,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,37,Sin Datos
+-34.862618023,-58.185625508,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,15,Sin Datos
+-34.857244490,-58.189734370,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,6,Sin Datos
+-34.857625779,-58.190194560,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,20,Sin Datos
+-34.858368447,-58.190837175,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,15,Sin Datos
+-34.859311318,-58.191790614,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,22,Sin Datos
+-34.858962019,-58.190713276,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,16,Sin Datos
+-34.858721642,-58.189834243,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,29,Sin Datos
+-34.860123768,-58.192367186,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,22,Sin Datos
+-34.859891622,-58.191555380,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,30,Sin Datos
+-34.861398281,-58.194700316,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,27,Sin Datos
+-34.861052525,-58.192936928,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,8,Sin Datos
+-34.860728206,-58.192003996,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,24,Sin Datos
+-34.860461510,-58.191103546,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,2,Sin Datos
+-34.860120177,-58.190126617,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,19,Sin Datos
+-34.861721950,-58.194583146,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,16,Sin Datos
+-34.862328429,-58.195174104,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,7,Sin Datos
+-34.861937646,-58.193778587,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,18,Sin Datos
+-34.861638522,-58.192743356,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,16,Sin Datos
+-34.861344165,-58.191651535,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,38,Sin Datos
+-34.861124636,-58.190676467,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,21,Sin Datos
+-34.860576090,-58.188768502,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,36,Sin Datos
+-34.861096346,-58.189743687,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,24,Sin Datos
+-34.862130422,-58.194445106,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,44,Sin Datos
+-34.860814176,-58.184186132,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,Sin Datos
+-34.860126485,-58.184587935,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,37,Sin Datos
+-34.860931797,-58.184273917,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,28,Sin Datos
+-34.858246004,-58.187025229,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,6,Sin Datos
+-34.859202217,-58.186656423,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,10,Sin Datos
+-34.860409515,-58.185635575,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,20,Sin Datos
+-34.859989436,-58.186682024,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,16,Sin Datos
+-34.858158567,-58.187763464,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,Sin Datos
+-34.860196385,-58.187445261,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,11,Sin Datos
+-34.861475873,-58.186692936,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,24,Sin Datos
+-34.857050500,-58.189472232,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,14,Sin Datos
+-34.857711561,-58.189210638,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,22,Sin Datos
+-34.858628982,-58.188833035,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,26,Sin Datos
+-34.859184730,-58.188608125,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,21,Sin Datos
+-34.860647384,-58.188019595,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,21,Sin Datos
+-34.861052867,-58.185265434,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,43,Sin Datos
+-34.859091850,-58.196483469,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,24,Sin Datos
+-34.858641372,-58.194840687,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,30,Sin Datos
+-34.858344791,-58.193756640,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,10,Sin Datos
+-34.858102253,-58.192869532,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,13,Sin Datos
+-34.857642348,-58.191188792,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,Sin Datos
+-34.859890537,-58.196728152,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,20,Sin Datos
+-34.859170385,-58.195645700,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,Sin Datos
+-34.859428194,-58.195054196,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,18,Sin Datos
+-34.859054666,-58.193708301,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,21,Sin Datos
+-34.858856894,-58.192996669,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,13,Sin Datos
+-34.858717271,-58.192494281,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,Sin Datos
+-34.860425726,-58.197815446,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,20,Sin Datos
+-34.859939340,-58.196015446,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,11,Sin Datos
+-34.859827265,-58.195386898,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,29,Sin Datos
+-34.860890471,-58.196830260,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,25,Sin Datos
+-34.859921826,-58.194144350,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,13,Sin Datos
+-34.860775948,-58.195004583,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,11,Sin Datos
+-34.861411677,-58.195742655,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,Sin Datos
+-34.866196461,-58.180509777,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,71,Sin Datos
+-34.869782359,-58.184463320,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,53,Sin Datos
+-34.860325070,-58.193278612,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,11,Sin Datos
+-34.857885104,-58.191004824,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,4,Sin Datos
+-34.868142347,-58.184959447,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,211,Sin Datos
+-34.865174852,-58.183441668,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,180,Sin Datos
+-34.865033172,-58.191931380,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,204,Sin Datos
+-34.864462606,-58.189770585,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,173,Sin Datos
+-34.814047986,-58.205803516,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,314,2022-11-30 20:13
+-34.817966721,-58.209559932,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,466,2022-11-30 20:13
+-34.827294621,-58.216975879,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,291,2022-11-30 20:13
+-34.823578740,-58.211033091,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,301,2022-11-30 20:13
+-34.825471361,-58.206340162,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,296,2022-11-30 20:13
+-34.823896693,-58.204891621,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,176,2022-11-30 20:13
+-34.823272207,-58.207892379,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,38,2022-11-30 20:13
+-34.822398733,-58.207072363,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,17,2022-11-30 20:13
+-34.821426918,-58.206198940,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,13,2022-11-30 20:13
+-34.820831878,-58.205670227,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,12,2022-11-30 20:13
+-34.820471659,-58.205354611,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,28,2022-11-30 20:13
+-34.819426783,-58.204444760,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,37,2022-11-30 20:13
+-34.819155322,-58.204231006,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,18,2022-11-30 20:13
+-34.817836994,-58.203678993,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,25,2022-11-30 20:13
+-34.822030224,-58.205426564,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,15,2022-11-30 20:13
+-34.821433761,-58.204896656,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,15,2022-11-30 20:13
+-34.821082956,-58.204585230,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,31,2022-11-30 20:13
+-34.819456245,-58.203824795,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,20,2022-11-30 20:13
+-34.818856469,-58.203388003,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,25,2022-11-30 20:13
+-34.821890460,-58.204977224,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,30,2022-11-30 20:13
+-34.820555730,-58.203059319,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,19,2022-11-30 20:13
+-34.819892395,-58.202390254,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,2,2022-11-30 20:13
+-34.824393177,-58.208749787,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,23,2022-11-30 20:13
+-34.825015744,-58.208058950,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,10,2022-11-30 20:13
+-34.824442869,-58.210084408,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,8,2022-11-30 20:13
+-34.825083167,-58.209338974,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,13,2022-11-30 20:13
+-34.825572284,-58.208536277,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,12,2022-11-30 20:13
+-34.823513323,-58.213458597,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,28,2022-11-30 20:13
+-34.825663036,-58.209861499,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,13,2022-11-30 20:13
+-34.826042927,-58.208951810,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,2,2022-11-30 20:13
+-34.823134631,-58.214451579,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,13,2022-11-30 20:13
+-34.823701284,-58.213657755,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,9,2022-11-30 20:13
+-34.824206371,-58.214377608,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,26,2022-11-30 20:13
+-34.823962810,-58.215124002,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,7,2022-11-30 20:13
+-34.823263698,-58.206522205,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,6,2022-11-30 20:13
+-34.822489755,-58.214118587,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,15,2022-11-30 20:13
+-34.822629342,-58.205958945,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,17,2022-11-30 20:13
+-34.818807380,-58.204547533,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,5,2022-11-30 20:13
+-34.820746626,-58.215235685,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,180,2022-11-30 20:13
+-34.825286353,-58.208306759,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,4,2022-11-30 20:13
+-34.826802094,-58.214497472,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,240,2022-11-30 20:13
+-34.825288098,-58.218468710,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,109,2022-11-30 20:13
+-34.828583362,-58.213193181,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,109,2022-11-30 20:13
+-34.830333298,-58.210752813,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,133,2022-11-30 20:13
+-34.821982272,-58.211841404,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,8,2022-11-30 20:13
+-34.826559856,-58.212031449,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,116,2022-11-30 20:13
+-34.828681069,-58.210363215,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,81,2022-11-30 20:13
+-34.827698955,-58.209381675,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,23,2022-11-30 20:13
+-34.819994116,-58.210386609,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-24/185-2-24,17,2022-11-30 20:13
+-34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,2022-11-30 17:00
+-34.342778613,-58.863635151,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,193,2022-11-30 17:00
+-34.342515395,-58.869661171,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,43,2022-11-30 17:00
+-34.347070987,-58.870602067,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5524,73,2022-11-30 17:00
+-34.350699316,-58.872678601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr2/51-5524,97,2022-11-30 17:00
+-34.405784685,-58.982406779,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5471,1,2022-11-30 18:00
+-34.637589265,-58.724538794,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,36,2022-11-30 18:00
+-34.690214499,-58.520019861,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5514/65-5534/65-5531,251,2022-11-30 17:00
+-34.622586416,-59.002990316,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 18:00
+-34.606204634,-59.000676822,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,261,2022-11-30 18:00
+-34.623615055,-59.035830333,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,3,2022-11-30 18:00
+-34.605474172,-58.985433923,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,276,2022-11-30 18:00
+-34.617854923,-58.987531447,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,3,2022-11-30 18:00
+-34.624502224,-59.061910238,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.623412769,-59.029338051,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 18:00
+-34.624255930,-59.044691349,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 18:00
+-34.630077823,-59.078580840,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.602727804,-58.993964437,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,197,2022-11-30 18:00
+-34.601652656,-59.039178995,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,19,2022-11-30 18:00
+-34.614672480,-59.039573401,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,5,2022-11-30 18:00
+-34.612662794,-58.995629742,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 18:00
+-34.603395467,-59.004580783,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,44,2022-11-30 18:00
+-34.607790307,-59.004574329,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,112,2022-11-30 18:00
+-34.610019627,-59.008758375,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,82,2022-11-30 18:00
+-34.603079267,-58.998811892,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,219,2022-11-30 18:00
+-34.593767362,-59.038990134,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,10,2022-11-30 18:00
+-34.596609048,-59.039035704,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.623651667,-59.015315338,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 18:00
+-34.608980158,-59.039381226,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.600542362,-59.059491083,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,7,2022-11-30 18:00
+-34.602924165,-59.056144501,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,66,2022-11-30 18:00
+-34.607375250,-58.989024549,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,255,2022-11-30 18:00
+-34.612369869,-58.990762627,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,51,2022-11-30 18:00
+-34.629263959,-59.038199819,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 18:00
+-34.615684408,-58.993358302,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,64,2022-11-30 18:00
+-34.614267606,-59.010365483,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,24,2022-11-30 18:00
+-34.611019182,-59.012836662,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,14,2022-11-30 18:00
+-34.643142171,-59.057044019,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.629726098,-59.067359871,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.635915087,-59.062546567,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,3,2022-11-30 18:00
+-34.599764835,-59.049870501,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 18:00
+-34.638905439,-59.095016837,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2022-11-30 18:00
+-34.607954397,-59.034780712,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,2,2022-11-30 18:00
+-34.619135483,-59.025960857,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.617609279,-59.027823687,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,3,2022-11-30 18:00
+-34.601635530,-59.047248074,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.614023962,-59.055241911,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,76,2022-11-30 18:00
+-34.603670921,-59.044849949,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.605539636,-58.989520226,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,240,2022-11-30 18:00
+-34.600722361,-59.002338480,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,118,2022-11-30 18:00
+-34.610371349,-58.990059178,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,18,2022-11-30 18:00
+-34.601106117,-59.058274627,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,17,2022-11-30 18:00
+-34.613298728,-58.989656096,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,73,2022-11-30 18:00
+-34.639342969,-59.060127830,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2022-11-30 18:00
+-34.617880155,-59.046639725,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,25,2022-11-30 18:00
+-34.697260829,-58.970231870,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,3,2022-11-30 17:00
+-34.710956584,-58.998993878,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 17:00
+-34.694126101,-58.974196877,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,6,2022-11-30 17:00
+-34.722014506,-59.053621308,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 17:00
+-34.721954884,-59.077074495,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 17:00
+-34.667400805,-59.042327612,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 17:00
+-34.629460032,-58.977349546,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,4,2022-11-30 17:00
+-34.732269412,-59.063443646,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 17:00
+-34.676744711,-59.072189268,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 17:00
+-34.640422788,-58.992309865,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 17:00
+-34.741107839,-59.016978513,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 17:00
+-34.656399915,-59.007091317,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 17:00
+-34.647852753,-58.995130408,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 17:00
+-34.650517083,-58.998293414,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-11-30 17:00
 -34.715837260,-59.013365711,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,3,2022-11-30 17:00
 -34.712302119,-58.986504028,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 17:00
 -34.721641627,-59.020667712,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,5,2022-11-30 17:00
@@ -163,98 +901,159 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.721591128,-59.054347733,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 17:00
 -34.724893499,-59.008330761,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 17:00
 -34.721835040,-59.016642847,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-11-30 17:00
--34.765834458,-58.856649002,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,7,Sin Datos
--34.765471724,-58.858950350,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,Sin Datos
--34.766474720,-58.860099892,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.767606095,-58.861403520,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,7,Sin Datos
--34.768877544,-58.862887989,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.770402086,-58.864522910,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,Sin Datos
--34.772419293,-58.867020741,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,9,Sin Datos
--34.757533835,-58.866496139,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,Sin Datos
--34.753094915,-58.861373198,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,5,Sin Datos
--34.748552716,-58.878071862,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,Sin Datos
--34.746688214,-58.880430919,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.740086439,-58.888886836,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.735708147,-58.894514933,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,6,Sin Datos
--34.732809025,-58.898344043,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,Sin Datos
--34.730875226,-58.900636018,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.726099858,-58.906836915,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,Sin Datos
--34.720850971,-58.913414725,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.717133548,-58.918130545,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.712648787,-58.923898809,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,Sin Datos
--34.710613338,-58.926497240,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.730838993,-58.888409258,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.727211047,-58.884333160,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,3,Sin Datos
--34.709893611,-58.927441818,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.707673574,-58.928886898,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.702273737,-58.922544055,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,Sin Datos
--34.724890965,-58.950210544,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.726738040,-58.952370418,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,3,Sin Datos
--34.762081657,-58.861383766,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,Sin Datos
--34.754670582,-58.870795374,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.742941663,-58.885207492,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
--34.536737256,-58.868016539,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,12,2022-11-30 17:00
--34.542826192,-58.875283533,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,11,2022-11-30 17:00
--34.529097731,-58.861928581,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-11-30 17:00
--34.535516803,-58.876352400,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-11-30 17:00
--34.513300650,-58.861664198,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,10,2022-11-30 17:00
--34.525004207,-58.868121320,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,2,2022-11-30 17:00
--34.540326179,-58.861945015,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,5,2022-11-30 16:00
--34.537943197,-58.857170880,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2022-11-30 16:00
--34.535500968,-58.859387440,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-11-30 16:00
--34.528288794,-58.874930061,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-11-30 16:00
--34.526739893,-58.866888709,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2022-11-30 16:00
--34.534013392,-58.863650560,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,19,2022-11-30 16:00
--34.532091611,-58.867571504,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,10,2022-11-30 16:00
--34.541377693,-58.872148956,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,5,2022-11-30 16:00
--34.538461897,-58.882529035,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,10,2022-11-30 16:00
--34.537428436,-58.863350190,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,14,2022-11-30 16:00
--34.536696907,-58.873283630,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,20,2022-11-30 16:00
--34.536625130,-58.861644284,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,2,2022-11-30 16:00
--34.533904293,-58.870346247,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2022-11-30 16:00
--34.529868747,-58.873677786,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2022-11-30 16:00
--34.512428117,-58.862274785,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Manzone/257-Tr1/257-5518,1,2022-11-30 16:00
--34.763369048,-58.872606311,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,5,2022-11-30 16:00
--34.760520680,-58.916450700,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,2022-11-30 16:00
--34.742777073,-58.919216310,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-11-30 16:00
--34.750064645,-58.902701610,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-11-30 16:00
--34.741939045,-58.913357672,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-11-30 16:00
--34.754196262,-58.898441362,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2022-11-30 16:00
--34.758021814,-58.920349999,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-11-30 16:00
--34.768869597,-58.878699901,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2022-11-30 16:00
--34.765130374,-58.874724447,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,2022-11-30 16:00
--34.700237127,-58.822108206,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,17,2022-11-30 18:00
--34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,481,2022-11-30 18:00
--34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,216,2022-11-30 18:00
--34.708131146,-58.811193226,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,30,2022-11-30 18:00
--34.704243498,-58.825769210,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,32,2022-11-30 18:00
--34.713198554,-58.816481412,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,21,2022-11-30 18:00
--34.702247833,-58.819335284,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,12,2022-11-30 18:00
--34.684352734,-58.804078431,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,4,2022-11-30 18:00
--34.685123890,-58.808901908,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,37,2022-11-30 18:00
--34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,2022-11-30 18:00
--34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,227,2022-11-30 18:00
--34.698345434,-58.824660914,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,12,2022-11-30 18:00
--34.694473006,-58.798890318,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,53,2022-11-30 18:00
--34.696169151,-58.812825727,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,82,2022-11-30 18:00
--34.701597270,-58.813066157,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,6,2022-11-30 18:00
--34.710756926,-58.814960202,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,9,2022-11-30 18:00
--34.714751366,-58.809524019,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,1,2022-11-30 18:00
--34.714603504,-58.817842411,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,10,2022-11-30 18:00
--34.691069202,-58.803758137,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,8,2022-11-30 18:00
--34.705228792,-58.807805515,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,19,2022-11-30 18:00
--34.691669505,-58.799929720,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,11,2022-11-30 18:00
--34.708242957,-58.818540899,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,7,2022-11-30 18:00
--34.688866751,-58.801132145,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,105,2022-11-30 18:00
--34.503027712,-58.715745100,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,84,2022-11-30 19:00
--34.504054049,-58.714973516,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,8,2022-11-30 19:00
--34.499432147,-58.712848843,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,194,2022-11-30 19:00
--34.503583884,-58.722411869,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,182,2022-11-30 19:00
--34.501188070,-58.717229200,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,415,2022-11-30 19:00
--34.502848186,-58.720754858,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,612,2022-11-30 19:00
--34.505343165,-58.718487739,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,355,2022-11-30 19:00
--34.498151488,-58.719606671,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,444,2022-11-30 19:00
--34.503647657,-58.715310205,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,108,2022-11-30 19:00
+-34.748552716,-58.878071862,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-11-30 18:00
+-34.746688214,-58.880430919,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.740086439,-58.888886836,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.735708147,-58.894514933,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,6,2022-11-30 18:00
+-34.732809025,-58.898344043,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-11-30 18:00
+-34.730875226,-58.900636018,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.726099858,-58.906836915,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-11-30 18:00
+-34.720850971,-58.913414725,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.717133548,-58.918130545,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.712648787,-58.923898809,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-11-30 18:00
+-34.710613338,-58.926497240,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.730838993,-58.888409258,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.727211047,-58.884333160,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,3,2022-11-30 18:00
+-34.709893611,-58.927441818,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.707673574,-58.928886898,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.702273737,-58.922544055,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,2,2022-11-30 18:00
+-34.724890965,-58.950210544,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.726738040,-58.952370418,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,3,2022-11-30 18:00
+-34.754670582,-58.870795374,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.742941663,-58.885207492,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2022-11-30 18:00
+-34.763369048,-58.872606311,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,5,Sin Datos
+-34.760520680,-58.916450700,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,Sin Datos
+-34.742777073,-58.919216310,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos
+-34.750064645,-58.902701610,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos
+-34.741939045,-58.913357672,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos
+-34.754196262,-58.898441362,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,Sin Datos
+-34.758021814,-58.920349999,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos
+-34.768869597,-58.878699901,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,Sin Datos
+-34.765130374,-58.874724447,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,Sin Datos
+-34.684352734,-58.804078431,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,4,Sin Datos
+-34.685123890,-58.808901908,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,37,Sin Datos
+-34.694473006,-58.798890318,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,53,Sin Datos
+-34.696169151,-58.812825727,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,82,Sin Datos
+-34.701597270,-58.813066157,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,6,Sin Datos
+-34.691069202,-58.803758137,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,8,Sin Datos
+-34.705228792,-58.807805515,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,19,Sin Datos
+-34.691669505,-58.799929720,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,11,Sin Datos
+-34.688866751,-58.801132145,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,105,Sin Datos
+-34.544341830,-58.813236184,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,201,2022-11-30 17:00
+-34.546418239,-58.808392952,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,97,2022-11-30 17:00
+-34.544008116,-58.809994353,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,128,2022-11-30 17:00
+-34.546050167,-58.817527459,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,118,2022-11-30 17:00
+-34.544363675,-58.815003286,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,91,2022-11-30 17:00
+-34.537865817,-58.810140517,12,media,Edenor,Moreno,Moreno,S/D,R:Gaona/263-Tr3/263-5472/952-5512,138,2022-11-30 17:00
+-34.538844445,-58.813160080,12,media,Edenor,Moreno,Moreno,S/D,R:Gaona/263-Tr3/263-5472/952-5512,105,2022-11-30 17:00
+-34.538216306,-58.819565573,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,22,2022-11-30 17:00
+-34.537636622,-58.816608571,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,31,2022-11-30 17:00
+-34.540139994,-58.809156591,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,8,2022-11-30 17:00
+-34.538754021,-58.807698115,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,7,2022-11-30 17:00
+-34.540333480,-58.806124281,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,7,2022-11-30 17:00
+-34.541840517,-58.804627114,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,4,2022-11-30 17:00
+-34.543018289,-58.803476491,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,3,2022-11-30 17:00
+-34.540210971,-58.801352276,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,5,2022-11-30 17:00
+-34.543330561,-58.806024971,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,16,2022-11-30 17:00
+-34.544325149,-58.809582501,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,129,2022-11-30 17:00
+-34.540622067,-58.816852186,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,144,2022-11-30 17:00
+-34.542564263,-58.811374591,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,191,2022-11-30 17:00
+-34.541163522,-58.814442783,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,122,2022-11-30 17:00
+-34.539892283,-58.815679009,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,106,2022-11-30 17:00
+-34.538512064,-58.817021154,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,158,2022-11-30 17:00
+-34.543517045,-58.814093140,12,media,Edenor,S/D,S/D,S/D,R:Gaona/263-Tr3/263-5472/952-5512,148,2022-11-30 17:00
+-34.499432147,-58.712848843,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,194,2022-11-30 17:00
+-34.503583884,-58.722411869,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,182,2022-11-30 17:00
+-34.501188070,-58.717229200,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,415,2022-11-30 17:00
+-34.502848186,-58.720754858,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,612,2022-11-30 17:00
+-34.498151488,-58.719606671,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5512,444,2022-11-30 17:00
+-34.651035747,-58.751025711,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5528,155,2022-11-30 18:00
+-34.653422449,-58.750000748,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5528,216,2022-11-30 18:00
+-34.649478410,-58.752534803,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5528,355,2022-11-30 18:00
+-34.651200656,-58.747545349,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5528,205,2022-11-30 18:00
+-34.650930361,-58.755461314,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5528,315,2022-11-30 18:00
+-34.635501603,-58.738474390,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,95,2022-11-30 17:00
+-34.635763920,-58.734682293,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,263,2022-11-30 17:00
+-34.631652073,-58.728759643,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,1,2022-11-30 17:00
+-34.634215567,-58.740351595,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,218,2022-11-30 17:00
+-34.636241383,-58.744600798,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,317,2022-11-30 17:00
+-34.634427356,-58.733064992,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,119,2022-11-30 17:00
+-34.638026710,-58.736275853,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,311,2022-11-30 17:00
+-34.634037143,-58.744038089,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,101,2022-11-30 17:00
+-34.631934221,-58.731315783,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,120,2022-11-30 17:00
+-34.634156727,-58.741179914,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,1,2022-11-30 17:00
+-34.631400963,-58.735951853,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5523,8,2022-11-30 17:00
+-34.554835615,-58.838569563,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,60,2022-11-30 17:00
+-34.556306654,-58.834806605,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,32,2022-11-30 17:00
+-34.561292611,-58.838870500,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,2,2022-11-30 17:00
+-34.564646833,-58.839130523,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-11-30 17:00
+-34.566417353,-58.837119841,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,2022-11-30 17:00
+-34.567883457,-58.834725766,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-11-30 17:00
+-34.562127574,-58.840106891,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-11-30 17:00
+-34.559257282,-58.835806137,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-11-30 17:00
+-34.533379732,-58.824632353,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,112,2022-11-30 17:00
+-34.531841664,-58.822305037,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,42,2022-11-30 17:00
+-34.530457890,-58.825263284,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,97,2022-11-30 17:00
+-34.559115663,-58.836985534,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,2,2022-11-30 17:00
+-34.558698343,-58.836862925,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-11-30 17:00
+-34.558273216,-58.835171453,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-11-30 17:00
+-34.560567537,-58.839187429,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-11-30 17:00
+-34.558628660,-58.830955478,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,11,2022-11-30 17:00
+-34.557202828,-58.828378710,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,2022-11-30 17:00
+-34.551811941,-58.839293937,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,66,2022-11-30 17:00
+-34.550189053,-58.824781411,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,9,2022-11-30 17:00
+-34.542313250,-58.828667283,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,15,2022-11-30 17:00
+-34.549918020,-58.829691106,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,2022-11-30 17:00
+-34.546591499,-58.835629367,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,3,2022-11-30 17:00
+-34.561075729,-58.835513842,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,8,2022-11-30 17:00
+-34.558117765,-58.843658695,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,141,2022-11-30 17:00
+-34.543243085,-58.824979642,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,2022-11-30 17:00
+-34.555928922,-58.846061555,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,100,2022-11-30 17:00
+-34.555392002,-58.835745456,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,2022-11-30 17:00
+-34.563359934,-58.839886458,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,3,2022-11-30 17:00
+-34.534454958,-58.826244975,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,2022-11-30 17:00
+-34.633250581,-58.846709870,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,53,2022-11-30 18:00
+-34.635346582,-58.850435316,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,86,2022-11-30 18:00
+-34.633348942,-58.848141515,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,108,2022-11-30 18:00
+-34.628519912,-58.850062698,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,156,2022-11-30 18:00
+-34.629611802,-58.846587792,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,30,2022-11-30 18:00
+-34.626969426,-58.852653423,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,69,2022-11-30 18:00
+-34.624820949,-58.845453835,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,144,Sin Datos
+-34.680274550,-58.955338634,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,4,2022-11-30 17:00
+-34.687450138,-58.956566989,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,118,2022-11-30 17:00
+-34.690259935,-58.960071567,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,32,2022-11-30 17:00
+-34.675334007,-58.948971228,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,34,2022-11-30 17:00
+-34.689257168,-58.950050718,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,2022-11-30 17:00
+-34.677839446,-58.964102677,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,13,2022-11-30 17:00
+-34.670252644,-58.953458792,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-30 17:00
+-34.683417753,-58.970750758,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,22,2022-11-30 17:00
+-34.674538783,-58.956788027,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2022-11-30 17:00
+-34.685447994,-58.961738098,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,270,2022-11-30 17:00
+-34.671843695,-58.948382453,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-30 17:00
+-34.693474112,-58.958821390,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2022-11-30 17:00
+-34.659497553,-58.946237767,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-30 17:00
+-34.670983961,-58.970414227,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,26,2022-11-30 17:00
+-34.682156339,-58.979156405,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,7,2022-11-30 17:00
+-34.679624959,-58.985190234,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,2022-11-30 17:00
+-34.678284523,-58.992316536,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,4,2022-11-30 17:00
+-34.672564587,-58.985457201,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,7,2022-11-30 17:00
+-34.693874557,-58.931910615,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2022-11-30 17:00
+-34.687541603,-58.949634104,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,14,2022-11-30 17:00
+-34.686977899,-58.940662617,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2022-11-30 17:00
+-34.657311922,-58.946300383,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2022-11-30 17:00
+-34.688679359,-58.920517953,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-30 17:00
+-34.670192690,-58.961302255,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2022-11-30 17:00
+-34.697058336,-58.917525503,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,7,2022-11-30 17:00
+-34.681153760,-58.995882109,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-30 17:00
+-34.686513263,-58.951125097,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-30 17:00
+-34.676707900,-58.972108911,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-30 17:00
+-34.681664697,-58.925995217,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2022-11-30 17:00
+-34.656062242,-58.945857327,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-30 17:00
+-34.682912402,-58.948683249,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,15,2022-11-30 17:00
+-34.695616813,-58.966395018,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,2022-11-30 17:00
+-34.698006342,-58.926905247,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2022-11-30 17:00
+-34.661954208,-58.945133992,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-11-30 17:00
+-34.687404300,-58.959406398,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,82,2022-11-30 17:00
 -34.6158,-58.9482,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,9,
 -34.6406,-58.7669,22,baja,Edenor,Moreno,Paso Del Rey,,,4,
 -34.3966,-58.7392,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,17,
@@ -267,8 +1066,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4948,-58.8404,22,baja,Edenor,Pilar,Pte Derqui,,,90,
 -34.4546,-58.9085,22,baja,Edenor,Pilar,Pilar,,,3,
 -34.5726,-58.5443,22,baja,Edenor,Gral San Martin,San Andres,,,44,
--34.4627,-58.6385,22,baja,Edenor,Tigre,General Pacheco,,,12,
--34.4755,-58.7425,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,10,
+-34.5244,-58.7511,22,baja,Edenor,Jose C Paz,Jose C Paz,,,8,
 -34.4609,-58.5695,22,baja,Edenor,San Fernando,Virreyes,,,62,
 -34.5953,-58.5234,22,baja,Edenor,Gral San Martin,Villa Lynch,,,17,
 -34.772,-58.6471,22,baja,Edenor,La Matanza,Gonzalez Catan,,,26,
@@ -276,32 +1074,71 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4226,-58.8941,22,baja,Edenor,Pilar,Villa Rosa,,,13,
 -34.5982,-58.5527,22,baja,Edenor,3 De Febrero,Santos Lugares,,,16,
 -34.6529,-58.7869,22,baja,Edenor,Moreno,Moreno,,,15,
--34.5891,-58.4132,22,baja,Edenor,Capital Federal,Palermo,,,35,
+-34.6362,-58.7045,22,baja,Edenor,Ituzaingo,Ituzaingo,,,11,
 -34.6285,-58.8501,22,baja,Edenor,Moreno,Francisco Alvarez,,,22,
--34.5458,-58.9218,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,3,
--34.6678,-58.3815,21,baja,Edesur,Avellaneda,Avellaneda,,,28,
--34.6147,-58.4457,21,baja,Edesur,Capital,Caballito,,,98,
+-34.7741,-58.7474,22,baja,Edenor,Merlo,Pontevedra,,,2,
+-34.6926,-58.8458,22,baja,Edenor,Merlo,Mariano Acosta,,,56,
+-34.5462,-58.4769,22,baja,Edenor,Capital Federal,Saavedra,,,27,
+-34.4938,-58.7624,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,16,
+-34.4658,-58.6658,22,baja,Edenor,Tigre,El Talar,,,39,
+-34.6571,-58.7752,22,baja,Edenor,Moreno,Moreno,,,4,
+-34.7402,-58.7109,22,baja,Edenor,Merlo,Pontevedra,,,7,
+-34.7485,-58.8021,22,baja,Edenor,Marcos Paz,Marcos Paz,,,14,
+-34.7328,-58.781,22,baja,Edenor,Merlo,Mariano Acosta,,,22,
+-34.6337,-58.8778,22,baja,Edenor,Moreno,Francisco Alvarez,,,15,
+-34.6043,-58.6463,22,baja,Edenor,Hurlingham,Hurlingham,,,18,
+-34.7484,-58.7952,22,baja,Edenor,Marcos Paz,Marcos Paz,,,20,
+-34.6808,-58.732,22,baja,Edenor,Merlo,Merlo,,,63,
+-34.5596,-58.6087,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,1,
+-34.6712,-58.7862,22,baja,Edenor,Merlo,Merlo,,,19,
+-34.6604,-58.617,22,baja,Edenor,Moron,Moron,,,5,
+-34.7823,-58.7387,22,baja,Edenor,La Matanza,20 De Junio,,,48,
+-34.7008,-58.5856,22,baja,Edenor,La Matanza,Isidro Casanova,,,35,
+-34.7443,-58.8029,22,baja,Edenor,Marcos Paz,Marcos Paz,,,17,
+-34.663,-58.6437,22,baja,Edenor,Moron,Castelar,,,20,
+-34.6405,-58.5878,22,baja,Edenor,Moron,Haedo,,,20,
+-34.7044,-58.4909,22,baja,Edenor,La Matanza,Villa Madero,,,26,
+-34.7498,-58.7555,22,baja,Edenor,Merlo,Pontevedra,,,5,
+-34.7146,-58.6083,22,baja,Edenor,La Matanza,Rafael Castillo,,,2,
+-34.7067,-58.7794,22,baja,Edenor,Merlo,Mariano Acosta,,,4,
+-34.5796,-58.6053,22,baja,Edenor,3 De Febrero,Pablo Podesta,,,5,
+-34.6147,-58.4457,21,baja,Edesur,Capital,Caballito,,,99,
 -34.9337,-58.6165,21,baja,Edesur,Cañuelas,Maximo Paz,,,8,
 -34.6951,-58.4723,21,baja,Edesur,Capital,Villa Riachuelo,,,26,
--34.707,-58.3899,21,baja,Edesur,Lanus,Lanus,,,32,
+-34.7069,-58.3899,21,baja,Edesur,Lanus,Lanus,,,34,
 -34.8171,-58.4641,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,10,
 -34.6315,-58.4159,21,baja,Edesur,Capital,Boedo,,,5,
--34.8248,-58.4736,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,12,
--34.6478,-58.3695,21,baja,Edesur,Capital,Barracas,,,36,
+-34.8212,-58.4644,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,35,
+-34.6478,-58.3695,21,baja,Edesur,Capital,Barracas,,,37,
 -34.7124,-58.2687,21,baja,Edesur,Quilmes,Bernal,,,35,
--34.6099,-58.4649,21,baja,Edesur,Capital,Capital,,,30,
 -34.6258,-58.3846,21,baja,Edesur,Capital,Constitucion,,,16,
 -34.7069,-58.4021,21,baja,Edesur,Lanus,Lanus,,,48,
--34.595,-58.3801,21,baja,Edesur,Capital,Retiro,,,57,
+-34.595,-58.3801,21,baja,Edesur,Capital,Retiro,,,58,
 -34.6226,-58.4777,21,baja,Edesur,Capital,Capital,,,42,
 -34.6046,-58.4528,21,baja,Edesur,Capital,Villa Crespo,,,14,
--34.6237,-58.4667,21,baja,Edesur,Capital,Capital,,,8,
 -34.6863,-58.4727,21,baja,Edesur,Capital,Capital,,,9,
 -34.7507,-58.2074,21,baja,Edesur,Berazategui,Berazategui,,,37,
--34.6051,-58.4905,21,baja,Edesur,Capital,Villa Del Parque,,,19,
+-34.6049,-58.4889,21,baja,Edesur,Capital,Capital,,,19,
 -34.6262,-58.4467,21,baja,Edesur,Capital,Caballito,,,6,
--34.6548,-58.5115,21,baja,Edesur,Capital,Mataderos,,,26,
--34.6136,-58.4974,21,baja,Edesur,Capital,Monte Castro,,,7,
--34.6371,-58.501,21,baja,Edesur,Capital,Capital,,,9,
--34.8135,-58.3718,21,baja,Edesur,Almirante Brown,Burzaco,,,1,
--34.5927,-58.3953,21,baja,Edesur,Capital,Recoleta,,,4,
+-34.9101,-58.3729,21,baja,Edesur,Pte Peron,Guernica,,,10,
+-34.8192,-58.2068,21,baja,Edesur,Florencio Varela,Bosques,,,14,
+-34.7869,-58.271,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
+-34.6371,-58.501,21,baja,Edesur,Capital,Capital,,,14,
+-34.8032,-58.4678,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,14,
+-34.8059,-58.334,21,baja,Edesur,Almirante Brown,Claypole,,,1,
+-34.7669,-58.4039,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,4,
+-34.7349,-58.3097,21,baja,Edesur,Quilmes,Quilmes,,,26,
+-34.7537,-58.4388,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,1,
+-34.7336,-58.3107,21,baja,Edesur,Quilmes,Bernal,,,5,
+-34.7408,-58.3787,21,baja,Edesur,Lomas De Zamora,Bandfield,,,1,
+-34.8131,-58.3993,21,baja,Edesur,Almirante Brown,Burzaco,,,1,
+-34.7781,-58.3442,21,baja,Edesur,Almirante Brown,San Jose,,,3,
+-34.7717,-58.3113,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,3,
+-34.778,-58.1952,21,baja,Edesur,Berazategui,Platanos,,,32,
+-34.6237,-58.4667,21,baja,Edesur,Capital,Capital,,,2,
+-34.8152,-58.1938,21,baja,Edesur,Berazategui,Hudson,,,3,
+-34.8141,-58.2437,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,
+-34.9974,-58.3688,21,baja,Edesur,San Vicente,Alejandro Korn,,,4,
+-34.7954,-58.2954,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
+-34.7936,-58.3031,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,
+-34.7825,-58.4087,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,
