@@ -5,21 +5,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.342515395,-58.869661171,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,43,2022-11-30 13:00
 -34.347070987,-58.870602067,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5524,73,2022-11-30 13:00
 -34.350699316,-58.872678601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr2/51-5524,97,2022-11-30 13:00
--34.918947481,-58.736737732,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,Sin Datos
--34.919060402,-58.746893921,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,Sin Datos
+-34.918947481,-58.736737732,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,2022-11-30 13:00
+-34.919060402,-58.746893921,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr4/353-5481,1,2022-11-30 13:00
 -34.405784685,-58.982406779,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr3/357-5471,1,2022-11-30 13:00
 -34.672116185,-58.736538970,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5521,368,2022-11-30 14:00
--34.462025177,-58.702330637,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,10,Sin Datos
--34.475469617,-58.742518988,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,386,Sin Datos
--34.568663832,-58.452772908,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Vidal/114-Tr1/114-5541,181,2022-11-30 14:00
+-34.462025177,-58.702330637,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,10,2022-11-30 14:00
+-34.568663832,-58.452772908,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Vidal/114-Tr1/114-5541,181,2022-11-30 13:00
 -34.474461520,-58.569274524,12,media,Edenor,San Isidro,Beccar,S/D,R:Boulogne/56-Tr1/56-5518,23,2022-11-30 14:00
 -34.472104602,-58.565047350,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5518,1,2022-11-30 14:00
 -34.473876430,-58.569165261,12,media,Edenor,San Fernando,Victoria,S/D,R:Boulogne/56-Tr1/56-5518,6,2022-11-30 14:00
--34.755157952,-58.814357237,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5515,419,2022-11-30 16:00
+-34.755157952,-58.814357237,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5515,419,2022-11-30 13:00
 -34.6158,-58.9482,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,9,
 -34.6532,-58.5351,22,baja,Edenor,La Matanza,Ramos Mejia,,,1,
 -34.5961,-58.4174,22,baja,Edenor,Capital Federal,Palermo,,,18,
 -34.6406,-58.7669,22,baja,Edenor,Moreno,Paso Del Rey,,,4,
+-34.6564,-58.7316,22,baja,Edenor,Merlo,Merlo,,,4,
 -34.3966,-58.7392,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,17,
 -34.6707,-58.608,22,baja,Edenor,Moron,Moron,,,7,
 -34.6426,-58.602,22,baja,Edenor,Moron,Haedo,,,118,
@@ -36,7 +36,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7475,-58.5907,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,38,
 -34.4042,-58.6331,22,baja,Edenor,Tigre,Rincon De Milberg,,,11,
 -34.6697,-58.7005,22,baja,Edenor,Merlo,San Antonio De Padua,,,46,
--34.6678,-58.3815,21,baja,Edesur,Avellaneda,Avellaneda,,,15,
+-34.6437,-58.5619,22,baja,Edenor,La Matanza,Ramos Mejia,,,23,
+-34.6678,-58.3815,21,baja,Edesur,Avellaneda,Avellaneda,,,16,
 -34.6147,-58.4457,21,baja,Edesur,Capital,Caballito,,,100,
 -34.9337,-58.6165,21,baja,Edesur,Cañuelas,Maximo Paz,,,8,
 -34.6953,-58.4721,21,baja,Edesur,Capital,Capital,,,27,
@@ -47,7 +48,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8248,-58.4736,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,10,
 -34.6478,-58.3695,21,baja,Edesur,Capital,Barracas,,,44,
 -34.7124,-58.2687,21,baja,Edesur,Quilmes,Bernal,,,33,
--34.6099,-58.4649,21,baja,Edesur,Capital,Capital,,,23,
+-34.6099,-58.4649,21,baja,Edesur,Capital,Capital,,,24,
 -34.626,-58.3843,21,baja,Edesur,Capital,Constitucion,,,15,
 -34.7069,-58.4021,21,baja,Edesur,Lanus,Lanus,,,41,
 -34.595,-58.3801,21,baja,Edesur,Capital,Retiro,,,45,
@@ -58,7 +59,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7376,-58.4425,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,12,
 -34.7727,-58.4057,21,baja,Edesur,Lomas De Zamora,Temperley,,,13,
 -34.7515,-58.2091,21,baja,Edesur,Berazategui,Berazategui,,,55,
--34.6051,-58.4905,21,baja,Edesur,Capital,Villa Del Parque,,,14,
+-34.6051,-58.4905,21,baja,Edesur,Capital,Villa Del Parque,,,15,
 -34.6264,-58.4474,21,baja,Edesur,Capital,Caballito,,,5,
 -34.7762,-58.4749,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,11,
 -34.6548,-58.5115,21,baja,Edesur,Capital,Mataderos,,,20,
