@@ -10,11 +10,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.644054691,-58.349124947,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,16,Sin Datos
 -34.643798553,-58.349082217,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,20,Sin Datos
 -34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,2022-11-30 05:00
--34.342778613,-58.863635151,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,193,2022-11-30 05:00
--34.342515395,-58.869661171,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,43,2022-11-30 05:00
--34.347070987,-58.870602067,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5524,73,2022-11-30 05:00
--34.350699316,-58.872678601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr2/51-5524,97,2022-11-30 05:00
--34.664598229,-58.782308865,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5522,242,2022-11-30 05:00
+-34.342778613,-58.863635151,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,193,2022-11-30 06:00
+-34.342515395,-58.869661171,12,media,Edenor,Escobar,Loma Verde,S/D,R:Matheu/51-Tr2/51-5524,43,2022-11-30 06:00
+-34.347070987,-58.870602067,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5524,73,2022-11-30 06:00
+-34.350699316,-58.872678601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Matheu/51-Tr2/51-5524,97,2022-11-30 06:00
+-34.664598229,-58.782308865,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5522,242,2022-11-30 06:00
 -34.5824,-58.6575,22,baja,Edenor,Escobar,Escobar,,,18,
 -34.6158,-58.9482,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,9,
 -34.3767,-58.7763,22,baja,Edenor,Escobar,Escobar,,,15,
@@ -34,7 +34,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6841,-58.6187,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,15,
 -34.5837,-58.5477,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,57,
 -34.5961,-58.4174,22,baja,Edenor,Capital Federal,Palermo,,,18,
--34.657,-58.5946,22,baja,Edenor,Moron,Haedo,,,44,
 -34.4692,-58.6505,22,baja,Edenor,Tigre,El Talar,,,70,
 -34.6665,-58.5564,22,baja,Edenor,La Matanza,Ramos Mejia,,,1,
 -34.6733,-58.7705,22,baja,Edenor,Merlo,Merlo,,,8,
@@ -52,9 +51,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7537,-58.2769,21,baja,Edesur,Quilmes,Quilmes,,,37,
 -34.7834,-58.166,21,baja,Edesur,Berazategui,Platanos,,,16,
 -34.7124,-58.2687,21,baja,Edesur,Quilmes,Bernal,,,13,
--34.8152,-58.4882,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,3,
 -34.7143,-58.4086,21,baja,Edesur,Lanus,Lanus,,,9,
 -34.7334,-58.3471,21,baja,Edesur,Lanus,Monte Chingolo,,,6,
 -34.7287,-58.2863,21,baja,Edesur,Quilmes,Quilmes,,,5,
 -34.7069,-58.4021,21,baja,Edesur,Lanus,Lanus,,,16,
--34.8059,-58.334,21,baja,Edesur,Almirante Brown,Claypole,,,1,
