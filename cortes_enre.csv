@@ -24,9 +24,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.827848089,-58.241964646,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-26/185-2-26,5,2022-12-01 05:22
 -34.812139299,-58.225111467,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,598,2022-12-01 08:08
 -34.810696524,-58.226973463,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-2-23/185-2-23,579,2022-12-01 08:08
--34.812780008,-58.239646591,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,333,2022-12-01 08:08
--34.814594146,-58.236252813,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,36,2022-12-01 08:08
--34.811666358,-58.233909326,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,2,2022-12-01 08:08
 -34.806226007,-58.247262042,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,721,2022-12-01 08:08
 -34.815145985,-58.234262238,11,media,Edesur,Florencio Varela,Bosques,Ezpeleta,R:080-1-03/080-1-03,14,2022-12-01 08:08
 -34.811830831,-58.234022631,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,15,2022-12-01 08:08
@@ -37,6 +34,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.812861035,-58.235676947,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,56,2022-12-01 08:08
 -34.813227581,-58.235002447,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,22,2022-12-01 08:08
 -34.814548363,-58.233844380,11,media,Edesur,Florencio Varela,Bosques,Ezpeleta,R:080-1-03/080-1-03,56,2022-12-01 08:08
+-34.812780008,-58.239646591,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,333,2022-12-01 08:08
+-34.814594146,-58.236252813,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,36,2022-12-01 08:08
+-34.811666358,-58.233909326,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-03/080-1-03,2,2022-12-01 08:08
 -34.829506589,-58.222183698,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,251,2022-12-01 08:08
 -34.824923707,-58.228468382,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,236,2022-12-01 08:08
 -34.829598857,-58.217013628,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-12/185-1-12,1,2022-12-01 08:08
@@ -311,16 +311,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.054122607,-58.752216189,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,365,2022-12-01 08:08
 -35.056483489,-58.755710624,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,344,2022-12-01 08:08
 -35.056535826,-58.752312103,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-17/271-1-17,94,2022-12-01 08:08
--34.980592486,-58.366621092,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,333,2022-12-01 09:40
--34.987445188,-58.361612824,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,250,2022-12-01 09:40
--34.989412901,-58.365828321,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,246,2022-12-01 09:40
--34.991436403,-58.370008919,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,236,2022-12-01 09:40
--34.995178556,-58.369146651,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,167,2022-12-01 09:40
--34.990983225,-58.376316886,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,51,2022-12-01 09:40
--34.994980495,-58.376662940,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,42,2022-12-01 09:40
--34.993208788,-58.374758906,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,274,2022-12-01 09:40
--35.007891103,-58.365546346,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-25/277-2-25/082-4-983,87,2022-12-01 09:40
--34.996738317,-58.379011122,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,113,2022-12-01 09:40
 -34.998607276,-58.368739383,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,2,2022-12-01 09:40
 -35.000735113,-58.365187390,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,9,2022-12-01 09:40
 -34.996906951,-58.351780493,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,3,2022-12-01 09:40
@@ -332,13 +322,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.999923445,-58.367384796,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,9,2022-12-01 09:40
 -34.988750403,-58.358353782,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,99,2022-12-01 09:40
 -34.992160251,-58.355839262,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,148,2022-12-01 09:40
+-34.980592486,-58.366621092,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,333,2022-12-01 09:40
+-34.987445188,-58.361612824,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,250,2022-12-01 09:40
+-34.989412901,-58.365828321,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,246,2022-12-01 09:40
+-34.991436403,-58.370008919,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,236,2022-12-01 09:40
+-34.995178556,-58.369146651,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,167,2022-12-01 09:40
 -34.827273006,-58.170796390,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,475,2022-12-01 08:08
 -34.828243396,-58.174428917,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,2,2022-12-01 08:08
 -34.825609981,-58.168771964,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,54,2022-12-01 08:08
 -34.825165461,-58.168243826,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,71,2022-12-01 08:08
 -34.830629588,-58.174843567,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-1-18/174-1-18,322,2022-12-01 08:08
--34.720946184,-58.403330640,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1516/087-2-1516,90,2022-12-01 04:11
--34.718832274,-58.405001504,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-2-1516/087-2-1516,462,2022-12-01 04:11
+-34.720946184,-58.403330640,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1516/087-2-1516,90,Sin Datos
+-34.718832274,-58.405001504,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-2-1516/087-2-1516,462,Sin Datos
 -34.802695458,-58.569886125,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-3-31/083-3-31,1,2022-12-01 08:08
 -34.804132978,-58.569534575,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-3-31/083-3-31,1,2022-12-01 08:08
 -34.805603947,-58.568457323,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-3-31/083-3-31,1,2022-12-01 08:08
@@ -346,72 +341,48 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.716441470,-58.411991365,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-41/087-4-41,440,2022-12-01 08:08
 -34.718827428,-58.409381243,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-41/087-4-41,267,2022-12-01 08:08
 -34.719592522,-58.410430322,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-41/087-4-41,1,2022-12-01 08:08
--34.616098249,-58.402037813,11,media,Edesur,Capital Rp,Balvanera Rp,Independencia,R:020-4-48/020-4-48,16,2022-12-01 07:20
--34.618752498,-58.398577310,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-4-48/020-4-48,54,2022-12-01 07:20
--34.617855823,-58.399181133,11,media,Edesur,Capital Rp,Balvanera Rp,Independencia,R:020-4-48/020-4-48,395,2022-12-01 07:20
 -34.707165550,-58.436638337,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-23/089-2-23,568,2022-12-01 07:04
 -34.705297279,-58.436346993,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-23/089-2-23,332,2022-12-01 07:04
 -34.706054256,-58.434479819,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-23/089-2-23,244,2022-12-01 07:04
--34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,Sin Datos
+-34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,2022-12-01 06:00
 -34.638905439,-59.095016837,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,Sin Datos
 -34.630077823,-59.078580840,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,Sin Datos
--34.697260829,-58.970231870,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,3,2022-12-01 06:00
--34.710956584,-58.998993878,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-12-01 06:00
--34.694126101,-58.974196877,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,6,2022-12-01 06:00
--34.722014506,-59.053621308,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-12-01 06:00
--34.721954884,-59.077074495,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-12-01 06:00
--34.732269412,-59.063443646,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-12-01 06:00
--34.741107839,-59.016978513,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-12-01 06:00
--34.715837260,-59.013365711,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,3,Sin Datos
--34.712302119,-58.986504028,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.721641627,-59.020667712,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,5,Sin Datos
--34.718955579,-58.994553949,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.720871266,-59.041065418,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.726980572,-59.033769413,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.721051479,-59.036413659,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.724765189,-59.063085122,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,103,Sin Datos
--34.720939500,-59.059077967,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.703458812,-59.030867426,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,Sin Datos
--34.722699476,-59.003606999,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,4,Sin Datos
--34.756354679,-58.998557638,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,3,Sin Datos
--34.746254614,-59.004258956,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,5,Sin Datos
--34.722206707,-58.998986367,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.721519767,-59.011679276,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,Sin Datos
--34.721591128,-59.054347733,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.724893499,-59.008330761,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
--34.721835040,-59.016642847,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,Sin Datos
+-34.715837260,-59.013365711,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,3,2022-12-01 05:00
+-34.703458812,-59.030867426,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-12-01 05:00
+-34.721519767,-59.011679276,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-12-01 05:00
+-34.721591128,-59.054347733,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-12-01 05:00
 -34.724890965,-58.950210544,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
 -34.726738040,-58.952370418,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,3,Sin Datos
--34.705228792,-58.807805515,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,19,Sin Datos
 -34.696169151,-58.812825727,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,82,Sin Datos
 -34.701597270,-58.813066157,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,6,Sin Datos
--34.544341830,-58.813236184,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,201,2022-12-01 05:00
--34.546050167,-58.817527459,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,118,2022-12-01 05:00
--34.544363675,-58.815003286,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,91,2022-12-01 05:00
--34.538216306,-58.819565573,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,22,2022-12-01 05:00
--34.537636622,-58.816608571,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,31,2022-12-01 05:00
--34.540622067,-58.816852186,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,144,2022-12-01 05:00
--34.541163522,-58.814442783,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,122,2022-12-01 05:00
--34.539892283,-58.815679009,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,106,2022-12-01 05:00
--34.538512064,-58.817021154,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,158,2022-12-01 05:00
--34.543517045,-58.814093140,12,media,Edenor,S/D,S/D,S/D,R:Gaona/263-Tr3/263-5472/952-5512,148,2022-12-01 05:00
+-34.705228792,-58.807805515,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,19,Sin Datos
+-34.544341830,-58.813236184,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,201,2022-12-01 06:00
+-34.546050167,-58.817527459,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,118,2022-12-01 06:00
+-34.544363675,-58.815003286,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,91,2022-12-01 06:00
+-34.538216306,-58.819565573,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,22,2022-12-01 06:00
+-34.537636622,-58.816608571,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,31,2022-12-01 06:00
+-34.540622067,-58.816852186,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,144,2022-12-01 06:00
+-34.541163522,-58.814442783,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,122,2022-12-01 06:00
+-34.539892283,-58.815679009,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,106,2022-12-01 06:00
+-34.538512064,-58.817021154,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5512,158,2022-12-01 06:00
+-34.543517045,-58.814093140,12,media,Edenor,S/D,S/D,S/D,R:Gaona/263-Tr3/263-5472/952-5512,148,2022-12-01 06:00
 -34.533379732,-58.824632353,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,112,2022-12-01 05:00
 -34.531841664,-58.822305037,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,42,2022-12-01 05:00
 -34.530457890,-58.825263284,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,97,2022-12-01 05:00
 -34.534454958,-58.826244975,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,2022-12-01 05:00
--34.845547275,-58.683904894,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,36,2022-12-01 05:00
--34.624820949,-58.845453835,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,144,2022-12-01 05:00
+-34.845547275,-58.683904894,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,36,2022-12-01 06:00
 -34.633348942,-58.848141515,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,108,2022-12-01 05:00
--34.628519912,-58.850062698,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,156,2022-12-01 05:00
--34.626969426,-58.852653423,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,69,2022-12-01 05:00
--34.175976663,-58.487966260,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2022-12-01 05:00
--34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-01 06:00
--34.171802597,-58.513869818,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2022-12-01 06:00
--34.187811877,-58.492469924,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,16,2022-12-01 06:00
--34.190899341,-58.485358238,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
--34.173590256,-58.512343370,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-12-01 06:00
--34.159970272,-58.496416049,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
--34.213370133,-58.462434223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.223935758,-58.428761588,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-01 05:00
+-34.165321507,-58.524284471,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-12-01 05:00
+-34.192894052,-58.493066220,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,9,2022-12-01 05:00
+-34.175976663,-58.487966260,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2022-12-01 06:00
+-34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-01 05:00
+-34.171802597,-58.513869818,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2022-12-01 05:00
+-34.187811877,-58.492469924,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,16,2022-12-01 05:00
+-34.190899341,-58.485358238,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
+-34.173590256,-58.512343370,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-12-01 05:00
+-34.159970272,-58.496416049,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
+-34.213370133,-58.462434223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
 -34.218782637,-58.451473109,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
 -34.227238783,-58.434336389,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
 -34.254253226,-58.433639926,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
@@ -430,37 +401,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.173627390,-58.489869084,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
 -34.229184793,-58.415414699,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
 -34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
--34.223935758,-58.428761588,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-01 06:00
--34.165321507,-58.524284471,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-12-01 06:00
--34.192894052,-58.493066220,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,9,2022-12-01 06:00
--34.225255235,-58.421292443,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-12-01 05:00
--34.221637198,-58.437895150,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-12-01 05:00
--34.153016970,-58.538491869,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-12-01 05:00
--34.208328280,-58.469334008,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-12-01 05:00
--34.179710294,-58.506148513,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-12-01 05:00
--34.206537801,-58.465751524,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-12-01 05:00
--34.218806922,-58.429929354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,2022-12-01 05:00
--34.193338500,-58.483000952,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-12-01 05:00
--34.213702478,-58.450090844,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-12-01 05:00
--34.181151505,-58.509845390,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-01 05:00
--34.201818859,-58.471994717,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
--34.224542687,-58.424751754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
--34.219345302,-58.460701910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
--34.216476759,-58.439967420,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2022-12-01 05:00
--34.174458924,-58.511600998,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
--34.153548131,-58.519720801,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-12-01 05:00
--34.178689463,-58.507660578,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
--34.197068360,-58.478267968,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
--34.196427848,-58.484722653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
--34.177536815,-58.509001370,12,media,Edenor,S/D,S/D,S/D,S/D,3,2022-12-01 05:00
--34.154646752,-58.498857806,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
--34.186904902,-58.488970702,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-12-01 05:00
--34.226676680,-58.415762647,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 05:00
--34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-01 05:00
--34.620314686,-58.935975624,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,143,2022-12-01 06:00
--34.618793634,-58.937316803,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,49,Sin Datos
--34.617782338,-58.940611984,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,219,Sin Datos
--34.620573749,-58.934038652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,30,Sin Datos
+-34.225255235,-58.421292443,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-12-01 06:00
+-34.221637198,-58.437895150,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-12-01 06:00
+-34.153016970,-58.538491869,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-12-01 06:00
+-34.208328280,-58.469334008,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-12-01 06:00
+-34.179710294,-58.506148513,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-12-01 06:00
+-34.206537801,-58.465751524,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-12-01 06:00
+-34.218806922,-58.429929354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,2022-12-01 06:00
+-34.193338500,-58.483000952,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-12-01 06:00
+-34.213702478,-58.450090844,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2022-12-01 06:00
+-34.181151505,-58.509845390,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-01 06:00
+-34.201818859,-58.471994717,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.224542687,-58.424751754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.219345302,-58.460701910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.216476759,-58.439967420,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2022-12-01 06:00
+-34.174458924,-58.511600998,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.153548131,-58.519720801,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-12-01 06:00
+-34.178689463,-58.507660578,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.197068360,-58.478267968,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.196427848,-58.484722653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.177536815,-58.509001370,12,media,Edenor,S/D,S/D,S/D,S/D,3,2022-12-01 06:00
+-34.154646752,-58.498857806,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.186904902,-58.488970702,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2022-12-01 06:00
+-34.226676680,-58.415762647,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-01 06:00
+-34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-01 06:00
+-34.620314686,-58.935975624,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,143,2022-12-01 05:00
+-34.618793634,-58.937316803,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,49,2022-12-01 05:00
+-34.617782338,-58.940611984,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,219,2022-12-01 05:00
+-34.620573749,-58.934038652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,30,2022-12-01 05:00
 -34.618467692,-58.935235411,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,198,2022-12-01 05:00
 -34.617271156,-58.936250055,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5522,200,2022-12-01 05:00
 -34.706074200,-58.567803461,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5546,402,Sin Datos
@@ -471,17 +439,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.854343669,-58.693928380,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,2,2022-12-01 05:00
 -34.837115181,-58.676277348,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,3,2022-12-01 05:00
 -34.851551592,-58.690666856,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5472,1,2022-12-01 05:00
--34.583337946,-58.825273711,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,1,2022-12-01 05:00
--34.580221558,-58.822162660,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,2,2022-12-01 05:00
--34.484628363,-58.777396884,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Del Viso/251-Tr2/251-5532,198,2022-12-01 05:00
--34.655763873,-58.536621474,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,168,Sin Datos
--34.655620576,-58.537575804,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,447,Sin Datos
--34.654681805,-58.532236890,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,163,Sin Datos
--34.653314785,-58.536233151,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,397,Sin Datos
--34.655336944,-58.536143026,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,120,Sin Datos
--34.654244794,-58.533077909,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,143,Sin Datos
--34.654583049,-58.535038955,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,140,Sin Datos
--34.557297135,-58.417006134,12,media,Edenor,Capital Federal,Palermo,S/D,R:Aguas/129-Tr2/129-5527,1,2022-12-01 05:00
+-34.583337946,-58.825273711,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,1,Sin Datos
+-34.580221558,-58.822162660,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,2,Sin Datos
+-34.484628363,-58.777396884,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Del Viso/251-Tr2/251-5532,198,2022-12-01 06:00
+-34.655763873,-58.536621474,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,168,2022-12-01 06:00
+-34.655620576,-58.537575804,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,447,2022-12-01 06:00
+-34.654681805,-58.532236890,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,163,2022-12-01 06:00
+-34.653314785,-58.536233151,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,397,2022-12-01 06:00
+-34.655336944,-58.536143026,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,120,2022-12-01 06:00
+-34.654244794,-58.533077909,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,143,2022-12-01 06:00
+-34.654583049,-58.535038955,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,140,2022-12-01 06:00
+-34.557297135,-58.417006134,12,media,Edenor,Capital Federal,Palermo,S/D,R:Aguas/129-Tr2/129-5527,1,Sin Datos
 -34.412234195,-58.777408873,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,216,Sin Datos
 -34.405222020,-58.786107393,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,1,Sin Datos
 -34.408915166,-58.784250000,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,281,Sin Datos
@@ -548,24 +516,22 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.595,-58.3801,21,baja,Edesur,Capital,Retiro,,,49,
 -34.6046,-58.4528,21,baja,Edesur,Capital,Villa Crespo,,,16,
 -34.6863,-58.4727,21,baja,Edesur,Capital,Capital,,,9,
--34.6051,-58.4905,21,baja,Edesur,Capital,Villa Del Parque,,,56,
 -34.7475,-58.4331,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,25,
 -34.7997,-58.4702,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,96,
 -34.6127,-58.4983,21,baja,Edesur,Capital,Monte Castro,,,51,
 -34.8192,-58.2068,21,baja,Edesur,Florencio Varela,Bosques,,,16,
 -34.7059,-58.4438,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,6,
 -34.7167,-58.4157,21,baja,Edesur,Lanus,Remedios De Escalada,,,7,
+-34.7351,-58.4146,21,baja,Edesur,Lomas De Zamora,Bandfield,,,2,
 -34.6883,-58.3277,21,baja,Edesur,Avellaneda,Villa Dominico,,,2,
 -34.6701,-58.3476,21,baja,Edesur,Avellaneda,Sarandi,,,4,
 -34.7232,-58.2764,21,baja,Edesur,Quilmes,Quilmes,,,6,
 -34.8077,-58.4695,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,18,
 -34.7928,-58.1813,21,baja,Edesur,Berazategui,Platanos,,,32,
 -34.8206,-58.439,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,21,
--34.7997,-58.2683,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
 -34.5934,-58.3953,21,baja,Edesur,Capital,Recoleta,,,10,
 -34.9173,-58.3732,21,baja,Edesur,Pte Peron,Guernica,,,9,
 -35.0018,-58.3941,21,baja,Edesur,San Vicente,San Vicente,,,242,
--34.8212,-58.2729,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,
 -34.7269,-58.3973,21,baja,Edesur,Lanus,Remedios De Escalada,,,3,
 -34.8111,-58.2618,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
 -34.8848,-58.392,21,baja,Edesur,Almirante Brown,Burzaco,,,2,
@@ -573,3 +539,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6237,-58.4667,21,baja,Edesur,Capital,Flores,,,3,
 -34.8208,-58.3795,21,baja,Edesur,Almirante Brown,Burzaco,,,11,
 -34.7135,-58.4086,21,baja,Edesur,Lanus,Lanus,,,2,
+-34.6966,-58.4239,21,baja,Edesur,Lanus,Lanus,,,15,
