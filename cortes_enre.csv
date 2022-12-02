@@ -16,7 +16,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.610115758,-58.378316174,11,media,Edesur,Capital Rp,Monserrat,Rivadavia,R:022-2-06/022-2-06,96,2022-12-02 08:31
 -34.640052400,-58.374248764,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-2-23/031-2-23,511,2022-12-02 08:31
 -34.704041363,-58.343948001,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-3-33/172-3-33,349,2022-12-02 06:57
--34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,2022-12-02 05:00
+-34.690521169,-58.771559163,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5511,2,2022-12-02 04:00
 -34.688210263,-58.822739133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,133,2022-12-02 05:00
 -34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-02 04:00
 -34.601652656,-59.039178995,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,19,Sin Datos
@@ -38,8 +38,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.575444458,-58.554099910,12,media,Edenor,Gral San Martin,Juan M De Pueyrredon,S/D,R:Malaver/68-Tr2/68-5524/68-5531/68-5533,1,Sin Datos
 -34.574988996,-58.552703902,12,media,Edenor,Gral San Martin,Juan M De Pueyrredon,S/D,R:Malaver/68-Tr2/68-5524/68-5531/68-5533,5,Sin Datos
 -34.573812117,-58.553781388,12,media,Edenor,Gral San Martin,Juan M De Pueyrredon,S/D,R:Malaver/68-Tr2/68-5524/68-5531/68-5533,1,Sin Datos
--34.438179203,-58.717776906,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr4/59-5541,1,Sin Datos
--34.439202683,-58.716120422,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr4/59-5541,1,Sin Datos
+-34.438179203,-58.717776906,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr4/59-5541,1,2022-12-02 04:00
+-34.439202683,-58.716120422,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr4/59-5541,1,2022-12-02 04:00
 -34.4059,-58.863,22,baja,Edenor,Pilar,Villa Rosa,,,2,
 -34.6974,-58.6943,22,baja,Edenor,Merlo,Libertad,,,12,
 -34.6183,-58.558,22,baja,Edenor,3 De Febrero,Caseros,,,39,
@@ -74,5 +74,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6221,-58.4922,21,baja,Edesur,Capital,Capital,,,6,
 -34.814,-58.378,21,baja,Edesur,Almirante Brown,Burzaco,,,5,
 -34.727,-58.3989,21,baja,Edesur,Lanus,Remedios De Escalada,,,3,
--34.62,-58.3948,21,baja,Edesur,Capital,San Cristobal,,,5,
 -34.7839,-58.356,21,baja,Edesur,Almirante Brown,Marmol,,,4,
