@@ -1,7 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.645777371,-58.468405510,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-26/048-2-26,420,Sin Datos
 -34.645795830,-58.468431260,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-26/048-2-26,184,Sin Datos
--34.648671791,-58.470343215,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-26/048-2-26,473,Sin Datos
 -34.784134361,-58.218366844,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-01/080-1-01/080-5-51,47,Sin Datos
 -34.784934135,-58.219780663,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-01/080-1-01/080-5-51,8,Sin Datos
 -34.784765051,-58.219277275,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-01/080-1-01/080-5-51,14,Sin Datos
@@ -24,33 +23,42 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.785721980,-58.220038896,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-01/080-1-01/080-5-51,11,Sin Datos
 -34.662388371,-58.368233351,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-4-41/279-4-41,880,2022-12-02 23:47
 -34.662051422,-58.369359577,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-4-41/279-4-41,193,2022-12-02 23:47
--34.779164798,-58.276344900,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-27/085-2-27,430,2022-12-03 01:04
--34.776966245,-58.272579716,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-27/085-2-27,51,2022-12-03 01:04
+-34.779164798,-58.276344900,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-27/085-2-27,430,2022-12-03 03:28
+-34.779148408,-58.284122379,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-27/085-2-27,458,2022-12-03 03:28
+-34.776868415,-58.279986958,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-27/085-2-27,2,2022-12-03 03:28
+-34.779318624,-58.280129770,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-27/085-2-27,121,2022-12-03 03:28
+-34.777519280,-58.284324138,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-27/085-2-27,366,2022-12-03 03:28
+-34.776966245,-58.272579716,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-2-27/085-2-27,51,2022-12-03 03:28
 -34.688210263,-58.822739133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,133,Sin Datos
 -34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,Sin Datos
+-34.750537233,-58.841023173,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,2,Sin Datos
+-34.745064958,-58.847905620,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,Sin Datos
+-34.743353854,-58.849937406,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,Sin Datos
+-34.734394067,-58.839833005,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,2,Sin Datos
 -34.6115,-58.6863,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,6,
--34.4925,-58.7353,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,4,
--34.8138,-58.636,22,baja,Edenor,La Matanza,Virrey Del Pino,,,63,
+-34.4925,-58.7353,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,5,
 -34.3892,-58.6953,22,baja,Edenor,Tigre,Dique Lujan,,,4,
+-34.5835,-58.4119,22,baja,Edenor,Capital Federal,Palermo,,,6,
+-34.5812,-58.4824,22,baja,Edenor,Capital Federal,Villa Urquiza,,,11,
 -34.8053,-58.223,21,baja,Edesur,Berazategui,Sourigues,,,29,
 -34.6125,-58.3937,21,baja,Edesur,Capital,Balvanera,,,6,
 -34.7442,-58.2865,21,baja,Edesur,Quilmes,Quilmes,,,12,
 -34.8363,-58.172,21,baja,Edesur,Berazategui,Gutierrez,,,22,
 -34.8132,-58.2179,21,baja,Edesur,Florencio Varela,Bosques,,,81,
 -34.8286,-58.2167,21,baja,Edesur,Florencio Varela,Bosques,,,69,
--34.8138,-58.2061,21,baja,Edesur,Florencio Varela,Bosques,,,30,
 -34.8314,-58.1896,21,baja,Edesur,Berazategui,Gutierrez,,,27,
 -34.8329,-58.235,21,baja,Edesur,Florencio Varela,Bosques,,,8,
--34.7818,-58.2044,21,baja,Edesur,Berazategui,V. España,,,9,
+-34.7818,-58.2044,21,baja,Edesur,Berazategui,V. España,,,17,
 -34.7647,-58.2152,21,baja,Edesur,Berazategui,Berazategui,,,9,
--34.7875,-58.1903,21,baja,Edesur,Berazategui,Ranelagh,,,3,
 -34.8209,-58.2102,21,baja,Edesur,Florencio Varela,Bosques,,,34,
 -34.8302,-58.1951,21,baja,Edesur,Florencio Varela,Bosques,,,17,
--34.605,-58.4119,21,baja,Edesur,Capital,Capital,,,6,
+-34.605,-58.4119,21,baja,Edesur,Capital,Capital,,,8,
 -34.6266,-58.4532,21,baja,Edesur,Capital,Caballito,,,2,
 -34.6422,-58.5102,21,baja,Edesur,Capital,Liniers,,,2,
--34.7218,-58.4686,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,4,
+-34.7218,-58.4686,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,
 -34.6083,-58.5174,21,baja,Edesur,Capital,Villa Devoto,,,7,
+-34.7781,-58.4122,21,baja,Edesur,Lomas De Zamora,Temperley,,,11,
 -34.9163,-58.3721,21,baja,Edesur,Pte Peron,Guernica,,,19,
 -34.6149,-58.4305,21,baja,Edesur,Capital,Caballito,,,2,
 -34.7969,-58.3139,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
+-34.6695,-58.3568,21,baja,Edesur,Avellaneda,Avellaneda,,,2,
