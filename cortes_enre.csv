@@ -21,16 +21,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.786760795,-58.217858761,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-01/080-1-01/080-5-51,9,Sin Datos
 -34.787481631,-58.219304369,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-01/080-1-01/080-5-51,13,Sin Datos
 -34.785721980,-58.220038896,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-1-01/080-1-01/080-5-51,11,Sin Datos
--34.662388371,-58.368233351,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-4-41/279-4-41,880,Sin Datos
--34.662051422,-58.369359577,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-4-41/279-4-41,193,Sin Datos
--34.688210263,-58.822739133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,133,2022-12-03 01:00
--34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-03 01:00
--34.750537233,-58.841023173,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,2,Sin Datos
--34.745064958,-58.847905620,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,Sin Datos
--34.743353854,-58.849937406,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,Sin Datos
--34.734394067,-58.839833005,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,2,Sin Datos
+-34.662388371,-58.368233351,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-4-41/279-4-41,880,2022-12-03 05:47
+-34.662051422,-58.369359577,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-4-41/279-4-41,193,2022-12-03 05:47
+-34.688210263,-58.822739133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,133,Sin Datos
+-34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,Sin Datos
+-34.750537233,-58.841023173,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,2,2022-12-03 01:00
+-34.745064958,-58.847905620,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,2022-12-03 01:00
+-34.743353854,-58.849937406,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,1,2022-12-03 01:00
+-34.734394067,-58.839833005,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5526,2,2022-12-03 01:00
 -34.6115,-58.6863,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,1,
 -34.4925,-58.7353,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,5,
+-34.3672,-58.8151,22,baja,Edenor,Escobar,Escobar,,,4,
 -34.5835,-58.4119,22,baja,Edenor,Capital Federal,Palermo,,,6,
 -34.5812,-58.4824,22,baja,Edenor,Capital Federal,Villa Urquiza,,,12,
 -34.4774,-58.6134,22,baja,Edenor,Tigre,Don Torcuato,,,7,
@@ -50,9 +51,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7218,-58.4686,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,
 -34.6083,-58.5174,21,baja,Edesur,Capital,Villa Devoto,,,7,
 -34.7781,-58.4122,21,baja,Edesur,Lomas De Zamora,Temperley,,,13,
--34.9163,-58.3721,21,baja,Edesur,Pte Peron,Guernica,,,19,
 -34.6149,-58.4305,21,baja,Edesur,Capital,Caballito,,,2,
 -34.7969,-58.3139,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
 -34.6695,-58.3568,21,baja,Edesur,Avellaneda,Avellaneda,,,2,
 -34.6971,-58.426,21,baja,Edesur,Lanus,Lanus,,,3,
--34.7803,-58.2048,21,baja,Edesur,Berazategui,V. España,,,1,
