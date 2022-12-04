@@ -1,40 +1,30 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.623506991,-58.374051838,11,media,Edesur,Capital Rp,San Telmo,Hernandarias,R:031-1-11/031-1-11,719,2022-12-04 22:00
--34.622813495,-58.371752063,11,media,Edesur,Capital Rp,San Telmo,Hernandarias,R:031-1-11/031-1-11,96,2022-12-04 22:00
--34.623654904,-58.374592499,11,media,Edesur,Capital Rp,San Telmo,Hernandarias,R:031-1-11/031-1-11,142,2022-12-04 22:00
--34.871346931,-58.543996355,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,114,2022-12-04 18:58
--34.880880116,-58.551418318,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,161,2022-12-04 18:58
--34.876204455,-58.546937960,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,122,2022-12-04 18:58
+-34.622813495,-58.371752063,11,media,Edesur,Capital Rp,San Telmo,Hernandarias,R:031-1-11/031-1-11,96,2022-12-04 22:40
 -34.867632706,-58.540818570,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,4,2022-12-04 18:58
 -34.867167912,-58.540227411,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,3,2022-12-04 18:58
--34.878399686,-58.552744752,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,2,2022-12-04 18:58
 -34.863925898,-58.536110005,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,13,2022-12-04 18:58
 -34.593329062,-58.380598540,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-15/025-1-15,392,2022-12-04 19:03
 -34.593913678,-58.379549058,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-15/025-1-15,1,2022-12-04 19:03
--34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-04 18:00
--34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,62,2022-12-04 17:00
--34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,14,2022-12-04 17:00
+-34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-04 19:00
+-34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,62,Sin Datos
+-34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,14,Sin Datos
 -34.4032,-58.7387,22,baja,Edenor,Escobar,Garin,,,7,
 -34.5263,-58.8184,22,baja,Edenor,Moreno,Cuartel V,,,12,
--34.456,-58.9519,22,baja,Edenor,Pilar,Pilar,,,56,
 -34.6551,-58.6873,22,baja,Edenor,Ituzaingo,Ituzaingo,,,24,
 -34.5121,-58.574,22,baja,Edenor,San Isidro,Boulogne,,,30,
 -34.345,-58.8005,22,baja,Edenor,Escobar,Escobar,,,13,
--34.8132,-58.2179,21,baja,Edesur,Florencio Varela,Bosques,,,321,
--34.851,-58.1934,21,baja,Edesur,Florencio Varela,Ing. Allan,,,8,
--34.6466,-58.3876,21,baja,Edesur,Capital,Barracas,,,5,
+-34.6856,-58.6375,22,baja,Edenor,Moron,Castelar,,,1,
+-34.8132,-58.2179,21,baja,Edesur,Florencio Varela,Bosques,,,323,
 -34.612,-58.4165,21,baja,Edesur,Capital,Capital,,,11,
--34.8376,-58.5071,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,3,
 -34.8044,-58.4466,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,36,
 -34.6194,-58.3744,21,baja,Edesur,Capital,San Telmo,,,12,
 -34.6036,-58.477,21,baja,Edesur,Capital,Villa Del Parque,,,15,
 -34.6152,-58.5218,21,baja,Edesur,Capital,Capital,,,8,
--34.8213,-58.211,21,baja,Edesur,Florencio Varela,Bosques,,,6,
+-34.8166,-58.1863,21,baja,Edesur,Berazategui,Berazategui,,,21,
 -34.695,-58.4712,21,baja,Edesur,Capital,Villa Riachuelo,,,5,
--34.6524,-58.4831,21,baja,Edesur,Capital,Parque Avellaneda,,,46,
--34.8223,-58.5032,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,8,
+-34.6524,-58.4831,21,baja,Edesur,Capital,Parque Avellaneda,,,48,
+-34.822,-58.5062,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,8,
 -34.7506,-58.2266,21,baja,Edesur,Quilmes,Ezpeleta,,,7,
--34.7864,-58.4851,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,20,
+-34.7864,-58.4851,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,23,
 -34.8847,-58.3406,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,1,
--34.6964,-58.427,21,baja,Edesur,Lanus,Lanus,,,1,
--34.6089,-58.4495,21,baja,Edesur,Capital,Caballito,,,5,
+-34.6089,-58.4495,21,baja,Edesur,Capital,Caballito,,,6,
