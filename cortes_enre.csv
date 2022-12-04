@@ -5,20 +5,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.863925898,-58.536110005,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,13,Sin Datos
 -34.593329062,-58.380598540,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-15/025-1-15,392,2022-12-05 01:03
 -34.593913678,-58.379549058,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-15/025-1-15,1,2022-12-05 01:03
--34.815666784,-58.317201569,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-28/189-2-28,128,2022-12-05 00:33
--34.813751779,-58.313975031,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-28/189-2-28,25,2022-12-05 00:33
--34.818641958,-58.319690512,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-28/189-2-28,1,2022-12-05 00:33
--34.815963664,-58.314603985,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-28/189-2-28,5,2022-12-05 00:33
--34.817345385,-58.320307870,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-2-28/189-2-28,1,2022-12-05 00:33
--34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-04 20:00
--34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,62,2022-12-04 20:00
--34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,14,2022-12-04 20:00
--34.582662049,-58.443129801,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5545,31,2022-12-04 20:00
--34.582584293,-58.442806467,12,media,Edenor,Capital Federal,Palermo,S/D,R:Colegiales/46-Tr1/46-5545,217,2022-12-04 20:00
--34.638162674,-58.945187241,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,Sin Datos
--34.635091890,-58.943071781,12,media,Edenor,S/D,S/D,S/D,R:Gaona/263-Tr3/263-5471,1,Sin Datos
--34.636490347,-58.945333545,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,Sin Datos
--34.638574186,-58.944294619,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,10,Sin Datos
+-34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-04 21:00
+-34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,62,2022-12-04 21:00
+-34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,14,2022-12-04 21:00
+-34.582662049,-58.443129801,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr1/46-5545,31,Sin Datos
+-34.582584293,-58.442806467,12,media,Edenor,Capital Federal,Palermo,S/D,R:Colegiales/46-Tr1/46-5545,217,Sin Datos
+-34.638162674,-58.945187241,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-12-04 20:00
+-34.635091890,-58.943071781,12,media,Edenor,S/D,S/D,S/D,R:Gaona/263-Tr3/263-5471,1,2022-12-04 20:00
+-34.636490347,-58.945333545,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-12-04 20:00
+-34.638574186,-58.944294619,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,10,2022-12-04 20:00
 -34.4032,-58.7387,22,baja,Edenor,Escobar,Garin,,,7,
 -34.724,-58.5834,22,baja,Edenor,La Matanza,Isidro Casanova,,,15,
 -34.5903,-58.4295,22,baja,Edenor,Capital Federal,Palermo,,,9,
@@ -33,9 +28,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6036,-58.477,21,baja,Edesur,Capital,Villa Del Parque,,,15,
 -34.8166,-58.1863,21,baja,Edesur,Berazategui,Berazategui,,,26,
 -34.695,-58.4712,21,baja,Edesur,Capital,Villa Riachuelo,,,6,
--34.6524,-58.4831,21,baja,Edesur,Capital,Parque Avellaneda,,,59,
--34.822,-58.5062,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,8,
--34.7864,-58.4851,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,25,
+-34.6524,-58.4831,21,baja,Edesur,Capital,Parque Avellaneda,,,60,
+-34.7864,-58.4851,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,26,
+-34.5938,-58.3889,21,baja,Edesur,Capital,Recoleta,,,5,
 -34.7756,-58.3251,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,32,
 -34.785,-58.3236,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,1,
 -34.8,-58.3363,21,baja,Edesur,Almirante Brown,Claypole,,,29,
