@@ -4,9 +4,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.993208788,-58.374758906,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,274,2022-12-04 12:38
 -35.007891103,-58.365546346,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-25/277-2-25/082-4-983,88,2022-12-04 12:38
 -34.996738317,-58.379011122,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,113,2022-12-04 12:38
--34.898558572,-58.327704634,11,media,Edesur,Florencio Varela,Florencio Varela,Glew,R:277-2-25/277-2-25/082-4-983,1,2022-12-04 12:38
--34.967474419,-58.372732918,11,media,Edesur,San Vicente,Alejandro Korn,Glew,R:277-2-25/277-2-25/082-4-983,21,2022-12-04 12:38
--34.904180597,-58.315020724,11,media,Edesur,Florencio Varela,Florencio Varela,Glew,R:277-2-25/277-2-25/082-4-983,8,2022-12-04 12:38
 -34.980376115,-58.394063353,11,media,Edesur,San Vicente,Alejandro Korn,Canuelas,N:271-3-72/271-3-72,303,2022-12-04 10:44
 -34.981861457,-58.392999341,11,media,Edesur,San Vicente,Alejandro Korn,Canuelas,N:271-3-72/271-3-72,314,2022-12-04 10:44
 -34.980220573,-58.383412667,11,media,Edesur,San Vicente,Alejandro Korn,Canuelas,N:271-3-72/271-3-72,223,2022-12-04 10:44
@@ -23,11 +20,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.976537881,-58.389573217,11,media,Edesur,San Vicente,Alejandro Korn,Canuelas,N:271-3-72/271-3-72,29,2022-12-04 10:44
 -34.988642208,-58.393095250,11,media,Edesur,S/D,S/D,Canuelas,N:271-3-72/271-3-72,5,2022-12-04 10:44
 -34.977455803,-58.388789036,11,media,Edesur,San Vicente,Alejandro Korn,Canuelas,N:271-3-72/271-3-72,22,2022-12-04 10:44
--34.688210263,-58.822739133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,133,2022-12-04 09:00
--34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-04 09:00
+-34.688210263,-58.822739133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,133,2022-12-04 10:00
+-34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-04 10:00
+-34.586852119,-58.467645396,12,media,Edenor,Capital Federal,Saavedra,S/D,R:Colegiales/46-Tr4/46-5565,1,2022-12-04 11:07
 -34.576849471,-58.610813085,12,media,Edenor,3 De Febrero,Pablo Podesta,S/D,R:Rotonda/262-Tr2/262-5538,625,2022-12-04 10:00
--34.598748837,-58.733174289,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,147,Sin Datos
--34.601023820,-58.730103598,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,170,Sin Datos
+-34.598748837,-58.733174289,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,147,2022-12-04 10:00
+-34.601023820,-58.730103598,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5548,170,2022-12-04 10:00
 -34.375720799,-58.768076383,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,2022-12-04 10:00
 -34.375934399,-58.770242879,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,60,2022-12-04 10:00
 -34.376435911,-58.771201523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,30,2022-12-04 10:00
@@ -35,19 +33,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.374332958,-58.773800284,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,69,2022-12-04 10:00
 -34.372812817,-58.773649716,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,25,2022-12-04 10:00
 -34.375941980,-58.766817448,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,3,2022-12-04 10:00
--34.380132555,-58.757271584,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,2,2022-12-04 10:00
 -34.380440477,-58.763407447,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5525,2,2022-12-04 10:00
--34.381734784,-58.761444877,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,2,2022-12-04 09:00
--34.478021393,-58.742599940,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5524,189,2022-12-04 09:00
--34.477243309,-58.739430904,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,197,2022-12-04 09:00
--34.479299785,-58.737757927,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,467,2022-12-04 09:00
--34.475469617,-58.742518988,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,386,2022-12-04 09:00
+-34.381734784,-58.761444877,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,2,Sin Datos
+-34.7082,-58.6766,22,baja,Edenor,Merlo,Libertad,,,14,
 -34.4032,-58.7387,22,baja,Edenor,Escobar,Garin,,,7,
--34.5989,-58.6608,22,baja,Edenor,Hurlingham,Hurlingham,,,24,
 -34.7759,-58.6149,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,
--34.4923,-58.5026,22,baja,Edenor,San Isidro,Martinez,,,4,
--34.8132,-58.2179,21,baja,Edesur,Florencio Varela,Bosques,,,319,
--34.8286,-58.2161,21,baja,Edesur,Florencio Varela,Bosques,,,73,
+-34.4923,-58.5026,22,baja,Edenor,San Isidro,Martinez,,,36,
+-34.6346,-58.8953,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,7,
+-34.8132,-58.2179,21,baja,Edesur,Florencio Varela,Bosques,,,322,
+-34.8286,-58.2161,21,baja,Edesur,Florencio Varela,Bosques,,,75,
 -34.8329,-58.235,21,baja,Edesur,Florencio Varela,Bosques,,,7,
 -34.851,-58.1934,21,baja,Edesur,Florencio Varela,Ing. Allan,,,7,
 -34.797,-58.3125,21,baja,Edesur,Florencio Varela,Florencio Varela,,,2,
@@ -58,5 +52,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6247,-58.4183,21,baja,Edesur,Capital,Boedo,,,12,
 -34.612,-58.4165,21,baja,Edesur,Capital,Capital,,,7,
 -34.6093,-58.4154,21,baja,Edesur,Capital,Almagro,,,6,
--34.9067,-58.3739,21,baja,Edesur,Pte Peron,Guernica,,,8,
+-34.9067,-58.3739,21,baja,Edesur,Pte Peron,Guernica,,,10,
 -34.8044,-58.4466,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,1,
+-34.6224,-58.3825,21,baja,Edesur,Capital,Constitucion,,,8,
