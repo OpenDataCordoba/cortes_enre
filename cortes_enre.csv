@@ -1,63 +1,31 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.816944680,-58.188905493,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,29,2022-12-04 01:18
--34.813125618,-58.183386386,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,42,2022-12-04 01:18
--34.811073979,-58.181656005,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,250,2022-12-04 01:18
--34.813958203,-58.186540503,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,20,2022-12-04 01:18
--34.813268026,-58.185819529,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,13,2022-12-04 01:18
--34.812477124,-58.184840193,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-04 01:18
--34.812922681,-58.184875257,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,11,2022-12-04 01:18
--34.813581777,-58.185444826,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,21,2022-12-04 01:18
--34.813125827,-58.184631785,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-04 01:18
--34.811700054,-58.183087856,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,26,2022-12-04 01:18
--34.813032850,-58.184159115,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,79,2022-12-04 01:18
--34.814512217,-58.185877816,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-04 01:18
--34.812314059,-58.182360651,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-04 01:18
--34.815065261,-58.185209047,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,18,2022-12-04 01:18
--34.813778822,-58.183310123,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,18,2022-12-04 01:18
--34.813170374,-58.182681241,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,22,2022-12-04 01:18
--34.814857926,-58.183917008,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,11,2022-12-04 01:18
--34.814275368,-58.183254363,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,14,2022-12-04 01:18
--34.814047336,-58.182986582,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,20,2022-12-04 01:18
--34.813481938,-58.182304240,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,13,2022-12-04 01:18
--34.813008131,-58.181833252,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,13,2022-12-04 01:18
--34.812925489,-58.181636853,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,3,2022-12-04 01:18
--34.815742393,-58.184390905,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-04 01:18
--34.814708988,-58.182736663,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,40,2022-12-04 01:18
--34.814456515,-58.182497541,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-04 01:18
--34.813232661,-58.181246422,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,28,2022-12-04 01:18
--34.815466962,-58.189246987,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-04 01:18
--34.814738237,-58.187497387,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,10,2022-12-04 01:18
--34.814998782,-58.187709256,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-04 01:18
--34.815774479,-58.188026377,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,17,2022-12-04 01:18
--34.814684286,-58.186906998,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,18,2022-12-04 01:18
--34.815447135,-58.185986718,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,52,2022-12-04 01:18
--34.817455445,-58.187268877,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,67,2022-12-04 01:18
--34.816475847,-58.186055576,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,26,2022-12-04 01:18
--34.818736981,-58.190601207,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,259,2022-12-04 01:18
--34.814309925,-58.182671651,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,4,2022-12-04 01:18
--34.688210263,-58.822739133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,133,2022-12-03 23:00
--34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-03 23:00
+-34.688210263,-58.822739133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,133,2022-12-04 01:00
+-34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-04 00:00
 -34.3512,-58.7934,22,baja,Edenor,Escobar,Escobar,,,13,
--34.7759,-58.6149,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,
 -34.6304,-58.8942,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
 -34.4032,-58.7387,22,baja,Edenor,Escobar,Garin,,,7,
--34.6584,-58.7372,22,baja,Edenor,Merlo,Merlo,,,23,
+-34.6584,-58.7372,22,baja,Edenor,Merlo,Merlo,,,38,
 -34.5802,-58.4289,22,baja,Edenor,Capital Federal,Palermo,,,27,
--34.8132,-58.2179,21,baja,Edesur,Florencio Varela,Bosques,,,243,
--34.8286,-58.2161,21,baja,Edesur,Florencio Varela,Bosques,,,71,
+-34.5989,-58.6608,22,baja,Edenor,Hurlingham,Hurlingham,,,24,
+-34.4746,-58.9022,22,baja,Edenor,Pilar,Pilar,,,39,
+-34.4507,-58.9253,22,baja,Edenor,Pilar,Pilar,,,23,
+-34.7759,-58.6149,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,
+-34.6439,-58.6034,22,baja,Edenor,Moron,Haedo,,,5,
+-34.8132,-58.2179,21,baja,Edesur,Florencio Varela,Bosques,,,309,
+-34.8286,-58.2161,21,baja,Edesur,Florencio Varela,Bosques,,,73,
 -34.8329,-58.235,21,baja,Edesur,Florencio Varela,Bosques,,,7,
 -34.851,-58.1934,21,baja,Edesur,Florencio Varela,Ing. Allan,,,7,
 -34.797,-58.3125,21,baja,Edesur,Florencio Varela,Florencio Varela,,,2,
--34.8179,-58.2085,21,baja,Edesur,Florencio Varela,Florencio Varela,,,46,
+-34.8169,-58.2082,21,baja,Edesur,Florencio Varela,Bosques,,,5,
 -34.6292,-58.42,21,baja,Edesur,Capital,Boedo,,,8,
 -34.8377,-58.2074,21,baja,Edesur,Florencio Varela,Bosques,,,64,
 -34.6463,-58.4422,21,baja,Edesur,Capital,Flores,,,15,
 -34.6446,-58.4462,21,baja,Edesur,Capital,Flores,,,2,
 -34.6236,-58.4669,21,baja,Edesur,Capital,Flores,,,12,
 -34.8325,-58.2267,21,baja,Edesur,Florencio Varela,Bosques,,,50,
--34.6137,-58.4972,21,baja,Edesur,Capital,Monte Castro,,,7,
 -34.6247,-58.4183,21,baja,Edesur,Capital,Boedo,,,12,
--34.6081,-58.4769,21,baja,Edesur,Capital,Villa General Mitre,,,3,
--34.8034,-58.4483,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,51,
--34.77,-58.4169,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,
+-34.612,-58.4165,21,baja,Edesur,Capital,Capital,,,6,
+-34.6093,-58.4154,21,baja,Edesur,Capital,Almagro,,,6,
+-34.8034,-58.4483,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,56,
+-34.77,-58.4169,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,14,
 -34.8087,-58.2251,21,baja,Edesur,Florencio Varela,Bosques,,,7,
