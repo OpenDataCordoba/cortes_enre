@@ -1,29 +1,31 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.622813495,-58.371752063,11,media,Edesur,Capital Rp,San Telmo,Hernandarias,R:031-1-11/031-1-11,96,Sin Datos
--34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-05 07:00
--34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,62,2022-12-05 07:00
--34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,14,2022-12-05 07:00
--34.695226126,-58.641525734,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,356,2022-12-05 07:00
--34.697033695,-58.643721448,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,197,2022-12-05 07:00
--34.694270813,-58.642968363,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,161,2022-12-05 07:00
--34.692716436,-58.640805590,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,159,2022-12-05 07:00
--34.691892798,-58.640586400,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,178,2022-12-05 07:00
+-34.622813495,-58.371752063,11,media,Edesur,Capital Rp,San Telmo,Hernandarias,R:031-1-11/031-1-11,96,2022-12-05 12:33
+-34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-05 08:00
+-34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,62,2022-12-05 08:00
+-34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,14,2022-12-05 08:00
+-34.695226126,-58.641525734,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,356,Sin Datos
+-34.697033695,-58.643721448,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,197,Sin Datos
+-34.694270813,-58.642968363,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,161,Sin Datos
+-34.692716436,-58.640805590,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,159,Sin Datos
+-34.691892798,-58.640586400,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,178,Sin Datos
+-34.6482,-58.6211,22,baja,Edenor,Moron,Moron,,,13,
 -34.4951,-58.676,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,5,
 -34.3266,-58.5706,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,10,
 -34.3329,-58.7882,22,baja,Edenor,Escobar,Escobar,,,10,
 -34.6573,-58.7432,22,baja,Edenor,Merlo,Merlo,,,5,
--34.6169,-58.7868,22,baja,Edenor,Moreno,Moreno,,,5,
--34.5778,-58.7355,22,baja,Edenor,San Miguel,San Miguel,,,12,
+-34.6169,-58.7868,22,baja,Edenor,Moreno,Moreno,,,6,
+-34.5778,-58.7355,22,baja,Edenor,San Miguel,San Miguel,,,0,
+-34.4888,-58.78,22,baja,Edenor,Jose C Paz,Jose C Paz,,,9,
+-34.5753,-58.7368,22,baja,Edenor,San Miguel,San Miguel,,,8,
 -34.8044,-58.4466,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,40,
--34.6036,-58.477,21,baja,Edesur,Capital,Villa Del Parque,,,16,
 -34.8166,-58.1863,21,baja,Edesur,Berazategui,Berazategui,,,30,
 -34.695,-58.4712,21,baja,Edesur,Capital,Villa Riachuelo,,,7,
 -34.6389,-58.517,21,baja,Edesur,Capital,Liniers,,,23,
 -34.5938,-58.3889,21,baja,Edesur,Capital,Recoleta,,,8,
--34.7766,-58.3688,21,baja,Edesur,Almirante Brown,Marmol,,,11,
+-34.7766,-58.3688,21,baja,Edesur,Almirante Brown,Marmol,,,12,
 -34.7583,-58.3296,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,28,
 -34.732,-58.4508,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,18,
--34.7775,-58.4236,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,12,
--34.769,-58.4259,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,22,
+-34.7775,-58.4236,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,13,
+-34.769,-58.4259,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,23,
 -34.9672,-58.376,21,baja,Edesur,San Vicente,Alejandro Korn,,,17,
--34.613,-58.4992,21,baja,Edesur,Capital,Monte Castro,,,7,
+-34.613,-58.4992,21,baja,Edesur,Capital,Monte Castro,,,10,
