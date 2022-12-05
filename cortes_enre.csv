@@ -35,9 +35,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.781372608,-58.372506373,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,307,2022-12-05 11:12
 -34.786107751,-58.374374352,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,220,2022-12-05 11:12
 -34.783858886,-58.380875400,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,48,2022-12-05 11:12
--34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2022-12-05 09:00
+-34.548994416,-58.907467596,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,Sin Datos
 -34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,62,2022-12-05 09:00
 -34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,14,2022-12-05 09:00
+-34.717391805,-58.569072038,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5546,720,Sin Datos
+-34.714894032,-58.571611559,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5546,570,Sin Datos
+-34.719493124,-58.567377553,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5546,174,Sin Datos
+-34.716567386,-58.564162905,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5546,114,Sin Datos
+-34.717508736,-58.565191390,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5546,50,Sin Datos
+-34.714111285,-58.568595419,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5546,293,Sin Datos
+-34.617411784,-58.625201762,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5528,264,2022-12-05 11:00
+-34.621393345,-58.621065150,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5528,424,2022-12-05 11:00
+-34.617022956,-58.628979276,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5528,418,2022-12-05 12:00
+-34.615505497,-58.625127914,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5528,433,2022-12-05 12:00
+-34.614466028,-58.628919631,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5528,211,2022-12-05 12:00
+-34.617765337,-58.632615010,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5528,452,2022-12-05 12:00
+-34.613570642,-58.626276727,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Hurlingham/166-Tr2/166-5528,194,2022-12-05 12:00
+-34.618169915,-58.634401833,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5528,1,2022-12-05 12:00
+-34.615314957,-58.625026845,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr2/166-5528,1,2022-12-05 12:00
+-34.612260182,-58.628970233,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Hurlingham/166-Tr2/166-5528,132,2022-12-05 12:00
 -34.6482,-58.6211,22,baja,Edenor,Moron,Moron,,,13,
 -34.4951,-58.676,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,5,
 -34.3266,-58.5706,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,10,
@@ -45,17 +61,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5956,-58.4258,22,baja,Edenor,Capital Federal,Palermo,,,9,
 -34.6169,-58.7868,22,baja,Edenor,Moreno,Moreno,,,6,
 -34.4007,-58.7748,22,baja,Edenor,Escobar,Maquinista Savio,,,24,
--34.4888,-58.78,22,baja,Edenor,Jose C Paz,Jose C Paz,,,13,
 -34.5753,-58.7368,22,baja,Edenor,San Miguel,San Miguel,,,8,
--34.8044,-58.4466,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,40,
 -34.8166,-58.1863,21,baja,Edesur,Berazategui,Berazategui,,,30,
 -34.695,-58.4712,21,baja,Edesur,Capital,Villa Riachuelo,,,8,
--34.6389,-58.517,21,baja,Edesur,Capital,Liniers,,,23,
+-34.6389,-58.517,21,baja,Edesur,Capital,Liniers,,,24,
 -34.5938,-58.3889,21,baja,Edesur,Capital,Recoleta,,,8,
 -34.7766,-58.3688,21,baja,Edesur,Almirante Brown,Marmol,,,12,
 -34.7583,-58.3296,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,28,
 -34.732,-58.4508,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,19,
--34.7775,-58.4236,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,15,
--34.769,-58.4259,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,24,
--34.9672,-58.376,21,baja,Edesur,San Vicente,Alejandro Korn,,,18,
--34.6127,-58.4983,21,baja,Edesur,Capital,Monte Castro,,,13,
+-34.7775,-58.4236,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,16,
+-34.769,-58.4259,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,25,
+-34.9672,-58.376,21,baja,Edesur,San Vicente,Alejandro Korn,,,21,
+-34.613,-58.4992,21,baja,Edesur,Capital,Monte Castro,,,14,
