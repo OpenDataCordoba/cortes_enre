@@ -1,12 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.622813495,-58.371752063,11,media,Edesur,Capital Rp,San Telmo,Hernandarias,R:031-1-11/031-1-11,96,2022-12-06 07:04
--34.821989055,-58.276876435,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-12/183-1-12,360,2022-12-06 07:04
--34.836287780,-58.278692704,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-12/183-1-12,229,2022-12-06 07:04
--34.821522144,-58.277615155,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-12/183-1-12,164,2022-12-06 07:04
--34.824287763,-58.277759428,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-12/183-1-12,51,2022-12-06 07:04
--34.833788604,-58.278459830,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-12/183-1-12,104,2022-12-06 07:04
--34.829712354,-58.277020334,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-12/183-1-12,1,2022-12-06 07:04
--34.833008380,-58.280302521,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-12/183-1-12,144,2022-12-06 07:04
 -34.720494551,-58.272510312,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-21/073-2-21,867,Sin Datos
 -35.029366099,-58.376939031,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2022-12-06 04:30
 -35.038919893,-58.402694176,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,72,2022-12-06 04:30
@@ -43,7 +35,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4969,-58.6669,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,105,
 -34.6886,-58.7793,22,baja,Edenor,Merlo,Merlo,,,24,
 -34.5751,-58.7524,22,baja,Edenor,San Miguel,San Miguel,,,17,
--34.6099,-58.6358,22,baja,Edenor,Hurlingham,Villa Tesei,,,74,
 -34.5751,-58.4687,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,27,
 -34.6528,-58.592,22,baja,Edenor,Moron,Haedo,,,25,
 -34.6772,-58.5111,22,baja,Edenor,La Matanza,La Tablada,,,29,
@@ -57,38 +48,35 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6599,-58.5869,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,25,
 -34.6494,-58.5422,22,baja,Edenor,La Matanza,Ramos Mejia,,,29,
 -34.5625,-58.7678,22,baja,Edenor,San Miguel,San Miguel,,,16,
--34.6938,-58.4835,22,baja,Edenor,La Matanza,Villa Madero,,,37,
 -34.5403,-58.581,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,24,
--34.5543,-58.7446,22,baja,Edenor,San Miguel,San Miguel,,,26,
 -34.442,-58.5693,22,baja,Edenor,San Fernando,San Fernando,,,25,
 -34.4602,-58.669,22,baja,Edenor,Tigre,Ricardo Rojas,,,59,
 -34.6591,-58.5541,22,baja,Edenor,La Matanza,Ramos Mejia,,,97,
 -34.6535,-58.7531,22,baja,Edenor,Moreno,Paso Del Rey,,,14,
 -34.6598,-58.7802,22,baja,Edenor,Moreno,Moreno,,,24,
 -34.6798,-58.6862,22,baja,Edenor,Merlo,San Antonio De Padua,,,33,
--34.4575,-58.664,22,baja,Edenor,Tigre,Ricardo Rojas,,,33,
 -34.8166,-58.1863,21,baja,Edesur,Berazategui,Berazategui,,,26,
 -34.6631,-58.37,21,baja,Edesur,Avellaneda,Avellaneda,,,55,
 -34.7256,-58.4257,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,41,
 -34.624,-58.4395,21,baja,Edesur,Capital,Caballito,,,4,
--34.8305,-58.1806,21,baja,Edesur,Berazategui,Gutierrez,,,12,
+-34.8305,-58.1806,21,baja,Edesur,Berazategui,Gutierrez,,,13,
 -34.6796,-58.4119,21,baja,Edesur,Lanus,Valentin Alsina,,,5,
 -34.6181,-58.5138,21,baja,Edesur,Capital,Capital,,,50,
--34.6207,-58.5225,21,baja,Edesur,Capital,Capital,,,407,
+-34.6207,-58.5225,21,baja,Edesur,Capital,Capital,,,408,
 -34.785,-58.4292,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,
--34.8074,-58.4701,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,20,
+-34.8082,-58.4695,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,20,
 -34.6101,-58.4931,21,baja,Edesur,Capital,Capital,,,13,
 -34.8261,-58.2167,21,baja,Edesur,Florencio Varela,Florencio Varela,,,12,
 -34.8062,-58.4215,21,baja,Edesur,Lomas De Zamora,Lavallol,,,5,
 -34.7799,-58.394,21,baja,Edesur,Lomas De Zamora,Temperley,,,6,
--34.8133,-58.276,21,baja,Edesur,Florencio Varela,Florencio Varela,,,29,
+-34.8133,-58.276,21,baja,Edesur,Florencio Varela,Florencio Varela,,,30,
 -34.7861,-58.291,21,baja,Edesur,Florencio Varela,Florencio Varela,,,2,
 -34.7871,-58.2654,21,baja,Edesur,Florencio Varela,Florencio Varela,,,2,
 -34.6527,-58.4848,21,baja,Edesur,Capital,Capital,,,46,
 -34.7142,-58.327,21,baja,Edesur,Avellaneda,Wilde,,,15,
 -34.6375,-58.499,21,baja,Edesur,Capital,Capital,,,20,
 -34.6439,-58.5152,21,baja,Edesur,Capital,Liniers,,,18,
--34.8679,-58.1996,21,baja,Edesur,Florencio Varela,Ing. Allan,,,4,
+-34.8688,-58.2007,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
 -34.607,-58.4827,21,baja,Edesur,Capital,Villa Del Parque,,,26,
 -34.6131,-58.4355,21,baja,Edesur,Capital,Capital,,,32,
 -34.8088,-58.2667,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,
@@ -97,4 +85,3 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7023,-58.3785,21,baja,Edesur,Lanus,Lanus,,,4,
 -34.8074,-58.4238,21,baja,Edesur,Lomas De Zamora,Lavallol,,,12,
 -34.6251,-58.3963,21,baja,Edesur,Capital,San Cristobal,,,6,
--34.6709,-58.3893,21,baja,Edesur,Avellaneda,Piñeyro,,,1,
