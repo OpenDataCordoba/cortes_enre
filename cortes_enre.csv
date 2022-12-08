@@ -9,7 +9,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.603056987,-58.515143307,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,365,2022-12-08 08:41
 -34.603221236,-58.508078115,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,292,2022-12-08 08:41
 -34.603219009,-58.511855315,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,2,2022-12-08 08:41
--34.611622507,-58.509007438,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-4-44/038-4-44,296,2022-12-08 08:41
 -35.037224189,-58.728474676,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-27/271-2-27,15,2022-12-08 08:41
 -34.981440037,-58.677375897,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,29,2022-12-08 08:41
 -34.982698514,-58.679741744,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-27/271-2-27,23,2022-12-08 08:41
@@ -143,43 +142,74 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.976153812,-58.259124323,11,media,Edesur,Florencio Varela,Florencio Varela,Canuelas,R:271-3-72/271-3-72,7,2022-12-08 08:35
 -34.975438931,-58.283066413,11,media,Edesur,Florencio Varela,Florencio Varela,Canuelas,R:271-3-72/271-3-72,1,2022-12-08 08:35
 -34.844437104,-58.244583592,11,media,Edesur,Florencio Varela,Florencio Varela,Canuelas,R:271-3-72/271-3-72,2,2022-12-08 08:35
--34.979565377,-58.490772294,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,15,2022-12-08 08:41
--34.972011460,-58.502032632,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
--34.978754029,-58.494866555,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,10,2022-12-08 08:41
--34.974779729,-58.500063921,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,28,2022-12-08 08:41
--34.978405812,-58.499738614,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,7,2022-12-08 08:41
--34.980109131,-58.497575854,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,8,2022-12-08 08:41
--34.974162900,-58.516142114,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
--34.918827068,-58.515186741,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,3,2022-12-08 08:41
--34.913822865,-58.513853881,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
--34.964557914,-58.545872429,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Glew,R:277-1-18/277-1-18,41,2022-12-08 08:41
--34.955419780,-58.558445903,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
--34.957660098,-58.534726965,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
--34.958203720,-58.545623890,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
--34.953262438,-58.539102842,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
--34.961300535,-58.550494789,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Glew,R:277-1-18/277-1-18,7,2022-12-08 08:41
--34.977477143,-58.512065751,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,9,2022-12-08 08:41
--34.962444652,-58.530051590,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
--34.969997726,-58.500231092,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
--34.974993423,-58.515156693,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
--34.994994672,-58.553466760,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
--34.945385482,-58.530304828,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,41,2022-12-08 08:41
--34.949608302,-58.530058266,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
--34.947438243,-58.526837112,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
--34.950402848,-58.523946348,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,8,2022-12-08 08:41
--34.952633571,-58.525554336,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
--34.954949063,-58.522113193,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,36,2022-12-08 08:41
--34.951124142,-58.524198948,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,4,2022-12-08 08:41
--34.963429864,-58.548129063,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Glew,R:277-1-18/277-1-18,13,2022-12-08 08:41
--34.950403386,-58.541758460,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
--34.950861567,-58.536543017,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,8,2022-12-08 08:41
--34.949097395,-58.538633266,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,12,2022-12-08 08:41
--34.949113132,-58.533808886,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,34,2022-12-08 08:41
--34.951019232,-58.535232721,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,19,2022-12-08 08:41
--34.929558406,-58.521124189,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
--34.960046472,-58.541055078,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
--34.952842762,-58.536968025,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,4,2022-12-08 08:41
--34.945334387,-58.546474137,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
+-34.908597715,-58.508743314,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,4,2022-12-08 08:41
+-34.937322037,-58.498408572,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,36,2022-12-08 08:41
+-34.973223928,-58.468125706,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,53,2022-12-08 08:41
+-34.971788439,-58.469996070,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,42,2022-12-08 08:41
+-34.966034742,-58.477407893,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,16,2022-12-08 08:41
+-34.965917249,-58.480495896,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,54,2022-12-08 08:41
+-34.963612686,-58.481456387,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,4,2022-12-08 08:41
+-34.965790563,-58.483979429,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,4,2022-12-08 08:41
+-34.967955528,-58.481724158,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,13,2022-12-08 08:41
+-34.974038088,-58.473885745,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,32,2022-12-08 08:41
+-34.974191489,-58.471991803,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,31,2022-12-08 08:41
+-34.971243780,-58.474483015,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,22,2022-12-08 08:41
+-34.970184821,-58.476739465,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,80,2022-12-08 08:41
+-34.968279910,-58.479818747,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,25,2022-12-08 08:41
+-34.915728078,-58.466178083,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,12,2022-12-08 08:41
+-34.920601003,-58.465930118,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,17,2022-12-08 08:41
+-34.923777533,-58.462619848,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,24,2022-12-08 08:41
+-34.925173344,-58.461172830,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,12,2022-12-08 08:41
+-34.920887987,-58.455439117,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,10,2022-12-08 08:41
+-34.918782750,-58.457374038,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,9,2022-12-08 08:41
+-34.916545501,-58.459429329,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,28,2022-12-08 08:41
+-34.914509288,-58.461301267,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,7,2022-12-08 08:41
+-34.912197506,-58.463426064,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,9,2022-12-08 08:41
+-34.915563415,-58.473989801,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,41,2022-12-08 08:41
+-34.922245973,-58.482836173,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,5,2022-12-08 08:41
+-34.920778974,-58.499031166,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,35,2022-12-08 08:41
+-34.931095471,-58.487577946,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,17,2022-12-08 08:41
+-34.933920664,-58.483937093,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,7,2022-12-08 08:41
+-34.932362001,-58.495441189,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,51,2022-12-08 08:41
+-34.932270839,-58.488077415,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,6,2022-12-08 08:41
+-34.937939670,-58.483543574,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,242,2022-12-08 08:41
+-34.937560347,-58.495114399,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,10,2022-12-08 08:41
+-34.939435159,-58.488925418,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,9,2022-12-08 08:41
+-34.934303175,-58.489455148,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,9,2022-12-08 08:41
+-34.936669416,-58.473008358,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,5,2022-12-08 08:41
+-34.986587600,-58.467613979,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,6,2022-12-08 08:41
+-34.938606421,-58.502638672,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,17,2022-12-08 08:41
+-34.939686042,-58.498884554,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,17,2022-12-08 08:41
+-34.941990413,-58.499866086,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,78,2022-12-08 08:41
+-34.943616343,-58.495870117,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,23,2022-12-08 08:41
+-34.942972214,-58.493968128,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,14,2022-12-08 08:41
+-34.945754618,-58.491867587,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,10,2022-12-08 08:41
+-34.944230766,-58.491451887,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,14,2022-12-08 08:41
+-34.942028112,-58.491732049,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,11,2022-12-08 08:41
+-34.919327930,-58.479026798,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
+-34.912823710,-58.481670371,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,43,2022-12-08 08:41
+-34.911900147,-58.482190772,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,30,2022-12-08 08:41
+-34.911442615,-58.479304261,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,23,2022-12-08 08:41
+-34.899162761,-58.508861683,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,17,2022-12-08 08:41
+-34.900983835,-58.509101587,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,19,2022-12-08 08:41
+-34.900967880,-58.506290574,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
+-34.901733910,-58.505615679,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
+-34.902300753,-58.502564480,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
+-34.902534654,-58.500846232,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,3,2022-12-08 08:41
+-34.902796950,-58.499109259,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
+-34.903369103,-58.498051378,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,1,2022-12-08 08:41
+-34.903430715,-58.502733168,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
+-34.902471362,-58.505958316,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,7,2022-12-08 08:41
+-34.929026531,-58.492634393,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,6,2022-12-08 08:41
+-34.925031505,-58.498246794,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,64,2022-12-08 08:41
+-34.923090297,-58.502415976,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,75,2022-12-08 08:41
+-34.941775834,-58.510496174,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,166,2022-12-08 08:41
+-34.940350753,-58.512694950,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,54,2022-12-08 08:41
+-34.939559701,-58.514037031,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,81,2022-12-08 08:41
+-34.938759033,-58.515398716,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,51,2022-12-08 08:41
+-34.934332651,-58.504919746,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,140,2022-12-08 08:41
+-34.931482515,-58.507243856,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
+-34.928360591,-58.507273430,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,2022-12-08 08:41
 -35.091543503,-58.280323396,11,media,Edesur,San Vicente,Domselaar,Canuelas,R:271-1-14/271-1-14/271-3-72,1,2022-12-08 08:41
 -35.058706199,-58.259746350,11,media,Edesur,San Vicente,Domselaar,Canuelas,R:271-1-14/271-1-14/271-3-72,1,2022-12-08 08:41
 -35.022242014,-58.327944416,11,media,Edesur,San Vicente,Domselaar,Canuelas,R:271-1-14/271-1-14/271-3-72,2,2022-12-08 08:41
@@ -242,6 +272,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.823465525,-58.343034340,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,415,2022-12-08 08:41
 -34.822062023,-58.340101154,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,8,2022-12-08 08:41
 -34.827987450,-58.333493227,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,8,2022-12-08 08:41
+-34.822967615,-58.358235302,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,225,2022-12-08 08:41
 -34.829065130,-58.343585836,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,8,2022-12-08 08:41
 -34.821195337,-58.338471635,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,259,2022-12-08 08:41
 -34.824966457,-58.337362558,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,1,2022-12-08 08:41
@@ -249,8 +280,50 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.826831428,-58.339177995,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,2,2022-12-08 08:41
 -34.829157591,-58.338891290,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,1,2022-12-08 08:41
 -34.829234268,-58.354490508,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,309,2022-12-08 08:41
+-34.824920160,-58.351891079,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,8,2022-12-08 08:41
+-34.820418486,-58.353979416,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,11,2022-12-08 08:41
 -34.822011396,-58.352773755,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,7,2022-12-08 08:41
+-34.822858784,-58.352156858,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,16,2022-12-08 08:41
 -34.824593895,-58.350814064,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,10,2022-12-08 08:41
+-34.825359491,-58.350243105,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,147,2022-12-08 08:41
+-34.824806088,-58.351008550,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,11,2022-12-08 08:41
+-34.823833753,-58.351754564,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,13,2022-12-08 08:41
+-34.820801260,-58.354050596,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,22,2022-12-08 08:41
+-34.820735384,-58.354058581,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,13,2022-12-08 08:41
+-34.821039681,-58.354793655,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,24,2022-12-08 08:41
+-34.821803027,-58.353924328,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,19,2022-12-08 08:41
+-34.822915392,-58.353387612,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,16,2022-12-08 08:41
+-34.824113782,-58.352479999,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,22,2022-12-08 08:41
+-34.825261450,-58.351636497,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,12,2022-12-08 08:41
+-34.826290773,-58.350981547,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,15,2022-12-08 08:41
+-34.825605657,-58.352323989,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,5,2022-12-08 08:41
+-34.825064284,-58.352729244,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,25,2022-12-08 08:41
+-34.823948732,-58.353578606,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,35,2022-12-08 08:41
+-34.822945095,-58.354334171,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,12,2022-12-08 08:41
+-34.822188281,-58.354616678,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,19,2022-12-08 08:41
+-34.821408551,-58.355104613,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,8,2022-12-08 08:41
+-34.821598874,-58.355445216,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,22,2022-12-08 08:41
+-34.820780352,-58.355078482,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,23,2022-12-08 08:41
+-34.822216841,-58.356567553,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,30,2022-12-08 08:41
+-34.821949062,-58.356082350,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,11,2022-12-08 08:41
+-34.823331448,-58.355006129,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,15,2022-12-08 08:41
+-34.824228052,-58.354329346,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,12,2022-12-08 08:41
+-34.825537398,-58.353344520,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,19,2022-12-08 08:41
+-34.825997099,-58.352999237,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,22,2022-12-08 08:41
+-34.826299802,-58.353743467,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,42,2022-12-08 08:41
+-34.824690568,-58.354931270,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,36,2022-12-08 08:41
+-34.823395539,-58.355917696,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,23,2022-12-08 08:41
+-34.822899787,-58.355904908,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,16,2022-12-08 08:41
+-34.822528053,-58.357162905,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,17,2022-12-08 08:41
+-34.822299079,-58.356764771,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,13,2022-12-08 08:41
+-34.821853445,-58.357089225,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,18,2022-12-08 08:41
+-34.822807716,-58.357722748,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,5,2022-12-08 08:41
+-34.823884711,-58.354587663,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,2,2022-12-08 08:41
+-34.823792628,-58.351436889,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,68,2022-12-08 08:41
+-34.822841711,-58.356319039,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,13,2022-12-08 08:41
+-34.823482254,-58.352001455,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,3,2022-12-08 08:41
+-34.821213922,-58.354755733,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,14,2022-12-08 08:41
+-34.821034509,-58.354433670,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,4,2022-12-08 08:41
 -34.827675391,-58.331544545,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-3-33/189-3-33,1,2022-12-08 08:41
 -34.824380306,-58.351303143,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,3,2022-12-08 08:41
 -34.826125159,-58.351910011,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-3-33/189-3-33,2,2022-12-08 08:41
@@ -271,14 +344,19 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.787725818,-58.399652145,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,2,2022-12-08 08:41
 -34.788322567,-58.396883860,11,media,Edesur,Lomas De Zamora,Turdera,Santa Catalina,R:182-2-26/182-2-26,5,2022-12-08 08:41
 -34.801736363,-58.394634405,11,media,Edesur,Almirante Brown,Adrogue,Santa Catalina,R:182-2-26/182-2-26,91,2022-12-08 08:41
--34.695015700,-58.330873533,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,469,2022-12-08 08:41
--34.694996224,-58.330850835,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,4,2022-12-08 08:41
--34.691790928,-58.320594748,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,858,2022-12-08 08:41
--34.695299013,-58.323393297,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,758,2022-12-08 08:41
--34.688738136,-58.324591467,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,424,2022-12-08 08:41
--34.688855065,-58.318719816,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,373,2022-12-08 08:41
--34.691508340,-58.316712289,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,433,2022-12-08 08:41
--34.694485891,-58.325924933,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,298,2022-12-08 08:41
+-34.802469281,-58.283340397,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15,335,2022-12-08 07:45
+-34.804151591,-58.281016076,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15,137,2022-12-08 07:45
+-34.804178621,-58.281373195,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15,7,2022-12-08 07:45
+-34.808586727,-58.284805604,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15,1,2022-12-08 07:45
+-34.809850371,-58.288391654,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15,1,2022-12-08 07:45
+-34.695015700,-58.330873533,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,469,2022-12-08 08:09
+-34.694996224,-58.330850835,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,4,2022-12-08 08:09
+-34.691790928,-58.320594748,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,858,2022-12-08 08:09
+-34.695299013,-58.323393297,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,758,2022-12-08 08:09
+-34.688738136,-58.324591467,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,424,2022-12-08 08:09
+-34.688855065,-58.318719816,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,373,2022-12-08 08:09
+-34.691508340,-58.316712289,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,433,2022-12-08 08:09
+-34.694485891,-58.325924933,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-4-41/172-4-41,298,2022-12-08 08:09
 -34.448848744,-58.575818545,12,media,Edenor,San Fernando,San Fernando,S/D,R:San Fernando/351-Tr1/351-5512,574,2022-12-08 04:00
 -34.884583648,-58.747779636,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-08 04:00
 -34.907805050,-58.706759788,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,329,2022-12-08 04:00
@@ -364,15 +442,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.907550079,-58.702378514,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,6,2022-12-08 04:00
 -34.862002562,-58.753992632,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,6,2022-12-08 04:00
 -34.897156655,-58.710161547,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,150,2022-12-08 04:00
--34.763369048,-58.872606311,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,5,Sin Datos
--34.760520680,-58.916450700,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,Sin Datos
--34.758021814,-58.920349999,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos
--34.742777073,-58.919216310,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos
--34.750064645,-58.902701610,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos
--34.768869597,-58.878699901,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,Sin Datos
--34.741939045,-58.913357672,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,Sin Datos
--34.754196262,-58.898441362,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,Sin Datos
--34.765130374,-58.874724447,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,Sin Datos
+-34.763369048,-58.872606311,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,5,2022-12-08 04:00
+-34.760520680,-58.916450700,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,2022-12-08 04:00
+-34.758021814,-58.920349999,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-08 04:00
+-34.742777073,-58.919216310,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-08 04:00
+-34.750064645,-58.902701610,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-08 04:00
+-34.768869597,-58.878699901,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2022-12-08 04:00
+-34.741939045,-58.913357672,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-08 04:00
+-34.754196262,-58.898441362,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2022-12-08 04:00
+-34.765130374,-58.874724447,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,2022-12-08 04:00
 -34.879586378,-58.907369180,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-08 04:00
 -34.891008907,-58.902915316,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-08 04:00
 -34.889236658,-58.894307101,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-08 04:00
@@ -409,91 +487,91 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.634543578,-58.985936392,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-12-08 04:00
 -34.650517083,-58.998293414,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,2,2022-12-08 04:00
 -34.721591128,-59.054347733,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2022-12-08 04:00
--34.852431904,-58.837502173,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2022-12-08 04:00
--34.820757697,-58.838451581,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,10,2022-12-08 04:00
--34.818107705,-58.835803703,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2022-12-08 04:00
--34.828320121,-58.837155648,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,22,2022-12-08 04:00
--34.845587989,-58.827905858,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,7,2022-12-08 04:00
--34.836784003,-58.835704424,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,21,2022-12-08 04:00
--34.838369702,-58.823803445,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,12,2022-12-08 04:00
--34.838563793,-58.835397867,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,5,2022-12-08 04:00
--34.833387430,-58.831125861,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,126,2022-12-08 04:00
--34.824563740,-58.837742773,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2022-12-08 04:00
--34.833928098,-58.836792191,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2022-12-08 04:00
--34.833797966,-58.822283015,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2022-12-08 04:00
--34.700237127,-58.822108206,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,17,2022-12-08 05:00
--34.696169151,-58.812825727,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,83,2022-12-08 05:00
--34.701597270,-58.813066157,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,6,2022-12-08 05:00
--34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,481,2022-12-08 05:00
--34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,215,2022-12-08 05:00
--34.710756926,-58.814960202,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,9,2022-12-08 05:00
--34.708131146,-58.811193226,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,30,2022-12-08 05:00
--34.714751366,-58.809524019,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,1,2022-12-08 05:00
--34.714603504,-58.817842411,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,10,2022-12-08 05:00
--34.704243498,-58.825769210,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,32,2022-12-08 05:00
--34.713198554,-58.816481412,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,21,2022-12-08 05:00
--34.691069202,-58.803758137,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,8,2022-12-08 05:00
--34.702247833,-58.819335284,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,12,2022-12-08 05:00
--34.684352734,-58.804078431,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,4,2022-12-08 05:00
--34.705228792,-58.807805515,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,19,2022-12-08 05:00
--34.691669505,-58.799929720,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,11,2022-12-08 05:00
--34.685123890,-58.808901908,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,37,2022-12-08 05:00
--34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,2022-12-08 05:00
--34.708242957,-58.818540899,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,7,2022-12-08 05:00
--34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,227,2022-12-08 05:00
--34.698345434,-58.824660914,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,12,2022-12-08 05:00
--34.694473006,-58.798890318,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,53,2022-12-08 05:00
--34.688866751,-58.801132145,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,106,2022-12-08 05:00
--34.544450474,-58.763797333,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5524,399,2022-12-08 04:00
--34.540845723,-58.764670753,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5524,212,2022-12-08 04:00
--34.538667868,-58.766322541,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5524,323,2022-12-08 04:00
--34.546308594,-58.759670747,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5524,541,2022-12-08 04:00
--34.586346350,-58.791452132,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,36,2022-12-08 04:00
--34.588458666,-58.790543124,12,media,Edenor,S/D,S/D,S/D,R:Catonas/256-Tr2/256-5525,77,2022-12-08 04:00
--34.569020722,-58.804075374,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,1,2022-12-08 04:00
--34.597587089,-58.771825720,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,312,2022-12-08 04:00
--34.588224268,-58.784683881,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,60,2022-12-08 04:00
--34.580362607,-58.813456087,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,11,2022-12-08 04:00
--34.581934215,-58.793508539,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,101,2022-12-08 04:00
--34.576932600,-58.805873903,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,2,2022-12-08 04:00
--34.602569849,-58.765235995,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,363,2022-12-08 04:00
--34.590516741,-58.781672169,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,19,2022-12-08 04:00
--34.586941129,-58.780142438,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,13,2022-12-08 04:00
--34.589339996,-58.783192847,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,9,2022-12-08 04:00
--34.591858055,-58.779859634,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,15,2022-12-08 04:00
--34.580363040,-58.784978638,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,8,2022-12-08 04:00
--34.562557598,-58.819940387,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,2,2022-12-08 04:00
--34.572844979,-58.809975899,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,4,2022-12-08 04:00
--34.565069639,-58.814681435,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,1,2022-12-08 04:00
--34.644264205,-58.717117425,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,3,2022-12-08 04:00
--34.641850789,-58.716298247,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,2,2022-12-08 04:00
--34.639369501,-58.713666452,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,18,2022-12-08 04:00
--34.637992621,-58.714010698,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,7,2022-12-08 04:00
--34.635992797,-58.709076433,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,80,2022-12-08 04:00
--34.636937968,-58.710174664,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,126,2022-12-08 04:00
--34.651279953,-58.721034090,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,237,2022-12-08 04:00
--34.648042538,-58.719406326,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,335,2022-12-08 04:00
--34.647214393,-58.721313408,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,30,2022-12-08 04:00
--34.640833224,-58.728981836,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,16,2022-12-08 04:00
--34.649656611,-58.720615724,12,media,Edenor,S/D,S/D,S/D,R:San Alberto/366-Tr1/366-5513,185,2022-12-08 04:00
--34.642221577,-58.727567753,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,105,2022-12-08 04:00
--34.653489188,-58.722181966,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,348,2022-12-08 04:00
--34.640333960,-58.714813432,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,275,2022-12-08 04:00
--34.633083560,-58.709636407,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,213,2022-12-08 04:00
--34.642836875,-58.722240641,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,36,2022-12-08 04:00
--34.638664101,-58.722259221,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,30,2022-12-08 04:00
--34.637589265,-58.724538794,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,36,2022-12-08 04:00
--34.636559849,-58.720826729,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,30,2022-12-08 04:00
--34.636330953,-58.719377135,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,24,2022-12-08 04:00
--34.633144437,-58.718096323,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,13,2022-12-08 04:00
--34.633309365,-58.714490875,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,57,2022-12-08 04:00
--34.640425004,-58.715630637,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,32,2022-12-08 04:00
--34.644649584,-58.717747529,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,38,2022-12-08 04:00
--34.631769705,-58.711306780,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,205,2022-12-08 04:00
--34.631121099,-58.709423211,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,87,2022-12-08 04:00
--34.633552718,-58.707944629,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,168,2022-12-08 04:00
--34.642194765,-58.717899528,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,8,2022-12-08 04:00
--34.635154143,-58.706898892,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,90,2022-12-08 04:00
+-34.852431904,-58.837502173,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2022-12-08 05:00
+-34.820757697,-58.838451581,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,10,2022-12-08 05:00
+-34.818107705,-58.835803703,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2022-12-08 05:00
+-34.828320121,-58.837155648,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,22,2022-12-08 05:00
+-34.845587989,-58.827905858,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,7,2022-12-08 05:00
+-34.836784003,-58.835704424,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,21,2022-12-08 05:00
+-34.838369702,-58.823803445,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,12,2022-12-08 05:00
+-34.838563793,-58.835397867,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,5,2022-12-08 05:00
+-34.833387430,-58.831125861,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,126,2022-12-08 05:00
+-34.824563740,-58.837742773,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2022-12-08 05:00
+-34.833928098,-58.836792191,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2022-12-08 05:00
+-34.833797966,-58.822283015,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2022-12-08 05:00
+-34.700237127,-58.822108206,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,17,Sin Datos
+-34.696169151,-58.812825727,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,83,Sin Datos
+-34.701597270,-58.813066157,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,6,Sin Datos
+-34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,481,Sin Datos
+-34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,215,Sin Datos
+-34.710756926,-58.814960202,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,9,Sin Datos
+-34.708131146,-58.811193226,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,30,Sin Datos
+-34.714751366,-58.809524019,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,1,Sin Datos
+-34.714603504,-58.817842411,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,10,Sin Datos
+-34.704243498,-58.825769210,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,32,Sin Datos
+-34.713198554,-58.816481412,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,21,Sin Datos
+-34.691069202,-58.803758137,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,8,Sin Datos
+-34.702247833,-58.819335284,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,12,Sin Datos
+-34.684352734,-58.804078431,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,4,Sin Datos
+-34.705228792,-58.807805515,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,19,Sin Datos
+-34.691669505,-58.799929720,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,11,Sin Datos
+-34.685123890,-58.808901908,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,37,Sin Datos
+-34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,Sin Datos
+-34.708242957,-58.818540899,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,7,Sin Datos
+-34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,227,Sin Datos
+-34.698345434,-58.824660914,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,12,Sin Datos
+-34.694473006,-58.798890318,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,53,Sin Datos
+-34.688866751,-58.801132145,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,106,Sin Datos
+-34.544450474,-58.763797333,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5524,399,Sin Datos
+-34.540845723,-58.764670753,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5524,212,Sin Datos
+-34.538667868,-58.766322541,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5524,323,Sin Datos
+-34.546308594,-58.759670747,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5524,541,Sin Datos
+-34.586346350,-58.791452132,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,36,Sin Datos
+-34.588458666,-58.790543124,12,media,Edenor,S/D,S/D,S/D,R:Catonas/256-Tr2/256-5525,77,Sin Datos
+-34.569020722,-58.804075374,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,1,Sin Datos
+-34.597587089,-58.771825720,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,312,Sin Datos
+-34.588224268,-58.784683881,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,60,Sin Datos
+-34.580362607,-58.813456087,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,11,Sin Datos
+-34.581934215,-58.793508539,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,101,Sin Datos
+-34.576932600,-58.805873903,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,2,Sin Datos
+-34.602569849,-58.765235995,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,363,Sin Datos
+-34.590516741,-58.781672169,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,19,Sin Datos
+-34.586941129,-58.780142438,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,13,Sin Datos
+-34.589339996,-58.783192847,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,9,Sin Datos
+-34.591858055,-58.779859634,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,15,Sin Datos
+-34.580363040,-58.784978638,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,8,Sin Datos
+-34.562557598,-58.819940387,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,2,Sin Datos
+-34.572844979,-58.809975899,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,4,Sin Datos
+-34.565069639,-58.814681435,12,media,Edenor,Moreno,Cuartel V,S/D,R:Catonas/256-Tr2/256-5525,1,Sin Datos
+-34.644264205,-58.717117425,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,3,Sin Datos
+-34.641850789,-58.716298247,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,2,Sin Datos
+-34.639369501,-58.713666452,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,18,Sin Datos
+-34.637992621,-58.714010698,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,7,Sin Datos
+-34.635992797,-58.709076433,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,80,Sin Datos
+-34.636937968,-58.710174664,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,126,Sin Datos
+-34.651279953,-58.721034090,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,237,Sin Datos
+-34.648042538,-58.719406326,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,335,Sin Datos
+-34.647214393,-58.721313408,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,30,Sin Datos
+-34.640833224,-58.728981836,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,16,Sin Datos
+-34.649656611,-58.720615724,12,media,Edenor,S/D,S/D,S/D,R:San Alberto/366-Tr1/366-5513,185,Sin Datos
+-34.642221577,-58.727567753,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,105,Sin Datos
+-34.653489188,-58.722181966,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5513,348,Sin Datos
+-34.640333960,-58.714813432,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,275,Sin Datos
+-34.633083560,-58.709636407,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,213,Sin Datos
+-34.642836875,-58.722240641,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,36,Sin Datos
+-34.638664101,-58.722259221,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,30,Sin Datos
+-34.637589265,-58.724538794,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,36,Sin Datos
+-34.636559849,-58.720826729,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,30,Sin Datos
+-34.636330953,-58.719377135,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,24,Sin Datos
+-34.633144437,-58.718096323,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,13,Sin Datos
+-34.633309365,-58.714490875,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,57,Sin Datos
+-34.640425004,-58.715630637,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,32,Sin Datos
+-34.644649584,-58.717747529,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,38,Sin Datos
+-34.631769705,-58.711306780,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,205,Sin Datos
+-34.631121099,-58.709423211,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,87,Sin Datos
+-34.633552718,-58.707944629,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,168,Sin Datos
+-34.642194765,-58.717899528,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,8,Sin Datos
+-34.635154143,-58.706898892,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,90,Sin Datos
 -34.6449,-58.5657,22,baja,Edenor,La Matanza,Ramos Mejia,,,7,
 -34.7,-58.6286,22,baja,Edenor,La Matanza,Rafael Castillo,,,22,
 -34.6758,-58.5056,22,baja,Edenor,La Matanza,La Tablada,,,13,
@@ -517,22 +595,22 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6858,-58.7531,22,baja,Edenor,Merlo,Merlo,,,19,
 -34.6858,-58.5037,22,baja,Edenor,La Matanza,Villa Madero,,,49,
 -34.638,-58.8064,22,baja,Edenor,Moreno,Moreno,,,61,
--34.5349,-58.5006,22,baja,Edenor,Vicente Lopez,Florida,,,35,
 -34.5029,-58.7207,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,47,
 -34.5216,-58.6747,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,27,
 -34.6433,-58.6661,22,baja,Edenor,Ituzaingo,Ituzaingo,,,53,
 -34.7059,-58.4904,22,baja,Edenor,La Matanza,Villa Madero,,,5,
 -34.6588,-58.758,22,baja,Edenor,Moreno,Paso Del Rey,,,38,
 -34.493,-58.7663,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,11,
--34.5872,-58.4851,22,baja,Edenor,Capital Federal,Agronomia,,,4,
--34.7036,-58.5861,22,baja,Edenor,La Matanza,Isidro Casanova,,,57,
--34.4532,-58.5733,22,baja,Edenor,San Fernando,San Fernando,,,4,
+-34.5872,-58.4851,22,baja,Edenor,Capital Federal,Agronomia,,,30,
 -34.5833,-58.484,22,baja,Edenor,Capital Federal,Villa Urquiza,,,28,
 -34.5854,-58.4822,22,baja,Edenor,Capital Federal,Agronomia,,,10,
 -34.6933,-58.731,22,baja,Edenor,Merlo,Merlo,,,73,
--34.6808,-58.7321,22,baja,Edenor,Merlo,Merlo,,,14,
+-34.6808,-58.7321,22,baja,Edenor,Merlo,Merlo,,,15,
 -34.6952,-58.6415,22,baja,Edenor,Moron,Castelar,,,20,
--34.7823,-58.7387,22,baja,Edenor,La Matanza,20 De Junio,,,16,
+-34.6641,-58.5765,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,18,
+-34.7425,-58.5746,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,8,
+-34.7683,-58.7228,22,baja,Edenor,La Matanza,20 De Junio,,,47,
+-34.5316,-58.569,22,baja,Edenor,Gral San Martin,Villa Ballester,,,70,
 -34.9048,-58.5162,21,baja,Edesur,Ezeiza,Tristan Suarez,,,2,
 -34.6148,-58.3913,21,baja,Edesur,Capital,Monserrat,,,26,
 -34.6477,-58.4737,21,baja,Edesur,Capital,Capital,,,33,
@@ -550,8 +628,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6259,-58.4857,21,baja,Edesur,Capital,Capital,,,89,
 -34.8018,-58.4324,21,baja,Edesur,Lomas De Zamora,Lavallol,,,4,
 -34.6111,-58.3978,21,baja,Edesur,Capital,Balvanera,,,33,
--34.8055,-58.2462,21,baja,Edesur,Florencio Varela,Florencio Varela,,,47,
--34.625,-58.4778,21,baja,Edesur,Capital,Floresta,,,124,
+-34.8055,-58.2462,21,baja,Edesur,Florencio Varela,Florencio Varela,,,48,
+-34.6277,-58.476,21,baja,Edesur,Capital,Floresta,,,124,
 -34.6095,-58.3773,21,baja,Edesur,Capital,Monserrat,,,5,
 -34.8513,-58.5195,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,6,
 -34.8268,-58.4554,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,26,
@@ -560,31 +638,32 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7871,-58.3364,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,5,
 -34.6377,-58.5026,21,baja,Edesur,Capital,Capital,,,9,
 -34.6112,-58.4207,21,baja,Edesur,Capital,Almagro,,,20,
--34.7452,-58.2882,21,baja,Edesur,Quilmes,Quilmes,,,20,
--34.6874,-58.4827,21,baja,Edesur,Capital,Villa Lugano,,,44,
+-34.7446,-58.2896,21,baja,Edesur,Quilmes,Quilmes,,,20,
+-34.6877,-58.4818,21,baja,Edesur,Capital,Capital,,,45,
 -34.6013,-58.5095,21,baja,Edesur,Capital,Villa Devoto,,,23,
+-34.8067,-58.47,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,117,
 -34.7984,-58.4072,21,baja,Edesur,Almirante Brown,Burzaco,,,4,
 -34.7153,-58.4196,21,baja,Edesur,Lanus,Remedios De Escalada,,,17,
 -34.7913,-58.3172,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,14,
 -34.6647,-58.3613,21,baja,Edesur,Avellaneda,Avellaneda,,,37,
 -34.5964,-58.4499,21,baja,Edesur,Capital,Villa Crespo,,,4,
+-34.7138,-58.3474,21,baja,Edesur,Avellaneda,Wilde,,,7,
 -34.6669,-58.3821,21,baja,Edesur,Avellaneda,Avellaneda,,,46,
 -34.8186,-58.3918,21,baja,Edesur,Almirante Brown,Burzaco,,,10,
 -34.6953,-58.4264,21,baja,Edesur,Lanus,Lanus,,,25,
 -34.7891,-58.4833,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,12,
 -34.6123,-58.4637,21,baja,Edesur,Capital,Capital,,,8,
--34.8048,-58.4664,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,17,
 -34.6187,-58.4528,21,baja,Edesur,Capital,Caballito,,,37,
+-34.7132,-58.2901,21,baja,Edesur,Quilmes,Bernal,,,2,
 -34.6033,-58.4069,21,baja,Edesur,Capital,Capital,,,20,
 -34.6947,-58.4722,21,baja,Edesur,Capital,Villa Riachuelo,,,11,
 -34.6021,-58.4316,21,baja,Edesur,Capital,Capital,,,33,
 -34.7846,-58.4836,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,15,
 -34.7949,-58.2508,21,baja,Edesur,Florencio Varela,Florencio Varela,,,12,
--34.6164,-58.5137,21,baja,Edesur,Capital,Villa Devoto,,,25,
+-34.6164,-58.5137,21,baja,Edesur,Capital,Villa Devoto,,,26,
 -34.6553,-58.512,21,baja,Edesur,Capital,Capital,,,21,
 -34.6181,-58.393,21,baja,Edesur,Capital,Balvanera,,,33,
 -34.8252,-58.4829,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,7,
--34.7999,-58.4732,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,12,
 -34.6133,-58.436,21,baja,Edesur,Capital,Caballito,,,18,
 -34.6529,-58.4843,21,baja,Edesur,Capital,Parque Avellaneda,,,35,
 -34.6537,-58.5099,21,baja,Edesur,Capital,Mataderos,,,59,
@@ -592,6 +671,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6024,-58.4338,21,baja,Edesur,Capital,Villa Crespo,,,3,
 -34.6361,-58.5218,21,baja,Edesur,Capital,Capital,,,1,
 -34.599,-58.5206,21,baja,Edesur,Capital,Villa Devoto,,,8,
--34.8019,-58.4722,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,39,
+-34.6342,-58.5291,21,baja,Edesur,Capital,Capital,,,5,
+-34.7978,-58.4776,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,40,
 -34.7883,-58.2886,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
 -34.7825,-58.4087,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,
