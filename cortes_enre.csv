@@ -9,8 +9,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.818452674,-58.499578759,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-24/083-2-24,7,Sin Datos
 -34.815931341,-58.502032064,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-24/083-2-24,1,Sin Datos
 -34.394561251,-58.991903538,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5484,1,2022-12-09 08:00
--34.590385270,-58.431386574,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5547,316,2022-12-09 08:00
--34.602513320,-58.650487294,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Moron/67-Tr4/67-5536,402,2022-12-09 08:00
+-34.590385270,-58.431386574,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5547,316,Sin Datos
+-34.602513320,-58.650487294,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Moron/67-Tr4/67-5536,402,2022-12-09 09:00
 -34.376897180,-58.834733506,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,1,2022-12-09 08:00
 -34.389044790,-58.831161459,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,1,2022-12-09 08:00
 -34.385755985,-58.825545045,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5524,157,2022-12-09 08:00
@@ -36,9 +36,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4013,-58.6291,22,baja,Edenor,Tigre,Rincon De Milberg,,,13,
 -34.6559,-58.6424,22,baja,Edenor,Moron,Castelar,,,30,
 -34.4104,-58.6074,22,baja,Edenor,Tigre,Rincon De Milberg,,,14,
--34.5242,-58.7338,22,baja,Edenor,Jose C Paz,Jose C Paz,,,56,
 -34.6147,-58.6326,22,baja,Edenor,Hurlingham,Villa Tesei,,,27,
--34.5012,-58.7172,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,19,
 -34.7066,-58.5173,22,baja,Edenor,La Matanza,Aldo Bonzi,,,32,
 -34.706,-58.4807,22,baja,Edenor,La Matanza,Villa Madero,,,81,
 -34.6883,-58.6609,22,baja,Edenor,Moron,Castelar,,,18,
@@ -58,7 +56,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5404,-58.7355,22,baja,Edenor,San Miguel,San Miguel,,,25,
 -34.6444,-58.5565,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,
 -34.6882,-58.4998,22,baja,Edenor,La Matanza,Villa Madero,,,29,
--34.645,-58.5691,22,baja,Edenor,La Matanza,Ramos Mejia,,,6,
+-34.645,-58.5691,22,baja,Edenor,La Matanza,Ramos Mejia,,,8,
 -34.851,-59.0578,22,baja,Edenor,Gral Las Heras,Gral Las Heras,,,7,
 -34.6148,-58.3913,21,baja,Edesur,Capital,Monserrat,,,36,
 -34.6498,-58.5227,21,baja,Edesur,Capital,Capital,,,90,
