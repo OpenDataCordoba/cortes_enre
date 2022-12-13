@@ -81,7 +81,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.746900929,-58.456440535,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-22/281-2-22,16,2022-12-14 00:15
 -34.748958550,-58.454874294,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-22/281-2-22,5,2022-12-14 00:15
 -34.773051790,-58.409027926,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,420,2022-12-14 00:16
--34.773992829,-58.411540630,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,515,2022-12-14 00:16
 -34.771632796,-58.405345375,11,media,Edesur,Lomas De Zamora,Temperley,Santa Catalina,R:182-2-24/182-2-24,1,2022-12-14 00:16
 -34.942276686,-58.444861098,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
 -34.930928898,-58.447005770,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,3,2022-12-13 22:25
@@ -123,9 +122,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.864455503,-58.440185750,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,93,2022-12-13 22:25
 -34.865892244,-58.443085398,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,52,2022-12-13 22:25
 -34.859622466,-58.454442261,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,88,2022-12-13 22:25
--34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-12-13 20:00
--34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-12-13 20:00
--34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-12-13 20:00
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-12-13 22:00
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-12-13 22:00
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-12-13 22:00
 -34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,10,2022-12-13 21:00
 -34.3802,-58.5543,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,13,
 -34.3778,-58.5336,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,10,
@@ -142,9 +141,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6131,-58.4092,21,baja,Edesur,Capital,Balvanera,,,24,
 -34.7718,-58.3598,21,baja,Edesur,Lomas De Zamora,Temperley,,,32,
 -34.6123,-58.3857,21,baja,Edesur,Capital,Monserrat,,,21,
+-34.9074,-58.3616,21,baja,Edesur,Pte Peron,Guernica,,,9,
 -34.6561,-58.376,21,baja,Edesur,Capital,Barracas,,,7,
 -34.6529,-58.483,21,baja,Edesur,Capital,Parque Avellaneda,,,3,
 -34.5949,-58.448,21,baja,Edesur,Capital,Villa Crespo,,,28,
+-34.6414,-58.4263,21,baja,Edesur,Capital,Nueva Pompeya,,,7,
 -34.7276,-58.4787,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,
 -34.6186,-58.3937,21,baja,Edesur,Capital,San Cristobal,,,4,
 -34.6949,-58.3364,21,baja,Edesur,Avellaneda,Villa Dominico,,,10,
@@ -153,9 +154,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.9628,-58.7262,21,baja,Edesur,Cañuelas,Zona Rural,,,7,
 -34.6415,-58.4433,21,baja,Edesur,Capital,Parque Chacabuco,,,8,
 -34.6254,-58.4147,21,baja,Edesur,Capital,Boedo,,,20,
--34.6134,-58.4928,21,baja,Edesur,Capital,Capital,,,31,
--34.6216,-58.5047,21,baja,Edesur,Capital,Capital,,,57,
--34.616,-58.4484,21,baja,Edesur,Capital,Capital,,,71,
+-34.6134,-58.4928,21,baja,Edesur,Capital,Capital,,,33,
+-34.6216,-58.5047,21,baja,Edesur,Capital,Capital,,,58,
+-34.616,-58.4484,21,baja,Edesur,Capital,Capital,,,83,
 -35.0308,-58.4176,21,baja,Edesur,San Vicente,San Vicente,,,1,
 -34.8482,-58.4494,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,
 -34.7727,-58.3565,21,baja,Edesur,Almirante Brown,San Jose,,,4,
