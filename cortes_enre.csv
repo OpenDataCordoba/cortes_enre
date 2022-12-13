@@ -27,33 +27,37 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.081901723,-58.577983110,11,media,Edesur,Cañuelas,Zona Rural 7,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -35.113188865,-58.577347636,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -34.784862541,-58.338990324,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-1-16/189-1-16,360,Sin Datos
--34.816639661,-58.331908509,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,162,2022-12-13 20:40
--34.817331109,-58.333242517,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,25,2022-12-13 20:40
--34.815211315,-58.329125552,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,150,2022-12-13 20:40
--34.814198816,-58.331546098,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,1,2022-12-13 20:40
--34.818358781,-58.332989253,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,151,2022-12-13 20:40
--34.832023512,-58.342208034,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-2-28/189-2-28,1,2022-12-13 20:40
--34.828142925,-58.341748002,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-2-28/189-2-28,1,2022-12-13 20:40
--34.816101658,-58.325185234,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,6,2022-12-13 20:40
--34.814434107,-58.327605333,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,23,2022-12-13 20:40
--34.812642566,-58.330281328,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,211,2022-12-13 20:40
--34.819038734,-58.322884548,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,8,2022-12-13 20:40
--34.817620038,-58.324008444,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,47,2022-12-13 20:40
--34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-12-13 17:00
--34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-12-13 17:00
--34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-12-13 17:00
--34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,10,Sin Datos
+-34.816639661,-58.331908509,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,162,Sin Datos
+-34.817331109,-58.333242517,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,25,Sin Datos
+-34.815211315,-58.329125552,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,150,Sin Datos
+-34.814198816,-58.331546098,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,1,Sin Datos
+-34.818358781,-58.332989253,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,151,Sin Datos
+-34.832023512,-58.342208034,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-2-28/189-2-28,1,Sin Datos
+-34.828142925,-58.341748002,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-2-28/189-2-28,1,Sin Datos
+-34.816101658,-58.325185234,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,6,Sin Datos
+-34.814434107,-58.327605333,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,23,Sin Datos
+-34.812642566,-58.330281328,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,211,Sin Datos
+-34.819038734,-58.322884548,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,8,Sin Datos
+-34.817620038,-58.324008444,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,47,Sin Datos
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,Sin Datos
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,Sin Datos
+-34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,10,2022-12-13 17:00
 -34.329438783,-58.608739559,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,42,2022-12-13 17:00
+-34.446605621,-59.035246422,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,8,Sin Datos
+-34.443219380,-59.037795242,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,1,Sin Datos
+-34.438618018,-59.041361197,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,2,Sin Datos
+-34.451827503,-59.031140692,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,1,Sin Datos
+-34.456367582,-59.027443112,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,1,Sin Datos
 -34.3802,-58.5543,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,13,
--34.3533,-58.6857,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,6,
 -34.3778,-58.5336,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
 -34.4247,-58.89,22,baja,Edenor,Pilar,Villa Rosa,,,5,
 -34.6022,-58.8147,22,baja,Edenor,Moreno,Cuartel V,,,30,
 -34.5079,-58.798,22,baja,Edenor,Jose C Paz,Jose C Paz,,,16,
--34.4569,-59.0273,22,baja,Edenor,Pilar,Manzanares,,,4,
 -34.6484,-58.5954,22,baja,Edenor,Moron,Haedo,,,22,
 -34.5864,-58.4652,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,9,
 -34.3907,-58.7388,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,43,
+-34.3573,-58.5932,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,11,
 -34.9201,-58.4049,21,baja,Edesur,Pte Peron,Villa Numancia Sur,,,22,
 -34.6397,-58.4566,21,baja,Edesur,Capital,Flores,,,15,
 -34.6343,-58.3735,21,baja,Edesur,Capital,Barracas,,,74,
@@ -65,13 +69,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7718,-58.3598,21,baja,Edesur,Lomas De Zamora,Temperley,,,30,
 -34.6123,-58.3857,21,baja,Edesur,Capital,Monserrat,,,19,
 -34.6566,-58.5101,21,baja,Edesur,Capital,Mataderos,,,44,
--34.7982,-58.2335,21,baja,Edesur,Berazategui,Sourigues,,,27,
+-34.7982,-58.2335,21,baja,Edesur,Berazategui,Sourigues,,,28,
 -34.6225,-58.3845,21,baja,Edesur,Capital,Constitucion,,,4,
 -34.6754,-58.4797,21,baja,Edesur,Capital,Villa Lugano,,,15,
 -34.6684,-58.5075,21,baja,Edesur,Capital,Capital,,,18,
 -34.6561,-58.376,21,baja,Edesur,Capital,Barracas,,,7,
 -34.6529,-58.483,21,baja,Edesur,Capital,Parque Avellaneda,,,3,
 -34.6191,-58.4222,21,baja,Edesur,Capital,Capital,,,50,
+-34.5949,-58.448,21,baja,Edesur,Capital,Capital,,,27,
 -34.7276,-58.4787,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,
 -34.6186,-58.3937,21,baja,Edesur,Capital,San Cristobal,,,4,
 -34.6949,-58.3364,21,baja,Edesur,Avellaneda,Villa Dominico,,,10,
@@ -82,10 +87,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6415,-58.4433,21,baja,Edesur,Capital,Parque Chacabuco,,,6,
 -34.6254,-58.4147,21,baja,Edesur,Capital,Boedo,,,19,
 -34.6134,-58.4928,21,baja,Edesur,Capital,Capital,,,25,
--34.6216,-58.5047,21,baja,Edesur,Capital,Capital,,,21,
--34.616,-58.4484,21,baja,Edesur,Capital,Capital,,,45,
+-34.6216,-58.5047,21,baja,Edesur,Capital,Capital,,,28,
+-34.616,-58.4484,21,baja,Edesur,Capital,Capital,,,46,
 -34.655,-58.5157,21,baja,Edesur,Capital,Mataderos,,,6,
--34.6086,-58.4452,21,baja,Edesur,Capital,Capital,,,3,
 -35.0308,-58.4176,21,baja,Edesur,San Vicente,San Vicente,,,1,
 -34.8482,-58.4494,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,
 -34.7727,-58.3565,21,baja,Edesur,Almirante Brown,San Jose,,,4,
