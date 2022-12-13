@@ -81,16 +81,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.746979257,-58.455505400,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-22/281-2-22,13,2022-12-13 22:53
 -34.746900929,-58.456440535,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-22/281-2-22,16,2022-12-13 22:53
 -34.748958550,-58.454874294,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-22/281-2-22,5,2022-12-13 22:53
--34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-12-13 19:00
--34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-12-13 19:00
--34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-12-13 19:00
--34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,10,Sin Datos
--34.329438783,-58.608739559,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,42,2022-12-13 18:00
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-12-13 18:00
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-12-13 18:00
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-12-13 18:00
+-34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,10,2022-12-13 19:00
+-34.329438783,-58.608739559,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,42,2022-12-13 19:00
 -34.3802,-58.5543,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,13,
 -34.3778,-58.5336,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
 -34.4247,-58.89,22,baja,Edenor,Pilar,Villa Rosa,,,5,
 -34.6022,-58.8147,22,baja,Edenor,Moreno,Cuartel V,,,30,
--34.6484,-58.5954,22,baja,Edenor,Moron,Haedo,,,22,
 -34.5864,-58.4652,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,9,
 -34.3907,-58.7388,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,43,
 -34.3573,-58.5932,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,11,
@@ -104,13 +103,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6131,-58.4092,21,baja,Edesur,Capital,Balvanera,,,24,
 -34.7718,-58.3598,21,baja,Edesur,Lomas De Zamora,Temperley,,,31,
 -34.6123,-58.3857,21,baja,Edesur,Capital,Monserrat,,,19,
--34.6566,-58.5101,21,baja,Edesur,Capital,Mataderos,,,44,
 -34.7982,-58.2335,21,baja,Edesur,Berazategui,Sourigues,,,28,
 -34.6225,-58.3845,21,baja,Edesur,Capital,Constitucion,,,4,
 -34.6754,-58.4797,21,baja,Edesur,Capital,Villa Lugano,,,15,
 -34.6561,-58.376,21,baja,Edesur,Capital,Barracas,,,7,
 -34.6529,-58.483,21,baja,Edesur,Capital,Parque Avellaneda,,,3,
--34.6191,-58.4222,21,baja,Edesur,Capital,Capital,,,50,
+-34.6191,-58.4222,21,baja,Edesur,Capital,Capital,,,51,
 -34.5949,-58.448,21,baja,Edesur,Capital,Capital,,,28,
 -34.7276,-58.4787,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,
 -34.6186,-58.3937,21,baja,Edesur,Capital,San Cristobal,,,4,
@@ -121,7 +119,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6415,-58.4433,21,baja,Edesur,Capital,Parque Chacabuco,,,6,
 -34.6254,-58.4147,21,baja,Edesur,Capital,Boedo,,,20,
 -34.6134,-58.4928,21,baja,Edesur,Capital,Capital,,,26,
--34.6216,-58.5047,21,baja,Edesur,Capital,Capital,,,41,
+-34.6216,-58.5047,21,baja,Edesur,Capital,Capital,,,43,
 -34.616,-58.4484,21,baja,Edesur,Capital,Capital,,,48,
 -34.655,-58.5157,21,baja,Edesur,Capital,Mataderos,,,6,
 -35.0308,-58.4176,21,baja,Edesur,San Vicente,San Vicente,,,1,
