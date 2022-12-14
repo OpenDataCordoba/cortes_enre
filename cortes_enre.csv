@@ -8,16 +8,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.162610783,-58.788335604,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,1,Sin Datos
 -35.180367363,-58.807453044,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,1,Sin Datos
 -34.735745866,-58.264151855,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,534,Sin Datos
--34.751697953,-58.338275738,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-32/184-3-32,245,Sin Datos
--34.761799584,-58.326397188,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-32/184-3-32,497,Sin Datos
--34.765397845,-58.327990013,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-32/184-3-32,183,Sin Datos
--34.760953529,-58.335170049,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,301,Sin Datos
--34.757976983,-58.334596903,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,313,Sin Datos
--34.757177398,-58.338587676,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,310,Sin Datos
--34.763888472,-58.331371541,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,509,Sin Datos
--34.766943118,-58.327739835,11,media,Edesur,Almirante Brown,Rafael Calzada,Monte Chingolo,R:184-3-32/184-3-32,229,Sin Datos
--34.753272464,-58.341181993,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-3-32/184-3-32,152,Sin Datos
--34.761878489,-58.333548589,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-3-32/184-3-32,8,Sin Datos
 -34.235526966,-58.792870242,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5511,4,2022-12-14 21:00
 -34.238961887,-58.784835650,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5511,5,2022-12-14 21:00
 -34.718955579,-58.994553949,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2022-12-14 21:00
@@ -41,32 +31,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5141,-58.5675,22,baja,Edenor,San Isidro,Boulogne,,,53,
 -34.5493,-58.4682,22,baja,Edenor,Capital Federal,Nu?Ez,,,27,
 -34.6688,-58.5148,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,10,
+-34.5627,-58.4568,22,baja,Edenor,Capital Federal,Belgrano,,,14,
+-34.5533,-58.7139,22,baja,Edenor,San Miguel,San Miguel,,,4,
 -34.4764,-58.9179,22,baja,Edenor,Pilar,Pilar,,,54,
 -34.7242,-58.5344,22,baja,Edenor,La Matanza,Ciudad Evita,,,35,
--34.624,-58.5061,21,baja,Edesur,Capital,Capital,,,24,
+-34.624,-58.5061,21,baja,Edesur,Capital,Capital,,,26,
 -34.655,-58.5018,21,baja,Edesur,Capital,Mataderos,,,18,
 -34.5949,-58.448,21,baja,Edesur,Capital,Capital,,,41,
--34.6414,-58.4263,21,baja,Edesur,Capital,Nueva Pompeya,,,15,
 -34.6626,-58.5079,21,baja,Edesur,Capital,Capital,,,13,
--34.6174,-58.4739,21,baja,Edesur,Capital,Villa Sta. Rita,,,9,
+-34.6174,-58.4739,21,baja,Edesur,Capital,Villa Sta. Rita,,,10,
 -34.5935,-58.4358,21,baja,Edesur,Capital,Capital,,,2,
 -34.7451,-58.4841,21,baja,Edesur,Lomas De Zamora,Bandfield,,,8,
 -34.6174,-58.487,21,baja,Edesur,Capital,Villa Sta. Rita,,,18,
--34.6333,-58.4321,21,baja,Edesur,Capital,Parque Chacabuco,,,4,
+-34.6333,-58.4321,21,baja,Edesur,Capital,Parque Chacabuco,,,5,
+-34.656,-58.4178,21,baja,Edesur,Capital,Nueva Pompeya,,,40,
 -34.8268,-58.4438,21,baja,Edesur,Almirante Brown,Burzaco,,,5,
 -34.6336,-58.4378,21,baja,Edesur,Capital,Parque Chacabuco,,,6,
--34.6549,-58.5109,21,baja,Edesur,Capital,Mataderos,,,45,
+-34.6549,-58.5109,21,baja,Edesur,Capital,Mataderos,,,48,
 -34.8182,-58.3488,21,baja,Edesur,Almirante Brown,Claypole,,,13,
 -34.7823,-58.3493,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,7,
--34.6216,-58.5047,21,baja,Edesur,Capital,Capital,,,35,
--34.8164,-58.2679,21,baja,Edesur,Florencio Varela,Florencio Varela,,,21,
--34.821,-58.3782,21,baja,Edesur,Almirante Brown,Burzaco,,,96,
--34.6366,-58.5007,21,baja,Edesur,Capital,Villa Luro,,,15,
+-34.6216,-58.5047,21,baja,Edesur,Capital,Capital,,,44,
+-34.8164,-58.2679,21,baja,Edesur,Florencio Varela,Florencio Varela,,,23,
+-34.821,-58.3782,21,baja,Edesur,Almirante Brown,Burzaco,,,100,
 -34.6524,-58.5047,21,baja,Edesur,Capital,Mataderos,,,2,
 -34.6166,-58.5135,21,baja,Edesur,Capital,Villa Devoto,,,3,
 -34.6526,-58.4827,21,baja,Edesur,Capital,Capital,,,54,
--34.7508,-58.2091,21,baja,Edesur,Berazategui,Berazategui,,,20,
--34.602,-58.3922,21,baja,Edesur,Capital,San Nicolas,,,17,
+-34.7508,-58.2091,21,baja,Edesur,Berazategui,Berazategui,,,22,
+-34.602,-58.3922,21,baja,Edesur,Capital,San Nicolas,,,18,
 -34.6371,-58.4478,21,baja,Edesur,Capital,Parque Chacabuco,,,7,
+-34.7612,-58.3309,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,14,
 -34.6332,-58.3728,21,baja,Edesur,Capital,Barracas,,,8,
--34.8288,-58.3565,21,baja,Edesur,Almirante Brown,Claypole,,,94,
+-34.8288,-58.3565,21,baja,Edesur,Almirante Brown,Claypole,,,106,
