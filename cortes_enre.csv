@@ -20,19 +20,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.654822235,-58.417480448,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-15/039-1-15,229,2022-12-14 06:30
 -34.655203292,-58.419250017,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-15/039-1-15,145,2022-12-14 06:30
 -34.654793617,-58.418878329,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-15/039-1-15,137,2022-12-14 06:30
--34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,Sin Datos
--34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos
--34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,Sin Datos
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-12-14 02:00
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-12-14 02:00
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-12-14 02:00
 -34.698617858,-58.772559257,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5518,319,2022-12-14 02:00
 -34.3802,-58.5543,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,13,
 -34.3778,-58.5336,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,10,
 -34.4084,-58.5739,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,10,
--34.5549,-58.5566,22,baja,Edenor,Gral San Martin,Gral Jose Tomas Guido,,,31,
 -34.4471,-58.9129,22,baja,Edenor,Pilar,Pilar,,,14,
--34.5653,-58.4452,22,baja,Edenor,Capital Federal,Belgrano,,,15,
 -34.5506,-58.7452,22,baja,Edenor,San Miguel,San Miguel,,,25,
 -34.3495,-58.6057,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,4,
--34.6397,-58.4566,21,baja,Edesur,Capital,Flores,,,17,
 -34.6343,-58.3735,21,baja,Edesur,Capital,Barracas,,,82,
 -34.5998,-58.5191,21,baja,Edesur,Capital,Villa Devoto,,,35,
 -34.6069,-58.4186,21,baja,Edesur,Capital,Capital,,,16,
@@ -48,7 +45,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6949,-58.3364,21,baja,Edesur,Avellaneda,Villa Dominico,,,10,
 -34.6242,-58.4319,21,baja,Edesur,Capital,Caballito,,,2,
 -34.9628,-58.7262,21,baja,Edesur,Cañuelas,Zona Rural,,,11,
--34.6139,-58.4474,21,baja,Edesur,Capital,Caballito,,,32,
+-34.5998,-58.4051,21,baja,Edesur,Capital,Capital,,,7,
+-34.6139,-58.4474,21,baja,Edesur,Capital,Caballito,,,33,
 -34.6254,-58.4147,21,baja,Edesur,Capital,Boedo,,,20,
 -34.6174,-58.4739,21,baja,Edesur,Capital,Villa Sta. Rita,,,4,
 -34.6134,-58.4928,21,baja,Edesur,Capital,Capital,,,37,
@@ -56,4 +54,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.644,-58.4224,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
 -34.5935,-58.4358,21,baja,Edesur,Capital,Capital,,,2,
 -34.7451,-58.4841,21,baja,Edesur,Lomas De Zamora,Bandfield,,,8,
+-34.5982,-58.5018,21,baja,Edesur,Capital,Villa Devoto,,,6,
 -34.7712,-58.3604,21,baja,Edesur,Lomas De Zamora,Temperley,,,6,
