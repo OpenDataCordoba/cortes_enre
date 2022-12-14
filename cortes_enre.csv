@@ -6,8 +6,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.135916463,-58.735400030,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos
 -35.134221341,-58.733588360,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos
 -35.135917829,-58.740060851,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos
--34.999436958,-58.658969822,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-27/271-2-27,4,Sin Datos
--34.994041362,-58.657927156,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-27/271-2-27,1,Sin Datos
 -34.974162900,-58.516142114,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,1,Sin Datos
 -34.957660098,-58.534726965,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,Sin Datos
 -34.977477143,-58.512065751,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,9,Sin Datos
@@ -23,20 +21,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.199992601,-58.619637406,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -35.193433373,-58.628127168,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -35.065688516,-58.581302680,11,media,Edesur,Cañuelas,Zona Rural 7,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
--35.081901723,-58.577983110,11,media,Edesur,Cañuelas,Zona Rural 7,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -35.113188865,-58.577347636,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
--34.816639661,-58.331908509,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,162,2022-12-14 01:01
--34.817331109,-58.333242517,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,25,2022-12-14 01:01
--34.815211315,-58.329125552,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,150,2022-12-14 01:01
--34.814198816,-58.331546098,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,1,2022-12-14 01:01
--34.818358781,-58.332989253,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,151,2022-12-14 01:01
--34.832023512,-58.342208034,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-2-28/189-2-28,1,2022-12-14 01:01
--34.828142925,-58.341748002,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Rafael Calzada,R:189-2-28/189-2-28,1,2022-12-14 01:01
--34.816101658,-58.325185234,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,6,2022-12-14 01:01
--34.814434107,-58.327605333,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,23,2022-12-14 01:01
--34.812642566,-58.330281328,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,211,2022-12-14 01:01
--34.819038734,-58.322884548,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,8,2022-12-14 01:01
--34.817620038,-58.324008444,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,47,2022-12-14 01:01
 -34.736554843,-58.466050035,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-2-22/281-2-22,13,2022-12-14 00:15
 -34.735048792,-58.468567321,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-22/281-2-22,22,2022-12-14 00:15
 -34.735267417,-58.468401971,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-22/281-2-22,15,2022-12-14 00:15
@@ -82,95 +67,133 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.748958550,-58.454874294,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-22/281-2-22,5,2022-12-14 00:15
 -34.773051790,-58.409027926,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-24/182-2-24,420,2022-12-14 00:16
 -34.771632796,-58.405345375,11,media,Edesur,Lomas De Zamora,Temperley,Santa Catalina,R:182-2-24/182-2-24,1,2022-12-14 00:16
--34.942276686,-58.444861098,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.930928898,-58.447005770,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,3,2022-12-13 22:25
--34.883576703,-58.420039340,11,media,Edesur,Pte Peron,America Unida,Glew,R:277-1-14/277-1-14,95,2022-12-13 22:25
--34.930573884,-58.449191615,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,45,2022-12-13 22:25
--34.928749950,-58.450353896,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,19,2022-12-13 22:25
--34.926773686,-58.454204110,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,36,2022-12-13 22:25
--34.930757981,-58.460239737,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,38,2022-12-13 22:25
--34.936244728,-58.460175199,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,50,2022-12-13 22:25
--34.936956447,-58.455017479,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,90,2022-12-13 22:25
--34.930960144,-58.454997290,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,118,2022-12-13 22:25
--34.891448495,-58.434318703,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,21,2022-12-13 22:25
--34.918272544,-58.455728275,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,2,2022-12-13 22:25
--34.891026905,-58.431511235,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.876563331,-58.445321005,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,2,2022-12-13 22:25
--34.890868875,-58.448619839,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.894623937,-58.445016275,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.893155407,-58.435718515,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,4,2022-12-13 22:25
--34.896732913,-58.436430577,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,6,2022-12-13 22:25
--34.896140179,-58.441679363,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,4,2022-12-13 22:25
--34.896992985,-58.443406833,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,14,2022-12-13 22:25
--34.879833639,-58.454755692,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.864574163,-58.454932441,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,4,2022-12-13 22:25
--34.861349874,-58.457239357,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,2,2022-12-13 22:25
--34.899426770,-58.429885802,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.885189171,-58.438959629,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,2,2022-12-13 22:25
--34.908164929,-58.436062011,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.945340438,-58.459612225,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,6,2022-12-13 22:25
--34.940537421,-58.451770454,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.886326159,-58.422130161,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-14/277-1-14,8,2022-12-13 22:25
--34.879525850,-58.443150938,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.881859500,-58.458676528,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.884486893,-58.463776373,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.892000867,-58.459374899,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-14/277-1-14,2,2022-12-13 22:25
--34.896635676,-58.455396363,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,2,2022-12-13 22:25
--34.898737247,-58.453888673,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,1,2022-12-13 22:25
--34.868842860,-58.449205984,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,47,2022-12-13 22:25
--34.867460845,-58.446417566,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,136,2022-12-13 22:25
--34.864455503,-58.440185750,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,93,2022-12-13 22:25
--34.865892244,-58.443085398,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,52,2022-12-13 22:25
--34.859622466,-58.454442261,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-1-14/277-1-14,88,2022-12-13 22:25
--34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-12-13 22:00
--34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-12-13 22:00
--34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-12-13 22:00
--34.349511941,-58.807712542,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,36,2022-12-14 00:00
--34.348799373,-58.809197548,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,1,2022-12-14 00:00
--34.353215206,-58.797367531,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,5,2022-12-14 00:00
--34.349390108,-58.807527512,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,1,2022-12-14 00:00
--34.354284676,-58.800819718,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,244,2022-12-14 00:00
--34.354612908,-58.794845511,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,61,2022-12-14 00:00
--34.353675920,-58.795726248,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,218,2022-12-14 00:00
--34.354286436,-58.798327939,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,106,2022-12-14 00:00
--34.352804835,-58.798704474,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,38,2022-12-14 00:00
--34.347851087,-58.805526776,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,82,2022-12-14 00:00
--34.352643937,-58.796413542,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,228,2022-12-14 00:00
--34.348691822,-58.806694422,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5531,1,2022-12-14 00:00
+-34.872838681,-58.192726621,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,477,2022-12-14 01:19
+-34.884982729,-58.201810863,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,6,2022-12-14 01:19
+-34.889287412,-58.207044056,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,5,2022-12-14 01:19
+-34.893416839,-58.211947328,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,5,2022-12-14 01:19
+-34.885617373,-58.211906780,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2022-12-14 01:19
+-34.883074329,-58.212221419,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,3,2022-12-14 01:19
+-34.884949987,-58.209835400,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.881228575,-58.212974914,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.881352602,-58.210559479,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2022-12-14 01:19
+-34.885387909,-58.214728659,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.927145781,-58.249652370,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,4,2022-12-14 01:19
+-34.929269368,-58.244500153,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,7,2022-12-14 01:19
+-34.928073715,-58.250739821,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,5,2022-12-14 01:19
+-34.918968924,-58.240551148,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,6,2022-12-14 01:19
+-34.921779108,-58.243730065,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,4,2022-12-14 01:19
+-34.908342080,-58.228087674,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,12,2022-12-14 01:19
+-34.897466338,-58.216635591,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.885820021,-58.214174070,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.926079659,-58.248455620,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,6,2022-12-14 01:19
+-34.885432421,-58.218632907,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.925010170,-58.247257976,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,3,2022-12-14 01:19
+-34.929338948,-58.252177916,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,21,2022-12-14 01:19
+-34.884505202,-58.201230800,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,5,2022-12-14 01:19
+-34.877138049,-58.196671413,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,638,2022-12-14 01:19
+-34.890382223,-58.216810156,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.932000788,-58.247654862,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,13,2022-12-14 01:19
+-34.873333317,-58.199255058,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,26,2022-12-14 01:19
+-34.873196740,-58.197826784,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,56,2022-12-14 01:19
+-34.873912271,-58.198513649,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,27,2022-12-14 01:19
+-34.872627197,-58.198545140,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,26,2022-12-14 01:19
+-34.867660265,-58.204827729,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,43,2022-12-14 01:19
+-34.868119936,-58.204286919,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,30,2022-12-14 01:19
+-34.868563217,-58.203759314,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,35,2022-12-14 01:19
+-34.869055858,-58.203099432,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,29,2022-12-14 01:19
+-34.869427235,-58.202596441,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,5,2022-12-14 01:19
+-34.870285326,-58.201480514,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,26,2022-12-14 01:19
+-34.870733926,-58.200934095,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,32,2022-12-14 01:19
+-34.871128046,-58.200428515,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,24,2022-12-14 01:19
+-34.871268499,-58.200248337,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,55,2022-12-14 01:19
+-34.872225778,-58.199041913,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,16,2022-12-14 01:19
+-34.872878735,-58.199830730,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,29,2022-12-14 01:19
+-34.872049332,-58.200886997,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,37,2022-12-14 01:19
+-34.870681712,-58.201905982,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,74,2022-12-14 01:19
+-34.870525833,-58.203629249,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,15,2022-12-14 01:19
+-34.869460703,-58.205014382,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,53,2022-12-14 01:19
+-34.870870857,-58.204027794,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,29,2022-12-14 01:19
+-34.868418616,-58.196691660,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,6,2022-12-14 01:19
+-34.869417371,-58.197137922,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,20,2022-12-14 01:19
+-34.868677278,-58.198112146,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,28,2022-12-14 01:19
+-34.868493359,-58.198339319,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,37,2022-12-14 01:19
+-34.869780574,-58.198266581,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,12,2022-12-14 01:19
+-34.868170031,-58.200902450,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,45,2022-12-14 01:19
+-34.870357307,-58.198252153,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,42,2022-12-14 01:19
+-34.869108527,-58.199819112,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,36,2022-12-14 01:19
+-34.873895415,-58.189094817,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,175,2022-12-14 01:19
+-34.870929323,-58.195214377,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,159,2022-12-14 01:19
+-34.870400789,-58.201603309,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,8,2022-12-14 01:19
+-34.882427153,-58.198819280,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,12,2022-12-14 01:19
+-34.875249928,-58.199923873,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,26,2022-12-14 01:19
+-34.894146070,-58.208087851,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,2,2022-12-14 01:19
+-34.894529611,-58.206770220,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.836962062,-58.093694396,11,media,Edesur,Berazategui,Hudson,S/D,R:951-1-01/951-1-01,7,2022-12-14 01:19
+-34.886869516,-58.197322172,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,6,2022-12-14 01:19
+-34.881671341,-58.196798605,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,2,2022-12-14 01:19
+-34.870281283,-58.180074124,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,91,2022-12-14 01:19
+-34.883024829,-58.195145242,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.882983561,-58.197978137,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.871687738,-58.185163668,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,2,2022-12-14 01:19
+-34.872012485,-58.184748362,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,38,2022-12-14 01:19
+-34.873450718,-58.182917185,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,21,2022-12-14 01:19
+-34.932411188,-58.255700984,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2022-12-14 01:19
+-34.926521987,-58.241332387,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-01/951-1-01,1,2022-12-14 01:19
+-34.886296026,-58.217332410,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2022-12-14 01:19
+-34.870322724,-58.188802420,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,155,2022-12-14 01:19
+-34.869279779,-58.192458874,11,media,Edesur,Florencio Varela,Ing. Allan,S/D,R:951-1-01/951-1-01,353,2022-12-14 01:19
+-34.910701876,-58.230997154,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2022-12-14 01:19
+-34.882123165,-58.198454305,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:951-1-01/951-1-01,2,2022-12-14 01:19
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,Sin Datos
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,Sin Datos
+-34.698617858,-58.772559257,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5518,319,2022-12-13 23:00
+-34.538326989,-58.484984382,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,671,Sin Datos
+-34.538673666,-58.480397837,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,414,Sin Datos
+-34.542093709,-58.481605934,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,157,Sin Datos
+-34.540545796,-58.496661460,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,260,Sin Datos
+-34.542226313,-58.485533998,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,269,Sin Datos
+-34.539200658,-58.478882001,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,175,Sin Datos
+-34.538917953,-58.483597497,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,715,Sin Datos
+-34.540794557,-58.501639783,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Aniversario/52-Tr1/52-5545,1,Sin Datos
+-34.537759927,-58.479007723,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,260,Sin Datos
+-34.542265522,-58.485792699,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,149,Sin Datos
+-34.539023486,-58.498080843,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5545,446,Sin Datos
 -34.3802,-58.5543,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,13,
 -34.3778,-58.5336,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,10,
 -34.4247,-58.89,22,baja,Edenor,Pilar,Villa Rosa,,,5,
 -34.6022,-58.8147,22,baja,Edenor,Moreno,Cuartel V,,,30,
--34.5864,-58.4652,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,9,
--34.3573,-58.5932,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,13,
--34.6014,-58.5321,22,baja,Edenor,3 De Febrero,Saenz Pe?A,,,23,
--34.5335,-58.4688,22,baja,Edenor,Vicente Lopez,Vicente Lopez,,,4,
+-34.4581,-59.0201,22,baja,Edenor,Pilar,Manzanares,,,3,
 -34.4084,-58.5739,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,10,
--34.2904,-58.6043,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,4,
--34.6397,-58.4566,21,baja,Edesur,Capital,Flores,,,16,
--34.6343,-58.3735,21,baja,Edesur,Capital,Barracas,,,74,
+-34.4451,-59.012,22,baja,Edenor,Pilar,Manzanares,,,14,
+-34.6231,-58.5656,22,baja,Edenor,3 De Febrero,Caseros,,,4,
+-34.5549,-58.5566,22,baja,Edenor,Gral San Martin,Gral Jose Tomas Guido,,,31,
+-34.4471,-58.9129,22,baja,Edenor,Pilar,Pilar,,,14,
+-34.6397,-58.4566,21,baja,Edesur,Capital,Flores,,,17,
+-34.6343,-58.3735,21,baja,Edesur,Capital,Barracas,,,75,
+-34.5998,-58.5191,21,baja,Edesur,Capital,Villa Devoto,,,35,
 -34.6069,-58.4186,21,baja,Edesur,Capital,Capital,,,16,
 -34.6335,-58.5282,21,baja,Edesur,Capital,Versalles,,,45,
 -34.6131,-58.4092,21,baja,Edesur,Capital,Balvanera,,,24,
--34.7718,-58.3598,21,baja,Edesur,Lomas De Zamora,Temperley,,,32,
+-34.7718,-58.3598,21,baja,Edesur,Lomas De Zamora,Temperley,,,33,
 -34.6123,-58.3857,21,baja,Edesur,Capital,Monserrat,,,21,
--34.9074,-58.3616,21,baja,Edesur,Pte Peron,Guernica,,,9,
+-34.9074,-58.3616,21,baja,Edesur,Pte Peron,Guernica,,,10,
 -34.6561,-58.376,21,baja,Edesur,Capital,Barracas,,,7,
 -34.6529,-58.483,21,baja,Edesur,Capital,Parque Avellaneda,,,3,
--34.5949,-58.448,21,baja,Edesur,Capital,Villa Crespo,,,28,
--34.6414,-58.4263,21,baja,Edesur,Capital,Nueva Pompeya,,,7,
+-34.5949,-58.448,21,baja,Edesur,Capital,Villa Crespo,,,29,
+-34.6414,-58.4263,21,baja,Edesur,Capital,Nueva Pompeya,,,10,
 -34.7276,-58.4787,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,
 -34.6186,-58.3937,21,baja,Edesur,Capital,San Cristobal,,,4,
 -34.6949,-58.3364,21,baja,Edesur,Avellaneda,Villa Dominico,,,10,
 -34.8434,-58.4504,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,3,
 -34.6242,-58.4319,21,baja,Edesur,Capital,Caballito,,,2,
--34.9628,-58.7262,21,baja,Edesur,Cañuelas,Zona Rural,,,7,
+-34.9628,-58.7262,21,baja,Edesur,Cañuelas,Zona Rural,,,9,
 -34.6415,-58.4433,21,baja,Edesur,Capital,Parque Chacabuco,,,8,
 -34.6254,-58.4147,21,baja,Edesur,Capital,Boedo,,,20,
--34.6134,-58.4928,21,baja,Edesur,Capital,Capital,,,33,
--34.6216,-58.5047,21,baja,Edesur,Capital,Capital,,,59,
--34.616,-58.4484,21,baja,Edesur,Capital,Capital,,,87,
+-34.6134,-58.4928,21,baja,Edesur,Capital,Capital,,,34,
+-34.616,-58.4484,21,baja,Edesur,Capital,Capital,,,93,
 -35.0308,-58.4176,21,baja,Edesur,San Vicente,San Vicente,,,1,
 -34.8482,-58.4494,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,
--34.7727,-58.3565,21,baja,Edesur,Almirante Brown,San Jose,,,4,
+-34.7727,-58.3565,21,baja,Edesur,Almirante Brown,San Jose,,,5,
 -34.5935,-58.4358,21,baja,Edesur,Capital,Capital,,,2,
+-34.6172,-58.4608,21,baja,Edesur,Capital,Flores,,,5,
