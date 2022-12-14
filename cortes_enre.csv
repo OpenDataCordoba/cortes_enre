@@ -6,7 +6,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.135916463,-58.735400030,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos
 -35.134221341,-58.733588360,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos
 -35.135917829,-58.740060851,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,Sin Datos
+-35.016183495,-58.371331259,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,167,Sin Datos
+-35.014636104,-58.368021650,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,181,Sin Datos
+-35.011335564,-58.368942874,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,171,Sin Datos
+-35.012961209,-58.363485313,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,172,Sin Datos
+-35.015390753,-58.383344322,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,2,Sin Datos
 -35.012285865,-58.558137951,11,media,Edesur,Cañuelas,Zona Rural 8,Canuelas,N:271-1-14/271-1-14/271-3-72,3,Sin Datos
+-35.019312193,-58.369771042,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,5,Sin Datos
+-35.023409049,-58.376859642,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,2,Sin Datos
 -35.035717699,-58.563427080,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -35.052345554,-58.561055181,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -35.032520159,-58.568203944,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
@@ -17,33 +24,49 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.193433373,-58.628127168,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -35.065688516,-58.581302680,11,media,Edesur,Cañuelas,Zona Rural 7,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -35.113188865,-58.577347636,11,media,Edesur,San Vicente,San Vicente,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
--34.654822235,-58.417480448,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-15/039-1-15,229,2022-12-14 13:54
--34.714434477,-58.259760124,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,544,2022-12-14 12:34
--34.717548952,-58.261026463,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,120,2022-12-14 12:34
--34.716170019,-58.258801209,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,35,2022-12-14 12:34
--34.717792005,-58.260217987,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,49,2022-12-14 12:34
--34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-12-14 09:00
--34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-12-14 09:00
--34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-12-14 09:00
--34.389682060,-58.536411663,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,Sin Datos
--34.380150124,-58.554298598,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,63,Sin Datos
--34.386960077,-58.545413057,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
--34.536914633,-58.510102168,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5521,1,2022-12-14 09:00
--34.594478083,-58.995926671,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,146,2022-12-14 09:00
--34.311591615,-58.799993229,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,58,Sin Datos
--34.3778,-58.5336,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,10,
+-34.654822235,-58.417480448,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-15/039-1-15,229,2022-12-14 14:45
+-34.714434477,-58.259760124,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,544,2022-12-14 14:24
+-34.717548952,-58.261026463,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,120,2022-12-14 14:24
+-34.716170019,-58.258801209,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,35,2022-12-14 14:24
+-34.717792005,-58.260217987,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,49,2022-12-14 14:24
+-34.759182104,-58.271121879,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,622,2022-12-14 14:45
+-34.759841456,-58.273481332,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,55,2022-12-14 14:45
+-34.760885449,-58.275546658,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,1,2022-12-14 14:45
+-34.761272299,-58.272347410,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-28/085-2-28,3,2022-12-14 14:45
+-34.301592937,-58.727268561,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,17,2022-12-14 11:00
+-34.308721640,-58.713653321,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,2022-12-14 11:00
+-34.337399499,-58.697898132,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,2,2022-12-14 11:00
+-34.536914633,-58.510102168,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5521,1,2022-12-14 10:00
+-34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,481,Sin Datos
+-34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,215,Sin Datos
+-34.714751366,-58.809524019,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,1,Sin Datos
+-34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,Sin Datos
+-34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,227,Sin Datos
+-34.591926623,-59.005831775,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,101,Sin Datos
+-34.595102086,-59.005784077,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,113,Sin Datos
+-34.594478083,-58.995926671,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,146,Sin Datos
+-34.600858698,-58.843161848,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr1/163-5517,2,2022-12-14 10:00
+-34.483470025,-58.901192932,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5524,79,2022-12-14 10:00
+-34.482822754,-58.900251402,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5524,66,2022-12-14 10:00
+-34.311591615,-58.799993229,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,58,2022-12-14 10:00
+-34.847522028,-58.971770142,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-14 11:00
+-34.840061513,-58.964052849,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-12-14 11:00
+-34.842482653,-58.966538184,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,4,2022-12-14 11:00
+-34.850570875,-58.974890671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-14 11:00
+-34.856695902,-58.981442110,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-14 11:00
+-34.844565094,-58.976317152,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-14 11:00
 -34.0602,-58.7552,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,5,
 -34.4084,-58.5739,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,10,
 -34.3495,-58.6057,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,4,
--34.6012,-58.8156,22,baja,Edenor,Moreno,La Reja,,,7,
+-34.6012,-58.8156,22,baja,Edenor,Moreno,La Reja,,,10,
 -34.4472,-58.9129,22,baja,Edenor,Pilar,Pilar,,,41,
--34.6343,-58.3735,21,baja,Edesur,Capital,Barracas,,,82,
--34.5998,-58.5191,21,baja,Edesur,Capital,Villa Devoto,,,35,
+-34.535,-58.5106,22,baja,Edenor,Vicente Lopez,Florida (Oeste),,,4,
+-34.6369,-58.3735,21,baja,Edesur,Capital,Barracas,,,85,
+-34.6005,-58.5185,21,baja,Edesur,Capital,Villa Devoto,,,35,
 -34.6069,-58.4186,21,baja,Edesur,Capital,Capital,,,16,
 -34.5992,-58.4604,21,baja,Edesur,Capital,Capital,,,43,
--34.6131,-58.4092,21,baja,Edesur,Capital,Balvanera,,,14,
 -34.6123,-58.3857,21,baja,Edesur,Capital,Monserrat,,,22,
--34.6722,-58.4847,21,baja,Edesur,Capital,Villa Lugano,,,6,
+-34.6722,-58.4847,21,baja,Edesur,Capital,Villa Lugano,,,9,
 -34.6195,-58.4083,21,baja,Edesur,Capital,Balvanera,,,18,
 -34.9074,-58.3616,21,baja,Edesur,Pte Peron,Guernica,,,10,
 -34.5949,-58.448,21,baja,Edesur,Capital,Villa Crespo,,,31,
@@ -51,14 +74,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6949,-58.3364,21,baja,Edesur,Avellaneda,Villa Dominico,,,11,
 -34.6242,-58.4319,21,baja,Edesur,Capital,Caballito,,,2,
 -34.5998,-58.4051,21,baja,Edesur,Capital,Capital,,,9,
--34.6139,-58.4474,21,baja,Edesur,Capital,Caballito,,,39,
+-34.6139,-58.4474,21,baja,Edesur,Capital,Caballito,,,41,
 -34.6174,-58.4739,21,baja,Edesur,Capital,Villa Sta. Rita,,,4,
--34.6134,-58.4928,21,baja,Edesur,Capital,Capital,,,38,
+-34.6134,-58.4928,21,baja,Edesur,Capital,Capital,,,39,
 -34.734,-58.3523,21,baja,Edesur,Lanus,Monte Chingolo,,,31,
+-34.7311,-58.4512,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
 -34.644,-58.4224,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
 -34.5935,-58.4358,21,baja,Edesur,Capital,Capital,,,2,
 -34.7451,-58.4841,21,baja,Edesur,Lomas De Zamora,Bandfield,,,8,
 -34.6237,-58.5101,21,baja,Edesur,Capital,Monte Castro,,,3,
--34.5982,-58.5018,21,baja,Edesur,Capital,Villa Devoto,,,9,
+-34.5982,-58.5018,21,baja,Edesur,Capital,Villa Devoto,,,13,
 -34.7712,-58.3604,21,baja,Edesur,Lomas De Zamora,Temperley,,,7,
 -34.6373,-58.4602,21,baja,Edesur,Capital,Capital,,,1,
+-34.7686,-58.2753,21,baja,Edesur,Quilmes,Quilmes,,,58,
+-34.6264,-58.4797,21,baja,Edesur,Capital,Capital,,,2,
