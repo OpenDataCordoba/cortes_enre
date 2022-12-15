@@ -15,10 +15,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.930960144,-58.454997290,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-1-14/277-1-14,118,2022-12-15 22:42
 -34.900768777,-58.385979902,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-23/277-2-23,370,2022-12-15 21:22
 -34.901188526,-58.387453264,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-2-23/277-2-23,222,2022-12-15 21:22
--34.671267038,-58.809219404,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,171,2022-12-15 21:00
+-34.730533372,-58.399302377,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-2122/087-2-2122,731,2022-12-15 20:06
+-34.671267038,-58.809219404,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5511,171,2022-12-15 20:00
 -34.250920781,-58.500706273,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,21,Sin Datos
 -34.705157298,-58.623458357,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Casanova/63-Tr2/63-5535,499,2022-12-15 21:00
+-34.741206892,-58.746079910,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,Sin Datos
+-34.734980942,-58.739454535,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,68,Sin Datos
+-34.739626539,-58.744493058,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,Sin Datos
+-34.734017725,-58.738476478,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,73,Sin Datos
 -34.557549521,-58.705241701,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Moron/67-Tr2/67-5516,208,2022-12-15 20:00
+-34.434257835,-58.693598170,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5524,209,2022-12-15 21:14
+-34.435237759,-58.693116297,12,media,Edenor,S/D,S/D,S/D,R:Benavidez/59-Tr2/59-5524,1,2022-12-15 21:14
+-34.435372687,-58.703020508,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5524,296,2022-12-15 21:14
+-34.433336811,-58.698341642,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5524,231,2022-12-15 21:14
+-34.435581284,-58.696668858,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5524,124,2022-12-15 21:14
 -34.7136,-58.669,22,baja,Edenor,Merlo,Libertad,,,5,
 -34.428,-58.5771,22,baja,Edenor,Tigre,Ciudad De Tigre,,,15,
 -34.4692,-58.6505,22,baja,Edenor,Tigre,El Talar,,,70,
@@ -26,7 +36,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6508,-58.5402,22,baja,Edenor,La Matanza,Ramos Mejia,,,1,
 -34.5698,-58.4604,22,baja,Edenor,Capital Federal,Belgrano,,,6,
 -34.7109,-58.6706,22,baja,Edenor,Merlo,Libertad,,,74,
--34.4455,-58.8077,22,baja,Edenor,Pilar,Del Viso,,,6,
+-34.4455,-58.8077,22,baja,Edenor,Pilar,Del Viso,,,1,
 -34.6575,-58.6127,22,baja,Edenor,Moron,Moron,,,4,
 -34.4576,-58.849,22,baja,Edenor,Pilar,La Lonja,,,15,
 -34.6135,-58.8449,22,baja,Edenor,Moreno,La Reja,,,2,
@@ -34,9 +44,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4095,-58.6116,22,baja,Edenor,Tigre,Rincon De Milberg,,,18,
 -34.6904,-58.7001,22,baja,Edenor,Merlo,Libertad,,,5,
 -34.6354,-58.56,22,baja,Edenor,Moron,Villa Sarmiento,,,5,
+-34.4623,-58.9087,22,baja,Edenor,Pilar,Pilar,,,4,
 -34.7365,-58.6071,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,29,
 -34.4063,-58.6375,22,baja,Edenor,Tigre,Rincon De Milberg,,,1,
--34.6202,-58.9777,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
+-34.6202,-58.9777,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,
 -34.5475,-58.7996,22,baja,Edenor,Moreno,Cuartel V,,,4,
 -34.4455,-58.8077,22,baja,Edenor,Pilar,Del Viso,,,19,
 -34.6091,-58.4022,21,baja,Edesur,Capital,Balvanera,,,14,
@@ -50,15 +61,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8274,-58.3948,21,baja,Edesur,Almirante Brown,Burzaco,,,48,
 -34.6865,-58.469,21,baja,Edesur,Capital,Villa Lugano,,,29,
 -34.7651,-58.3447,21,baja,Edesur,Almirante Brown,San Jose,,,6,
--34.7672,-58.3703,21,baja,Edesur,Lomas De Zamora,Temperley,,,8,
+-34.7672,-58.3703,21,baja,Edesur,Lomas De Zamora,Temperley,,,7,
 -34.784,-58.3503,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,26,
--34.7232,-58.3637,21,baja,Edesur,Lanus,Monte Chingolo,,,38,
--34.616,-58.5288,21,baja,Edesur,Capital,Villa Real,,,146,
--34.6437,-58.4853,21,baja,Edesur,Capital,Capital,,,38,
+-34.7232,-58.3637,21,baja,Edesur,Lanus,Monte Chingolo,,,36,
+-34.616,-58.5288,21,baja,Edesur,Capital,Villa Real,,,148,
+-34.6431,-58.4857,21,baja,Edesur,Capital,Capital,,,38,
 -34.6562,-58.5092,21,baja,Edesur,Capital,Mataderos,,,7,
 -34.6331,-58.4563,21,baja,Edesur,Capital,Flores,,,12,
 -34.696,-58.3596,21,baja,Edesur,Avellaneda,Sarandi,,,6,
--34.633,-58.5285,21,baja,Edesur,Capital,Capital,,,33,
+-34.633,-58.5285,21,baja,Edesur,Capital,Capital,,,34,
 -34.5935,-58.4357,21,baja,Edesur,Capital,Capital,,,2,
 -34.887,-58.4085,21,baja,Edesur,Almirante Brown,Glew,,,5,
 -34.6214,-58.3717,21,baja,Edesur,Capital,San Telmo,,,5,
@@ -66,10 +77,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7914,-58.3856,21,baja,Edesur,Almirante Brown,Adrogue,,,23,
 -34.6275,-58.4731,21,baja,Edesur,Capital,Flores,,,9,
 -34.8284,-58.3528,21,baja,Edesur,Almirante Brown,Claypole,,,3,
--34.7218,-58.3975,21,baja,Edesur,Lanus,Remedios De Escalada,,,10,
+-34.7218,-58.3975,21,baja,Edesur,Lanus,Remedios De Escalada,,,9,
 -34.6006,-58.3917,21,baja,Edesur,Capital,San Nicolas,,,2,
 -34.7802,-58.348,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,1,
--34.7074,-58.4023,21,baja,Edesur,Lanus,Lanus,,,10,
+-34.7074,-58.4023,21,baja,Edesur,Lanus,Lanus,,,11,
 -34.6095,-58.5192,21,baja,Edesur,Capital,Villa Devoto,,,4,
 -34.6427,-58.3617,21,baja,Edesur,Capital,La Boca,,,1,
--34.5996,-58.4538,21,baja,Edesur,Capital,Villa Crespo,,,3,
+-34.5996,-58.4538,21,baja,Edesur,Capital,Villa Crespo,,,4,
