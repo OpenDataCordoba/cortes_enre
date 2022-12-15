@@ -7,9 +7,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.140090244,-58.812803181,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,3,Sin Datos
 -35.162610783,-58.788335604,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,1,Sin Datos
 -35.180367363,-58.807453044,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,1,Sin Datos
--34.778596466,-58.263014314,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,9,Sin Datos
--34.773651920,-58.253917167,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,603,Sin Datos
--34.777578115,-58.265572172,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-1-15/085-1-15,157,Sin Datos
+-34.778596466,-58.263014314,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,9,2022-12-15 11:21
+-34.773651920,-58.253917167,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,603,2022-12-15 11:21
+-34.777578115,-58.265572172,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-1-15/085-1-15,157,2022-12-15 11:21
 -34.590580771,-58.516123067,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,1,Sin Datos
 -34.590744843,-58.517273546,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,414,Sin Datos
 -34.591980184,-58.518537943,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,359,Sin Datos
@@ -19,155 +19,52 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.600953903,-58.522633199,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,538,Sin Datos
 -34.600941739,-58.519923833,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,368,Sin Datos
 -34.599725936,-58.517677036,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-17/038-1-17,1,Sin Datos
--34.950244828,-58.598819414,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,1,Sin Datos
--34.953321031,-58.597713207,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,1,Sin Datos
--34.948136614,-58.592084239,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,1,Sin Datos
--34.950722237,-58.581804218,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,3,Sin Datos
--34.969422081,-58.560316162,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,1,Sin Datos
--34.592080574,-58.513542903,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,394,Sin Datos
--34.591514366,-58.516616157,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,28,Sin Datos
--34.593150282,-58.512115192,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,198,Sin Datos
--34.980376115,-58.394063353,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,303,Sin Datos
--34.981861457,-58.392999341,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,314,Sin Datos
--34.980220573,-58.383412667,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,223,Sin Datos
--34.976027868,-58.386051820,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,354,Sin Datos
--34.985488677,-58.390429207,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,319,Sin Datos
--34.988179957,-58.388949177,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,235,Sin Datos
--34.986994200,-58.385580300,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,135,Sin Datos
--34.968831804,-58.373105208,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,107,Sin Datos
--34.974992153,-58.368523502,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,161,Sin Datos
--34.980592486,-58.366621092,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,333,Sin Datos
--34.987445188,-58.361612824,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,250,Sin Datos
--34.989412901,-58.365828321,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,246,Sin Datos
--34.991436403,-58.370008919,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,236,Sin Datos
--34.995178556,-58.369146651,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,167,Sin Datos
--35.002232079,-58.415998732,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--35.008453900,-58.410110163,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--34.961276869,-58.389835454,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,4,Sin Datos
--34.906913270,-58.334830741,11,media,Edesur,Pte Peron,El Paraiso,Burzaco,R:082-3-981/082-3-981,9,Sin Datos
--34.960460129,-58.381299226,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,143,Sin Datos
--34.983522794,-58.377380997,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,376,Sin Datos
--34.956398031,-58.380252834,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,166,Sin Datos
--34.976519466,-58.373897661,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,332,Sin Datos
--34.975651354,-58.382992390,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,153,Sin Datos
--34.964064603,-58.378671296,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,177,Sin Datos
--34.986772486,-58.366549065,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,224,Sin Datos
--34.980993491,-58.370622695,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,320,Sin Datos
--34.968666828,-58.377487535,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,275,Sin Datos
--34.975746452,-58.371998941,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,298,Sin Datos
--34.988518078,-58.394550351,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,132,Sin Datos
--34.971177676,-58.382173530,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,10,Sin Datos
--34.971078313,-58.355114566,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--35.005837688,-58.367706321,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,144,Sin Datos
--35.010153827,-58.411772973,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,34,Sin Datos
--34.999342967,-58.402743801,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,84,Sin Datos
--35.001549494,-58.372115036,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,375,Sin Datos
--34.978779402,-58.380870908,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,45,Sin Datos
--34.956585605,-58.326321446,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,2,Sin Datos
--34.957430078,-58.382460542,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,19,Sin Datos
--34.917602992,-58.323129899,11,media,Edesur,Pte Peron,Zona Rural Ii Pp,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--34.985978527,-58.401603124,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,12,Sin Datos
--34.964759275,-58.389700274,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,62,Sin Datos
--34.961628988,-58.392307022,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,13,Sin Datos
--34.961743055,-58.385521338,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,176,Sin Datos
--34.958802433,-58.387672949,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,25,Sin Datos
--34.974943092,-58.377607273,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,130,Sin Datos
--34.989103374,-58.398945412,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,34,Sin Datos
--34.984400381,-58.376745009,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,228,Sin Datos
--34.982528254,-58.381686523,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,44,Sin Datos
--34.962293939,-58.337762871,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--34.970574512,-58.381138515,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,230,Sin Datos
--35.011121296,-58.362124658,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,121,Sin Datos
--34.963490732,-58.384314896,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,58,Sin Datos
--34.983198050,-58.400174215,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,4,Sin Datos
--34.972327742,-58.384600220,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,12,Sin Datos
--34.972819476,-58.383134646,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,7,Sin Datos
--34.980990552,-58.376806646,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,353,Sin Datos
--35.004406954,-58.400054959,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,92,Sin Datos
--34.947154493,-58.306979824,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,2,Sin Datos
--35.007494111,-58.409249959,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,29,Sin Datos
--34.998607276,-58.368739383,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,2,Sin Datos
--35.012316759,-58.360852309,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,7,Sin Datos
--35.000735113,-58.365187390,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,9,Sin Datos
--34.980780132,-58.406016940,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,2,Sin Datos
--34.996946609,-58.420570130,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,8,Sin Datos
--34.994675950,-58.422337180,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--35.005839573,-58.417270522,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,24,Sin Datos
--34.989994827,-58.386607033,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,245,Sin Datos
--34.973511628,-58.374209180,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,87,Sin Datos
--34.996906951,-58.351780493,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,3,Sin Datos
--35.005984825,-58.412775099,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,14,Sin Datos
--34.962323463,-58.379897772,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,69,Sin Datos
--34.993106638,-58.404201526,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,15,Sin Datos
--34.997418485,-58.344893272,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--34.987149570,-58.401924042,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--35.005321227,-58.413329063,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--35.013036192,-58.407315365,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,29,Sin Datos
--34.994099990,-58.390480095,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,33,Sin Datos
--34.979204482,-58.371700035,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,109,Sin Datos
--34.981651035,-58.405279751,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--34.978448228,-58.387404327,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,94,Sin Datos
--34.977743785,-58.373772207,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,54,Sin Datos
--34.976679942,-58.391047956,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,41,Sin Datos
--34.967009758,-58.381422562,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,9,Sin Datos
--34.985614295,-58.403675121,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--34.955184621,-58.385080776,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,2,Sin Datos
--35.004658418,-58.403056917,11,media,Edesur,San Vicente,San Vicente,Burzaco,R:082-3-981/082-3-981,22,Sin Datos
--34.984159340,-58.363101563,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,296,Sin Datos
--34.963845893,-58.385830897,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,22,Sin Datos
--34.976537881,-58.389573217,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,29,Sin Datos
--34.988642208,-58.393095250,11,media,Edesur,S/D,S/D,Burzaco,R:082-3-981/082-3-981,5,Sin Datos
--34.977455803,-58.388789036,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,22,Sin Datos
--34.964056773,-58.377193645,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,33,Sin Datos
--34.964981282,-58.376515257,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,11,Sin Datos
--34.966078638,-58.377192948,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,27,Sin Datos
--34.967373116,-58.376271144,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,26,Sin Datos
--34.968372848,-58.375452590,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,8,Sin Datos
--34.967434427,-58.376550186,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,36,Sin Datos
--34.967856363,-58.376244239,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,15,Sin Datos
--34.966145431,-58.378835848,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,29,Sin Datos
--34.967373850,-58.378451547,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,45,Sin Datos
--34.967237031,-58.379543305,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,33,Sin Datos
--34.968161801,-58.377883886,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,27,Sin Datos
--34.972486901,-58.372458848,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,139,Sin Datos
--34.983417208,-58.367728041,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,129,Sin Datos
--34.999923445,-58.367384796,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,8,Sin Datos
--34.988750403,-58.358353782,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,99,Sin Datos
--34.992160251,-58.355839262,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,148,Sin Datos
--34.966744012,-58.378572321,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,20,Sin Datos
--34.884921315,-58.337955252,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-3-981/082-3-981,27,Sin Datos
--34.880481676,-58.336315073,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-3-981/082-3-981,2,Sin Datos
--34.883308794,-58.334078664,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-3-981/082-3-981,13,Sin Datos
--34.880308282,-58.332114772,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-3-981/082-3-981,7,Sin Datos
--34.880566647,-58.341036135,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-3-981/082-3-981,140,Sin Datos
--34.886874573,-58.345399715,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-3-981/082-3-981,1,Sin Datos
--34.877563759,-58.360501276,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,112,Sin Datos
--34.875755873,-58.356835365,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,111,Sin Datos
--34.883217485,-58.345653521,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-3-981/082-3-981,149,Sin Datos
--34.874773243,-58.360456474,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,62,Sin Datos
--34.873004986,-58.357544759,11,media,Edesur,Almirante Brown,Glew,Burzaco,R:082-3-981/082-3-981,85,Sin Datos
--34.884830528,-58.342739950,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-3-981/082-3-981,106,Sin Datos
--34.884468973,-58.338284941,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,R:082-3-981/082-3-981,100,Sin Datos
--34.235526966,-58.792870242,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5511,4,2022-12-15 07:00
--34.238961887,-58.784835650,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5511,5,2022-12-15 07:00
--34.881429929,-58.681869344,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5471,1,2022-12-15 06:00
--34.663706428,-58.744577207,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,3,2022-12-15 06:00
--34.663482002,-58.744226872,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,1,2022-12-15 06:00
--34.663110621,-58.746635873,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,1,2022-12-15 06:00
--34.663990754,-58.742755477,12,media,Edenor,S/D,S/D,S/D,R:Merlo/62-Tr1/62-5515,1,2022-12-15 06:00
--34.663170586,-58.744974687,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,1,2022-12-15 06:00
--34.706473592,-58.856443348,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Paso Del Rey/258-Tr2/258-5531,2,2022-12-15 07:00
--34.690026259,-58.830354163,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,199,2022-12-15 07:00
--34.691913441,-58.833377042,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,386,2022-12-15 07:00
--34.690841005,-58.841080724,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,240,2022-12-15 07:00
--34.695747097,-58.842584401,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,167,2022-12-15 07:00
--34.691836628,-58.851899354,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,7,2022-12-15 07:00
--34.698125007,-58.854333498,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,1,2022-12-15 07:00
--34.692559961,-58.845833917,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,193,2022-12-15 07:00
--34.701226243,-58.846259674,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,92,2022-12-15 07:00
--34.692060708,-58.849323735,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,80,2022-12-15 07:00
--34.691234718,-58.837755231,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,119,2022-12-15 07:00
--34.696234907,-58.849921110,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,17,2022-12-15 07:00
+-34.950244828,-58.598819414,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,1,2022-12-15 11:21
+-34.953321031,-58.597713207,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,1,2022-12-15 11:21
+-34.948136614,-58.592084239,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,1,2022-12-15 11:21
+-34.950722237,-58.581804218,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,3,2022-12-15 11:21
+-34.969422081,-58.560316162,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,R:270-1-17/270-1-17,1,2022-12-15 11:21
+-34.592080574,-58.513542903,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,394,2022-12-15 11:21
+-34.591514366,-58.516616157,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,28,2022-12-15 11:21
+-34.593150282,-58.512115192,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,198,2022-12-15 11:21
+-34.980376115,-58.394063353,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,303,2022-12-15 11:21
+-34.981861457,-58.392999341,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,314,2022-12-15 11:21
+-34.980220573,-58.383412667,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,223,2022-12-15 11:21
+-34.976027868,-58.386051820,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,354,2022-12-15 11:21
+-34.985488677,-58.390429207,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,319,2022-12-15 11:21
+-34.983522794,-58.377380997,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,376,2022-12-15 11:21
+-34.976519466,-58.373897661,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,332,2022-12-15 11:21
+-34.975651354,-58.382992390,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,153,2022-12-15 11:21
+-34.978779402,-58.380870908,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,45,2022-12-15 11:21
+-34.984400381,-58.376745009,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,228,2022-12-15 11:21
+-34.982528254,-58.381686523,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,44,2022-12-15 11:21
+-34.980990552,-58.376806646,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,353,2022-12-15 11:21
+-34.978448228,-58.387404327,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,94,2022-12-15 11:21
+-34.977743785,-58.373772207,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,54,2022-12-15 11:21
+-34.976679942,-58.391047956,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,41,2022-12-15 11:21
+-34.976537881,-58.389573217,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,29,2022-12-15 11:21
+-34.988642208,-58.393095250,11,media,Edesur,S/D,S/D,Burzaco,R:082-3-981/082-3-981,5,2022-12-15 11:21
+-34.977455803,-58.388789036,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-3-981/082-3-981,22,2022-12-15 11:21
+-34.235526966,-58.792870242,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5511,4,2022-12-15 08:00
+-34.238961887,-58.784835650,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5511,5,2022-12-15 08:00
+-34.881429929,-58.681869344,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr3/353-5471,1,Sin Datos
+-34.663706428,-58.744577207,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,3,2022-12-15 07:00
+-34.663482002,-58.744226872,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,1,2022-12-15 07:00
+-34.663110621,-58.746635873,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,1,2022-12-15 07:00
+-34.663990754,-58.742755477,12,media,Edenor,S/D,S/D,S/D,R:Merlo/62-Tr1/62-5515,1,2022-12-15 07:00
+-34.663170586,-58.744974687,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5515,1,2022-12-15 07:00
+-34.706473592,-58.856443348,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Paso Del Rey/258-Tr2/258-5531,2,Sin Datos
+-34.690026259,-58.830354163,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,199,Sin Datos
+-34.691913441,-58.833377042,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,386,Sin Datos
+-34.690841005,-58.841080724,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,240,Sin Datos
+-34.695747097,-58.842584401,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,167,Sin Datos
+-34.691836628,-58.851899354,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,7,Sin Datos
+-34.698125007,-58.854333498,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,1,Sin Datos
+-34.692559961,-58.845833917,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,193,Sin Datos
+-34.701226243,-58.846259674,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,92,Sin Datos
+-34.692060708,-58.849323735,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,80,Sin Datos
+-34.691234718,-58.837755231,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,119,Sin Datos
+-34.696234907,-58.849921110,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,17,Sin Datos
 -34.626558108,-58.860534337,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,85,Sin Datos
 -34.630740872,-58.865223529,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,429,Sin Datos
 -34.624678785,-58.860468639,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,281,Sin Datos
@@ -181,46 +78,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.619533734,-58.914433743,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,115,Sin Datos
 -34.616956259,-58.925320658,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,84,Sin Datos
 -34.618812066,-58.917487325,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,50,Sin Datos
--34.380664889,-58.869442530,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,23,2022-12-15 06:00
--34.383397001,-58.868938691,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,7,2022-12-15 06:00
--34.384896449,-58.867857534,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,5,2022-12-15 06:00
--34.385931500,-58.867104313,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,1,2022-12-15 06:00
--34.386948120,-58.866323109,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,6,2022-12-15 06:00
--34.383753037,-58.870683138,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,3,2022-12-15 06:00
--34.372658491,-58.874904815,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,137,2022-12-15 06:00
--34.392142797,-58.865717121,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,10,2022-12-15 06:00
--34.376323789,-58.867613229,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,215,2022-12-15 06:00
--34.413055155,-58.864665683,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5525,55,2022-12-15 06:00
--34.349444797,-58.905620465,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,68,2022-12-15 06:00
--34.347776955,-58.910956152,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,83,2022-12-15 06:00
--34.341446934,-58.913400058,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,188,2022-12-15 06:00
--34.363519426,-58.895063879,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,47,2022-12-15 06:00
--34.365623053,-58.900919424,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,123,2022-12-15 06:00
--34.360531249,-58.906933343,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,82,2022-12-15 06:00
--34.354723114,-58.910445395,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,104,2022-12-15 06:00
--34.348247373,-58.895085765,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,82,2022-12-15 06:00
--34.340475987,-58.914315265,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,75,2022-12-15 06:00
--34.342774877,-58.899416494,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,154,2022-12-15 06:00
--34.366527081,-58.887318367,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,111,2022-12-15 06:00
--34.352067960,-58.904878864,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,43,2022-12-15 06:00
--34.345634697,-58.907165158,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,54,2022-12-15 06:00
--34.337707986,-58.909421033,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,46,2022-12-15 06:00
--34.340011567,-58.904056523,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,69,2022-12-15 06:00
--34.348569095,-58.901759619,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,45,2022-12-15 06:00
--34.350915169,-58.913110571,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,50,2022-12-15 06:00
--34.451098049,-58.550956458,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,491,2022-12-15 09:00
--34.449175825,-58.552287103,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,397,2022-12-15 09:00
--34.457223601,-58.544961789,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5524,259,2022-12-15 09:00
--34.453226937,-58.546893022,12,media,Edenor,San Fernando,Victoria,S/D,R:Victoria/53-Tr2/53-5524,401,2022-12-15 09:00
--34.445937955,-58.568886600,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,428,2022-12-15 09:00
--34.448182000,-58.567115244,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,262,2022-12-15 09:00
--34.443400581,-58.570554818,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,211,2022-12-15 09:00
--34.451274439,-58.552838908,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,1,2022-12-15 09:00
--34.444642129,-58.572176408,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,143,2022-12-15 09:00
--34.449546929,-58.567389885,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,37,2022-12-15 09:00
--34.447390820,-58.550609871,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,600,2022-12-15 09:00
--34.448077191,-58.552620381,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,1,2022-12-15 09:00
--34.449669388,-58.567458467,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,1,2022-12-15 09:00
+-34.380664889,-58.869442530,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,23,2022-12-15 07:00
+-34.383397001,-58.868938691,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,7,2022-12-15 07:00
+-34.384896449,-58.867857534,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,5,2022-12-15 07:00
+-34.385931500,-58.867104313,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,1,2022-12-15 07:00
+-34.386948120,-58.866323109,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,6,2022-12-15 07:00
+-34.383753037,-58.870683138,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,3,2022-12-15 07:00
+-34.372658491,-58.874904815,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,137,2022-12-15 07:00
+-34.392142797,-58.865717121,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,10,2022-12-15 07:00
+-34.376323789,-58.867613229,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,215,2022-12-15 07:00
+-34.413055155,-58.864665683,12,media,Edenor,S/D,S/D,S/D,R:Matheu/51-Tr2/51-5525,55,2022-12-15 07:00
+-34.349444797,-58.905620465,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,68,2022-12-15 07:00
+-34.347776955,-58.910956152,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,83,2022-12-15 07:00
+-34.341446934,-58.913400058,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,188,2022-12-15 07:00
+-34.363519426,-58.895063879,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,47,2022-12-15 07:00
+-34.365623053,-58.900919424,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,123,2022-12-15 07:00
+-34.360531249,-58.906933343,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,82,2022-12-15 07:00
+-34.354723114,-58.910445395,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,104,2022-12-15 07:00
+-34.348247373,-58.895085765,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,82,2022-12-15 07:00
+-34.340475987,-58.914315265,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,75,2022-12-15 07:00
+-34.342774877,-58.899416494,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,154,2022-12-15 07:00
+-34.366527081,-58.887318367,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,111,2022-12-15 07:00
+-34.352067960,-58.904878864,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,43,2022-12-15 07:00
+-34.345634697,-58.907165158,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,54,2022-12-15 07:00
+-34.337707986,-58.909421033,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,46,2022-12-15 07:00
+-34.340011567,-58.904056523,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,69,2022-12-15 07:00
+-34.348569095,-58.901759619,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,45,2022-12-15 07:00
+-34.350915169,-58.913110571,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5525,50,2022-12-15 07:00
+-34.445937955,-58.568886600,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,428,2022-12-15 07:00
+-34.448182000,-58.567115244,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,262,2022-12-15 07:00
+-34.443400581,-58.570554818,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,211,2022-12-15 07:00
+-34.444642129,-58.572176408,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,143,2022-12-15 07:00
+-34.449546929,-58.567389885,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,37,2022-12-15 07:00
 -34.6521,-58.8779,22,baja,Edenor,Moreno,Francisco Alvarez,,,5,
 -34.4535,-58.6057,22,baja,Edenor,Tigre,Troncos Del Talar,,,17,
 -34.4295,-58.998,22,baja,Edenor,Pilar,Fatima,,,17,
@@ -251,26 +140,27 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6311,-58.7094,22,baja,Edenor,Ituzaingo,Ituzaingo,,,14,
 -34.6933,-58.731,22,baja,Edenor,Merlo,Merlo,,,73,
 -34.744,-58.6155,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,10,
--34.6097,-58.6259,22,baja,Edenor,Hurlingham,Hurlingham,,,11,
--34.4227,-58.894,22,baja,Edenor,Pilar,Villa Rosa,,,6,
--34.624,-58.5061,21,baja,Edesur,Capital,Capital,,,30,
+-34.6097,-58.6259,22,baja,Edenor,Hurlingham,Hurlingham,,,2,
+-34.4227,-58.894,22,baja,Edenor,Pilar,Villa Rosa,,,11,
+-34.4458,-58.8295,22,baja,Edenor,Pilar,La Lonja,,,14,
+-34.7905,-58.8362,22,baja,Edenor,Marcos Paz,Marcos Paz,,,6,
+-34.624,-58.5061,21,baja,Edesur,Capital,Capital,,,35,
 -34.655,-58.5018,21,baja,Edesur,Capital,Mataderos,,,18,
 -34.5949,-58.448,21,baja,Edesur,Capital,Capital,,,41,
 -34.6626,-58.5079,21,baja,Edesur,Capital,Capital,,,13,
--34.6174,-58.4739,21,baja,Edesur,Capital,Villa Sta. Rita,,,17,
+-34.6174,-58.4739,21,baja,Edesur,Capital,Villa Sta. Rita,,,16,
 -34.5935,-58.4358,21,baja,Edesur,Capital,Capital,,,2,
 -34.6198,-58.4981,21,baja,Edesur,Capital,Monte Castro,,,9,
 -34.6333,-58.4321,21,baja,Edesur,Capital,Parque Chacabuco,,,5,
 -34.656,-58.4178,21,baja,Edesur,Capital,Nueva Pompeya,,,47,
 -34.6336,-58.4378,21,baja,Edesur,Capital,Parque Chacabuco,,,6,
 -34.6277,-58.4769,21,baja,Edesur,Capital,Floresta,,,10,
--34.6388,-58.421,21,baja,Edesur,Capital,Boedo,,,112,
+-34.6388,-58.421,21,baja,Edesur,Capital,Boedo,,,114,
 -34.9179,-58.3961,21,baja,Edesur,Pte Peron,Villa Numancia Sur,,,8,
 -34.8649,-58.3923,21,baja,Edesur,Almirante Brown,Longchamps,,,25,
 -34.6226,-58.511,21,baja,Edesur,Capital,Capital,,,39,
--34.7509,-58.3229,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,6,
 -34.6908,-58.4747,21,baja,Edesur,Capital,Villa Riachuelo,,,19,
--34.6166,-58.5284,21,baja,Edesur,Capital,Villa Real,,,4,
+-34.6166,-58.5284,21,baja,Edesur,Capital,Villa Real,,,6,
 -34.6166,-58.5135,21,baja,Edesur,Capital,Villa Devoto,,,4,
 -34.7508,-58.2091,21,baja,Edesur,Berazategui,Berazategui,,,29,
 -34.6371,-58.4478,21,baja,Edesur,Capital,Parque Chacabuco,,,8,
@@ -280,9 +170,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7759,-58.342,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,6,
 -34.7701,-58.2301,21,baja,Edesur,Berazategui,Berazategui,,,19,
 -34.7079,-58.3163,21,baja,Edesur,Avellaneda,Wilde,,,14,
+-34.6513,-58.4871,21,baja,Edesur,Capital,Parque Avellaneda,,,17,
 -34.6188,-58.453,21,baja,Edesur,Capital,Caballito,,,5,
--34.6539,-58.5108,21,baja,Edesur,Capital,Mataderos,,,8,
--34.6516,-58.4825,21,baja,Edesur,Capital,Parque Avellaneda,,,10,
+-34.6539,-58.5108,21,baja,Edesur,Capital,Mataderos,,,10,
 -34.892,-58.3971,21,baja,Edesur,Almirante Brown,Glew,,,3,
 -35.0266,-58.4322,21,baja,Edesur,San Vicente,San Vicente,,,1,
 -34.667,-58.4735,21,baja,Edesur,Capital,Capital,,,3,
