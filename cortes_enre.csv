@@ -1,51 +1,70 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.740099511,-58.396574847,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1516/087-2-1516,116,2022-12-16 21:24
--34.816944680,-58.188905493,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,29,2022-12-16 21:24
--34.813125618,-58.183386386,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,42,2022-12-16 21:24
--34.811073979,-58.181656005,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,250,2022-12-16 21:24
--34.813958203,-58.186540503,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,20,2022-12-16 21:24
--34.813268026,-58.185819529,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,13,2022-12-16 21:24
--34.812477124,-58.184840193,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-16 21:24
--34.812922681,-58.184875257,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,11,2022-12-16 21:24
--34.813581777,-58.185444826,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,21,2022-12-16 21:24
--34.813125827,-58.184631785,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-16 21:24
--34.811700054,-58.183087856,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,26,2022-12-16 21:24
--34.813032850,-58.184159115,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,79,2022-12-16 21:24
--34.814512217,-58.185877816,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-16 21:24
--34.812314059,-58.182360651,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-16 21:24
--34.815065261,-58.185209047,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,18,2022-12-16 21:24
--34.813778822,-58.183310123,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,18,2022-12-16 21:24
--34.813170374,-58.182681241,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,22,2022-12-16 21:24
--34.814857926,-58.183917008,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,11,2022-12-16 21:24
--34.814275368,-58.183254363,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,14,2022-12-16 21:24
--34.814047336,-58.182986582,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,20,2022-12-16 21:24
--34.813481938,-58.182304240,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,13,2022-12-16 21:24
--34.813008131,-58.181833252,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,13,2022-12-16 21:24
--34.812925489,-58.181636853,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,3,2022-12-16 21:24
--34.815742393,-58.184390905,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-16 21:24
--34.814708988,-58.182736663,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,40,2022-12-16 21:24
--34.814456515,-58.182497541,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-16 21:24
--34.813232661,-58.181246422,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,28,2022-12-16 21:24
--34.815466962,-58.189246987,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-16 21:24
--34.814738237,-58.187497387,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,10,2022-12-16 21:24
--34.814998782,-58.187709256,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-16 21:24
--34.815774479,-58.188026377,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,17,2022-12-16 21:24
--34.814684286,-58.186906998,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,18,2022-12-16 21:24
--34.815447135,-58.185986718,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,52,2022-12-16 21:24
--34.817455445,-58.187268877,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,67,2022-12-16 21:24
--34.816475847,-58.186055576,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,26,2022-12-16 21:24
--34.818736981,-58.190601207,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,259,2022-12-16 21:24
--34.814309925,-58.182671651,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,4,2022-12-16 21:24
+-34.740099511,-58.396574847,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1516/087-2-1516,116,2022-12-16 21:45
+-34.816944680,-58.188905493,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,29,2022-12-16 21:45
+-34.813125618,-58.183386386,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,42,2022-12-16 21:45
+-34.811073979,-58.181656005,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,250,2022-12-16 21:45
+-34.813958203,-58.186540503,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,20,2022-12-16 21:45
+-34.813268026,-58.185819529,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,13,2022-12-16 21:45
+-34.812477124,-58.184840193,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-16 21:45
+-34.812922681,-58.184875257,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,11,2022-12-16 21:45
+-34.813581777,-58.185444826,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,21,2022-12-16 21:45
+-34.813125827,-58.184631785,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-16 21:45
+-34.811700054,-58.183087856,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,26,2022-12-16 21:45
+-34.813032850,-58.184159115,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,79,2022-12-16 21:45
+-34.814512217,-58.185877816,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-16 21:45
+-34.812314059,-58.182360651,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-16 21:45
+-34.815065261,-58.185209047,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,18,2022-12-16 21:45
+-34.813778822,-58.183310123,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,18,2022-12-16 21:45
+-34.813170374,-58.182681241,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,22,2022-12-16 21:45
+-34.814857926,-58.183917008,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,11,2022-12-16 21:45
+-34.814275368,-58.183254363,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,14,2022-12-16 21:45
+-34.814047336,-58.182986582,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,20,2022-12-16 21:45
+-34.813481938,-58.182304240,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,13,2022-12-16 21:45
+-34.813008131,-58.181833252,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,13,2022-12-16 21:45
+-34.812925489,-58.181636853,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,3,2022-12-16 21:45
+-34.815742393,-58.184390905,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-16 21:45
+-34.814708988,-58.182736663,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,40,2022-12-16 21:45
+-34.814456515,-58.182497541,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-16 21:45
+-34.813232661,-58.181246422,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,28,2022-12-16 21:45
+-34.815466962,-58.189246987,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,9,2022-12-16 21:45
+-34.814738237,-58.187497387,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,10,2022-12-16 21:45
+-34.814998782,-58.187709256,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,15,2022-12-16 21:45
+-34.815774479,-58.188026377,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,17,2022-12-16 21:45
+-34.814684286,-58.186906998,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,18,2022-12-16 21:45
+-34.815447135,-58.185986718,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,52,2022-12-16 21:45
+-34.817455445,-58.187268877,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,67,2022-12-16 21:45
+-34.816475847,-58.186055576,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,26,2022-12-16 21:45
+-34.818736981,-58.190601207,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,259,2022-12-16 21:45
+-34.814309925,-58.182671651,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,4,2022-12-16 21:45
 -34.701340652,-58.740680876,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,272,2022-12-16 17:00
--34.838524321,-58.774603900,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-16 17:00
+-34.838524321,-58.774603900,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-16 18:00
 -34.837618368,-58.765730087,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 17:00
 -34.846028057,-58.754821852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 17:00
--34.537127564,-58.598571660,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr2/266-5525,2,2022-12-16 17:00
--34.282038640,-58.662310479,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,14,Sin Datos
--34.286832778,-58.664110410,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,13,Sin Datos
+-34.282038640,-58.662310479,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,14,2022-12-16 18:00
+-34.286832778,-58.664110410,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,13,2022-12-16 18:00
 -34.449558401,-58.846352344,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,137,2022-12-16 17:00
 -34.453182366,-58.843611462,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,89,2022-12-16 17:00
 -34.445340020,-58.849687679,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,2,2022-12-16 17:00
+-34.547416906,-58.555047016,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,378,2022-12-16 20:00
+-34.547969105,-58.553909405,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,335,2022-12-16 20:00
+-34.549405232,-58.553873807,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,185,2022-12-16 20:00
+-34.548920159,-58.552877868,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,388,2022-12-16 20:00
+-34.547468000,-58.554506819,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,150,2022-12-16 20:00
+-34.552457835,-58.560476970,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:J. L. Suarez/266-Tr1/266-5546,338,2022-12-16 20:00
+-34.560093958,-58.554914967,12,media,Edenor,Gral San Martin,Juan Gregorio Las Heras,S/D,R:J. L. Suarez/266-Tr1/266-5546,512,2022-12-16 20:00
+-34.553126660,-58.558734947,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:J. L. Suarez/266-Tr1/266-5546,195,2022-12-16 20:00
+-34.554862562,-58.556593812,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:J. L. Suarez/266-Tr1/266-5546,588,2022-12-16 20:00
+-34.554526601,-58.555919727,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:J. L. Suarez/266-Tr1/266-5546,1,2022-12-16 20:00
+-34.551603819,-58.560488373,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:J. L. Suarez/266-Tr1/266-5546,95,2022-12-16 20:00
+-34.548989640,-58.555753637,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,487,2022-12-16 20:00
+-34.550426592,-58.554401055,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,481,2022-12-16 20:00
+-34.550965401,-58.555899506,12,media,Edenor,S/D,S/D,S/D,R:J. L. Suarez/266-Tr1/266-5546,86,2022-12-16 20:00
+-34.552435930,-58.559636931,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:J. L. Suarez/266-Tr1/266-5546,302,2022-12-16 20:00
+-34.549894155,-58.559460315,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,384,2022-12-16 20:00
+-34.549007834,-58.556681063,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:J. L. Suarez/266-Tr1/266-5546,43,2022-12-16 20:00
+-34.557911457,-58.561803532,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr1/266-5546,360,2022-12-16 20:00
+-34.555395647,-58.557741176,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:J. L. Suarez/266-Tr1/266-5546,412,2022-12-16 20:00
+-34.554738238,-58.557577365,12,media,Edenor,Gral San Martin,Gral Jose Tomas Guido,S/D,R:J. L. Suarez/266-Tr1/266-5546,58,2022-12-16 20:00
 -34.3001,-58.7829,22,baja,Edenor,Escobar,Escobar,,,26,
 -34.4612,-58.9182,22,baja,Edenor,Pilar,Pilar,,,18,
 -34.5868,-58.4929,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,14,
@@ -65,11 +84,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6275,-58.4731,21,baja,Edesur,Capital,Flores,,,9,
 -34.6412,-58.4252,21,baja,Edesur,Capital,Nueva Pompeya,,,6,
 -34.6555,-58.5012,21,baja,Edesur,Capital,Capital,,,10,
--34.7553,-58.438,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,6,
+-34.7553,-58.438,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,
 -34.6312,-58.5192,21,baja,Edesur,Capital,Versalles,,,3,
--34.6148,-58.5288,21,baja,Edesur,Capital,Capital,,,35,
--34.9084,-58.4885,21,baja,Edesur,Esteban Echeverria,Canning,,,19,
--34.6678,-58.3932,21,baja,Edesur,Avellaneda,Avellaneda,,,25,
+-34.6148,-58.5288,21,baja,Edesur,Capital,Capital,,,33,
+-34.6678,-58.3932,21,baja,Edesur,Avellaneda,Avellaneda,,,27,
 -34.8947,-58.508,21,baja,Edesur,Esteban Echeverria,Canning,,,15,
--34.6689,-58.3909,21,baja,Edesur,Avellaneda,Piñeyro,,,2,
+-34.6689,-58.3909,21,baja,Edesur,Avellaneda,Piñeyro,,,3,
 -34.8461,-58.3736,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,1,
