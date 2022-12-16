@@ -1,33 +1,29 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.740099511,-58.396574847,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1516/087-2-1516,116,2022-12-16 23:12
--34.701340652,-58.740680876,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,272,2022-12-16 19:00
--34.838524321,-58.774603900,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-16 20:00
--34.837618368,-58.765730087,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 19:00
--34.846028057,-58.754821852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 19:00
--34.452250516,-58.730848864,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,441,2022-12-16 19:00
--34.670475106,-58.745879272,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5531,1,2022-12-16 19:00
+-34.701340652,-58.740680876,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,272,2022-12-16 20:00
+-34.838524321,-58.774603900,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.837618368,-58.765730087,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 20:00
+-34.846028057,-58.754821852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 20:00
+-34.452250516,-58.730848864,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,441,Sin Datos
+-34.670475106,-58.745879272,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5531,1,2022-12-16 20:00
 -34.449558401,-58.846352344,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,137,Sin Datos
 -34.453182366,-58.843611462,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,89,Sin Datos
 -34.445340020,-58.849687679,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,2,Sin Datos
 -34.549007834,-58.556681063,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:J. L. Suarez/266-Tr1/266-5546,43,Sin Datos
--34.265805007,-58.549303381,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-16 20:00
--34.267489039,-58.556566905,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-16 20:00
--34.265675518,-58.546648179,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-16 20:00
--34.265467429,-58.577350268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-12-16 20:00
 -34.3001,-58.7829,22,baja,Edenor,Escobar,Escobar,,,26,
 -34.5868,-58.4929,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,14,
 -34.4955,-58.6222,22,baja,Edenor,Tigre,Don Torcuato,,,11,
 -34.5491,-58.5572,22,baja,Edenor,Gral San Martin,Gregoria Matorras,,,18,
--34.5692,-58.4696,22,baja,Edenor,Capital Federal,Belgrano,,,7,
 -34.4301,-58.8609,22,baja,Edenor,Pilar,Villa Rosa,,,13,
 -34.6904,-58.7001,22,baja,Edenor,Merlo,Libertad,,,35,
 -34.6102,-58.3887,21,baja,Edesur,Capital,Monserrat,,,20,
--34.6331,-58.4563,21,baja,Edesur,Capital,Flores,,,7,
 -34.6009,-58.4041,21,baja,Edesur,Capital,Balvanera,,,40,
 -34.6448,-58.3695,21,baja,Edesur,Capital,Barracas,,,26,
 -34.6275,-58.4731,21,baja,Edesur,Capital,Flores,,,9,
 -34.6412,-58.4252,21,baja,Edesur,Capital,Nueva Pompeya,,,6,
 -34.7553,-58.438,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,8,
 -34.6312,-58.5192,21,baja,Edesur,Capital,Versalles,,,3,
--34.6678,-58.3932,21,baja,Edesur,Avellaneda,Avellaneda,,,37,
--34.8947,-58.508,21,baja,Edesur,Esteban Echeverria,Canning,,,29,
+-34.6678,-58.3932,21,baja,Edesur,Avellaneda,Avellaneda,,,40,
+-34.8947,-58.508,21,baja,Edesur,Esteban Echeverria,Canning,,,34,
+-34.7645,-58.2741,21,baja,Edesur,Quilmes,Quilmes,,,5,
+-34.6175,-58.5299,21,baja,Edesur,Capital,Capital,,,11,
