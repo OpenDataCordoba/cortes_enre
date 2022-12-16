@@ -38,7 +38,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.778583054,-58.365957802,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,308,2022-12-16 03:38
 -34.778460277,-58.364451236,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,5,2022-12-16 03:38
 -34.773639566,-58.360748174,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-4-47/189-4-47,229,2022-12-16 03:38
--34.555846360,-58.453420490,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5541,1,Sin Datos
+-34.555846360,-58.453420490,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5541,1,2022-12-16 04:00
 -34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,25,Sin Datos
 -34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,2,Sin Datos
 -34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,2,Sin Datos
@@ -81,7 +81,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6682,-58.4719,21,baja,Edesur,Capital,Villa Lugano,,,4,
 -34.7651,-58.3447,21,baja,Edesur,Almirante Brown,San Jose,,,7,
 -34.6102,-58.3887,21,baja,Edesur,Capital,Monserrat,,,16,
--34.6437,-58.4853,21,baja,Edesur,Capital,Capital,,,45,
 -34.6331,-58.4563,21,baja,Edesur,Capital,Flores,,,12,
 -34.6351,-58.3573,21,baja,Edesur,Capital,La Boca,,,5,
 -34.696,-58.3596,21,baja,Edesur,Avellaneda,Sarandi,,,6,
@@ -103,4 +102,3 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7074,-58.4023,21,baja,Edesur,Lanus,Lanus,,,14,
 -34.6436,-58.3612,21,baja,Edesur,Capital,La Boca,,,7,
 -34.6645,-58.3545,21,baja,Edesur,Avellaneda,Avellaneda,,,15,
--34.6006,-58.5038,21,baja,Edesur,Capital,Villa Devoto,,,7,
