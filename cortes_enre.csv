@@ -2,6 +2,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.186840397,-58.629438696,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,N:271-1-14/271-1-14/271-3-72,3,Sin Datos
 -35.199992601,-58.619637406,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
 -35.193433373,-58.628127168,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,N:271-1-14/271-1-14/271-3-72,1,Sin Datos
+-34.415217057,-58.670688002,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,4,Sin Datos
 -34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,25,Sin Datos
 -34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,2,Sin Datos
 -34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,2,Sin Datos
@@ -21,10 +22,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,6,Sin Datos
 -34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,35,Sin Datos
 -34.364766305,-58.654516172,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,16,Sin Datos
--34.478021393,-58.742599940,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5524,189,2022-12-16 08:00
--34.477243309,-58.739430904,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,197,2022-12-16 08:00
--34.479299785,-58.737757927,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,467,2022-12-16 08:00
--34.475469617,-58.742518988,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,386,2022-12-16 08:00
 -34.4692,-58.6505,22,baja,Edenor,Tigre,El Talar,,,70,
 -34.6353,-58.7308,22,baja,Edenor,Moreno,Paso Del Rey,,,5,
 -34.6851,-58.5131,22,baja,Edenor,La Matanza,La Tablada,,,12,
@@ -39,7 +36,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.9252,-58.3648,21,baja,Edesur,Pte Peron,Guernica,,,1,
 -34.9179,-58.3961,21,baja,Edesur,Pte Peron,Villa Numancia Sur,,,15,
 -34.765,-58.3509,21,baja,Edesur,Almirante Brown,San Jose,,,18,
--34.7993,-58.2725,21,baja,Edesur,Florencio Varela,Florencio Varela,,,26,
 -34.6682,-58.4719,21,baja,Edesur,Capital,Villa Lugano,,,4,
 -34.7651,-58.3447,21,baja,Edesur,Almirante Brown,San Jose,,,7,
 -34.6102,-58.3887,21,baja,Edesur,Capital,Monserrat,,,16,
@@ -47,8 +43,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6331,-58.4563,21,baja,Edesur,Capital,Flores,,,12,
 -34.6351,-58.3573,21,baja,Edesur,Capital,La Boca,,,5,
 -34.6619,-58.5081,21,baja,Edesur,Capital,Capital,,,31,
--34.7898,-58.3651,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,7,
--34.6009,-58.4041,21,baja,Edesur,Capital,Balvanera,,,33,
+-34.6009,-58.4041,21,baja,Edesur,Capital,Balvanera,,,34,
 -34.6448,-58.3695,21,baja,Edesur,Capital,Barracas,,,31,
 -34.5935,-58.4357,21,baja,Edesur,Capital,Capital,,,2,
 -34.887,-58.4085,21,baja,Edesur,Almirante Brown,Glew,,,5,
@@ -58,7 +53,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6275,-58.4731,21,baja,Edesur,Capital,Flores,,,10,
 -34.7298,-58.2694,21,baja,Edesur,Quilmes,Quilmes,,,3,
 -34.6382,-58.4483,21,baja,Edesur,Capital,Parque Chacabuco,,,3,
--34.7218,-58.3975,21,baja,Edesur,Lanus,Remedios De Escalada,,,15,
+-34.7218,-58.3975,21,baja,Edesur,Lanus,Remedios De Escalada,,,16,
 -34.7074,-58.4023,21,baja,Edesur,Lanus,Lanus,,,14,
 -34.6436,-58.3612,21,baja,Edesur,Capital,La Boca,,,7,
 -34.6645,-58.3545,21,baja,Edesur,Avellaneda,Avellaneda,,,15,
