@@ -1,8 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.740099511,-58.396574847,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1516/087-2-1516,116,2022-12-16 20:28
--34.837884347,-58.181849497,11,media,Edesur,Berazategui,Gutierrez,S/D,R:951-1-03/951-1-03/174-1-18,427,2022-12-16 20:28
--34.839446432,-58.185699567,11,media,Edesur,Berazategui,Gutierrez,S/D,R:951-1-03/951-1-03/174-1-18,225,2022-12-16 20:28
--34.839315117,-58.181025780,11,media,Edesur,Berazategui,Gutierrez,S/D,R:951-1-03/951-1-03/174-1-18,40,2022-12-16 20:28
 -34.816944680,-58.188905493,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,29,2022-12-16 20:28
 -34.813125618,-58.183386386,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,42,2022-12-16 20:28
 -34.811073979,-58.181656005,11,media,Edesur,Berazategui,Berazategui,S/D,R:951-1-05/951-1-05,250,2022-12-16 20:28
@@ -43,63 +40,45 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.701340652,-58.740680876,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,272,2022-12-16 16:00
 -34.838524321,-58.774603900,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-16 16:00
 -34.837618368,-58.765730087,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 16:00
--34.846028057,-58.754821852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
+-34.846028057,-58.754821852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 16:00
 -34.415217057,-58.670688002,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,4,2022-12-16 16:00
--34.537127564,-58.598571660,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr2/266-5525,2,Sin Datos
+-34.537127564,-58.598571660,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr2/266-5525,2,2022-12-16 16:00
 -34.282038640,-58.662310479,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,14,2022-12-16 16:00
 -34.286832778,-58.664110410,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,13,2022-12-16 16:00
--34.448243729,-58.859011809,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,96,2022-12-16 18:00
--34.449327754,-58.850567120,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,131,2022-12-16 18:00
--34.452751612,-58.847774649,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,111,2022-12-16 18:00
--34.453484297,-58.854710661,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,1,2022-12-16 18:00
--34.451942345,-58.852248398,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,75,2022-12-16 18:00
--34.446035969,-58.850956853,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,108,2022-12-16 18:00
--34.446938204,-58.855990710,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,97,2022-12-16 18:00
--34.449558401,-58.846352344,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,137,2022-12-16 18:00
--34.453182366,-58.843611462,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,89,2022-12-16 18:00
--34.450268426,-58.862897572,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,47,2022-12-16 18:00
--34.445416375,-58.863087122,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,120,2022-12-16 18:00
--34.445340020,-58.849687679,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,2,2022-12-16 18:00
--34.449764678,-58.851783788,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,1,2022-12-16 18:00
--34.451654501,-58.828864195,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,116,2022-12-16 18:00
--34.443693250,-58.866063856,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,84,2022-12-16 18:00
--34.443592726,-58.865844378,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,12,2022-12-16 18:00
--34.443220868,-58.865071681,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,13,2022-12-16 18:00
--34.449069750,-58.853521787,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,54,2022-12-16 18:00
--34.448128830,-58.853647930,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,62,2022-12-16 18:00
--34.446582501,-58.867763117,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5525,269,2022-12-16 18:00
--34.455634905,-58.841278148,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,84,2022-12-16 18:00
--34.456163433,-58.837443607,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,20,2022-12-16 18:00
+-34.449558401,-58.846352344,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,137,Sin Datos
+-34.453182366,-58.843611462,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,89,Sin Datos
+-34.445340020,-58.849687679,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,2,Sin Datos
+-34.451654501,-58.828864195,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,116,Sin Datos
+-34.446582501,-58.867763117,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5525,269,Sin Datos
+-34.455634905,-58.841278148,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,84,Sin Datos
+-34.456163433,-58.837443607,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,20,Sin Datos
 -34.3001,-58.7829,22,baja,Edenor,Escobar,Escobar,,,26,
 -34.4485,-58.8417,22,baja,Edenor,Pilar,La Lonja,,,5,
 -34.4612,-58.9182,22,baja,Edenor,Pilar,Pilar,,,18,
 -34.5868,-58.4929,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,14,
 -34.4955,-58.6222,22,baja,Edenor,Tigre,Don Torcuato,,,11,
--34.5491,-58.5572,22,baja,Edenor,Gral San Martin,Gregoria Matorras,,,9,
--34.549,-58.5567,22,baja,Edenor,Gral San Martin,Villa Ballester,,,8,
+-34.5491,-58.5572,22,baja,Edenor,Gral San Martin,Gregoria Matorras,,,18,
 -34.5627,-58.4568,22,baja,Edenor,Capital Federal,Belgrano,,,14,
 -34.6688,-58.5147,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,22,
 -34.4972,-58.6122,22,baja,Edenor,Tigre,Don Torcuato,,,26,
 -34.5996,-58.574,22,baja,Edenor,3 De Febrero,Caseros,,,13,
 -34.5692,-58.4696,22,baja,Edenor,Capital Federal,Belgrano,,,7,
--34.6044,-58.8482,22,baja,Edenor,Moreno,Francisco Alvarez,,,18,
+-34.6044,-58.8482,22,baja,Edenor,Moreno,Francisco Alvarez,,,28,
 -34.6396,-58.8861,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,1,
 -34.6102,-58.3887,21,baja,Edesur,Capital,Monserrat,,,20,
 -34.6331,-58.4563,21,baja,Edesur,Capital,Flores,,,7,
 -34.6619,-58.5081,21,baja,Edesur,Capital,Capital,,,45,
 -34.6009,-58.4041,21,baja,Edesur,Capital,Balvanera,,,38,
--34.6448,-58.3695,21,baja,Edesur,Capital,Barracas,,,30,
+-34.6448,-58.3695,21,baja,Edesur,Capital,Barracas,,,31,
 -34.5935,-58.4357,21,baja,Edesur,Capital,Capital,,,8,
 -34.8863,-58.4083,21,baja,Edesur,Almirante Brown,Glew,,,5,
 -34.6275,-58.4731,21,baja,Edesur,Capital,Flores,,,9,
--34.6382,-58.4483,21,baja,Edesur,Capital,Parque Chacabuco,,,4,
 -34.6412,-58.4252,21,baja,Edesur,Capital,Nueva Pompeya,,,6,
 -34.6555,-58.5012,21,baja,Edesur,Capital,Capital,,,10,
 -34.7553,-58.438,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,6,
 -34.6312,-58.5192,21,baja,Edesur,Capital,Versalles,,,3,
--34.6148,-58.5288,21,baja,Edesur,Capital,Capital,,,42,
--34.9084,-58.4885,21,baja,Edesur,Esteban Echeverria,Canning,,,19,
+-34.6148,-58.5288,21,baja,Edesur,Capital,Capital,,,35,
+-34.9094,-58.4886,21,baja,Edesur,Esteban Echeverria,Canning,,,19,
 -34.5942,-58.3835,21,baja,Edesur,Capital,Retiro,,,1,
--34.6288,-58.3921,21,baja,Edesur,Capital,Parque Patricios,,,20,
--34.6678,-58.3932,21,baja,Edesur,Avellaneda,Avellaneda,,,21,
+-34.6678,-58.3932,21,baja,Edesur,Avellaneda,Avellaneda,,,22,
 -34.8947,-58.508,21,baja,Edesur,Esteban Echeverria,Canning,,,14,
