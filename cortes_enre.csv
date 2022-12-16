@@ -1,10 +1,10 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.740099511,-58.396574847,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1516/087-2-1516,116,2022-12-16 23:12
--34.701340652,-58.740680876,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,272,2022-12-16 20:00
--34.838524321,-58.774603900,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
--34.837618368,-58.765730087,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 20:00
+-34.740099511,-58.396574847,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1516/087-2-1516,116,Sin Datos
+-34.701340652,-58.740680876,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5515,272,2022-12-16 21:00
+-34.838524321,-58.774603900,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-16 21:00
+-34.837618368,-58.765730087,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
 -34.846028057,-58.754821852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-16 20:00
--34.452250516,-58.730848864,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,441,Sin Datos
+-34.452250516,-58.730848864,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5513,441,2022-12-16 21:00
 -34.670475106,-58.745879272,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5531,1,2022-12-16 20:00
 -34.449558401,-58.846352344,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,137,Sin Datos
 -34.453182366,-58.843611462,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5525,89,Sin Datos
@@ -24,6 +24,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7553,-58.438,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,8,
 -34.6312,-58.5192,21,baja,Edesur,Capital,Versalles,,,3,
 -34.6678,-58.3932,21,baja,Edesur,Avellaneda,Avellaneda,,,40,
--34.8947,-58.508,21,baja,Edesur,Esteban Echeverria,Canning,,,34,
 -34.7645,-58.2741,21,baja,Edesur,Quilmes,Quilmes,,,5,
 -34.6175,-58.5299,21,baja,Edesur,Capital,Capital,,,11,
+-34.6024,-58.3828,21,baja,Edesur,Capital,San Nicolas,,,5,
+-34.7936,-58.3031,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,
