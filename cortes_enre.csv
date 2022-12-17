@@ -1,23 +1,13 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.740099511,-58.396574847,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1516/087-2-1516,116,2022-12-17 01:15
--34.711175439,-58.360419339,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-2-23/075-2-23,1,2022-12-17 04:35
--34.711186616,-58.360404151,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-2-23/075-2-23,18,2022-12-17 04:35
 -34.709820589,-58.359068655,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-2-23/075-2-23,7,2022-12-17 04:35
--34.712350598,-58.359768635,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-2-23/075-2-23,1,2022-12-17 04:35
 -34.710015493,-58.358823422,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-2-23/075-2-23,3,2022-12-17 04:35
--34.670475106,-58.745879272,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5531,1,2022-12-17 00:00
--34.589045237,-58.424255909,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,529,2022-12-17 03:00
--34.587313702,-58.426341510,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,158,2022-12-17 03:00
--34.589453542,-58.422790588,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,615,2022-12-17 03:00
--34.586308022,-58.425293716,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,169,2022-12-17 03:00
--34.588964025,-58.426627074,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,286,2022-12-17 03:00
--34.587589896,-58.421285255,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,517,2022-12-17 03:00
--34.588680212,-58.423889504,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,126,2022-12-17 03:00
--34.589272052,-58.423682673,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,114,2022-12-17 03:00
--34.589616107,-58.418828170,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,446,2022-12-17 03:00
--34.585971760,-58.424485398,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,62,2022-12-17 03:00
--34.588593043,-58.424527517,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,270,2022-12-17 03:00
--34.586892787,-58.425627619,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,162,2022-12-17 03:00
+-34.670475106,-58.745879272,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5531,1,2022-12-17 01:00
+-34.589045237,-58.424255909,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,529,2022-12-17 01:00
+-34.589453542,-58.422790588,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,615,2022-12-17 01:00
+-34.587589896,-58.421285255,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,517,2022-12-17 01:00
+-34.589272052,-58.423682673,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,114,2022-12-17 01:00
+-34.589616107,-58.418828170,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,446,2022-12-17 01:00
 -34.5491,-58.5572,22,baja,Edenor,Gral San Martin,Gregoria Matorras,,,18,
 -34.7008,-58.6794,22,baja,Edenor,Merlo,Libertad,,,20,
 -34.2886,-58.7833,22,baja,Edenor,Escobar,Escobar,,,4,
@@ -35,7 +25,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.0327,-58.4249,21,baja,Edesur,San Vicente,San Vicente,,,8,
 -34.7645,-58.2741,21,baja,Edesur,Quilmes,Quilmes,,,6,
 -34.9136,-58.3392,21,baja,Edesur,Pte Peron,Guernica,,,103,
--34.6604,-58.5074,21,baja,Edesur,Capital,Mataderos,,,11,
+-34.6604,-58.5074,21,baja,Edesur,Capital,Mataderos,,,14,
 -34.6024,-58.3828,21,baja,Edesur,Capital,San Nicolas,,,4,
 -34.6063,-58.4897,21,baja,Edesur,Capital,Villa Del Parque,,,37,
 -34.5942,-58.3835,21,baja,Edesur,Capital,Retiro,,,1,
