@@ -13,12 +13,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.861077744,-58.208742124,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,4,Sin Datos
 -34.862420284,-58.205857846,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,302,Sin Datos
 -34.866647133,-58.211945162,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,4,Sin Datos
--34.670475106,-58.745879272,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5531,1,Sin Datos
--34.589045237,-58.424255909,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,529,2022-12-17 01:00
--34.589453542,-58.422790588,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,615,2022-12-17 01:00
--34.587589896,-58.421285255,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,517,2022-12-17 01:00
--34.589272052,-58.423682673,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,114,2022-12-17 01:00
--34.589616107,-58.418828170,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,446,2022-12-17 01:00
+-34.670475106,-58.745879272,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5531,1,2022-12-17 01:00
+-34.589045237,-58.424255909,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,529,2022-12-17 02:00
+-34.589453542,-58.422790588,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,615,2022-12-17 02:00
+-34.587589896,-58.421285255,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,517,2022-12-17 02:00
+-34.589272052,-58.423682673,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,114,2022-12-17 02:00
+-34.589616107,-58.418828170,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,446,2022-12-17 02:00
 -34.5491,-58.5572,22,baja,Edenor,Gral San Martin,Gregoria Matorras,,,18,
 -34.7008,-58.6794,22,baja,Edenor,Merlo,Libertad,,,20,
 -34.2886,-58.7833,22,baja,Edenor,Escobar,Escobar,,,4,
@@ -36,8 +36,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6374,-58.4488,21,baja,Edesur,Capital,Parque Chacabuco,,,1,
 -35.0327,-58.4249,21,baja,Edesur,San Vicente,San Vicente,,,9,
 -34.7645,-58.2741,21,baja,Edesur,Quilmes,Quilmes,,,6,
--34.9136,-58.3392,21,baja,Edesur,Pte Peron,Guernica,,,103,
--34.6604,-58.5074,21,baja,Edesur,Capital,Mataderos,,,15,
+-34.6604,-58.5074,21,baja,Edesur,Capital,Mataderos,,,16,
 -34.6024,-58.3828,21,baja,Edesur,Capital,San Nicolas,,,4,
 -34.6063,-58.4897,21,baja,Edesur,Capital,Villa Del Parque,,,39,
 -34.5942,-58.3835,21,baja,Edesur,Capital,Retiro,,,1,
