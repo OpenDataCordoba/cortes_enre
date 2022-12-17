@@ -1,18 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.740099511,-58.396574847,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-1516/087-2-1516,116,2022-12-17 01:15
--34.709820589,-58.359068655,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-2-23/075-2-23,7,2022-12-17 04:35
--34.710015493,-58.358823422,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-2-23/075-2-23,3,2022-12-17 04:35
--34.865447161,-58.213006020,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,30,Sin Datos
--34.863234727,-58.210313087,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,5,Sin Datos
--34.863363306,-58.208069297,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,17,Sin Datos
--34.867252065,-58.210388992,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,28,Sin Datos
--34.865922819,-58.207334996,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,23,Sin Datos
--34.867314436,-58.208173900,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,75,Sin Datos
--34.865278850,-58.205799616,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,69,Sin Datos
--34.866118382,-58.209014035,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,22,Sin Datos
--34.861077744,-58.208742124,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,4,Sin Datos
--34.862420284,-58.205857846,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,302,Sin Datos
--34.866647133,-58.211945162,11,media,Edesur,Florencio Varela,Ing. Allan,Bosques,R:185-2-22/185-2-22,4,Sin Datos
+-34.709820589,-58.359068655,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-2-23/075-2-23,7,2022-12-17 06:07
+-34.710015493,-58.358823422,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-2-23/075-2-23,3,2022-12-17 06:07
 -34.670475106,-58.745879272,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5531,1,2022-12-17 01:00
 -34.589045237,-58.424255909,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,529,2022-12-17 02:00
 -34.589453542,-58.422790588,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5513,615,2022-12-17 02:00
@@ -23,6 +12,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7008,-58.6794,22,baja,Edenor,Merlo,Libertad,,,20,
 -34.2886,-58.7833,22,baja,Edenor,Escobar,Escobar,,,4,
 -34.5475,-58.7996,22,baja,Edenor,Moreno,Cuartel V,,,38,
+-34.5888,-58.4222,22,baja,Edenor,Capital Federal,Palermo,,,21,
 -34.6102,-58.3887,21,baja,Edesur,Capital,Monserrat,,,20,
 -34.6051,-58.4026,21,baja,Edesur,Capital,Balvanera,,,5,
 -34.6009,-58.4041,21,baja,Edesur,Capital,Balvanera,,,40,
@@ -36,7 +26,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6374,-58.4488,21,baja,Edesur,Capital,Parque Chacabuco,,,1,
 -35.0327,-58.4249,21,baja,Edesur,San Vicente,San Vicente,,,9,
 -34.7645,-58.2741,21,baja,Edesur,Quilmes,Quilmes,,,6,
--34.6604,-58.5074,21,baja,Edesur,Capital,Mataderos,,,16,
+-34.6604,-58.5074,21,baja,Edesur,Capital,Mataderos,,,18,
 -34.6024,-58.3828,21,baja,Edesur,Capital,San Nicolas,,,4,
--34.6063,-58.4897,21,baja,Edesur,Capital,Villa Del Parque,,,39,
+-34.6063,-58.4897,21,baja,Edesur,Capital,Villa Del Parque,,,40,
 -34.5942,-58.3835,21,baja,Edesur,Capital,Retiro,,,1,
