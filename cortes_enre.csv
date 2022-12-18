@@ -1,6 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.600037075,-58.430276534,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-12/049-1-12,265,Sin Datos
--34.601167910,-58.431116226,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-12/049-1-12,123,Sin Datos
 -34.784221153,-58.370917647,11,media,Edesur,Almirante Brown,Marmol,S/D,R:952-1-01/952-1-01,405,2022-12-18 12:58
 -34.785961777,-58.380876780,11,media,Edesur,Almirante Brown,Marmol,S/D,R:952-1-01/952-1-01,438,2022-12-18 12:58
 -34.785531714,-58.383961388,11,media,Edesur,Almirante Brown,Marmol,S/D,R:952-1-01/952-1-01,294,2022-12-18 12:58
@@ -8,22 +6,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.787339257,-58.376689104,11,media,Edesur,Almirante Brown,Marmol,S/D,R:952-1-01/952-1-01,355,2022-12-18 12:58
 -34.786107751,-58.374374352,11,media,Edesur,Almirante Brown,Marmol,S/D,R:952-1-01/952-1-01,220,2022-12-18 12:58
 -34.783858886,-58.380875400,11,media,Edesur,Almirante Brown,Marmol,S/D,R:952-1-01/952-1-01,48,2022-12-18 12:58
--34.472975169,-58.569931016,12,media,Edenor,San Fernando,Victoria,S/D,R:San Fernando/351-Tr1/351-5518,1,2022-12-18 09:00
--34.536944842,-58.560707103,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr2/266-5526,262,2022-12-18 09:00
--34.538398610,-58.566919640,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr2/266-5526,409,2022-12-18 09:00
+-34.472975169,-58.569931016,12,media,Edenor,San Fernando,Victoria,S/D,R:San Fernando/351-Tr1/351-5518,1,2022-12-18 11:00
+-34.480173793,-58.950920232,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,5,2022-12-18 11:00
 -34.5852,-58.491,22,baja,Edenor,Capital Federal,Villa Urquiza,,,18,
 -34.6041,-58.9362,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,8,
 -34.4477,-58.7698,22,baja,Edenor,Pilar,Manuel Alberti,,,12,
 -34.4664,-58.5498,22,baja,Edenor,San Isidro,Beccar,,,3,
+-34.5889,-58.4176,22,baja,Edenor,Capital Federal,Palermo,,,35,
 -34.7549,-58.6775,22,baja,Edenor,Merlo,Pontevedra,,,4,
+-34.7392,-58.6147,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,25,
 -34.6051,-58.4026,21,baja,Edesur,Capital,Balvanera,,,7,
 -34.6351,-58.3736,21,baja,Edesur,Capital,Barracas,,,15,
 -34.6024,-58.3828,21,baja,Edesur,Capital,San Nicolas,,,17,
 -34.9067,-58.3876,21,baja,Edesur,Pte Peron,Guernica,,,3,
 -34.6167,-58.3889,21,baja,Edesur,Capital,Monserrat,,,25,
--34.6083,-58.5203,21,baja,Edesur,Capital,Villa Devoto,,,14,
--34.609,-58.4008,21,baja,Edesur,Capital,Balvanera,,,10,
--34.6028,-58.4089,21,baja,Edesur,Capital,Capital,,,24,
+-34.6083,-58.5203,21,baja,Edesur,Capital,Villa Devoto,,,15,
+-34.609,-58.4008,21,baja,Edesur,Capital,Balvanera,,,12,
+-34.6028,-58.4089,21,baja,Edesur,Capital,Capital,,,25,
 -34.8368,-58.2848,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
--34.8169,-58.4201,21,baja,Edesur,Almirante Brown,Adrogue,,,5,
--34.7172,-58.3523,21,baja,Edesur,Lanus,Monte Chingolo,,,10,
+-34.8169,-58.4201,21,baja,Edesur,Almirante Brown,Adrogue,,,6,
+-34.7172,-58.3523,21,baja,Edesur,Lanus,Monte Chingolo,,,14,
