@@ -4,39 +4,27 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.924982626,-58.577311653,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,N:270-2-24/270-2-24,23,2022-12-18 01:10
 -34.921701822,-58.575227708,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,N:270-2-24/270-2-24,44,2022-12-18 01:10
 -34.924300388,-58.580398514,11,media,Edesur,Ezeiza,Carlos Spegazzinni,Spegazzini,N:270-2-24/270-2-24,10,2022-12-18 01:10
--34.600037075,-58.430276534,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-12/049-1-12,265,2022-12-17 20:47
--34.601167910,-58.431116226,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-12/049-1-12,123,2022-12-17 20:47
--34.647306001,-58.516605840,11,media,Edesur,Capital Gp,Liniers,Liniers,R:043-1-11/043-1-11,520,2022-12-17 21:16
--34.684687035,-58.511574905,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,410,2022-12-17 21:00
--34.691381187,-58.510007403,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5514,434,2022-12-17 21:00
--34.688273710,-58.509136598,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,354,2022-12-17 21:00
--34.469348862,-58.541041024,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,195,2022-12-18 00:00
--34.468934892,-58.532689481,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,6,2022-12-18 00:00
--34.470001553,-58.536200713,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,42,2022-12-18 00:00
--34.467460998,-58.531250989,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,2,2022-12-18 00:00
--34.469747369,-58.539469161,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,137,2022-12-18 00:00
--34.467156925,-58.544421650,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,341,2022-12-18 00:00
--34.467967872,-58.529609980,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,402,2022-12-18 00:00
--34.469652800,-58.540802490,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,69,2022-12-18 00:00
--34.471766467,-58.533998896,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,219,2022-12-18 00:00
--34.468860720,-58.534143783,12,media,Edenor,San Isidro,Beccar,S/D,R:Victoria/53-Tr1/53-5543,149,2022-12-18 00:00
+-34.600037075,-58.430276534,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-12/049-1-12,265,Sin Datos
+-34.601167910,-58.431116226,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-12/049-1-12,123,Sin Datos
+-34.647306001,-58.516605840,11,media,Edesur,Capital Gp,Liniers,Liniers,R:043-1-11/043-1-11,520,Sin Datos
+-34.691381187,-58.510007403,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5514,434,2022-12-17 23:00
+-34.413947408,-58.983352229,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5482,1,2022-12-17 23:00
+-34.414342323,-58.985318730,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5482,1,2022-12-17 23:00
 -34.5851,-58.4883,22,baja,Edenor,Capital Federal,Villa Urquiza,,,3,
 -34.482,-58.6238,22,baja,Edenor,Tigre,Don Torcuato,,,25,
 -34.4857,-58.7333,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,14,
 -34.5491,-58.804,22,baja,Edenor,Moreno,Cuartel V,,,31,
 -34.4748,-58.6277,22,baja,Edenor,Tigre,Don Torcuato,,,6,
+-34.4803,-58.8926,22,baja,Edenor,Pilar,Villa Rosa,,,2,
 -34.6051,-58.4026,21,baja,Edesur,Capital,Balvanera,,,7,
 -34.6239,-58.4748,21,baja,Edesur,Capital,Flores,,,7,
--34.6147,-58.4971,21,baja,Edesur,Capital,Monte Castro,,,34,
 -34.6024,-58.3828,21,baja,Edesur,Capital,San Nicolas,,,18,
 -34.9067,-58.3876,21,baja,Edesur,Pte Peron,Guernica,,,3,
--34.8159,-58.4244,21,baja,Edesur,Almirante Brown,Adrogue,,,28,
--34.6167,-58.3889,21,baja,Edesur,Capital,Monserrat,,,22,
+-34.8159,-58.4244,21,baja,Edesur,Almirante Brown,Adrogue,,,32,
+-34.6167,-58.3889,21,baja,Edesur,Capital,Monserrat,,,23,
 -34.6175,-58.5299,21,baja,Edesur,Capital,Capital,,,21,
--34.7096,-58.3702,21,baja,Edesur,Lanus,Lanus,,,23,
--34.6243,-58.5074,21,baja,Edesur,Capital,Monte Castro,,,30,
--34.6083,-58.5203,21,baja,Edesur,Capital,Villa Devoto,,,7,
+-34.6083,-58.5203,21,baja,Edesur,Capital,Villa Devoto,,,10,
 -34.7646,-58.2743,21,baja,Edesur,Quilmes,Ezpeleta,,,6,
--34.5935,-58.4358,21,baja,Edesur,Capital,Capital,,,4,
 -34.609,-58.4008,21,baja,Edesur,Capital,Balvanera,,,6,
--34.7171,-58.3535,21,baja,Edesur,Lanus,Monte Chingolo,,,19,
+-34.6028,-58.4089,21,baja,Edesur,Capital,Capital,,,21,
+-34.7175,-58.3524,21,baja,Edesur,Lanus,Monte Chingolo,,,20,
