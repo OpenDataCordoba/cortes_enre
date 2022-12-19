@@ -1,6 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.702373463,-58.439222833,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-21/089-2-21,151,2022-12-19 07:35
--34.704060240,-58.439017294,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-21/089-2-21,130,2022-12-19 07:35
+-34.702373463,-58.439222833,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-21/089-2-21,151,Sin Datos
+-34.704060240,-58.439017294,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-21/089-2-21,130,Sin Datos
 -34.784221153,-58.370917647,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,405,2022-12-19 10:39
 -34.785961777,-58.380876780,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,438,2022-12-19 10:39
 -34.785531714,-58.383961388,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,294,2022-12-19 10:39
@@ -8,18 +8,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.787339257,-58.376689104,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,355,2022-12-19 10:39
 -34.786107751,-58.374374352,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,220,2022-12-19 10:39
 -34.783858886,-58.380875400,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,48,2022-12-19 10:39
--34.430842403,-58.865091875,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,268,2022-12-19 09:15
--34.427633374,-58.858838747,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,233,2022-12-19 09:15
--34.423677949,-58.865766554,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,192,2022-12-19 09:15
--34.422787603,-58.869484237,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,230,2022-12-19 09:15
--34.427408804,-58.858434211,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,48,2022-12-19 09:15
--34.427620791,-58.862818572,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,274,2022-12-19 09:15
--34.416678145,-58.862907027,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,1,2022-12-19 09:15
--34.429501470,-58.856530942,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,151,2022-12-19 09:15
--34.424751029,-58.863982353,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,155,2022-12-19 09:15
+-34.588029986,-58.596012746,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr1/262-5515,296,2022-12-19 08:58
+-34.592531691,-58.599702775,12,media,Edenor,3 De Febrero,C J Lomas Del Palomar,S/D,R:Rotonda/262-Tr1/262-5515,361,2022-12-19 08:58
+-34.594074636,-58.596007934,12,media,Edenor,3 De Febrero,C J Lomas Del Palomar,S/D,R:Rotonda/262-Tr1/262-5515,437,2022-12-19 08:58
+-34.588872528,-58.601336147,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr1/262-5515,356,2022-12-19 08:58
+-34.587310435,-58.603450130,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr1/262-5515,320,2022-12-19 08:58
 -34.566923505,-58.442402788,12,media,Edenor,Capital Federal,Palermo,S/D,R:J. Newbery/235-Tr3/235-5512,13,2022-12-19 08:00
 -34.4773,-58.8374,22,baja,Edenor,Pilar,Pte Derqui,,,26,
--34.7048,-58.6142,22,baja,Edenor,La Matanza,Rafael Castillo,,,5,
+-34.7048,-58.6142,22,baja,Edenor,La Matanza,Rafael Castillo,,,9,
+-34.6098,-58.7913,22,baja,Edenor,Moreno,Moreno,,,13,
 -34.6054,-58.4026,21,baja,Edesur,Capital,Balvanera,,,2,
 -34.6349,-58.3732,21,baja,Edesur,Capital,Barracas,,,13,
 -34.6291,-58.3915,21,baja,Edesur,Capital,Parque Patricios,,,1,
