@@ -1,5 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.817529646,-58.338592945,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,62,2022-12-19 22:32
 -34.812842679,-58.334208584,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,346,2022-12-19 22:32
 -34.811094871,-58.333496166,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,87,2022-12-19 22:32
 -34.815360358,-58.334746560,11,media,Edesur,Almirante Brown,Claypole,Rafael Calzada,R:189-2-28/189-2-28,526,2022-12-19 22:32
@@ -28,55 +27,65 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.895898699,-58.230538915,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,3,2022-12-19 20:00
 -34.897031960,-58.224702131,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,5,2022-12-19 20:00
 -34.894659962,-58.232014166,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,1,2022-12-19 20:00
--34.728238387,-58.255039535,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,286,2022-12-19 22:13
--34.727193920,-58.263015998,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-28/073-2-28,257,2022-12-19 22:13
--34.727152147,-58.258167767,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,15,2022-12-19 22:13
--34.726566846,-58.257276097,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,483,2022-12-19 22:13
--34.723345547,-58.259251883,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,187,2022-12-19 22:13
--34.725459522,-58.258352769,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,75,2022-12-19 22:13
--34.726553423,-58.256211356,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,272,2022-12-19 22:13
--34.725935263,-58.258019760,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,2,2022-12-19 22:13
--34.728397593,-58.249158634,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,157,2022-12-19 22:13
--34.729025996,-58.251286421,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,340,2022-12-19 22:13
--34.728371377,-58.248447139,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,36,2022-12-19 22:13
--34.729351508,-58.253807040,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,233,2022-12-19 22:13
--34.723495995,-58.260593868,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,137,2022-12-19 22:13
--34.725119677,-58.264906114,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-28/073-2-28,1,2022-12-19 22:13
+-34.723345547,-58.259251883,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,187,2022-12-19 23:51
+-34.723495995,-58.260593868,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-2-28/073-2-28,137,2022-12-19 23:51
+-34.725119677,-58.264906114,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-28/073-2-28,1,2022-12-19 23:51
 -34.592531691,-58.599702775,12,media,Edenor,3 De Febrero,C J Lomas Del Palomar,S/D,R:Rotonda/262-Tr1/262-5515,361,Sin Datos
--34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2022-12-19 19:00
--34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-12-19 19:00
--34.885203712,-58.954216671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-12-19 20:00
--34.867729564,-58.944540140,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-19 20:00
--34.864206302,-58.949164424,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-19 20:00
--34.858173065,-58.935097754,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,2022-12-19 20:00
--34.864776019,-58.940878213,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-19 20:00
--34.886579315,-58.955628544,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-12-19 20:00
--34.657069587,-58.754313982,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5528,1,Sin Datos
+-34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2022-12-19 20:00
+-34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-12-19 20:00
+-34.885203712,-58.954216671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-12-19 21:00
+-34.867729564,-58.944540140,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-19 21:00
+-34.864206302,-58.949164424,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-19 21:00
+-34.858173065,-58.935097754,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,2022-12-19 21:00
+-34.864776019,-58.940878213,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-19 21:00
+-34.886579315,-58.955628544,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-12-19 21:00
 -34.547781902,-58.771702927,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5521,99,2022-12-19 20:00
 -34.537587928,-58.781912774,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5521,304,2022-12-19 20:00
 -34.542520367,-58.786547255,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5521,67,2022-12-19 20:00
 -34.537768732,-58.783737175,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5521,86,2022-12-19 20:00
 -34.540787251,-58.785009471,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5521,313,2022-12-19 20:00
 -34.539182934,-58.788313854,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5521,462,2022-12-19 20:00
--34.930924178,-58.977830590,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5522,7,2022-12-19 20:00
+-34.930924178,-58.977830590,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5522,7,Sin Datos
+-34.709157605,-58.649512956,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,310,Sin Datos
+-34.712047344,-58.646532130,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,210,Sin Datos
+-34.711051228,-58.651625488,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,76,Sin Datos
+-34.561516974,-58.665571948,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,159,2022-12-19 23:00
+-34.564563484,-58.661444279,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,161,2022-12-19 23:00
+-34.568431925,-58.671962647,12,media,Edenor,S/D,S/D,S/D,R:Moron/67-Tr2/67-5515,1,2022-12-19 23:00
+-34.565431853,-58.659803397,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,282,2022-12-19 23:00
+-34.567899788,-58.673088682,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,1,2022-12-19 23:00
+-34.570752617,-58.677963635,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,1,2022-12-19 23:00
+-34.565539998,-58.660050052,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,1,2022-12-19 23:00
+-34.568084993,-58.660343302,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,1,2022-12-19 23:00
+-34.564327987,-58.668594025,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,99,2022-12-19 23:00
+-34.579717834,-58.685856795,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,6,2022-12-19 23:00
+-34.568651774,-58.674185933,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,1,2022-12-19 23:00
+-34.568252458,-58.664565494,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,1,2022-12-19 23:00
+-34.592214072,-58.682769621,12,media,Edenor,Hurlingham,William Morris,S/D,R:Moron/67-Tr2/67-5515,1,2022-12-19 23:00
+-34.594604299,-58.684841155,12,media,Edenor,Hurlingham,William Morris,S/D,R:Moron/67-Tr2/67-5515,3,2022-12-19 23:00
+-34.596046226,-58.686515150,12,media,Edenor,Hurlingham,William Morris,S/D,R:Moron/67-Tr2/67-5515,4,2022-12-19 23:00
+-34.567917593,-58.672178133,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,4,2022-12-19 23:00
+-34.565725698,-58.658302517,12,media,Edenor,San Miguel,Campo De Mayo,S/D,R:Moron/67-Tr2/67-5515,53,2022-12-19 23:00
+-34.564128787,-58.666500060,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,406,2022-12-19 23:00
+-34.563544557,-58.670657574,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,386,2022-12-19 23:00
+-34.568997512,-58.674666128,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,172,2022-12-19 23:00
+-34.568677410,-58.662075026,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,2,2022-12-19 23:00
+-34.567621512,-58.664500714,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5515,159,2022-12-19 23:00
 -34.7182,-58.5579,22,baja,Edenor,La Matanza,Ciudad Evita,,,19,
 -34.6957,-58.561,22,baja,Edenor,La Matanza,San Justo,,,31,
--34.5674,-58.4978,22,baja,Edenor,Capital Federal,Villa Urquiza,,,6,
 -34.6051,-58.9422,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
--34.5038,-58.757,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
--34.6409,-58.7384,22,baja,Edenor,Moreno,Paso Del Rey,,,4,
+-34.5038,-58.757,22,baja,Edenor,Jose C Paz,Jose C Paz,,,7,
+-34.6409,-58.7384,22,baja,Edenor,Moreno,Paso Del Rey,,,43,
 -34.6351,-58.3735,21,baja,Edesur,Capital,Barracas,,,14,
--34.6291,-58.3915,21,baja,Edesur,Capital,Parque Patricios,,,9,
+-34.6291,-58.3915,21,baja,Edesur,Capital,Parque Patricios,,,10,
 -34.609,-58.4008,21,baja,Edesur,Capital,Balvanera,,,16,
--34.6426,-58.4314,21,baja,Edesur,Capital,Nueva Pompeya,,,2,
 -34.6052,-58.4998,21,baja,Edesur,Capital,Villa Del Parque,,,4,
 -34.651,-58.5079,21,baja,Edesur,Capital,Capital,,,2,
 -34.6127,-58.3927,21,baja,Edesur,Capital,Balvanera,,,1,
 -34.6259,-58.4181,21,baja,Edesur,Capital,Boedo,,,6,
 -34.6264,-58.5143,21,baja,Edesur,Capital,Monte Castro,,,2,
--34.6973,-58.429,21,baja,Edesur,Lanus,Lanus,,,13,
--34.6386,-58.4164,21,baja,Edesur,Capital,Boedo,,,5,
--34.7807,-58.2007,21,baja,Edesur,Berazategui,Berazategui,,,61,
--34.6028,-58.3916,21,baja,Edesur,Capital,San Nicolas,,,23,
--34.7041,-58.3373,21,baja,Edesur,Avellaneda,Villa Dominico,,,10,
--34.7207,-58.4404,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,30,
+-34.6973,-58.429,21,baja,Edesur,Lanus,Lanus,,,14,
+-34.6386,-58.4164,21,baja,Edesur,Capital,Boedo,,,7,
+-34.7807,-58.2007,21,baja,Edesur,Berazategui,Berazategui,,,64,
+-34.7041,-58.3373,21,baja,Edesur,Avellaneda,Villa Dominico,,,11,
+-34.7207,-58.4404,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,35,
