@@ -1,5 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.688855065,-58.318719816,11,media,Edesur,Avellaneda,Villa Dominico,Don Bosco,R:077-2-25/077-2-25,373,Sin Datos
 -34.715297974,-58.260495825,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-42/073-4-42,216,Sin Datos
 -34.792605196,-58.267900917,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,25,2022-12-20 20:14
 -34.677658000,-58.390013474,11,media,Edesur,Avellaneda,Piñeyro,Gerli,R:186-2-23/186-2-23,595,2022-12-20 21:08
@@ -34,48 +33,44 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.796254635,-58.159606564,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,5,2022-12-20 21:10
 -34.795067845,-58.157860890,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,29,2022-12-20 21:10
 -34.793550249,-58.156089815,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,3,2022-12-20 21:10
--34.810618179,-58.174507914,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,207,2022-12-20 21:10
 -34.801372145,-58.158718393,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,1,2022-12-20 21:10
--34.808719903,-58.177938777,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,188,2022-12-20 21:10
--34.811217603,-58.177148424,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-23/174-2-23,264,2022-12-20 21:10
 -34.794282432,-58.145558375,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,68,2022-12-20 21:10
 -34.801905016,-58.134709443,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,23,2022-12-20 21:10
--34.804937179,-58.169328656,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,1,2022-12-20 21:10
 -34.803937425,-58.149009429,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,1,2022-12-20 21:10
--34.999252155,-58.697616919,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,32,2022-12-20 20:33
--35.004498631,-58.703686878,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,11,2022-12-20 20:33
--35.011943800,-58.704309494,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,3,2022-12-20 20:33
--35.010664962,-58.710128861,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,13,2022-12-20 20:33
--35.012750445,-58.703181906,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,17,2022-12-20 20:33
--35.012390447,-58.706505889,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,14,2022-12-20 20:33
--35.013261602,-58.707473250,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,10,2022-12-20 20:33
--35.009408633,-58.707926669,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,1,2022-12-20 20:33
--35.014946561,-58.706286978,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,3,2022-12-20 20:33
--35.015061851,-58.705098182,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,8,2022-12-20 20:33
--35.017215345,-58.702055896,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,2,2022-12-20 20:33
--34.706473592,-58.856443348,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Paso Del Rey/258-Tr2/258-5531,2,2022-12-20 17:00
--34.698125007,-58.854333498,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,1,2022-12-20 17:00
--34.701226243,-58.846259674,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,92,2022-12-20 17:00
--34.696234907,-58.849921110,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,17,2022-12-20 17:00
--34.476744485,-58.569840344,12,media,Edenor,San Isidro,Beccar,S/D,R:Boulogne/56-Tr2/56-5525,45,2022-12-20 18:00
--34.652001778,-58.642857406,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5512,153,2022-12-20 17:00
+-34.942276686,-58.444861098,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,1,2022-12-20 20:23
+-34.930928898,-58.447005770,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,3,2022-12-20 20:23
+-34.930573884,-58.449191615,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,45,2022-12-20 20:23
+-34.928749950,-58.450353896,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,19,2022-12-20 20:23
+-34.926773686,-58.454204110,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,36,2022-12-20 20:23
+-34.930757981,-58.460239737,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,38,2022-12-20 20:23
+-34.936244728,-58.460175199,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,50,2022-12-20 20:23
+-34.936956447,-58.455017479,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,90,2022-12-20 20:23
+-34.930960144,-58.454997290,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,118,2022-12-20 20:23
+-34.918272544,-58.455728275,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-4-44/277-4-44,2,2022-12-20 20:23
+-34.908164929,-58.436062011,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-4-44/277-4-44,1,2022-12-20 20:23
+-34.945340438,-58.459612225,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,6,2022-12-20 20:23
+-34.940537421,-58.451770454,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,1,2022-12-20 20:23
+-34.706473592,-58.856443348,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Paso Del Rey/258-Tr2/258-5531,2,2022-12-20 18:00
+-34.698125007,-58.854333498,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,1,2022-12-20 18:00
+-34.701226243,-58.846259674,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,92,2022-12-20 18:00
+-34.696234907,-58.849921110,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,17,2022-12-20 18:00
 -34.5768,-58.4486,22,baja,Edenor,Capital Federal,Colegiales,,,4,
 -34.6083,-58.8638,22,baja,Edenor,Moreno,Francisco Alvarez,,,6,
 -34.6391,-58.5516,22,baja,Edenor,3 De Febrero,Ciudadela,,,2,
 -34.5804,-58.5709,22,baja,Edenor,Gral San Martin,Billinghurst,,,1,
 -34.5922,-58.7416,22,baja,Edenor,Moreno,Trujui,,,93,
--34.749,-58.6155,22,baja,Edenor,Merlo,Pontevedra,,,29,
+-34.749,-58.6155,22,baja,Edenor,Merlo,Pontevedra,,,32,
 -34.433,-58.5981,22,baja,Edenor,Tigre,Ciudad De Tigre,,,26,
 -34.471,-58.7672,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,19,
 -34.7235,-58.791,22,baja,Edenor,Merlo,Mariano Acosta,,,28,
 -34.5538,-58.5586,22,baja,Edenor,Gral San Martin,Gral Jose Tomas Guido,,,14,
 -34.7721,-58.8422,22,baja,Edenor,Marcos Paz,Marcos Paz,,,37,
+-34.4272,-58.8688,22,baja,Edenor,Pilar,Villa Rosa,,,32,
+-34.5962,-58.7454,22,baja,Edenor,Moreno,Trujui,,,14,
 -34.6076,-58.403,21,baja,Edesur,Capital,Balvanera,,,13,
--34.7131,-58.388,21,baja,Edesur,Lanus,Lanus,,,40,
--34.6204,-58.4199,21,baja,Edesur,Capital,Almagro,,,63,
+-34.7131,-58.388,21,baja,Edesur,Lanus,Lanus,,,52,
+-34.6204,-58.4199,21,baja,Edesur,Capital,Almagro,,,66,
 -34.7079,-58.4036,21,baja,Edesur,Lanus,Lanus,,,57,
--34.8173,-58.2892,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
 -34.6303,-58.3984,21,baja,Edesur,Capital,Parque Patricios,,,7,
 -34.7088,-58.3872,21,baja,Edesur,Lanus,Lanus,,,2,
--34.9889,-58.368,21,baja,Edesur,San Vicente,Alejandro Korn,,,4,
 -34.737,-58.287,21,baja,Edesur,Quilmes,Quilmes,,,1,
