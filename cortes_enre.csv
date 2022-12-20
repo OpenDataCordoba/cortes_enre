@@ -1,13 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.715297974,-58.260495825,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-4-42/073-4-42,216,Sin Datos
 -34.792605196,-58.267900917,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,25,2022-12-20 20:14
--34.677658000,-58.390013474,11,media,Edesur,Avellaneda,Piñeyro,Gerli,R:186-2-23/186-2-23,595,2022-12-20 21:08
--34.683844699,-58.386341279,11,media,Edesur,Avellaneda,Piñeyro,Gerli,R:186-2-23/186-2-23,446,2022-12-20 21:08
 -34.670860771,-58.391935600,11,media,Edesur,Avellaneda,Piñeyro,Gerli,R:186-2-23/186-2-23,397,2022-12-20 21:08
--34.683508424,-58.385032860,11,media,Edesur,Avellaneda,Gerli A,Gerli,R:186-2-23/186-2-23,871,2022-12-20 21:08
--34.684544485,-58.385881270,11,media,Edesur,Avellaneda,Gerli A,Gerli,R:186-2-23/186-2-23,4,2022-12-20 21:08
--34.681452535,-58.385359783,11,media,Edesur,Avellaneda,Piñeyro,Gerli,R:186-2-23/186-2-23,18,2022-12-20 21:08
--34.684094814,-58.386586594,11,media,Edesur,Avellaneda,Piñeyro,Gerli,R:186-2-23/186-2-23,7,2022-12-20 21:08
 -34.792265917,-58.150016252,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,498,2022-12-20 21:10
 -34.791725123,-58.164713670,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-23/174-2-23,670,2022-12-20 21:10
 -34.795716052,-58.143312829,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-23/174-2-23,141,2022-12-20 21:10
@@ -48,10 +42,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.908164929,-58.436062011,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-4-44/277-4-44,1,2022-12-20 20:23
 -34.945340438,-58.459612225,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,6,2022-12-20 20:23
 -34.940537421,-58.451770454,11,media,Edesur,Pte Peron,Zona Rural I Pp,Glew,R:277-4-44/277-4-44,1,2022-12-20 20:23
--34.706473592,-58.856443348,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Paso Del Rey/258-Tr2/258-5531,2,2022-12-20 18:00
--34.698125007,-58.854333498,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,1,2022-12-20 18:00
--34.701226243,-58.846259674,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,92,2022-12-20 18:00
--34.696234907,-58.849921110,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,17,2022-12-20 18:00
+-34.706473592,-58.856443348,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Paso Del Rey/258-Tr2/258-5531,2,2022-12-20 19:00
+-34.698125007,-58.854333498,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,1,2022-12-20 19:00
+-34.701226243,-58.846259674,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,92,2022-12-20 19:00
+-34.696234907,-58.849921110,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5531,17,2022-12-20 19:00
 -34.5768,-58.4486,22,baja,Edenor,Capital Federal,Colegiales,,,4,
 -34.6391,-58.5516,22,baja,Edenor,3 De Febrero,Ciudadela,,,2,
 -34.749,-58.6155,22,baja,Edenor,Merlo,Pontevedra,,,41,
@@ -59,9 +53,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.471,-58.7672,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,19,
 -34.5538,-58.5586,22,baja,Edenor,Gral San Martin,Gral Jose Tomas Guido,,,14,
 -34.5962,-58.7454,22,baja,Edenor,Moreno,Trujui,,,14,
--34.6076,-58.403,21,baja,Edesur,Capital,Balvanera,,,13,
+-34.6549,-58.5249,21,baja,Edesur,Capital,Capital,,,14,
+-34.6076,-58.403,21,baja,Edesur,Capital,Balvanera,,,15,
 -34.7131,-58.388,21,baja,Edesur,Lanus,Lanus,,,53,
--34.6204,-58.4199,21,baja,Edesur,Capital,Almagro,,,67,
+-34.6204,-58.4199,21,baja,Edesur,Capital,Almagro,,,66,
 -34.7079,-58.4036,21,baja,Edesur,Lanus,Lanus,,,57,
+-34.8032,-58.4309,21,baja,Edesur,Lomas De Zamora,Lavallol,,,10,
 -34.6303,-58.3984,21,baja,Edesur,Capital,Parque Patricios,,,8,
 -34.7088,-58.3872,21,baja,Edesur,Lanus,Lanus,,,2,
+-34.6654,-58.3778,21,baja,Edesur,Avellaneda,Avellaneda,,,2,
