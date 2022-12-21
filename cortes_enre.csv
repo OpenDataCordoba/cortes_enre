@@ -5,33 +5,41 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.836674235,-58.425641665,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-1-13/180-1-13/180-3-33,1,2022-12-21 13:16
 -34.836733184,-58.421145952,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-1-13/180-1-13/180-3-33,8,2022-12-21 13:16
 -34.836696475,-58.429341249,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-1-13/180-1-13/180-3-33,1,2022-12-21 13:16
--34.830529775,-58.434702780,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-13/180-1-13/180-3-33,223,2022-12-21 13:16
--34.831912149,-58.437446523,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-13/180-1-13/180-3-33,254,2022-12-21 13:16
--34.834051510,-58.440376867,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-13/180-1-13/180-3-33,231,2022-12-21 13:16
--34.698217205,-58.833511437,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,300,Sin Datos
--34.636106646,-58.868711367,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,124,Sin Datos
+-34.754854324,-58.611673394,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,371,Sin Datos
+-34.698217205,-58.833511437,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,300,2022-12-21 11:00
+-34.636106646,-58.868711367,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,124,2022-12-21 10:00
 -34.697088196,-58.547989342,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5535,1,2022-12-21 11:00
--34.697867958,-58.546964941,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5535,1,2022-12-21 11:00
+-34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2022-12-21 11:00
+-34.318723988,-58.534047967,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2022-12-21 11:00
+-34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-12-21 11:00
+-34.314133371,-58.532329527,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-12-21 11:00
+-34.314930035,-58.534574950,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-12-21 11:00
+-34.307593565,-58.536181417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2022-12-21 11:00
+-34.307000075,-58.533444764,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2022-12-21 11:00
+-34.335556818,-58.527011012,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,2022-12-21 11:00
+-34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2022-12-21 11:00
+-34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2022-12-21 11:00
+-34.686752934,-58.573649304,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5517,325,2022-12-21 11:00
+-34.685187664,-58.574567795,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5517,116,2022-12-21 11:00
 -34.4913,-58.6772,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,18,
 -34.5315,-58.7213,22,baja,Edenor,San Miguel,San Miguel,,,4,
 -34.5901,-58.4337,22,baja,Edenor,Capital Federal,Palermo,,,13,
 -34.7808,-58.6518,22,baja,Edenor,La Matanza,Gonzalez Catan,,,19,
 -34.4104,-58.6074,22,baja,Edenor,Tigre,Rincon De Milberg,,,14,
--34.3356,-58.527,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,2,
--34.4995,-58.5843,22,baja,Edenor,San Isidro,Boulogne,,,31,
--34.6754,-58.82,22,baja,Edenor,Moreno,Moreno,,,4,
 -34.5284,-58.5132,22,baja,Edenor,Vicente Lopez,Munro,,,2,
 -34.5301,-58.512,22,baja,Edenor,Vicente Lopez,Munro,,,72,
 -34.6983,-58.6219,22,baja,Edenor,La Matanza,Rafael Castillo,,,27,
 -34.6341,-58.8643,22,baja,Edenor,Moreno,Francisco Alvarez,,,2,
+-34.5306,-58.558,22,baja,Edenor,Gral San Martin,Gral Eugenio Necochea,,,15,
+-34.6983,-58.622,22,baja,Edenor,La Matanza,Rafael Castillo,,,4,
 -34.6076,-58.4026,21,baja,Edesur,Capital,Balvanera,,,9,
 -34.6287,-58.44,21,baja,Edesur,Capital,Caballito,,,1,
 -34.785,-58.3236,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,6,
--34.633,-58.3587,21,baja,Edesur,Capital,La Boca,,,83,
+-34.633,-58.3587,21,baja,Edesur,Capital,La Boca,,,87,
 -34.7315,-58.4748,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
--34.9635,-58.3847,21,baja,Edesur,San Vicente,Alejandro Korn,,,39,
--34.6485,-58.3845,21,baja,Edesur,Capital,Barracas,,,9,
--34.8116,-58.3504,21,baja,Edesur,Almirante Brown,Claypole,,,16,
--34.6616,-58.3595,21,baja,Edesur,Avellaneda,Avellaneda,,,9,
+-34.9635,-58.3847,21,baja,Edesur,San Vicente,Alejandro Korn,,,41,
+-34.6488,-58.3843,21,baja,Edesur,Capital,Barracas,,,6,
+-34.8116,-58.3504,21,baja,Edesur,Almirante Brown,Claypole,,,17,
+-34.6616,-58.3595,21,baja,Edesur,Avellaneda,Avellaneda,,,12,
 -34.6617,-58.3605,21,baja,Edesur,Avellaneda,Avellaneda,,,2,
--34.6023,-58.4876,21,baja,Edesur,Capital,Villa Del Parque,,,10,
+-34.6023,-58.4876,21,baja,Edesur,Capital,Villa Del Parque,,,12,
