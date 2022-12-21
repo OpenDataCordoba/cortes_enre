@@ -1,10 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.838534637,-58.424762540,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-1-13/180-1-13/180-3-33,1,2022-12-21 17:46
--34.838606415,-58.427937008,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-1-13/180-1-13/180-3-33,1,2022-12-21 17:46
--34.838990541,-58.425692623,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-1-13/180-1-13/180-3-33,11,2022-12-21 17:46
--34.836674235,-58.425641665,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-1-13/180-1-13/180-3-33,1,2022-12-21 17:46
--34.836733184,-58.421145952,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-1-13/180-1-13/180-3-33,8,2022-12-21 17:46
--34.836696475,-58.429341249,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-1-13/180-1-13/180-3-33,1,2022-12-21 17:46
 -34.980376115,-58.394063353,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-984/082-4-984,303,2022-12-21 13:22
 -34.981861457,-58.392999341,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-984/082-4-984,313,2022-12-21 13:22
 -34.980220573,-58.383412667,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-984/082-4-984,223,2022-12-21 13:22
@@ -18,9 +12,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.977455803,-58.388789036,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-984/082-4-984,22,2022-12-21 13:22
 -34.795062751,-58.273006027,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,278,2022-12-21 15:46
 -34.792496278,-58.276337146,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,529,2022-12-21 15:46
--34.754854324,-58.611673394,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,371,2022-12-21 14:00
--34.636106646,-58.868711367,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,124,2022-12-21 13:00
--34.634698360,-58.870099801,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,289,2022-12-21 14:00
+-34.769370958,-58.423886196,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-27/182-2-27,332,2022-12-21 16:37
+-34.772001184,-58.423440002,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-27/182-2-27,413,2022-12-21 16:37
+-34.710845009,-58.458357060,11,media,Edesur,Lomas De Zamora,Zona Rural,Autodromo,R:042-2-23/042-2-23,674,2022-12-21 16:56
+-34.708139426,-58.457954374,11,media,Edesur,Lomas De Zamora,Zona Rural,Autodromo,R:042-2-23/042-2-23,30,2022-12-21 16:56
+-34.754854324,-58.611673394,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,371,2022-12-21 15:00
 -34.686752934,-58.573649304,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5517,325,Sin Datos
 -34.685187664,-58.574567795,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5517,116,Sin Datos
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-21 14:00
@@ -474,24 +470,32 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2022-12-21 14:00
 -34.244908257,-58.425054730,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2022-12-21 14:00
 -34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-21 14:00
+-34.490278752,-58.735090506,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr1/252-5545,73,2022-12-21 14:00
+-34.494702338,-58.734612982,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Tortuguitas/252-Tr1/252-5545,340,2022-12-21 14:00
+-34.488088564,-58.736791391,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr1/252-5545,158,2022-12-21 14:00
+-34.491507881,-58.734303627,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr1/252-5545,301,2022-12-21 14:00
+-34.487863599,-58.738408398,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr1/252-5545,299,2022-12-21 14:00
+-34.494559410,-58.731882469,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr1/252-5545,349,2022-12-21 14:00
 -34.5901,-58.4337,22,baja,Edenor,Capital Federal,Palermo,,,13,
 -34.5306,-58.558,22,baja,Edenor,Gral San Martin,Gral Eugenio Necochea,,,15,
 -34.6119,-58.8647,22,baja,Edenor,Moreno,Francisco Alvarez,,,6,
 -34.5577,-58.5255,22,baja,Edenor,Gral San Martin,Gderos De San Mart?N,,,14,
 -34.6983,-58.622,22,baja,Edenor,La Matanza,Rafael Castillo,,,35,
--34.6242,-58.779,22,baja,Edenor,Moreno,Moreno,,,4,
--34.6076,-58.4026,21,baja,Edesur,Capital,Balvanera,,,17,
+-34.6242,-58.779,22,baja,Edenor,Moreno,Moreno,,,7,
+-34.6983,-58.5185,22,baja,Edenor,La Matanza,La Tablada,,,6,
+-34.5244,-58.7511,22,baja,Edenor,Jose C Paz,Jose C Paz,,,30,
+-34.6076,-58.4032,21,baja,Edesur,Capital,Balvanera,,,17,
 -34.6287,-58.44,21,baja,Edesur,Capital,Caballito,,,1,
 -34.6829,-58.4733,21,baja,Edesur,Capital,Villa Lugano,,,5,
 -34.6281,-58.4664,21,baja,Edesur,Capital,Capital,,,8,
--34.633,-58.3587,21,baja,Edesur,Capital,La Boca,,,100,
+-34.633,-58.3587,21,baja,Edesur,Capital,La Boca,,,101,
 -34.962,-58.3856,21,baja,Edesur,San Vicente,Alejandro Korn,,,42,
 -34.6187,-58.4289,21,baja,Edesur,Capital,Caballito,,,6,
 -34.6772,-58.4784,21,baja,Edesur,Capital,Villa Lugano,,,17,
--34.6343,-58.4924,21,baja,Edesur,Capital,Velez Sarfield,,,16,
+-34.6343,-58.4924,21,baja,Edesur,Capital,Velez Sarfield,,,19,
 -34.6617,-58.3605,21,baja,Edesur,Avellaneda,Avellaneda,,,3,
 -34.6261,-58.4713,21,baja,Edesur,Capital,Flores,,,5,
 -35.022,-58.4235,21,baja,Edesur,San Vicente,San Vicente,,,2,
--34.6864,-58.399,21,baja,Edesur,Lanus,Lanus,,,14,
--34.627,-58.47,21,baja,Edesur,Capital,Flores,,,5,
+-34.6864,-58.399,21,baja,Edesur,Lanus,Lanus,,,16,
+-34.627,-58.47,21,baja,Edesur,Capital,Flores,,,8,
 -34.645,-58.4128,21,baja,Edesur,Capital,Parque Patricios,,,0,
