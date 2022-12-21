@@ -1,7 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.670860771,-58.391935600,11,media,Edesur,Avellaneda,Piñeyro,Gerli,R:186-2-23/186-2-23,397,2022-12-21 07:49
--34.614342658,-58.528854613,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,552,2022-12-21 09:36
--34.611290474,-58.527905637,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-16/038-1-16,476,2022-12-21 09:36
+-34.670860771,-58.391935600,11,media,Edesur,Avellaneda,Piñeyro,Gerli,R:186-2-23/186-2-23,397,Sin Datos
+-34.614342658,-58.528854613,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,552,Sin Datos
+-34.611290474,-58.527905637,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-16/038-1-16,476,Sin Datos
 -34.684687035,-58.511574905,12,media,Edenor,La Matanza,La Tablada,S/D,N:Tapiales/162-Tr1/162-5514,410,2022-12-21 07:00
 -34.691381187,-58.510007403,12,media,Edenor,La Matanza,Villa Madero,S/D,N:Tapiales/162-Tr1/162-5514,434,2022-12-21 07:00
 -34.688273710,-58.509136598,12,media,Edenor,La Matanza,La Tablada,S/D,N:Tapiales/162-Tr1/162-5514,354,2022-12-21 07:00
@@ -23,14 +23,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5315,-58.7213,22,baja,Edenor,San Miguel,San Miguel,,,4,
 -34.5901,-58.4337,22,baja,Edenor,Capital Federal,Palermo,,,13,
 -34.4104,-58.6074,22,baja,Edenor,Tigre,Rincon De Milberg,,,14,
--34.7808,-58.6518,22,baja,Edenor,La Matanza,Gonzalez Catan,,,19,
 -34.6218,-58.9442,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,20,
 -34.6076,-58.403,21,baja,Edesur,Capital,Balvanera,,,18,
 -34.6287,-58.44,21,baja,Edesur,Capital,Caballito,,,1,
 -34.785,-58.3236,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,3,
 -34.633,-58.3587,21,baja,Edesur,Capital,La Boca,,,69,
 -34.7315,-58.4748,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
--34.9635,-58.3847,21,baja,Edesur,San Vicente,Alejandro Korn,,,20,
+-34.9635,-58.3847,21,baja,Edesur,San Vicente,Alejandro Korn,,,21,
 -34.6485,-58.3845,21,baja,Edesur,Capital,Barracas,,,7,
--34.6179,-58.4663,21,baja,Edesur,Capital,Flores,,,17,
+-34.6179,-58.4663,21,baja,Edesur,Capital,Flores,,,18,
 -34.8116,-58.3504,21,baja,Edesur,Almirante Brown,Claypole,,,12,
