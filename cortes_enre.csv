@@ -13,11 +13,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.795062751,-58.273006027,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,278,2022-12-21 19:38
 -34.792496278,-58.276337146,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,529,2022-12-21 19:38
 -34.769370958,-58.423886196,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-27/182-2-27,332,2022-12-21 18:39
--34.710845009,-58.458357060,11,media,Edesur,Lomas De Zamora,Zona Rural,Autodromo,R:042-2-23/042-2-23,674,2022-12-21 19:38
--34.708139426,-58.457954374,11,media,Edesur,Lomas De Zamora,Zona Rural,Autodromo,R:042-2-23/042-2-23,30,2022-12-21 19:38
--34.754854324,-58.611673394,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,371,2022-12-21 15:00
--34.686752934,-58.573649304,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5517,325,2022-12-21 15:00
--34.685187664,-58.574567795,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5517,116,2022-12-21 15:00
+-34.782700770,-58.314057214,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-31/184-3-31,323,2022-12-21 18:09
+-34.783212569,-58.315634960,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-31/184-3-31,519,2022-12-21 18:09
+-34.781229022,-58.312604498,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-31/184-3-31,46,2022-12-21 18:09
+-34.754854324,-58.611673394,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,371,2022-12-21 17:00
+-34.686752934,-58.573649304,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5517,325,2022-12-21 17:00
+-34.685187664,-58.574567795,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr1/63-5517,116,2022-12-21 17:00
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2022-12-21 16:00
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2022-12-21 16:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2022-12-21 16:00
@@ -471,20 +472,24 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2022-12-21 16:00
 -34.5901,-58.4337,22,baja,Edenor,Capital Federal,Palermo,,,13,
 -34.5306,-58.558,22,baja,Edenor,Gral San Martin,Gral Eugenio Necochea,,,15,
--34.6119,-58.8647,22,baja,Edenor,Moreno,Francisco Alvarez,,,23,
 -34.6242,-58.779,22,baja,Edenor,Moreno,Moreno,,,14,
 -34.5543,-58.5687,22,baja,Edenor,Pilar,Villa Rosa,,,13,
+-34.3829,-58.8614,22,baja,Edenor,Pilar,Villa Rosa,,,9,
+-34.4892,-58.8395,22,baja,Edenor,Pilar,Pte Derqui,,,1,
+-34.6123,-58.9562,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,70,
 -34.6076,-58.4026,21,baja,Edesur,Capital,Balvanera,,,18,
 -34.6287,-58.44,21,baja,Edesur,Capital,Caballito,,,1,
 -34.6829,-58.4733,21,baja,Edesur,Capital,Villa Lugano,,,5,
+-34.7755,-58.3501,21,baja,Edesur,Almirante Brown,San Jose,,,19,
 -34.6281,-58.4664,21,baja,Edesur,Capital,Capital,,,8,
--34.633,-58.3587,21,baja,Edesur,Capital,La Boca,,,108,
+-34.633,-58.3587,21,baja,Edesur,Capital,La Boca,,,111,
 -34.6187,-58.4289,21,baja,Edesur,Capital,Caballito,,,6,
--34.6772,-58.4784,21,baja,Edesur,Capital,Villa Lugano,,,18,
+-34.6772,-58.4784,21,baja,Edesur,Capital,Villa Lugano,,,19,
 -34.6343,-58.4924,21,baja,Edesur,Capital,Velez Sarfield,,,29,
 -34.6617,-58.3605,21,baja,Edesur,Avellaneda,Avellaneda,,,3,
 -34.6261,-58.4713,21,baja,Edesur,Capital,Flores,,,6,
 -35.022,-58.4235,21,baja,Edesur,San Vicente,San Vicente,,,2,
 -34.6864,-58.399,21,baja,Edesur,Lanus,Lanus,,,19,
--34.7789,-58.2593,21,baja,Edesur,Berazategui,Berazategui,,,14,
+-34.8018,-58.4324,21,baja,Edesur,Lomas De Zamora,Lavallol,,,10,
+-34.7789,-58.2593,21,baja,Edesur,Berazategui,Berazategui,,,16,
 -34.7725,-58.4228,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,3,
