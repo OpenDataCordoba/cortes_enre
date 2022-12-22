@@ -1,26 +1,26 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.852741545,-58.395750709,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,363,2022-12-22 20:20
--34.848566875,-58.398823039,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,234,2022-12-22 20:20
--34.838694555,-58.395709058,11,media,Edesur,Almirante Brown,Burzaco,Burzaco,R:082-2-29/082-2-29,233,2022-12-22 20:20
--34.845712820,-58.400869011,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,1,2022-12-22 20:20
--34.850246146,-58.395816572,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,33,2022-12-22 20:20
--34.844218591,-58.395023526,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,172,2022-12-22 20:20
--34.849508945,-58.394188356,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,146,2022-12-22 20:20
--34.846750142,-58.394683876,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,129,2022-12-22 20:20
--34.844273728,-58.396125831,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,7,2022-12-22 20:20
+-34.838694555,-58.395709058,11,media,Edesur,Almirante Brown,Burzaco,Burzaco,R:082-2-29/082-2-29,233,2022-12-22 22:18
+-34.850246146,-58.395816572,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,33,2022-12-22 22:18
+-34.844218591,-58.395023526,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,172,2022-12-22 22:18
+-34.849508945,-58.394188356,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,146,2022-12-22 22:18
+-34.846750142,-58.394683876,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,129,2022-12-22 22:18
+-34.844273728,-58.396125831,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-2-29/082-2-29,7,2022-12-22 22:18
+-34.739620052,-58.345321656,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-2-23/077-2-23,134,2022-12-22 22:18
+-34.749804005,-58.339544341,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-2-23/077-2-23,1,2022-12-22 22:18
+-34.744716636,-58.338440491,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-2-23/077-2-23,217,2022-12-22 22:18
+-34.746524694,-58.342378011,11,media,Edesur,Lomas De Zamora,Temperley,Don Bosco,R:077-2-23/077-2-23,230,2022-12-22 22:18
 -34.727,-58.5649,22,baja,Edenor,La Matanza,Ciudad Evita,,,60,
 -34.7182,-58.5577,22,baja,Edenor,La Matanza,Ciudad Evita,,,5,
 -34.47,-58.9058,22,baja,Edenor,Pilar,Pilar,,,3,
 -34.6564,-58.7158,22,baja,Edenor,Merlo,Merlo,,,9,
 -34.6782,-58.5077,22,baja,Edenor,La Matanza,La Tablada,,,4,
 -34.5944,-58.6364,22,baja,Edenor,Hurlingham,Hurlingham,,,30,
--34.5531,-58.5896,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,29,
+-34.5531,-58.5896,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,30,
 -34.6184,-58.7457,22,baja,Edenor,Moreno,Trujui,,,3,
 -34.5112,-58.4784,22,baja,Edenor,Vicente Lopez,Olivos,,,6,
 -34.6638,-58.5346,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,36,
 -34.4839,-58.6171,22,baja,Edenor,Tigre,Don Torcuato,,,4,
 -34.4648,-58.5296,22,baja,Edenor,San Isidro,Beccar,,,4,
--34.5653,-58.4575,22,baja,Edenor,Capital Federal,Belgrano,,,4,
 -34.6673,-58.5253,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,21,
 -34.4401,-58.6555,22,baja,Edenor,Tigre,General Pacheco,,,2,
 -34.4778,-58.6869,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,22,
@@ -33,9 +33,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7211,-58.398,21,baja,Edesur,Lanus,Lanus,,,2,
 -34.6085,-58.5163,21,baja,Edesur,Capital,Capital,,,18,
 -34.6043,-58.4068,21,baja,Edesur,Capital,Balvanera,,,13,
--35.022,-58.4235,21,baja,Edesur,San Vicente,San Vicente,,,4,
+-34.8631,-58.3774,21,baja,Edesur,Almirante Brown,Longchamps,,,91,
 -34.6274,-58.3958,21,baja,Edesur,Capital,San Cristobal,,,2,
 -34.6176,-58.5156,21,baja,Edesur,Capital,Capital,,,2,
 -34.6137,-58.471,21,baja,Edesur,Capital,Villa General Mitre,,,1,
 -34.6501,-58.5068,21,baja,Edesur,Capital,Mataderos,,,2,
--34.8643,-58.3742,21,baja,Edesur,Almirante Brown,Longchamps,,,2,
+-34.8619,-58.3741,21,baja,Edesur,Almirante Brown,Longchamps,,,2,
