@@ -1,41 +1,78 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.701634618,-58.351624741,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,357,2022-12-22 12:51
--34.702529839,-58.353189612,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,217,2022-12-22 12:51
--34.702358978,-58.349276874,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,106,2022-12-22 12:51
--34.708239626,-58.351502295,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,611,2022-12-22 12:51
--34.705317888,-58.348153211,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,311,2022-12-22 12:51
--34.866157077,-58.384978150,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,288,2022-12-22 14:34
--34.868531198,-58.383249957,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,186,2022-12-22 14:34
--34.860500980,-58.377539791,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,717,2022-12-22 14:34
--34.864771329,-58.379831636,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,367,2022-12-22 14:34
--34.867739508,-58.380939314,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,9,2022-12-22 14:34
--34.872984282,-58.383615688,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,433,2022-12-22 14:34
+-34.701634618,-58.351624741,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,357,Sin Datos
+-34.702529839,-58.353189612,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,217,Sin Datos
+-34.702358978,-58.349276874,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,106,Sin Datos
+-34.708239626,-58.351502295,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,611,Sin Datos
+-34.705317888,-58.348153211,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-1-16/172-1-16/172-1-13,311,Sin Datos
+-34.866157077,-58.384978150,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,288,Sin Datos
+-34.868531198,-58.383249957,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,186,Sin Datos
+-34.860500980,-58.377539791,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,717,Sin Datos
+-34.864771329,-58.379831636,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,367,Sin Datos
+-34.867739508,-58.380939314,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,9,Sin Datos
+-34.872984282,-58.383615688,11,media,Edesur,Almirante Brown,Longchamps,Burzaco,R:082-1-13/082-1-13,433,Sin Datos
 -34.801140231,-58.511486220,11,media,Edesur,Esteban Echeverria,Estado Nacional,Echeverria,R:083-2-22/083-2-22,1,2022-12-22 15:00
 -34.803571581,-58.508445188,11,media,Edesur,Esteban Echeverria,Estado Nacional,Echeverria,R:083-2-22/083-2-22,2,2022-12-22 15:00
 -34.801479438,-58.510008930,11,media,Edesur,Esteban Echeverria,Estado Nacional,Echeverria,R:083-2-22/083-2-22,2,2022-12-22 15:00
 -34.807391786,-58.506606655,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-22/083-2-22,8,2022-12-22 15:00
 -34.806069438,-58.503414262,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-22/083-2-22,1,2022-12-22 15:00
--34.627496350,-58.552268332,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5517,1,2022-12-22 10:00
--34.933741509,-58.965382688,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Las Heras/269-Tr2/269-5512,23,2022-12-22 10:00
--34.649211644,-58.863919058,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5527,54,2022-12-22 11:00
--34.488906246,-58.901136786,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5524,55,2022-12-22 11:00
+-34.627496350,-58.552268332,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5517,1,2022-12-22 12:00
+-34.933741509,-58.965382688,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Las Heras/269-Tr2/269-5512,23,2022-12-22 11:00
+-34.649211644,-58.863919058,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5527,54,2022-12-22 12:00
+-34.488906246,-58.901136786,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5524,55,2022-12-22 12:00
+-34.482773469,-58.938722552,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5522,9,2022-12-22 11:00
+-34.467308312,-58.680823361,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Talar/58-Tr3/58-5532,1,Sin Datos
+-34.424112126,-58.664677203,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,82,2022-12-22 14:00
+-34.426091707,-58.662546870,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,3,2022-12-22 14:00
+-34.415295074,-58.678176409,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,59,2022-12-22 14:00
+-34.414014903,-58.673192569,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,176,2022-12-22 14:00
+-34.436273234,-58.640672518,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,4,2022-12-22 14:00
+-34.430377567,-58.632830409,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Nordelta/156-Tr1/156-5512,3,2022-12-22 14:00
+-34.411200813,-58.669714010,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,140,2022-12-22 14:00
+-34.424175362,-58.631529615,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Nordelta/156-Tr1/156-5512,22,2022-12-22 14:00
+-34.418213501,-58.653363715,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,11,2022-12-22 14:00
+-34.416677698,-58.668216394,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,50,2022-12-22 14:00
+-34.418444402,-58.665023205,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,87,2022-12-22 14:00
+-34.427202801,-58.657227468,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,214,2022-12-22 14:00
+-34.414563462,-58.676954848,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,8,2022-12-22 14:00
+-34.422097599,-58.651789072,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,26,2022-12-22 14:00
+-34.412586749,-58.677861466,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,70,2022-12-22 14:00
+-34.409267221,-58.675456161,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,113,2022-12-22 14:00
+-34.406631935,-58.677843819,12,media,Edenor,S/D,S/D,S/D,R:Nordelta/156-Tr1/156-5512,101,2022-12-22 14:00
+-34.403992448,-58.679788893,12,media,Edenor,Tigre,Benavidez,S/D,R:Nordelta/156-Tr1/156-5512,44,2022-12-22 14:00
+-34.419910070,-58.629067366,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,72,2022-12-22 14:00
+-34.434061423,-58.643883764,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,1,2022-12-22 14:00
+-34.424387373,-58.634838719,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,52,2022-12-22 14:00
+-34.419646666,-58.631856998,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,25,2022-12-22 14:00
+-34.414309932,-58.630802340,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,54,2022-12-22 14:00
+-34.429549904,-58.653976092,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,26,2022-12-22 14:00
+-34.429878002,-58.655821034,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,37,2022-12-22 14:00
+-34.427549459,-58.660706759,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,165,2022-12-22 14:00
+-34.423119139,-58.662289566,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,3,2022-12-22 14:00
+-34.424983626,-58.659462419,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,389,2022-12-22 14:00
+-34.415217057,-58.670688002,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,4,2022-12-22 14:00
+-34.422950035,-58.660785595,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,94,2022-12-22 14:00
+-34.424448900,-58.653073924,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,48,2022-12-22 14:00
+-34.420818975,-58.655951803,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,72,2022-12-22 14:00
+-34.418162191,-58.667388171,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,4,2022-12-22 14:00
+-34.417377696,-58.672906334,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,179,2022-12-22 14:00
+-34.420469660,-58.667558691,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,146,2022-12-22 14:00
+-34.423195819,-58.666185941,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,94,2022-12-22 14:00
 -34.4676,-58.6876,22,baja,Edenor,Malvinas Argentinas,El Triangulo,,,14,
 -34.8134,-58.6522,22,baja,Edenor,La Matanza,Virrey Del Pino,,,4,
 -34.7012,-58.6005,22,baja,Edenor,La Matanza,Isidro Casanova,,,36,
 -34.727,-58.5649,22,baja,Edenor,La Matanza,Ciudad Evita,,,4,
--34.4828,-58.9387,22,baja,Edenor,Pilar,Pilar,,,1,
 -34.6765,-58.5592,22,baja,Edenor,La Matanza,San Justo,,,4,
 -34.6738,-58.5619,22,baja,Edenor,La Matanza,San Justo,,,37,
--34.6187,-58.4289,21,baja,Edesur,Capital,Caballito,,,8,
--34.6296,-58.4578,21,baja,Edesur,Capital,Flores,,,64,
+-34.47,-58.9058,22,baja,Edenor,Pilar,Pilar,,,4,
+-34.6187,-58.4289,21,baja,Edesur,Capital,Caballito,,,9,
+-34.6296,-58.4578,21,baja,Edesur,Capital,Flores,,,62,
 -34.6259,-58.4422,21,baja,Edesur,Capital,Caballito,,,5,
 -34.6116,-58.3941,21,baja,Edesur,Capital,Balvanera,,,7,
--34.6963,-58.3105,21,baja,Edesur,Avellaneda,Wilde,,,77,
 -34.601,-58.4916,21,baja,Edesur,Capital,Villa Del Parque,,,2,
 -34.7847,-58.3909,21,baja,Edesur,Lomas De Zamora,Temperley,,,10,
 -34.6395,-58.4837,21,baja,Edesur,Capital,Capital,,,2,
 -34.6169,-58.4431,21,baja,Edesur,Capital,Capital,,,1,
--34.7922,-58.1473,21,baja,Edesur,Berazategui,Hudson,,,12,
+-34.7922,-58.1473,21,baja,Edesur,Berazategui,Hudson,,,14,
 -35.022,-58.4235,21,baja,Edesur,San Vicente,San Vicente,,,3,
 -34.9792,-58.3822,21,baja,Edesur,San Vicente,Alejandro Korn,,,10,
 -34.9776,-58.3811,21,baja,Edesur,San Vicente,Alejandro Korn,,,1,
