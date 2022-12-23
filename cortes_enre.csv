@@ -1,61 +1,92 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.320098855,-58.623662991,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,2022-12-23 05:00
--34.276416428,-58.624711292,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2022-12-23 05:00
--34.321026055,-58.617681082,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 05:00
--34.315145147,-58.615980435,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 05:00
--34.345438931,-58.623981156,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,43,2022-12-23 05:00
--34.327509779,-58.622201755,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,31,2022-12-23 05:00
--34.309511824,-58.620832228,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,14,2022-12-23 05:00
--34.295742595,-58.623737731,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,38,2022-12-23 05:00
--34.280547217,-58.631004795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,10,2022-12-23 05:00
--34.280325788,-58.633355838,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,2022-12-23 05:00
--34.315019207,-58.620052647,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,2022-12-23 05:00
--34.273909103,-58.631289417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2022-12-23 05:00
--34.320122383,-58.616231818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2022-12-23 05:00
--34.334977758,-58.623286818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 05:00
--34.628869338,-58.772674094,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,119,Sin Datos
--34.583351431,-58.886297225,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Malvinas/169-Tr1/169-5534,302,2022-12-23 05:00
--34.566465610,-58.864633619,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 05:00
--34.582096658,-58.890615049,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Malvinas/169-Tr1/169-5534,132,2022-12-23 05:00
--34.578230036,-58.884257273,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 05:00
--34.580640354,-58.888979048,12,media,Edenor,Moreno,Cuartel V,S/D,R:Malvinas/169-Tr1/169-5534,119,2022-12-23 05:00
--34.578446037,-58.899360130,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,2,2022-12-23 05:00
--34.586158671,-58.933814795,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,43,2022-12-23 05:00
--34.576055771,-58.901244523,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 05:00
--34.565210668,-58.909839421,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 05:00
--34.588990313,-58.908512815,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,137,2022-12-23 05:00
--34.590438910,-58.914907652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,96,2022-12-23 05:00
--34.575616596,-58.901634975,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 05:00
--34.596973310,-58.478072567,12,media,Edenor,Capital Federal,Agronomia,S/D,R:Agronomia/47-Tr3/47-5531,180,2022-12-23 05:00
--34.339767200,-58.781002675,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,287,2022-12-23 08:00
--34.345728214,-58.790518194,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,288,2022-12-23 08:00
--34.335607251,-58.786215031,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,216,2022-12-23 08:00
--34.341389872,-58.783627035,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,312,2022-12-23 08:00
--34.350763928,-58.782938747,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,87,2022-12-23 08:00
--34.370216439,-58.767915553,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,70,2022-12-23 08:00
--34.346136492,-58.786527462,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,91,2022-12-23 08:00
--34.331083514,-58.789605544,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,348,2022-12-23 08:00
--34.349177260,-58.777632177,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,4,2022-12-23 08:00
--34.348578593,-58.779350455,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,215,2022-12-23 08:00
--34.345493828,-58.777589321,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,141,2022-12-23 08:00
--34.358359981,-58.777149378,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,29,2022-12-23 08:00
--34.367827181,-58.765303160,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,67,2022-12-23 08:00
--34.366557926,-58.769386398,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,71,2022-12-23 08:00
--34.342228667,-58.784541349,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,4,2022-12-23 08:00
--34.344458674,-58.788789729,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,155,2022-12-23 08:00
--34.332900705,-58.788185754,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,300,2022-12-23 08:00
--34.344980529,-58.787386673,12,media,Edenor,Escobar,Garin,S/D,R:Maschwitz/154-Tr1/154-5516,76,2022-12-23 08:00
--34.364787529,-58.771846246,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,7,2022-12-23 08:00
--34.363660918,-58.769695832,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,86,2022-12-23 08:00
--34.349138554,-58.784504631,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,111,2022-12-23 08:00
--34.338300259,-58.784206633,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,97,2022-12-23 08:00
--34.342785501,-58.785863328,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5516,308,2022-12-23 08:00
--34.339277389,-58.783420205,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,328,2022-12-23 08:00
--34.345187863,-58.784109566,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,153,2022-12-23 08:00
--34.350548448,-58.781619068,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,14,2022-12-23 08:00
--34.365843445,-58.771605909,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,11,2022-12-23 08:00
--34.344999854,-58.782184010,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,48,2022-12-23 08:00
--34.329632771,-58.790742827,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,22,2022-12-23 08:00
+-34.792246195,-58.175556593,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,282,2022-12-23 08:27
+-34.789177925,-58.173419712,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,3,2022-12-23 08:27
+-34.788907985,-58.175478290,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,5,2022-12-23 08:27
+-34.790545116,-58.176596347,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,3,2022-12-23 08:27
+-34.789854831,-58.172265471,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,1,2022-12-23 08:27
+-34.792306371,-58.173207016,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,2,2022-12-23 08:27
+-34.805635235,-58.171960564,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,56,2022-12-23 08:27
+-34.808189181,-58.175790381,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,19,2022-12-23 08:27
+-34.807553580,-58.176666449,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,43,2022-12-23 08:27
+-34.804760520,-58.173006674,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,128,2022-12-23 08:27
+-34.818702066,-58.184544892,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,10,2022-12-23 08:27
+-34.824100165,-58.184247532,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,35,2022-12-23 08:27
+-34.819787128,-58.178359476,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,12,2022-12-23 08:27
+-34.820322001,-58.181301759,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,71,2022-12-23 08:27
+-34.786850182,-58.175882150,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,1,2022-12-23 08:27
+-34.821007100,-58.183175230,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,50,2022-12-23 08:27
+-34.787825429,-58.175682584,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,1,2022-12-23 08:27
+-34.794976602,-58.172176119,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,299,2022-12-23 08:27
+-34.787205942,-58.172806464,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,1,2022-12-23 08:27
+-34.320098855,-58.623662991,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,2022-12-23 06:00
+-34.276416428,-58.624711292,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2022-12-23 06:00
+-34.321026055,-58.617681082,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 06:00
+-34.315145147,-58.615980435,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 06:00
+-34.345438931,-58.623981156,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,43,2022-12-23 06:00
+-34.327509779,-58.622201755,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,31,2022-12-23 06:00
+-34.309511824,-58.620832228,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,14,2022-12-23 06:00
+-34.295742595,-58.623737731,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,38,2022-12-23 06:00
+-34.280547217,-58.631004795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,10,2022-12-23 06:00
+-34.280325788,-58.633355838,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,2022-12-23 06:00
+-34.315019207,-58.620052647,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,2022-12-23 06:00
+-34.273909103,-58.631289417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2022-12-23 06:00
+-34.320122383,-58.616231818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2022-12-23 06:00
+-34.334977758,-58.623286818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 06:00
+-34.407966178,-58.980066566,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5484,1,Sin Datos
+-34.701658350,-58.792146887,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,1,2022-12-23 06:00
+-34.700376911,-58.790360413,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,203,Sin Datos
+-34.699180844,-58.793829749,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,64,Sin Datos
+-34.619434179,-58.789503922,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,236,2022-12-23 06:00
+-34.622817824,-58.787774411,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,141,2022-12-23 06:00
+-34.623926464,-58.770130573,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5524,332,2022-12-23 06:00
+-34.625168555,-58.784110167,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,378,2022-12-23 06:00
+-34.619280573,-58.765345005,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5524,300,2022-12-23 06:00
+-34.622354160,-58.777016004,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,340,2022-12-23 06:00
+-34.627332221,-58.782049711,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,447,2022-12-23 06:00
+-34.621417380,-58.787797108,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,354,2022-12-23 06:00
+-34.623320130,-58.785904591,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,116,2022-12-23 06:00
+-34.624120480,-58.774607787,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,104,2022-12-23 06:00
+-34.583351431,-58.886297225,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Malvinas/169-Tr1/169-5534,302,2022-12-23 07:00
+-34.566465610,-58.864633619,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 07:00
+-34.582096658,-58.890615049,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Malvinas/169-Tr1/169-5534,132,2022-12-23 07:00
+-34.578230036,-58.884257273,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 07:00
+-34.580640354,-58.888979048,12,media,Edenor,Moreno,Cuartel V,S/D,R:Malvinas/169-Tr1/169-5534,119,2022-12-23 07:00
+-34.578446037,-58.899360130,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,2,2022-12-23 07:00
+-34.586158671,-58.933814795,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,43,2022-12-23 07:00
+-34.576055771,-58.901244523,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 07:00
+-34.565210668,-58.909839421,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 07:00
+-34.588990313,-58.908512815,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,137,2022-12-23 07:00
+-34.590438910,-58.914907652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,96,2022-12-23 07:00
+-34.575616596,-58.901634975,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 07:00
+-34.339767200,-58.781002675,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,287,2022-12-23 06:00
+-34.345728214,-58.790518194,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,288,2022-12-23 06:00
+-34.335607251,-58.786215031,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,216,2022-12-23 06:00
+-34.341389872,-58.783627035,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,312,2022-12-23 06:00
+-34.350763928,-58.782938747,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,87,2022-12-23 06:00
+-34.370216439,-58.767915553,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,70,2022-12-23 06:00
+-34.346136492,-58.786527462,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,91,2022-12-23 06:00
+-34.331083514,-58.789605544,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,348,2022-12-23 06:00
+-34.349177260,-58.777632177,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,4,2022-12-23 06:00
+-34.348578593,-58.779350455,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,215,2022-12-23 06:00
+-34.345493828,-58.777589321,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,141,2022-12-23 06:00
+-34.358359981,-58.777149378,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,29,2022-12-23 06:00
+-34.367827181,-58.765303160,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,67,2022-12-23 06:00
+-34.366557926,-58.769386398,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,71,2022-12-23 06:00
+-34.342228667,-58.784541349,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,4,2022-12-23 06:00
+-34.344458674,-58.788789729,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,155,2022-12-23 06:00
+-34.332900705,-58.788185754,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,300,2022-12-23 06:00
+-34.344980529,-58.787386673,12,media,Edenor,Escobar,Garin,S/D,R:Maschwitz/154-Tr1/154-5516,76,2022-12-23 06:00
+-34.364787529,-58.771846246,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,7,2022-12-23 06:00
+-34.363660918,-58.769695832,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,86,2022-12-23 06:00
+-34.349138554,-58.784504631,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,111,2022-12-23 06:00
+-34.338300259,-58.784206633,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,97,2022-12-23 06:00
+-34.342785501,-58.785863328,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5516,308,2022-12-23 06:00
+-34.339277389,-58.783420205,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,328,2022-12-23 06:00
+-34.345187863,-58.784109566,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,153,2022-12-23 06:00
+-34.350548448,-58.781619068,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,14,2022-12-23 06:00
+-34.365843445,-58.771605909,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,11,2022-12-23 06:00
+-34.344999854,-58.782184010,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,48,2022-12-23 06:00
+-34.329632771,-58.790742827,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,22,2022-12-23 06:00
 -34.59,-58.4356,22,baja,Edenor,Capital Federal,Palermo,,,14,
 -34.3364,-58.6755,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,18,
 -34.3942,-58.8849,22,baja,Edenor,Pilar,Villa Rosa,,,2,
