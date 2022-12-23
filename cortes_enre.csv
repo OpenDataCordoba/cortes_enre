@@ -1,9 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.805635235,-58.171960564,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,56,2022-12-23 15:24
--34.808189181,-58.175790381,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,19,2022-12-23 15:24
--34.807553580,-58.176666449,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,43,2022-12-23 15:24
--34.804760520,-58.173006674,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,128,2022-12-23 15:24
--34.872838681,-58.192726621,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,477,2022-12-23 15:24
+-34.805635235,-58.171960564,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,56,Sin Datos
+-34.808189181,-58.175790381,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,19,Sin Datos
+-34.807553580,-58.176666449,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,43,Sin Datos
+-34.804760520,-58.173006674,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,128,Sin Datos
+-34.872838681,-58.192726621,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-27/174-2-27,477,Sin Datos
 -34.597889263,-58.389843249,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-4-48/117-4-48,69,2022-12-23 15:37
 -34.596589619,-58.389964088,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-4-48/117-4-48,309,2022-12-23 15:37
 -34.598084910,-58.389809506,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-4-48/117-4-48,11,2022-12-23 15:37
@@ -21,19 +21,32 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.044595764,-58.409959580,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,17,2022-12-23 14:04
 -35.038884518,-58.430206820,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,12,2022-12-23 14:04
 -35.037788556,-58.429102284,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,3,2022-12-23 14:04
--34.928078866,-58.960436141,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Las Heras/269-Tr2/269-5512,280,Sin Datos
+-34.928078866,-58.960436141,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Las Heras/269-Tr2/269-5512,280,2022-12-23 12:00
 -34.836396626,-58.875297593,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,1,Sin Datos
--34.566465610,-58.864633619,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 12:00
--34.339767200,-58.781002675,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,287,2022-12-23 12:00
--34.335607251,-58.786215031,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,216,2022-12-23 12:00
--34.341389872,-58.783627035,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,312,2022-12-23 12:00
--34.331083514,-58.789605544,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,348,2022-12-23 12:00
--34.344458674,-58.788789729,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,155,2022-12-23 12:00
--34.332900705,-58.788185754,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,300,2022-12-23 12:00
--34.338300259,-58.784206633,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,97,2022-12-23 12:00
--34.342785501,-58.785863328,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5516,308,2022-12-23 12:00
--34.339277389,-58.783420205,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,328,2022-12-23 12:00
--34.329632771,-58.790742827,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,22,2022-12-23 12:00
+-34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,Sin Datos
+-34.336433840,-58.675489405,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,7,Sin Datos
+-34.326331135,-58.672323649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,22,Sin Datos
+-34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,19,Sin Datos
+-34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,23,Sin Datos
+-34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,6,Sin Datos
+-34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,32,Sin Datos
+-34.566465610,-58.864633619,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5534,1,Sin Datos
+-34.339767200,-58.781002675,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,287,Sin Datos
+-34.335607251,-58.786215031,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,216,Sin Datos
+-34.341389872,-58.783627035,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,312,Sin Datos
+-34.331083514,-58.789605544,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,348,Sin Datos
+-34.344458674,-58.788789729,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,155,Sin Datos
+-34.332900705,-58.788185754,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,300,Sin Datos
+-34.338300259,-58.784206633,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,97,Sin Datos
+-34.342785501,-58.785863328,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr1/154-5516,308,Sin Datos
+-34.339277389,-58.783420205,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,328,Sin Datos
+-34.329632771,-58.790742827,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5516,22,Sin Datos
+-34.330288260,-58.607322301,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2022-12-23 12:00
+-34.349505617,-58.605718629,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2022-12-23 12:00
+-34.345250639,-58.605690291,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 12:00
+-34.338502909,-58.605704189,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,8,2022-12-23 12:00
+-34.341308065,-58.606666197,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2022-12-23 12:00
+-34.342679434,-58.605614020,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2022-12-23 12:00
 -34.3942,-58.8849,22,baja,Edenor,Pilar,Villa Rosa,,,3,
 -34.532,-58.8824,22,baja,Edenor,Pilar,Pilar,,,5,
 -34.659,-58.7386,22,baja,Edenor,Merlo,Merlo,,,24,
@@ -43,21 +56,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5595,-58.4632,22,baja,Edenor,Capital Federal,Belgrano,,,4,
 -34.6943,-58.4972,22,baja,Edenor,La Matanza,Villa Madero,,,45,
 -34.5125,-58.4794,22,baja,Edenor,Vicente Lopez,Olivos,,,4,
--34.4121,-58.6187,22,baja,Edenor,Tigre,Rincon De Milberg,,,1,
--34.7812,-58.6253,22,baja,Edenor,La Matanza,Gonzalez Catan,,,7,
--34.578,-58.6584,22,baja,Edenor,Hurlingham,William Morris,,,1,
--34.4935,-58.8398,22,baja,Edenor,Pilar,Pte Derqui,,,4,
+-34.4935,-58.8398,22,baja,Edenor,Pilar,Pte Derqui,,,42,
 -34.6687,-58.7282,22,baja,Edenor,Merlo,Merlo,,,19,
 -34.5006,-58.8536,22,baja,Edenor,Pilar,Pte Derqui,,,1,
--34.6933,-58.4699,21,baja,Edesur,Capital,Villa Riachuelo,,,36,
--34.647,-58.4973,21,baja,Edesur,Capital,Mataderos,,,9,
+-34.6933,-58.4699,21,baja,Edesur,Capital,Villa Riachuelo,,,35,
+-34.647,-58.4973,21,baja,Edesur,Capital,Mataderos,,,8,
 -34.7849,-58.4689,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,6,
 -34.6912,-58.3979,21,baja,Edesur,Lanus,Lanus,,,8,
 -34.6032,-58.4408,21,baja,Edesur,Capital,Villa Crespo,,,8,
--34.7358,-58.3741,21,baja,Edesur,Lanus,Monte Chingolo,,,11,
--34.7928,-58.3747,21,baja,Edesur,Almirante Brown,Marmol,,,8,
--34.6374,-58.5278,21,baja,Edesur,Capital,Capital,,,8,
+-34.7928,-58.3747,21,baja,Edesur,Almirante Brown,Marmol,,,7,
+-34.6374,-58.5278,21,baja,Edesur,Capital,Capital,,,7,
 -34.7493,-58.404,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,18,
 -34.6269,-58.4328,21,baja,Edesur,Capital,Caballito,,,2,
 -34.6059,-58.4968,21,baja,Edesur,Capital,Villa Del Parque,,,7,
 -34.6865,-58.3988,21,baja,Edesur,Lanus,Lanus,,,14,
+-34.615,-58.424,21,baja,Edesur,Capital,Capital,,,1,
