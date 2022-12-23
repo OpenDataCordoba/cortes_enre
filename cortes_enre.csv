@@ -34,8 +34,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.334977758,-58.623286818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 06:00
 -34.407966178,-58.980066566,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5484,1,Sin Datos
 -34.701658350,-58.792146887,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,1,2022-12-23 06:00
--34.700376911,-58.790360413,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,203,Sin Datos
--34.699180844,-58.793829749,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,64,Sin Datos
+-34.700376911,-58.790360413,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,203,2022-12-23 06:00
+-34.699180844,-58.793829749,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5515,64,2022-12-23 06:00
 -34.619434179,-58.789503922,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,236,2022-12-23 06:00
 -34.622817824,-58.787774411,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,141,2022-12-23 06:00
 -34.623926464,-58.770130573,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5524,332,2022-12-23 06:00
@@ -91,10 +91,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.3364,-58.6755,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,18,
 -34.3942,-58.8849,22,baja,Edenor,Pilar,Villa Rosa,,,2,
 -34.5519,-58.8741,22,baja,Edenor,Pilar,Pilar,,,3,
--34.6447,-58.6987,22,baja,Edenor,Ituzaingo,Ituzaingo,,,2,
 -34.2662,-58.6263,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,4,
--34.4803,-58.8926,22,baja,Edenor,Pilar,Villa Rosa,,,2,
--34.718,-58.5584,22,baja,Edenor,La Matanza,Ciudad Evita,,,1,
 -34.659,-58.7386,22,baja,Edenor,Merlo,Merlo,,,24,
 -34.6264,-58.4703,21,baja,Edesur,Capital,Flores,,,23,
 -34.8765,-58.3346,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,13,
@@ -105,5 +102,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7849,-58.4689,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,6,
 -34.6912,-58.3979,21,baja,Edesur,Lanus,Lanus,,,6,
 -34.6032,-58.4408,21,baja,Edesur,Capital,Villa Crespo,,,6,
--34.6353,-58.4483,21,baja,Edesur,Capital,Parque Chacabuco,,,21,
 -34.7024,-58.3956,21,baja,Edesur,Lanus,Lanus,,,12,
