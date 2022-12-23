@@ -17,12 +17,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.038884518,-58.430206820,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,12,2022-12-23 14:04
 -35.037788556,-58.429102284,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-1-14/271-1-14,3,2022-12-23 14:04
 -34.566465610,-58.864633619,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5534,1,2022-12-23 15:00
--34.330288260,-58.607322301,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos
--34.349505617,-58.605718629,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,Sin Datos
--34.345250639,-58.605690291,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos
--34.338502909,-58.605704189,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,8,Sin Datos
--34.341308065,-58.606666197,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,Sin Datos
--34.342679434,-58.605614020,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos
+-34.330288260,-58.607322301,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2022-12-23 15:00
+-34.349505617,-58.605718629,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2022-12-23 15:00
+-34.345250639,-58.605690291,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 15:00
+-34.338502909,-58.605704189,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,8,2022-12-23 15:00
+-34.341308065,-58.606666197,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2022-12-23 15:00
+-34.342679434,-58.605614020,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2022-12-23 15:00
 -34.3942,-58.8849,22,baja,Edenor,Pilar,Villa Rosa,,,3,
 -34.5895,-58.7421,22,baja,Edenor,Moreno,Trujui,,,2,
 -34.5258,-58.7946,22,baja,Edenor,Jose C Paz,Jose C Paz,,,18,
@@ -35,16 +35,22 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5006,-58.8536,22,baja,Edenor,Pilar,Pte Derqui,,,1,
 -34.5285,-58.8103,22,baja,Edenor,Moreno,Cuartel V,,,21,
 -34.3557,-58.6162,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,4,
--34.6933,-58.4699,21,baja,Edesur,Capital,Villa Riachuelo,,,41,
+-34.4992,-58.551,22,baja,Edenor,San Isidro,Boulogne,,,23,
+-34.438,-58.5633,22,baja,Edenor,San Fernando,San Fernando,,,89,
+-34.6933,-58.4699,21,baja,Edesur,Capital,Villa Riachuelo,,,42,
 -34.647,-58.4973,21,baja,Edesur,Capital,Mataderos,,,6,
 -34.7849,-58.4689,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,7,
 -34.6912,-58.3979,21,baja,Edesur,Lanus,Lanus,,,7,
 -34.6032,-58.4408,21,baja,Edesur,Capital,Villa Crespo,,,7,
 -34.793,-58.3745,21,baja,Edesur,Almirante Brown,Marmol,,,6,
--34.6374,-58.5278,21,baja,Edesur,Capital,Capital,,,14,
+-34.6374,-58.5278,21,baja,Edesur,Capital,Capital,,,13,
 -34.7493,-58.404,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,18,
 -34.6269,-58.4328,21,baja,Edesur,Capital,Caballito,,,2,
--34.6067,-58.4959,21,baja,Edesur,Capital,Villa Del Parque,,,6,
+-34.6067,-58.4959,21,baja,Edesur,Capital,Villa Del Parque,,,5,
+-34.8668,-58.3763,21,baja,Edesur,Almirante Brown,Longchamps,,,12,
 -34.6865,-58.3988,21,baja,Edesur,Lanus,Lanus,,,17,
 -34.6257,-58.5099,21,baja,Edesur,Capital,Villa Luro,,,6,
--34.7098,-58.4319,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,12,
+-34.7098,-58.4319,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,15,
+-34.864,-58.3745,21,baja,Edesur,Almirante Brown,Longchamps,,,11,
+-34.6558,-58.4004,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
+-34.8614,-58.3737,21,baja,Edesur,Almirante Brown,Longchamps,,,1,
