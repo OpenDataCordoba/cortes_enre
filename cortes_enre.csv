@@ -13,18 +13,28 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.273909103,-58.631289417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2022-12-23 05:00
 -34.320122383,-58.616231818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2022-12-23 05:00
 -34.334977758,-58.623286818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2022-12-23 05:00
--34.453416737,-58.755233555,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Tortuguitas/252-Tr1/252-5541,51,Sin Datos
--34.676894235,-58.543586321,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5534/65-5514/65-5513,1,2022-12-23 05:00
--34.628869338,-58.772674094,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,119,2022-12-23 04:00
+-34.676894235,-58.543586321,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr3/65-5534/65-5514/65-5513,1,2022-12-23 06:00
+-34.628869338,-58.772674094,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,119,Sin Datos
+-34.583351431,-58.886297225,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Malvinas/169-Tr1/169-5534,302,Sin Datos
+-34.566465610,-58.864633619,12,media,Edenor,Pilar,Pilar,S/D,R:Malvinas/169-Tr1/169-5534,1,Sin Datos
+-34.582096658,-58.890615049,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Malvinas/169-Tr1/169-5534,132,Sin Datos
+-34.578230036,-58.884257273,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Malvinas/169-Tr1/169-5534,1,Sin Datos
+-34.580640354,-58.888979048,12,media,Edenor,Moreno,Cuartel V,S/D,R:Malvinas/169-Tr1/169-5534,119,Sin Datos
+-34.578446037,-58.899360130,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,2,Sin Datos
+-34.586158671,-58.933814795,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,43,Sin Datos
+-34.576055771,-58.901244523,12,media,Edenor,S/D,S/D,S/D,R:Malvinas/169-Tr1/169-5534,1,Sin Datos
+-34.565210668,-58.909839421,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,1,Sin Datos
+-34.588990313,-58.908512815,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,137,Sin Datos
+-34.590438910,-58.914907652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,96,Sin Datos
+-34.575616596,-58.901634975,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5534,1,Sin Datos
+-34.596973310,-58.478072567,12,media,Edenor,Capital Federal,Agronomia,S/D,R:Agronomia/47-Tr3/47-5531,180,2022-12-23 08:00
 -34.59,-58.4356,22,baja,Edenor,Capital Federal,Palermo,,,14,
 -34.3364,-58.6755,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,18,
 -34.3942,-58.8849,22,baja,Edenor,Pilar,Villa Rosa,,,2,
 -34.5519,-58.8741,22,baja,Edenor,Pilar,Pilar,,,3,
--34.4053,-58.7535,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,22,
 -34.6447,-58.6987,22,baja,Edenor,Ituzaingo,Ituzaingo,,,2,
 -34.2662,-58.6263,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,4,
 -34.4803,-58.8926,22,baja,Edenor,Pilar,Villa Rosa,,,2,
--34.5945,-58.926,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,25,
 -34.718,-58.5584,22,baja,Edenor,La Matanza,Ciudad Evita,,,1,
 -34.659,-58.7386,22,baja,Edenor,Merlo,Merlo,,,24,
 -34.5019,-58.6511,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,1,
@@ -36,4 +46,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8179,-58.426,21,baja,Edesur,Almirante Brown,Adrogue,,,20,
 -34.7849,-58.4689,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,6,
 -34.6912,-58.3979,21,baja,Edesur,Lanus,Lanus,,,6,
+-34.6032,-58.4408,21,baja,Edesur,Capital,Villa Crespo,,,6,
 -34.6353,-58.4483,21,baja,Edesur,Capital,Parque Chacabuco,,,20,
