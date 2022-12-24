@@ -1,22 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.603951598,-58.380959569,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,54,2022-12-24 01:46
--34.603978476,-58.380969751,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,374,2022-12-24 01:46
--34.604047606,-58.380816128,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,48,2022-12-24 01:46
--34.604564292,-58.379889538,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,67,2022-12-24 01:46
--34.604180626,-58.380577581,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,71,2022-12-24 01:46
 -34.637065699,-58.855903875,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5523,171,Sin Datos
 -34.638130809,-58.857787584,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5523,158,Sin Datos
--34.548625538,-58.747906402,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5515,104,2022-12-24 00:00
--34.548466641,-58.748120265,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5515,148,2022-12-24 00:00
--34.550644302,-58.745185481,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5515,404,2022-12-24 00:00
 -34.380277665,-58.751502158,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,77,2022-12-24 00:00
--34.396559135,-58.739188786,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,160,2022-12-24 00:00
--34.399822794,-58.736003364,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,263,2022-12-24 00:00
--34.397624754,-58.738755754,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,21,2022-12-24 00:00
--34.408217292,-58.732844218,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5521,55,2022-12-24 00:00
--34.408093536,-58.730654898,12,media,Edenor,Tigre,Benavidez,S/D,R:Maschwitz/154-Tr2/154-5521,49,2022-12-24 00:00
--34.407941245,-58.730768097,12,media,Edenor,Tigre,Benavidez,S/D,R:Maschwitz/154-Tr2/154-5521,1,2022-12-24 00:00
--34.407224191,-58.730907491,12,media,Edenor,Tigre,Benavidez,S/D,R:Maschwitz/154-Tr2/154-5521,126,2022-12-24 00:00
 -34.382404363,-58.750378777,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,70,2022-12-24 00:00
 -34.3557,-58.6162,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,8,
 -34.659,-58.7386,22,baja,Edenor,Merlo,Merlo,,,9,
@@ -24,10 +9,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6583,-58.581,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,5,
 -34.6022,-58.6439,22,baja,Edenor,Hurlingham,Hurlingham,,,27,
 -34.5577,-58.7089,22,baja,Edenor,San Miguel,Muñiz,,,17,
+-34.4534,-59.0001,22,baja,Edenor,Pilar,Manzanares,,,5,
+-34.43,-58.5827,22,baja,Edenor,Tigre,Ciudad De Tigre,,,4,
+-34.5509,-58.7497,22,baja,Edenor,San Miguel,San Miguel,,,8,
 -34.7849,-58.4689,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,7,
 -34.6865,-58.3988,21,baja,Edesur,Lanus,Lanus,,,24,
 -34.7863,-58.2227,21,baja,Edesur,Berazategui,Berazategui,,,2,
--34.7033,-58.3739,21,baja,Edesur,Lanus,Gerli,,,24,
+-34.7033,-58.3739,21,baja,Edesur,Lanus,Gerli,,,25,
 -34.6076,-58.4026,21,baja,Edesur,Capital,Balvanera,,,12,
 -34.6316,-58.4133,21,baja,Edesur,Capital,Boedo,,,9,
 -34.6903,-58.3975,21,baja,Edesur,Lanus,Lanus,,,10,
