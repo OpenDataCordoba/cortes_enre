@@ -4,100 +4,87 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.807553580,-58.176666449,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,43,2022-12-24 07:40
 -34.804760520,-58.173006674,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,128,2022-12-24 07:40
 -34.648988529,-58.368276922,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-2-26/031-2-26,1,2022-12-24 07:56
--34.382404363,-58.750378777,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,70,2022-12-24 05:00
--34.432566815,-58.709895060,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,155,2022-12-24 05:00
--34.658411318,-58.737248275,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,260,2022-12-24 05:00
--34.654184290,-58.732626365,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,523,2022-12-24 05:00
--34.660901154,-58.744877601,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,416,2022-12-24 05:00
--34.653346919,-58.739296506,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,294,2022-12-24 05:00
--34.657218484,-58.743192793,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,304,2022-12-24 05:00
--34.662335135,-58.750511753,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,131,2022-12-24 05:00
--34.652570058,-58.739155672,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,3,2022-12-24 05:00
--34.650626216,-58.730869815,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,397,2022-12-24 05:00
--34.652447482,-58.735897607,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,403,2022-12-24 05:00
--34.656325919,-58.731696675,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,284,2022-12-24 05:00
--34.652007776,-58.729809649,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,55,2022-12-24 05:00
--34.661559234,-58.737947874,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,49,2022-12-24 05:00
--34.653484028,-58.717953876,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,144,2022-12-24 05:00
--34.654746361,-58.716545468,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,128,2022-12-24 05:00
--34.659703274,-58.737533156,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,210,2022-12-24 05:00
--34.657118644,-58.751042563,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,36,2022-12-24 05:00
--34.658464661,-58.745841288,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,206,2022-12-24 05:00
--34.655779656,-58.736724078,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,252,2022-12-24 05:00
+-34.834339787,-58.299810743,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-55/286-5-55,188,2022-12-24 08:06
+-34.832963056,-58.296881125,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-55/286-5-55,197,2022-12-24 08:06
+-34.836037053,-58.296360369,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-55/286-5-55,146,2022-12-24 08:06
+-34.831832613,-58.294641393,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-55/286-5-55,155,2022-12-24 08:06
+-34.382404363,-58.750378777,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,70,Sin Datos
+-34.432566815,-58.709895060,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,155,Sin Datos
+-34.650626216,-58.730869815,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,397,2022-12-24 06:00
+-34.652007776,-58.729809649,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,55,2022-12-24 06:00
+-34.653484028,-58.717953876,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,144,2022-12-24 06:00
+-34.654746361,-58.716545468,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,128,2022-12-24 06:00
 -34.677063264,-58.538628183,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5516,82,Sin Datos
 -34.677928109,-58.539289999,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5516,51,Sin Datos
 -34.678803624,-58.540043810,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5516,45,Sin Datos
 -34.677565812,-58.539524534,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5516,73,Sin Datos
--34.804228623,-58.641081725,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,278,Sin Datos
--34.806869392,-58.645160090,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,458,Sin Datos
--34.809825338,-58.642450053,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,331,Sin Datos
--34.799882260,-58.652515279,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,23,Sin Datos
--34.795681288,-58.657567219,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,Sin Datos
--34.794432357,-58.661587198,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,Sin Datos
--34.806207211,-58.647130404,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,130,Sin Datos
--34.807922805,-58.644937402,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,2,Sin Datos
--34.805152363,-58.646046830,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,101,Sin Datos
--34.810715504,-58.643567327,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,345,Sin Datos
--34.802533865,-58.649258951,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,5,Sin Datos
--34.803814154,-58.647712677,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,212,Sin Datos
--34.800009970,-58.652489679,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,Sin Datos
--34.681816992,-58.539132377,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,217,2022-12-24 06:00
--34.679608189,-58.540715871,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,211,2022-12-24 06:00
--34.683432550,-58.541392682,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,299,2022-12-24 06:00
--34.685497989,-58.539105698,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,347,2022-12-24 06:00
--34.683134944,-58.537048989,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,132,2022-12-24 06:00
--34.681598023,-58.543379525,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,212,2022-12-24 06:00
--34.686840748,-58.537525840,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,120,2022-12-24 06:00
--34.680317029,-58.538449104,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,273,2022-12-24 06:00
--34.681967401,-58.540355546,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,74,2022-12-24 06:00
--34.554835615,-58.838569563,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,60,2022-12-24 05:00
--34.556306654,-58.834806605,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,32,2022-12-24 05:00
--34.561292611,-58.838870500,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,2,2022-12-24 05:00
--34.562127574,-58.840106891,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-12-24 05:00
--34.559257282,-58.835806137,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-12-24 05:00
--34.533379732,-58.824632353,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,112,2022-12-24 05:00
--34.531841664,-58.822305037,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,42,2022-12-24 05:00
--34.530457890,-58.825263284,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,97,2022-12-24 05:00
--34.559115663,-58.836985534,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,2,2022-12-24 05:00
--34.558698343,-58.836862925,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-12-24 05:00
--34.558273216,-58.835171453,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-12-24 05:00
--34.560567537,-58.839187429,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,2022-12-24 05:00
--34.558628660,-58.830955478,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,12,2022-12-24 05:00
--34.557202828,-58.828378710,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,2022-12-24 05:00
--34.551811941,-58.839293937,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,65,2022-12-24 05:00
--34.550189053,-58.824781411,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,9,2022-12-24 05:00
--34.542313250,-58.828667283,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,15,2022-12-24 05:00
--34.549918020,-58.829691106,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,2022-12-24 05:00
--34.546591499,-58.835629367,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,3,2022-12-24 05:00
--34.561075729,-58.835513842,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,9,2022-12-24 05:00
--34.558117765,-58.843658695,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,145,2022-12-24 05:00
--34.543243085,-58.824979642,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,2022-12-24 05:00
--34.555928922,-58.846061555,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,99,2022-12-24 05:00
--34.555392002,-58.835745456,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,2022-12-24 05:00
--34.563359934,-58.839886458,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,3,2022-12-24 05:00
--34.534454958,-58.826244975,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,2022-12-24 05:00
+-34.804228623,-58.641081725,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,278,2022-12-24 06:00
+-34.806869392,-58.645160090,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,458,2022-12-24 06:00
+-34.809825338,-58.642450053,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,331,2022-12-24 06:00
+-34.799882260,-58.652515279,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,23,2022-12-24 06:00
+-34.795681288,-58.657567219,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,2022-12-24 06:00
+-34.794432357,-58.661587198,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,2022-12-24 06:00
+-34.806207211,-58.647130404,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,130,2022-12-24 06:00
+-34.807922805,-58.644937402,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,2,2022-12-24 06:00
+-34.805152363,-58.646046830,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,101,2022-12-24 06:00
+-34.810715504,-58.643567327,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,345,2022-12-24 06:00
+-34.802533865,-58.649258951,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,5,2022-12-24 06:00
+-34.803814154,-58.647712677,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,212,2022-12-24 06:00
+-34.800009970,-58.652489679,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5512,1,2022-12-24 06:00
+-34.681816992,-58.539132377,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,217,Sin Datos
+-34.679608189,-58.540715871,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,211,Sin Datos
+-34.683432550,-58.541392682,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,299,Sin Datos
+-34.685497989,-58.539105698,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,347,Sin Datos
+-34.683134944,-58.537048989,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,132,Sin Datos
+-34.681598023,-58.543379525,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,212,Sin Datos
+-34.686840748,-58.537525840,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,120,Sin Datos
+-34.680317029,-58.538449104,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,273,Sin Datos
+-34.681967401,-58.540355546,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5546,74,Sin Datos
+-34.554835615,-58.838569563,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,60,Sin Datos
+-34.556306654,-58.834806605,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,32,Sin Datos
+-34.561292611,-58.838870500,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,2,Sin Datos
+-34.562127574,-58.840106891,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,Sin Datos
+-34.559257282,-58.835806137,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,Sin Datos
+-34.533379732,-58.824632353,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,112,Sin Datos
+-34.531841664,-58.822305037,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,42,Sin Datos
+-34.530457890,-58.825263284,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,97,Sin Datos
+-34.559115663,-58.836985534,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,2,Sin Datos
+-34.558698343,-58.836862925,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,Sin Datos
+-34.558273216,-58.835171453,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,Sin Datos
+-34.560567537,-58.839187429,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,1,Sin Datos
+-34.558628660,-58.830955478,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,12,Sin Datos
+-34.557202828,-58.828378710,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,Sin Datos
+-34.551811941,-58.839293937,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,65,Sin Datos
+-34.550189053,-58.824781411,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,9,Sin Datos
+-34.542313250,-58.828667283,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,15,Sin Datos
+-34.549918020,-58.829691106,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,Sin Datos
+-34.546591499,-58.835629367,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,3,Sin Datos
+-34.561075729,-58.835513842,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,9,Sin Datos
+-34.558117765,-58.843658695,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,145,Sin Datos
+-34.543243085,-58.824979642,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,Sin Datos
+-34.555928922,-58.846061555,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,99,Sin Datos
+-34.555392002,-58.835745456,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,4,Sin Datos
+-34.563359934,-58.839886458,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,3,Sin Datos
+-34.534454958,-58.826244975,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482/952-5522,6,Sin Datos
 -34.445414488,-58.563159786,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr1/53-5513,713,2022-12-24 06:00
--34.447707127,-58.564349750,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr1/53-5513,326,2022-12-24 06:00
 -34.451047701,-58.554514240,12,media,Edenor,San Fernando,Virreyes,S/D,R:Victoria/53-Tr1/53-5513,570,2022-12-24 06:00
--34.445978259,-58.566677772,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr1/53-5513,439,2022-12-24 06:00
 -34.453163043,-58.553864913,12,media,Edenor,San Fernando,Virreyes,S/D,R:Victoria/53-Tr1/53-5513,544,2022-12-24 06:00
--34.449191764,-58.561396506,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr1/53-5513,129,2022-12-24 06:00
--34.854315493,-58.717440407,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 05:00
--34.863986190,-58.713126740,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,6,2022-12-24 05:00
--34.862255180,-58.715525134,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,7,2022-12-24 05:00
--34.857466736,-58.713566992,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 05:00
--34.861983045,-58.721747445,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2022-12-24 05:00
--34.856911001,-58.722090146,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 05:00
--34.852843780,-58.719286927,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-24 05:00
--34.834840755,-58.698926368,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,7,2022-12-24 05:00
--34.835615922,-58.705061119,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,2022-12-24 05:00
--34.842902168,-58.723707021,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,6,2022-12-24 05:00
--34.843410418,-58.730923144,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-24 05:00
--34.846252315,-58.735246208,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2022-12-24 05:00
--34.848906096,-58.731974902,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 05:00
--34.839656342,-58.719994958,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 05:00
--34.838177917,-58.694830497,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-24 05:00
--34.837108014,-58.701675901,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2022-12-24 05:00
+-34.854315493,-58.717440407,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 06:00
+-34.863986190,-58.713126740,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,6,2022-12-24 06:00
+-34.862255180,-58.715525134,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,7,2022-12-24 06:00
+-34.857466736,-58.713566992,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 06:00
+-34.861983045,-58.721747445,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2022-12-24 06:00
+-34.856911001,-58.722090146,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 06:00
+-34.852843780,-58.719286927,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-24 06:00
+-34.834840755,-58.698926368,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,7,2022-12-24 06:00
+-34.835615922,-58.705061119,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,2022-12-24 06:00
+-34.842902168,-58.723707021,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,6,2022-12-24 06:00
+-34.843410418,-58.730923144,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-24 06:00
+-34.846252315,-58.735246208,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2022-12-24 06:00
+-34.848906096,-58.731974902,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 06:00
+-34.839656342,-58.719994958,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2022-12-24 06:00
+-34.838177917,-58.694830497,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2022-12-24 06:00
+-34.837108014,-58.701675901,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2022-12-24 06:00
 -34.785531611,-58.787707215,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-12-24 06:00
 -34.794277329,-58.776779714,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-12-24 06:00
 -34.799427821,-58.779721420,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2022-12-24 06:00
@@ -114,7 +101,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.790032732,-58.777018443,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-12-24 06:00
 -34.817643331,-58.780967303,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,1,2022-12-24 06:00
 -34.3557,-58.6162,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,8,
--34.4557,-58.9064,22,baja,Edenor,Pilar,Pilar,,,5,
 -34.3806,-58.5738,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
 -34.6022,-58.6439,22,baja,Edenor,Hurlingham,Hurlingham,,,27,
 -34.4157,-58.8594,22,baja,Edenor,Pilar,Villa Rosa,,,25,
@@ -125,8 +111,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5509,-58.7497,22,baja,Edenor,San Miguel,San Miguel,,,8,
 -34.5548,-58.7103,22,baja,Edenor,San Miguel,Muñiz,,,6,
 -34.5511,-58.7555,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
+-34.5476,-58.7304,22,baja,Edenor,San Miguel,San Miguel,,,18,
+-34.4707,-58.5186,22,baja,Edenor,San Isidro,San Isidro,,,5,
 -34.5089,-58.7533,22,baja,Edenor,Jose C Paz,Jose C Paz,,,13,
--34.577,-58.76,22,baja,Edenor,Moreno,Trujui,,,22,
+-34.577,-58.76,22,baja,Edenor,Moreno,Trujui,,,25,
 -34.4035,-58.8769,22,baja,Edenor,Pilar,Villa Rosa,,,1,
 -34.7849,-58.4689,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,7,
 -34.7863,-58.2227,21,baja,Edesur,Berazategui,Berazategui,,,2,
