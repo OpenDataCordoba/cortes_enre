@@ -1,47 +1,67 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.408423542,-58.781141095,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,297,2022-12-24 03:00
--34.411577135,-58.778806611,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,320,2022-12-24 03:00
--34.405222020,-58.786107393,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,1,2022-12-24 03:00
--34.406471706,-58.782791386,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,159,2022-12-24 03:00
--34.408915166,-58.784250000,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,280,2022-12-24 03:00
--34.382404363,-58.750378777,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,70,2022-12-24 03:00
--34.429956417,-58.690770946,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,264,2022-12-24 05:00
--34.422478183,-58.689624304,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,98,2022-12-24 05:00
--34.417754354,-58.680832878,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,159,2022-12-24 05:00
--34.426009872,-58.693848053,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,163,2022-12-24 05:00
--34.428661734,-58.691741465,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,281,2022-12-24 05:00
--34.426264633,-58.698578387,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,227,2022-12-24 05:00
--34.420050670,-58.685031725,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,484,2022-12-24 05:00
--34.432566815,-58.709895060,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,155,2022-12-24 05:00
--34.428809989,-58.703383988,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,219,2022-12-24 05:00
--34.425088708,-58.708596450,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,78,2022-12-24 05:00
--34.425032209,-58.706498067,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,78,2022-12-24 05:00
--34.424818314,-58.703560757,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,66,2022-12-24 05:00
--34.403214020,-58.679297409,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,4,2022-12-24 05:00
--34.405613780,-58.683781008,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,206,2022-12-24 05:00
--34.415712079,-58.702727943,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,72,2022-12-24 05:00
--34.424331446,-58.709514705,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,57,2022-12-24 05:00
--34.399353042,-58.692831856,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,110,2022-12-24 05:00
--34.407359062,-58.687065217,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,130,2022-12-24 05:00
--34.427050215,-58.711014946,12,media,Edenor,S/D,S/D,S/D,R:Benavidez/59-Tr2/59-5526,88,2022-12-24 05:00
--34.418063044,-58.705433733,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,36,2022-12-24 05:00
--34.404540181,-58.692892218,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,76,2022-12-24 05:00
--34.400371605,-58.673945266,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,8,2022-12-24 05:00
--34.429028836,-58.707892938,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Benavidez/59-Tr2/59-5526,9,2022-12-24 05:00
--34.419004891,-58.707369866,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,64,2022-12-24 05:00
--34.414467834,-58.709938421,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,244,2022-12-24 05:00
--34.430166046,-58.707003686,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,150,2022-12-24 05:00
--34.406193669,-58.688291753,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,483,2022-12-24 05:00
--34.404801948,-58.690911725,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,483,2022-12-24 05:00
--34.396110820,-58.674479311,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,13,2022-12-24 05:00
--34.402280192,-58.677491026,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,7,2022-12-24 05:00
--34.417191293,-58.710426746,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,50,2022-12-24 05:00
--34.402798545,-58.686825865,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,62,2022-12-24 05:00
--34.427404095,-58.715279537,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,81,2022-12-24 05:00
--34.422352067,-58.705776607,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,179,2022-12-24 05:00
--34.415334070,-58.701947015,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,115,2022-12-24 05:00
+-34.789177925,-58.173419712,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,3,2022-12-24 05:28
+-34.789854831,-58.172265471,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,1,2022-12-24 05:28
+-34.805635235,-58.171960564,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,56,2022-12-24 05:28
+-34.808189181,-58.175790381,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,19,2022-12-24 05:28
+-34.807553580,-58.176666449,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,43,2022-12-24 05:28
+-34.804760520,-58.173006674,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-2-21/174-2-21,128,2022-12-24 05:28
+-34.818702066,-58.184544892,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,10,2022-12-24 05:28
+-34.824100165,-58.184247532,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,35,2022-12-24 05:28
+-34.819787128,-58.178359476,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,12,2022-12-24 05:28
+-34.820322001,-58.181301759,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,71,2022-12-24 05:28
+-34.821007100,-58.183175230,11,media,Edesur,Berazategui,Berazategui,Gutierrez Ii,R:174-2-21/174-2-21,50,2022-12-24 05:28
+-34.787205942,-58.172806464,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-2-21/174-2-21,1,2022-12-24 05:28
+-34.408423542,-58.781141095,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,297,Sin Datos
+-34.411577135,-58.778806611,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,320,Sin Datos
+-34.405222020,-58.786107393,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,1,Sin Datos
+-34.406471706,-58.782791386,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,159,Sin Datos
+-34.408915166,-58.784250000,12,media,Edenor,Pilar,Luis Lagomarsino,S/D,R:Del Viso/251-Tr2/251-5531,280,Sin Datos
+-34.382404363,-58.750378777,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5521,70,Sin Datos
+-34.790513655,-58.836214408,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,488,2022-12-24 05:00
+-34.429956417,-58.690770946,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,264,Sin Datos
+-34.422478183,-58.689624304,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,98,Sin Datos
+-34.417754354,-58.680832878,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,159,Sin Datos
+-34.426009872,-58.693848053,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,163,Sin Datos
+-34.428661734,-58.691741465,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,281,Sin Datos
+-34.426264633,-58.698578387,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,227,Sin Datos
+-34.420050670,-58.685031725,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,484,Sin Datos
+-34.432566815,-58.709895060,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,155,Sin Datos
+-34.428809989,-58.703383988,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr1/59-5512,219,Sin Datos
+-34.425088708,-58.708596450,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,78,2022-12-24 04:00
+-34.425032209,-58.706498067,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,78,2022-12-24 04:00
+-34.424818314,-58.703560757,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,66,2022-12-24 04:00
+-34.415712079,-58.702727943,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,72,2022-12-24 04:00
+-34.424331446,-58.709514705,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,57,2022-12-24 04:00
+-34.427050215,-58.711014946,12,media,Edenor,S/D,S/D,S/D,R:Benavidez/59-Tr2/59-5526,88,2022-12-24 04:00
+-34.418063044,-58.705433733,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,36,2022-12-24 04:00
+-34.429028836,-58.707892938,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Benavidez/59-Tr2/59-5526,9,2022-12-24 04:00
+-34.419004891,-58.707369866,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,64,2022-12-24 04:00
+-34.414467834,-58.709938421,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,244,2022-12-24 04:00
+-34.430166046,-58.707003686,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,150,2022-12-24 04:00
+-34.417191293,-58.710426746,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,50,2022-12-24 04:00
+-34.427404095,-58.715279537,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,81,2022-12-24 04:00
+-34.422352067,-58.705776607,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,179,2022-12-24 04:00
+-34.415334070,-58.701947015,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,115,2022-12-24 04:00
+-34.658411318,-58.737248275,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,260,2022-12-24 05:00
+-34.654184290,-58.732626365,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,523,2022-12-24 05:00
+-34.660901154,-58.744877601,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,416,2022-12-24 05:00
+-34.653346919,-58.739296506,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,294,2022-12-24 05:00
+-34.657218484,-58.743192793,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,304,2022-12-24 05:00
+-34.662335135,-58.750511753,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,131,2022-12-24 05:00
+-34.652570058,-58.739155672,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,3,2022-12-24 05:00
+-34.650626216,-58.730869815,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,397,2022-12-24 05:00
+-34.652447482,-58.735897607,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,403,2022-12-24 05:00
+-34.656325919,-58.731696675,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,284,2022-12-24 05:00
+-34.652007776,-58.729809649,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,55,2022-12-24 05:00
+-34.661559234,-58.737947874,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,49,2022-12-24 05:00
+-34.653484028,-58.717953876,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,144,2022-12-24 05:00
+-34.654746361,-58.716545468,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,128,2022-12-24 05:00
+-34.659703274,-58.737533156,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,210,2022-12-24 05:00
+-34.657118644,-58.751042563,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,36,2022-12-24 05:00
+-34.658464661,-58.745841288,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,206,2022-12-24 05:00
+-34.655779656,-58.736724078,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,252,2022-12-24 05:00
 -34.3557,-58.6162,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,8,
--34.4557,-58.9064,22,baja,Edenor,Pilar,Pilar,,,4,
+-34.4557,-58.9064,22,baja,Edenor,Pilar,Pilar,,,5,
 -34.6022,-58.6439,22,baja,Edenor,Hurlingham,Hurlingham,,,27,
 -34.4157,-58.8594,22,baja,Edenor,Pilar,Villa Rosa,,,25,
 -34.4047,-58.7533,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,4,
@@ -49,7 +69,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.43,-58.5827,22,baja,Edenor,Tigre,Ciudad De Tigre,,,47,
 -34.5509,-58.7497,22,baja,Edenor,San Miguel,San Miguel,,,8,
 -34.5548,-58.7103,22,baja,Edenor,San Miguel,Muñiz,,,5,
--34.7905,-58.8362,22,baja,Edenor,Marcos Paz,Marcos Paz,,,8,
+-34.5511,-58.7555,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
 -34.7849,-58.4689,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,7,
 -34.6865,-58.3988,21,baja,Edesur,Lanus,Lanus,,,24,
 -34.7863,-58.2227,21,baja,Edesur,Berazategui,Berazategui,,,2,
@@ -58,5 +78,3 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6316,-58.4133,21,baja,Edesur,Capital,Boedo,,,9,
 -34.6903,-58.3975,21,baja,Edesur,Lanus,Lanus,,,10,
 -34.8301,-58.2426,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,
--34.6558,-58.4004,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
--34.7903,-58.1507,21,baja,Edesur,Berazategui,Hudson,,,8,
