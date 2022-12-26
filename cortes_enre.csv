@@ -1,31 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.805814966,-58.442704917,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-12/182-1-12,250,2022-12-26 23:06
--34.800433003,-58.431986783,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,363,2022-12-26 23:06
--34.806112736,-58.421790950,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,430,2022-12-26 23:06
--34.803873227,-58.435205110,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,154,2022-12-26 23:06
--34.806340873,-58.427427201,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,777,2022-12-26 23:06
--34.794642557,-58.426116377,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,470,2022-12-26 23:06
--34.804275600,-58.426649694,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,55,2022-12-26 23:06
--34.800950913,-58.424817339,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,400,2022-12-26 23:06
--34.804241912,-58.424477438,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,66,2022-12-26 23:06
--34.806229638,-58.437317292,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,302,2022-12-26 23:06
--34.798056802,-58.424010869,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,330,2022-12-26 23:06
--34.802091680,-58.426167230,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,15,2022-12-26 23:06
--34.793799090,-58.436955028,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,4,2022-12-26 23:06
--34.804806511,-58.424897832,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,40,2022-12-26 23:06
--34.800170119,-58.427656073,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,113,2022-12-26 23:06
--34.806102603,-58.425359555,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,15,2022-12-26 23:06
--34.806256482,-58.425657400,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,2,2022-12-26 23:06
--34.806379764,-58.425896385,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,1,2022-12-26 23:06
--34.806505436,-58.426140002,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,5,2022-12-26 23:06
--34.806622028,-58.426366020,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,10,2022-12-26 23:06
--34.806748176,-58.426610565,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,2,2022-12-26 23:06
--34.804694094,-58.433350916,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,1,2022-12-26 23:06
--34.802877033,-58.433919484,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,2,2022-12-26 23:06
--34.804619587,-58.418482620,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,292,2022-12-26 23:06
--34.797549949,-58.425121001,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,99,2022-12-26 23:06
--34.798915800,-58.425223361,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,1,2022-12-26 23:06
--34.796471676,-58.429018533,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,212,2022-12-26 23:06
 -34.956595122,-58.395989976,11,media,Edesur,Pte Peron,Copenhagüe,Burzaco,R:082-4-983/082-4-983,2,2022-12-26 19:17
 -34.951317802,-58.385344693,11,media,Edesur,Pte Peron,Parque Las Naciones,Burzaco,R:082-4-983/082-4-983,54,2022-12-26 19:17
 -34.950006310,-58.385201526,11,media,Edesur,Pte Peron,Parque Las Naciones,Burzaco,R:082-4-983/082-4-983,17,2022-12-26 19:17
@@ -34,23 +7,19 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.948699475,-58.380010446,11,media,Edesur,Pte Peron,Parque Las Naciones,Burzaco,R:082-4-983/082-4-983,38,2022-12-26 19:17
 -34.952613436,-58.383326640,11,media,Edesur,Pte Peron,Parque Las Naciones,Burzaco,R:082-4-983/082-4-983,44,2022-12-26 19:17
 -34.958048114,-58.392741222,11,media,Edesur,Pte Peron,Copenhagüe,Burzaco,R:082-4-983/082-4-983,5,2022-12-26 19:17
--34.638257716,-58.862478529,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5523,366,2022-12-26 18:00
+-34.638257716,-58.862478529,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5523,366,2022-12-26 19:00
 -34.443727443,-58.585402941,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr1/153-5513,29,2022-12-26 19:00
 -34.5435,-58.706,22,baja,Edenor,San Miguel,San Miguel,,,5,
 -34.7032,-58.4764,22,baja,Edenor,La Matanza,Villa Madero,,,29,
 -34.4406,-58.7834,22,baja,Edenor,Pilar,Manuel Alberti,,,16,
--34.3564,-58.574,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
 -34.6325,-58.888,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,35,
--34.6367,-58.6529,22,baja,Edenor,Moron,Castelar,,,1,
 -34.7147,-58.5938,22,baja,Edenor,La Matanza,Isidro Casanova,,,11,
--34.6703,-58.7277,22,baja,Edenor,Merlo,Merlo,,,4,
--34.6079,-58.404,21,baja,Edesur,Capital,Balvanera,,,23,
+-34.4718,-58.5577,22,baja,Edenor,San Isidro,Beccar,,,18,
+-34.6079,-58.404,21,baja,Edesur,Capital,Balvanera,,,24,
 -34.6591,-58.4347,21,baja,Edesur,Capital,Villa Soldati,,,6,
--34.5989,-58.4108,21,baja,Edesur,Capital,Balvanera,,,5,
--35.0158,-58.416,21,baja,Edesur,San Vicente,San Vicente,,,26,
+-34.8216,-58.3589,21,baja,Edesur,Almirante Brown,Claypole,,,26,
 -34.6393,-58.4648,21,baja,Edesur,Capital,Flores,,,8,
 -34.8542,-58.5441,21,baja,Edesur,Ezeiza,Barrio La Union,,,5,
--34.822,-58.3602,21,baja,Edesur,Almirante Brown,Claypole,,,9,
--34.6282,-58.3613,21,baja,Edesur,Capital,La Boca,,,13,
--34.6275,-58.4295,21,baja,Edesur,Capital,Parque Chacabuco,,,5,
--34.6161,-58.5189,21,baja,Edesur,Capital,Villa Devoto,,,18,
+-34.6282,-58.3613,21,baja,Edesur,Capital,La Boca,,,14,
+-34.6275,-58.4295,21,baja,Edesur,Capital,Parque Chacabuco,,,11,
+-34.6161,-58.5189,21,baja,Edesur,Capital,Villa Devoto,,,19,
