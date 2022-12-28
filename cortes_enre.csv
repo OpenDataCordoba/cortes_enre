@@ -6,14 +6,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.710163353,-58.356516062,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-15/075-1-15,252,2022-12-28 20:43
 -34.709567777,-58.357371887,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-15/075-1-15,255,2022-12-28 20:43
 -34.709951644,-58.354687623,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-15/075-1-15,333,2022-12-28 20:43
--34.284472016,-58.637226809,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,12,Sin Datos
--34.281228208,-58.640057607,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,5,Sin Datos
--34.276273115,-58.642630086,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,12,Sin Datos
--34.276996127,-58.639840258,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,Sin Datos
--34.284205026,-58.635023662,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,Sin Datos
--34.304422054,-58.637337350,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,Sin Datos
--34.297689176,-58.637733683,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,15,Sin Datos
--34.304034795,-58.635533712,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,21,Sin Datos
 -34.331478109,-58.653480303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,2022-12-28 18:00
 -34.318466248,-58.649647619,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,25,2022-12-28 18:00
 -34.307268978,-58.644044069,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,2022-12-28 18:00
@@ -26,6 +18,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,7,2022-12-28 18:00
 -34.326418161,-58.655226207,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,15,2022-12-28 18:00
 -34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,2022-12-28 18:00
+-34.523789011,-58.905779862,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5523,3,2022-12-28 20:00
 -34.621710244,-58.548798189,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr2/167-5526,108,2022-12-28 18:00
 -34.642771945,-58.539064644,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr2/167-5526,320,2022-12-28 18:00
 -34.642360125,-58.533864351,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr2/167-5526,425,2022-12-28 18:00
@@ -42,10 +35,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6858,-58.5037,22,baja,Edenor,La Matanza,Villa Madero,,,49,
 -34.5934,-58.4968,22,baja,Edenor,Capital Federal,Agronomia,,,9,
 -34.7196,-58.7383,22,baja,Edenor,Merlo,Pontevedra,,,17,
--34.6455,-58.5448,22,baja,Edenor,3 De Febrero,Ciudadela,,,4,
 -35.0631,-58.7809,21,baja,Edesur,Cañuelas,Cañuelas,,,9,
 -34.6208,-58.3752,21,baja,Edesur,Capital,San Telmo,,,17,
--34.7409,-58.4437,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,37,
+-34.7409,-58.4437,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,39,
 -34.8597,-58.1945,21,baja,Edesur,Florencio Varela,Ing. Allan,,,7,
 -34.6052,-58.4582,21,baja,Edesur,Capital,Caballito,,,3,
 -34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,5,
@@ -53,3 +45,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6272,-58.4668,21,baja,Edesur,Capital,Capital,,,25,
 -34.7209,-58.3639,21,baja,Edesur,Lanus,Lanus,,,87,
 -34.7232,-58.3664,21,baja,Edesur,Lanus,Monte Chingolo,,,5,
+-34.811,-58.3166,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
