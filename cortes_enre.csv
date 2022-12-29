@@ -1,47 +1,51 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604591098,-58.378579004,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,83,2022-12-29 10:45
--34.715401411,-58.265811849,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,400,2022-12-29 13:27
--34.571340195,-58.684203710,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,135,Sin Datos
--34.575498054,-58.684611046,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,143,Sin Datos
--34.573354849,-58.679086691,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,49,Sin Datos
--34.573675826,-58.684036908,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,1,Sin Datos
--34.574475039,-58.679852874,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,42,Sin Datos
--34.574980416,-58.676824771,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,52,Sin Datos
--34.577281507,-58.674180380,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,54,Sin Datos
--34.568561137,-58.687337551,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,246,Sin Datos
--34.573309551,-58.686361260,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,358,Sin Datos
--34.569020186,-58.681838620,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,218,Sin Datos
--34.570289685,-58.677500086,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,173,Sin Datos
--34.572868178,-58.681310099,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,256,Sin Datos
--34.566153090,-58.690579943,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,268,Sin Datos
--34.569423559,-58.692372695,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,166,Sin Datos
--34.463045481,-58.882176928,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5518,42,2022-12-29 09:00
--34.301773865,-58.601077894,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2022-12-29 09:00
--34.327378764,-58.598350378,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,55,2022-12-29 09:00
--34.317976337,-58.600386818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,36,2022-12-29 09:00
--34.329438783,-58.608739559,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,42,2022-12-29 09:00
--34.277122641,-58.617328086,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,43,2022-12-29 09:00
--34.332077683,-58.595455341,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,38,2022-12-29 09:00
--34.312225714,-58.602400476,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,2022-12-29 09:00
--34.304402944,-58.603920274,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2022-12-29 09:00
--34.284253381,-58.601639277,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,32,2022-12-29 09:00
--34.283011171,-58.606666298,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,33,2022-12-29 09:00
--34.290376568,-58.604267661,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,23,2022-12-29 09:00
--34.316302811,-58.601804282,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,2022-12-29 09:00
--34.276509605,-58.623738124,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2022-12-29 09:00
--34.284267264,-58.617366494,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,2022-12-29 09:00
--34.295147933,-58.603446511,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,2022-12-29 09:00
+-34.604591098,-58.378579004,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,83,2022-12-29 14:44
+-34.813381648,-58.303229629,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,489,2022-12-29 13:53
+-34.814575542,-58.305504400,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,597,2022-12-29 13:53
+-34.809023558,-58.306016479,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,8,2022-12-29 13:53
+-34.809736439,-58.307342946,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,10,2022-12-29 13:53
+-34.808727913,-58.307048742,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,2,2022-12-29 13:53
+-34.809471181,-58.308616866,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,10,2022-12-29 13:53
+-34.812029289,-58.310017309,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,3,2022-12-29 13:53
+-34.810690784,-58.304243329,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,395,2022-12-29 13:53
+-34.811392224,-58.307184157,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,193,2022-12-29 13:53
+-34.851073104,-58.885443768,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,5,2022-12-29 13:00
+-34.568561137,-58.687337551,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,246,2022-12-29 10:00
+-34.566153090,-58.690579943,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,268,2022-12-29 10:00
+-34.569423559,-58.692372695,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,166,2022-12-29 10:00
+-34.670697534,-58.834180933,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,330,2022-12-29 10:00
+-34.667347353,-58.830827470,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,505,2022-12-29 10:00
+-34.670122925,-58.842462919,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,60,2022-12-29 10:00
+-34.671666802,-58.838503466,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,124,2022-12-29 10:00
+-34.463045481,-58.882176928,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5518,42,2022-12-29 11:00
+-34.301773865,-58.601077894,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2022-12-29 11:00
+-34.327378764,-58.598350378,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,55,2022-12-29 11:00
+-34.317976337,-58.600386818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,36,2022-12-29 11:00
+-34.329438783,-58.608739559,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,42,2022-12-29 11:00
+-34.277122641,-58.617328086,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,43,2022-12-29 11:00
+-34.332077683,-58.595455341,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,38,2022-12-29 11:00
+-34.312225714,-58.602400476,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,2022-12-29 11:00
+-34.304402944,-58.603920274,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2022-12-29 11:00
+-34.284253381,-58.601639277,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,32,2022-12-29 11:00
+-34.283011171,-58.606666298,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,33,2022-12-29 11:00
+-34.290376568,-58.604267661,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,23,2022-12-29 11:00
+-34.316302811,-58.601804282,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,2022-12-29 11:00
+-34.276509605,-58.623738124,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2022-12-29 11:00
+-34.284267264,-58.617366494,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,2022-12-29 11:00
+-34.295147933,-58.603446511,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,2022-12-29 11:00
+-34.491466733,-58.777949146,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5528,100,2022-12-29 11:00
+-34.488836558,-58.780043789,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5528,177,2022-12-29 11:00
+-34.489690723,-58.779348572,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5528,203,2022-12-29 11:00
 -34.3315,-58.6535,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,18,
--34.604,-58.7293,22,baja,Edenor,Pilar,Pilar,,,7,
+-34.604,-58.7293,22,baja,Edenor,Pilar,Pilar,,,8,
 -34.5001,-58.6898,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,27,
+-34.4705,-58.5491,22,baja,Edenor,San Isidro,Beccar,,,4,
+-34.5634,-58.9341,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,6,
 -35.0631,-58.7809,21,baja,Edesur,Cañuelas,Cañuelas,,,9,
--34.6557,-58.4014,21,baja,Edesur,Capital,Nueva Pompeya,,,3,
--34.6075,-58.4037,21,baja,Edesur,Capital,Balvanera,,,30,
--34.8174,-58.3208,21,baja,Edesur,Florencio Varela,Florencio Varela,,,16,
+-34.6075,-58.4037,21,baja,Edesur,Capital,Balvanera,,,31,
 -34.6068,-58.4714,21,baja,Edesur,Capital,Villa General Mitre,,,14,
--34.7419,-58.4478,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
+-34.7419,-58.4478,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,9,
 -34.9889,-58.368,21,baja,Edesur,San Vicente,Alejandro Korn,,,4,
--34.7495,-58.285,21,baja,Edesur,Quilmes,Quilmes,,,21,
+-34.7495,-58.285,21,baja,Edesur,Quilmes,Quilmes,,,25,
 -34.7823,-58.1918,21,baja,Edesur,Berazategui,Ranelagh,,,7,
--34.8213,-58.5013,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,13,
 -34.827,-58.3904,21,baja,Edesur,Almirante Brown,Burzaco,,,6,
