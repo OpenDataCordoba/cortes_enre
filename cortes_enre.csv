@@ -1,5 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604591098,-58.378579004,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,83,Sin Datos
+-34.604591098,-58.378579004,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,83,2022-12-29 22:49
 -34.625459107,-58.433503222,11,media,Edesur,Capital Rp,Caballito Rp,Caballito,R:122-1-17/122-1-17,342,Sin Datos
 -34.629798268,-58.444162606,11,media,Edesur,Capital Rp,Parque Chacabuco,Alberdi,R:218-3-34/218-3-34,208,2022-12-29 20:42
 -34.629771638,-58.444173724,11,media,Edesur,Capital Rp,Parque Chacabuco,Alberdi,R:218-3-34/218-3-34,24,2022-12-29 20:42
@@ -23,11 +23,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.819301405,-59.120789129,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-29 18:00
 -34.832024135,-59.121631245,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-29 18:00
 -34.824969816,-59.137690445,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-29 18:00
--34.582361052,-58.401109892,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5541,123,Sin Datos
--34.582962120,-58.399251870,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5541,156,Sin Datos
--34.581563730,-58.397899684,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Melo/237-Tr1/237-5541,1,Sin Datos
--34.582113507,-58.398615195,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5541,95,Sin Datos
--34.582097359,-58.399697890,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5541,146,Sin Datos
+-34.582361052,-58.401109892,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5541,123,2022-12-29 18:00
+-34.582962120,-58.399251870,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5541,156,2022-12-29 18:00
+-34.581563730,-58.397899684,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Melo/237-Tr1/237-5541,1,2022-12-29 18:00
+-34.582113507,-58.398615195,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5541,95,2022-12-29 18:00
+-34.582097359,-58.399697890,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr1/237-5541,146,2022-12-29 18:00
 -34.4661,-58.8448,22,baja,Edenor,Pilar,La Lonja,,,18,
 -34.5862,-58.4068,22,baja,Edenor,Capital Federal,Recoleta,,,37,
 -34.6743,-58.6988,22,baja,Edenor,Merlo,San Antonio De Padua,,,20,
@@ -39,7 +39,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.659,-58.6231,22,baja,Edenor,Moron,Moron,,,13,
 -34.6858,-58.5037,22,baja,Edenor,La Matanza,Villa Madero,,,49,
 -34.6868,-58.5005,22,baja,Edenor,La Matanza,Villa Madero,,,21,
--34.6075,-58.4037,21,baja,Edesur,Capital,Balvanera,,,32,
+-34.5462,-58.5354,22,baja,Edenor,Gral San Martin,Gderos De San Mart?N,,,31,
+-34.6075,-58.4037,21,baja,Edesur,Capital,Balvanera,,,33,
 -34.6068,-58.4714,21,baja,Edesur,Capital,Villa General Mitre,,,22,
 -34.7495,-58.285,21,baja,Edesur,Quilmes,Quilmes,,,38,
 -34.8197,-58.4914,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,9,
@@ -48,6 +49,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6422,-58.4668,21,baja,Edesur,Capital,Capital,,,12,
 -34.6095,-58.5194,21,baja,Edesur,Capital,Capital,,,11,
 -34.7606,-58.4443,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,1,
--34.6104,-58.4543,21,baja,Edesur,Capital,Capital,,,17,
--34.6516,-58.4834,21,baja,Edesur,Capital,Parque Avellaneda,,,30,
+-34.6104,-58.4543,21,baja,Edesur,Capital,Capital,,,18,
 -34.6116,-58.4121,21,baja,Edesur,Capital,Capital,,,1,
