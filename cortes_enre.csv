@@ -11,61 +11,43 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.811392224,-58.307184157,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,193,Sin Datos
 -34.699748242,-58.442412629,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-27/089-2-27,298,2022-12-29 18:00
 -34.702131032,-58.440558632,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-27/089-2-27,256,2022-12-29 18:00
--34.731750754,-58.791029551,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5521,496,2022-12-29 14:00
--34.568561137,-58.687337551,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,246,2022-12-29 13:00
--34.566153090,-58.690579943,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,268,2022-12-29 13:00
--34.569423559,-58.692372695,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,166,2022-12-29 13:00
+-34.568561137,-58.687337551,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,246,2022-12-29 14:00
+-34.566153090,-58.690579943,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,268,2022-12-29 14:00
+-34.569423559,-58.692372695,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,166,2022-12-29 14:00
 -34.670697534,-58.834180933,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,330,Sin Datos
 -34.667347353,-58.830827470,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,505,Sin Datos
 -34.670122925,-58.842462919,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,60,Sin Datos
 -34.671666802,-58.838503466,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,124,Sin Datos
--34.331478109,-58.653480303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,Sin Datos
--34.318466248,-58.649647619,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,23,Sin Datos
--34.307268978,-58.644044069,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,Sin Datos
--34.299668872,-58.641179720,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,7,Sin Datos
--34.286030875,-58.647452348,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,Sin Datos
--34.279652899,-58.649720577,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,Sin Datos
--34.271975440,-58.653414997,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,11,Sin Datos
--34.298163978,-58.644139960,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,33,Sin Datos
--34.276144712,-58.653553859,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,Sin Datos
--34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,7,Sin Datos
--34.326418161,-58.655226207,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,15,Sin Datos
--34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,Sin Datos
 -34.463045481,-58.882176928,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5518,42,2022-12-29 14:00
--34.807724325,-58.881567967,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2022-12-29 14:00
--34.804540840,-58.874953037,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,6,2022-12-29 14:00
--34.776648774,-58.632393855,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5522,373,2022-12-29 16:00
--34.782201545,-58.634385367,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5522,372,2022-12-29 16:00
--34.772964167,-58.636925238,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5522,545,2022-12-29 16:00
--34.767635934,-58.643487797,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5522,281,2022-12-29 16:00
--34.779978157,-58.632064404,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5522,72,2022-12-29 16:00
--34.763966707,-58.648037478,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5522,309,2022-12-29 16:00
--34.775472272,-58.633789444,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5522,161,2022-12-29 16:00
--34.653808875,-58.553770279,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,180,2022-12-29 16:00
--34.653168107,-58.552097916,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,246,2022-12-29 16:00
--34.649275684,-58.566107611,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,312,2022-12-29 16:00
--34.649764102,-58.565242338,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,416,2022-12-29 16:00
--34.656312596,-58.551302888,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,321,2022-12-29 16:00
--34.646249756,-58.561001740,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,441,2022-12-29 16:00
--34.649661733,-58.559649565,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,442,2022-12-29 16:00
--34.655092289,-58.551795931,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,160,2022-12-29 16:00
--34.657013710,-58.549693691,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,148,2022-12-29 16:00
--34.645956613,-58.562391600,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,194,2022-12-29 16:00
--34.651735048,-58.556570241,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,308,2022-12-29 16:00
+-34.807724325,-58.881567967,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,Sin Datos
+-34.804540840,-58.874953037,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,6,Sin Datos
+-34.653808875,-58.553770279,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,180,2022-12-29 14:00
+-34.649275684,-58.566107611,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,312,2022-12-29 14:00
+-34.649764102,-58.565242338,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,416,2022-12-29 14:00
+-34.646249756,-58.561001740,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,441,2022-12-29 14:00
+-34.649661733,-58.559649565,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,442,2022-12-29 14:00
+-34.645956613,-58.562391600,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,194,2022-12-29 14:00
+-34.651735048,-58.556570241,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,308,2022-12-29 14:00
+-34.687770819,-58.663658163,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5525,478,Sin Datos
 -34.604,-58.7293,22,baja,Edenor,Pilar,Pilar,,,19,
--34.4705,-58.5491,22,baja,Edenor,San Isidro,Beccar,,,5,
 -34.4696,-58.753,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,24,
 -34.4661,-58.8448,22,baja,Edenor,Pilar,La Lonja,,,18,
 -34.7535,-58.5847,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
--34.5862,-58.4068,22,baja,Edenor,Capital Federal,Recoleta,,,19,
+-34.5862,-58.4068,22,baja,Edenor,Capital Federal,Recoleta,,,37,
 -34.6306,-58.6277,22,baja,Edenor,Hurlingham,Villa Tesei,,,4,
 -34.4131,-58.6066,22,baja,Edenor,Tigre,Rincon De Milberg,,,12,
+-34.6743,-58.6988,22,baja,Edenor,Merlo,San Antonio De Padua,,,4,
+-34.7632,-58.6453,22,baja,Edenor,La Matanza,Gonzalez Catan,,,16,
+-34.6487,-58.5647,22,baja,Edenor,La Matanza,Ramos Mejia,,,24,
+-34.5646,-58.7743,22,baja,Edenor,Moreno,Trujui,,,54,
+-34.6506,-58.5611,22,baja,Edenor,La Matanza,Ramos Mejia,,,1,
 -35.0631,-58.7809,21,baja,Edesur,Cañuelas,Cañuelas,,,9,
--34.6075,-58.4037,21,baja,Edesur,Capital,Balvanera,,,33,
--34.6068,-58.4714,21,baja,Edesur,Capital,Villa General Mitre,,,22,
+-34.6075,-58.4037,21,baja,Edesur,Capital,Balvanera,,,34,
+-34.6068,-58.4714,21,baja,Edesur,Capital,Villa General Mitre,,,26,
 -34.7495,-58.285,21,baja,Edesur,Quilmes,Quilmes,,,45,
--34.8263,-58.3897,21,baja,Edesur,Almirante Brown,Burzaco,,,3,
+-34.8275,-58.3892,21,baja,Edesur,Almirante Brown,Burzaco,,,2,
 -34.6186,-58.4442,21,baja,Edesur,Capital,Caballito,,,7,
 -34.6422,-58.4668,21,baja,Edesur,Capital,Capital,,,12,
+-34.6263,-58.4655,21,baja,Edesur,Capital,Capital,,,2,
 -34.7785,-58.4064,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,
 -34.6558,-58.4004,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
