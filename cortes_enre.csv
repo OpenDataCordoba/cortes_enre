@@ -1,5 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604591098,-58.378579004,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,83,Sin Datos
+-34.604591098,-58.378579004,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,83,2022-12-29 20:51
 -34.813381648,-58.303229629,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,489,Sin Datos
 -34.814575542,-58.305504400,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,597,Sin Datos
 -34.809023558,-58.306016479,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,8,Sin Datos
@@ -11,13 +11,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.811392224,-58.307184157,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-58/286-5-58,193,Sin Datos
 -34.699748242,-58.442412629,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-27/089-2-27,298,2022-12-29 18:00
 -34.702131032,-58.440558632,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-2-27/089-2-27,256,2022-12-29 18:00
--34.568561137,-58.687337551,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,246,Sin Datos
--34.566153090,-58.690579943,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,268,Sin Datos
--34.569423559,-58.692372695,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,166,Sin Datos
--34.670697534,-58.834180933,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,330,Sin Datos
--34.667347353,-58.830827470,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,505,Sin Datos
--34.670122925,-58.842462919,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,60,Sin Datos
--34.671666802,-58.838503466,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,124,Sin Datos
+-34.568561137,-58.687337551,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,246,2022-12-29 16:00
+-34.566153090,-58.690579943,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,268,2022-12-29 16:00
+-34.569423559,-58.692372695,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,166,2022-12-29 16:00
+-34.670697534,-58.834180933,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,330,2022-12-29 16:00
+-34.667347353,-58.830827470,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,505,2022-12-29 16:00
+-34.670122925,-58.842462919,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,60,2022-12-29 16:00
+-34.671666802,-58.838503466,12,media,Edenor,Moreno,La Reja,S/D,R:Paso Del Rey/258-Tr2/258-5535,124,2022-12-29 16:00
 -34.463045481,-58.882176928,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5518,42,2022-12-29 16:00
 -34.4661,-58.8448,22,baja,Edenor,Pilar,La Lonja,,,18,
 -34.7535,-58.5847,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
@@ -40,3 +40,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6263,-58.4655,21,baja,Edesur,Capital,Capital,,,5,
 -34.6095,-58.5194,21,baja,Edesur,Capital,Capital,,,10,
 -34.7606,-58.4443,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,1,
+-34.6104,-58.4543,21,baja,Edesur,Capital,Capital,,,10,
