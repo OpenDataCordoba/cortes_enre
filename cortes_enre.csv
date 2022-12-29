@@ -1,11 +1,11 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.604591098,-58.378579004,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-4-46/115-4-46,83,2022-12-30 01:47
--34.760520680,-58.916450700,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,2022-12-29 21:00
--34.758021814,-58.920349999,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-29 21:00
--34.742777073,-58.919216310,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-29 21:00
--34.750064645,-58.902701610,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-29 21:00
--34.741939045,-58.913357672,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-29 21:00
--34.754196262,-58.898441362,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2022-12-29 21:00
+-34.760520680,-58.916450700,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,3,2022-12-29 22:00
+-34.758021814,-58.920349999,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-29 22:00
+-34.742777073,-58.919216310,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-29 22:00
+-34.750064645,-58.902701610,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-29 22:00
+-34.741939045,-58.913357672,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,1,2022-12-29 22:00
+-34.754196262,-58.898441362,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2022-12-29 22:00
 -34.823624707,-59.102313962,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-29 21:00
 -34.831460586,-59.111821555,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2022-12-29 21:00
 -34.830155214,-59.124368219,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-29 21:00
@@ -16,20 +16,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.819301405,-59.120789129,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-29 21:00
 -34.832024135,-59.121631245,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-29 21:00
 -34.824969816,-59.137690445,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2022-12-29 21:00
--34.845474601,-58.661304423,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr2/353-5524,91,Sin Datos
 -34.5862,-58.4068,22,baja,Edenor,Capital Federal,Recoleta,,,37,
 -34.4982,-58.5056,22,baja,Edenor,San Isidro,Martinez,,,17,
 -34.6543,-58.6048,22,baja,Edenor,Moron,Moron,,,64,
 -34.4142,-58.8327,22,baja,Edenor,Pilar,Villa Rosa,,,4,
 -34.7278,-58.5766,22,baja,Edenor,La Matanza,Isidro Casanova,,,23,
 -34.6075,-58.4037,21,baja,Edesur,Capital,Balvanera,,,36,
--34.8197,-58.4914,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,18,
+-34.8197,-58.4914,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,54,
 -34.6186,-58.4442,21,baja,Edesur,Capital,Caballito,,,10,
 -34.6314,-58.4242,21,baja,Edesur,Capital,Boedo,,,15,
 -34.6422,-58.4668,21,baja,Edesur,Capital,Capital,,,12,
--35.017,-58.43,21,baja,Edesur,San Vicente,San Vicente,,,33,
+-35.017,-58.43,21,baja,Edesur,San Vicente,San Vicente,,,36,
 -34.6104,-58.4543,21,baja,Edesur,Capital,Capital,,,23,
 -34.6268,-58.3725,21,baja,Edesur,Capital,Barracas,,,7,
 -34.6095,-58.5194,21,baja,Edesur,Capital,Capital,,,9,
--34.7481,-58.4109,21,baja,Edesur,Lomas De Zamora,Bandfield,,,7,
+-35.0129,-58.4413,21,baja,Edesur,San Vicente,San Vicente,,,18,
+-34.7711,-58.3111,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,5,
+-34.7481,-58.4109,21,baja,Edesur,Lomas De Zamora,Bandfield,,,8,
 -34.7907,-58.2751,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
