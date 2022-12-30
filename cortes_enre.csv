@@ -10,47 +10,108 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.790405990,-58.472108159,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-27/083-2-27,19,Sin Datos
 -34.792738392,-58.474930594,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-27/083-2-27,264,Sin Datos
 -34.790854509,-58.471352005,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-2-27/083-2-27,105,Sin Datos
--34.804275600,-58.426649694,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-3-37/182-3-37/182-1-15,55,2022-12-30 20:36
 -34.797549949,-58.425121001,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-3-37/182-3-37/182-1-15,99,2022-12-30 20:36
 -34.790661764,-58.488778244,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-1-15/281-1-15,497,2022-12-30 19:08
 -34.789443443,-58.486372997,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-1-15/281-1-15,225,2022-12-30 19:08
 -34.787708596,-58.482937771,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-1-15/281-1-15,258,2022-12-30 19:08
--34.855957911,-58.490919683,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,8,Sin Datos
--34.858299202,-58.491770995,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,2,Sin Datos
--34.856162837,-58.496968965,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,153,Sin Datos
+-34.855957911,-58.490919683,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,8,2022-12-31 00:07
+-34.858299202,-58.491770995,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,2,2022-12-31 00:07
+-34.856162837,-58.496968965,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-3-37/083-3-37,153,2022-12-31 00:07
 -34.691508340,-58.316712289,11,media,Edesur,Avellaneda,Villa Dominico,Isla Maciel,R:072-1-11/072-1-11,436,2022-12-30 21:23
--34.591570925,-58.388645947,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,6,Sin Datos
--34.591590361,-58.388670605,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,520,Sin Datos
--34.592509142,-58.388240686,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,496,Sin Datos
--34.592536599,-58.388233065,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,30,Sin Datos
--34.592239901,-58.385766818,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-2-25/117-2-25,705,Sin Datos
--34.591832900,-58.387117618,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-2-25/117-2-25,71,Sin Datos
--34.594195881,-58.388010000,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,161,Sin Datos
--34.591187305,-58.387032186,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-2-25/117-2-25,398,Sin Datos
--34.591938728,-58.388399014,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,293,Sin Datos
--34.590935075,-58.389730410,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,92,Sin Datos
--34.593909896,-58.384499942,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-2-25/117-2-25,175,Sin Datos
--34.593034882,-58.388163246,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,494,Sin Datos
--34.583337946,-58.825273711,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,1,Sin Datos
--34.580221558,-58.822162660,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,2,Sin Datos
--34.413517171,-58.714599257,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,131,Sin Datos
--34.413352127,-58.710097942,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,241,Sin Datos
--34.412932070,-58.715089808,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,1,Sin Datos
--34.415257534,-58.717890298,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,209,Sin Datos
--34.418131553,-58.716374461,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,54,Sin Datos
--34.413001391,-58.713192173,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,1,Sin Datos
--34.420405087,-58.714631489,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,237,Sin Datos
+-34.591570925,-58.388645947,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,6,2022-12-31 00:07
+-34.591590361,-58.388670605,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,520,2022-12-31 00:07
+-34.592509142,-58.388240686,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,496,2022-12-31 00:07
+-34.592536599,-58.388233065,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,30,2022-12-31 00:07
+-34.592239901,-58.385766818,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-2-25/117-2-25,705,2022-12-31 00:07
+-34.591832900,-58.387117618,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-2-25/117-2-25,71,2022-12-31 00:07
+-34.594195881,-58.388010000,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,161,2022-12-31 00:07
+-34.591187305,-58.387032186,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-2-25/117-2-25,398,2022-12-31 00:07
+-34.591938728,-58.388399014,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,293,2022-12-31 00:07
+-34.590935075,-58.389730410,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,92,2022-12-31 00:07
+-34.593909896,-58.384499942,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-2-25/117-2-25,175,2022-12-31 00:07
+-34.593034882,-58.388163246,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,494,2022-12-31 00:07
+-34.750935737,-58.327131385,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,720,2022-12-30 21:52
+-34.754238219,-58.324498819,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,340,2022-12-30 21:52
+-34.747722979,-58.319495821,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,84,2022-12-30 21:52
+-34.761144414,-58.322951605,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,119,2022-12-30 21:52
+-34.758486926,-58.324904692,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,175,2022-12-30 21:52
+-34.748759836,-58.321008878,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,11,2022-12-30 21:52
+-34.758286277,-58.327710853,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,11,2022-12-30 21:52
+-34.757987489,-58.327098476,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,22,2022-12-30 21:52
+-34.757323730,-58.325793283,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,11,2022-12-30 21:52
+-34.756689761,-58.324541968,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,11,2022-12-30 21:52
+-34.756543772,-58.324250411,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,17,2022-12-30 21:52
+-34.756191228,-58.323546349,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,10,2022-12-30 21:52
+-34.759995376,-58.324525077,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,15,2022-12-30 21:52
+-34.760294450,-58.325085174,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,14,2022-12-30 21:52
+-34.759609348,-58.323763067,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,16,2022-12-30 21:52
+-34.759291794,-58.323152620,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,10,2022-12-30 21:52
+-34.759095040,-58.322770188,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,7,2022-12-30 21:52
+-34.758855341,-58.322298814,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,21,2022-12-30 21:52
+-34.760777094,-58.324361766,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,9,2022-12-30 21:52
+-34.760607048,-58.324036343,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,4,2022-12-30 21:52
+-34.760261775,-58.323376016,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,16,2022-12-30 21:52
+-34.759880064,-58.322646418,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,10,2022-12-30 21:52
+-34.759642972,-58.322194172,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,12,2022-12-30 21:52
+-34.759485453,-58.321893261,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,14,2022-12-30 21:52
+-34.760992132,-58.324838041,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,16,2022-12-30 21:52
+-34.750425016,-58.321398977,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,7,2022-12-30 21:52
+-34.750207922,-58.321105795,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,7,2022-12-30 21:52
+-34.749692399,-58.320124161,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,22,2022-12-30 21:52
+-34.749139384,-58.319317180,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,16,2022-12-30 21:52
+-34.748139407,-58.318644620,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,8,2022-12-30 21:52
+-34.747269380,-58.319034312,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,3,2022-12-30 21:52
+-34.747722117,-58.318712798,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,1,2022-12-30 21:52
+-34.748546344,-58.318101519,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,7,2022-12-30 21:52
+-34.747719140,-58.317916011,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,9,2022-12-30 21:52
+-34.745324431,-58.321428037,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,56,2022-12-30 21:52
+-34.752733287,-58.322544657,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,21,2022-12-30 21:52
+-34.754251397,-58.321892689,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,3,2022-12-30 21:52
+-34.752780010,-58.323542474,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,10,2022-12-30 21:52
+-34.753649854,-58.323007901,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,10,2022-12-30 21:52
+-34.754486432,-58.322363013,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,7,2022-12-30 21:52
+-34.752068780,-58.323098174,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,12,2022-12-30 21:52
+-34.752955747,-58.322359092,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,11,2022-12-30 21:52
+-34.753317828,-58.322057058,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,13,2022-12-30 21:52
+-34.753834661,-58.321615114,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,6,2022-12-30 21:52
+-34.754489892,-58.321102595,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,1,2022-12-30 21:52
+-34.752461281,-58.322775056,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,3,2022-12-30 21:52
+-34.753949655,-58.321286475,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,5,2022-12-30 21:52
+-34.753008235,-58.321753968,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,19,2022-12-30 21:52
+-34.752078266,-58.322258576,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,17,2022-12-30 21:52
+-34.752541743,-58.321843249,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,14,2022-12-30 21:52
+-34.753769563,-58.320852381,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,3,2022-12-30 21:52
+-34.752618717,-58.320992716,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,5,2022-12-30 21:52
+-34.751811637,-58.320274051,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,13,2022-12-30 21:52
+-34.752024553,-58.320102584,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,1,2022-12-30 21:52
+-34.752167216,-58.319987692,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,2,2022-12-30 21:52
+-34.751019384,-58.320343968,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,6,2022-12-30 21:52
+-34.750374836,-58.319822982,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,6,2022-12-30 21:52
+-34.751205324,-58.319180481,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,7,2022-12-30 21:52
+-34.750596237,-58.319572997,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,7,2022-12-30 21:52
+-34.750334494,-58.319096890,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,10,2022-12-30 21:52
+-34.750158492,-58.319139949,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,6,2022-12-30 21:52
+-34.745317913,-58.315928434,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,8,2022-12-30 21:52
+-34.746142244,-58.317855246,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-35/184-3-35,8,2022-12-30 21:52
+-34.583337946,-58.825273711,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,1,2022-12-30 20:00
+-34.580221558,-58.822162660,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,2,2022-12-30 20:00
+-34.413517171,-58.714599257,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,131,2022-12-30 19:00
+-34.413352127,-58.710097942,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,241,2022-12-30 19:00
+-34.412932070,-58.715089808,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,1,2022-12-30 19:00
+-34.415257534,-58.717890298,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,209,2022-12-30 19:00
+-34.418131553,-58.716374461,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,54,2022-12-30 19:00
+-34.413001391,-58.713192173,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,1,2022-12-30 19:00
+-34.420405087,-58.714631489,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,237,2022-12-30 19:00
+-34.448285530,-58.799745931,12,media,Edenor,Pilar,Pilar,S/D,R:Del Viso/251-Tr1/251-5545,242,2022-12-30 21:00
 -34.7524,-58.6846,22,baja,Edenor,Merlo,Pontevedra,,,12,
 -34.6476,-58.6406,22,baja,Edenor,Moron,Castelar,,,5,
 -34.4924,-58.5027,22,baja,Edenor,San Isidro,Martinez,,,4,
 -34.648,-58.7194,22,baja,Edenor,Merlo,Merlo,,,3,
 -34.7072,-58.7086,22,baja,Edenor,Merlo,Libertad,,,4,
--34.7763,-58.6434,22,baja,Edenor,La Matanza,Gonzalez Catan,,,71,
 -34.5388,-58.5233,22,baja,Edenor,Vicente Lopez,Florida (Oeste),,,37,
--34.5369,-58.56,22,baja,Edenor,Gral San Martin,Villa Ballester,,,63,
--34.8083,-58.6172,22,baja,Edenor,La Matanza,Virrey Del Pino,,,4,
+-34.5369,-58.56,22,baja,Edenor,Gral San Martin,Villa Ballester,,,16,
+-34.8083,-58.6172,22,baja,Edenor,La Matanza,Virrey Del Pino,,,7,
 -34.4755,-58.7425,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,10,
--34.4658,-58.6658,22,baja,Edenor,Tigre,El Talar,,,39,
 -34.4267,-58.8809,22,baja,Edenor,Pilar,Villa Rosa,,,11,
 -34.5521,-58.8134,22,baja,Edenor,Moreno,Cuartel V,,,31,
 -34.4898,-58.7296,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,25,
@@ -60,6 +121,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4727,-58.5861,22,baja,Edenor,San Fernando,Victoria,,,21,
 -34.7007,-58.6044,22,baja,Edenor,La Matanza,Isidro Casanova,,,23,
 -34.6958,-58.5155,22,baja,Edenor,La Matanza,La Tablada,,,17,
+-34.4466,-58.6537,22,baja,Edenor,Tigre,General Pacheco,,,18,
 -34.6268,-58.3723,21,baja,Edesur,Capital,Barracas,,,10,
 -34.5923,-58.5163,21,baja,Edesur,Capital,Villa Devoto,,,5,
 -34.6,-58.4485,21,baja,Edesur,Capital,Villa Crespo,,,153,
@@ -67,10 +129,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.028,-58.429,21,baja,Edesur,San Vicente,San Vicente,,,8,
 -34.7978,-58.1733,21,baja,Edesur,Berazategui,Platanos,,,9,
 -34.6248,-58.3729,21,baja,Edesur,Capital,San Telmo,,,7,
--34.811,-58.4388,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,82,
--34.6033,-58.3948,21,baja,Edesur,Capital,Balvanera,,,5,
--34.7684,-58.4003,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,20,
--34.6927,-58.3844,21,baja,Edesur,Lanus,Gerli,,,126,
--34.8154,-58.4336,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,6,
--34.637,-58.3746,21,baja,Edesur,Capital,Barracas,,,14,
--34.6366,-58.5007,21,baja,Edesur,Capital,Villa Luro,,,15,
+-34.811,-58.4388,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,84,
+-34.7684,-58.4003,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,21,
+-34.6585,-58.3583,21,baja,Edesur,Avellaneda,Avellaneda,,,2,
+-34.637,-58.3746,21,baja,Edesur,Capital,Barracas,,,17,
+-34.7113,-58.4562,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,7,
+-35.0513,-58.7513,21,baja,Edesur,Cañuelas,Cañuelas,,,46,
+-34.6366,-58.5007,21,baja,Edesur,Capital,Villa Luro,,,16,
+-34.6683,-58.3949,21,baja,Edesur,Avellaneda,Piñeyro,,,10,
+-34.8005,-58.449,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,1,
