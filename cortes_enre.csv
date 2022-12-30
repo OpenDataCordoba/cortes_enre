@@ -26,17 +26,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.590935075,-58.389730410,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,92,2022-12-31 00:48
 -34.593909896,-58.384499942,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-2-25/117-2-25,175,2022-12-31 00:48
 -34.593034882,-58.388163246,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,494,2022-12-31 00:48
--34.583337946,-58.825273711,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,1,2022-12-30 20:00
--34.580221558,-58.822162660,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,2,2022-12-30 20:00
--34.536881086,-58.559970662,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr2/266-5521,319,Sin Datos
--34.413517171,-58.714599257,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,131,2022-12-30 21:00
--34.413352127,-58.710097942,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,241,2022-12-30 21:00
--34.412932070,-58.715089808,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,1,2022-12-30 21:00
--34.415257534,-58.717890298,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,209,2022-12-30 21:00
--34.418131553,-58.716374461,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,54,2022-12-30 21:00
--34.413001391,-58.713192173,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,1,2022-12-30 21:00
--34.420405087,-58.714631489,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,237,2022-12-30 21:00
--34.752645797,-58.588423702,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,247,Sin Datos
+-34.583337946,-58.825273711,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,1,2022-12-30 21:00
+-34.580221558,-58.822162660,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,2,2022-12-30 21:00
+-34.536881086,-58.559970662,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr2/266-5521,319,2022-12-30 20:00
+-34.413517171,-58.714599257,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,131,Sin Datos
+-34.413352127,-58.710097942,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,241,Sin Datos
+-34.412932070,-58.715089808,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,1,Sin Datos
+-34.415257534,-58.717890298,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,209,Sin Datos
+-34.418131553,-58.716374461,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,54,Sin Datos
+-34.413001391,-58.713192173,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,1,Sin Datos
+-34.420405087,-58.714631489,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5547,237,Sin Datos
 -34.6476,-58.6406,22,baja,Edenor,Moron,Castelar,,,6,
 -34.648,-58.7194,22,baja,Edenor,Merlo,Merlo,,,3,
 -34.7072,-58.7086,22,baja,Edenor,Merlo,Libertad,,,4,
@@ -48,7 +47,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5095,-58.5514,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,26,
 -34.5603,-58.7386,22,baja,Edenor,San Miguel,San Miguel,,,46,
 -34.5774,-58.7494,22,baja,Edenor,San Miguel,San Miguel,,,4,
--34.5832,-58.7524,22,baja,Edenor,Moreno,Trujui,,,45,
 -34.4727,-58.5861,22,baja,Edenor,San Fernando,Victoria,,,21,
 -34.7007,-58.6044,22,baja,Edenor,La Matanza,Isidro Casanova,,,23,
 -34.6958,-58.5155,22,baja,Edenor,La Matanza,La Tablada,,,17,
