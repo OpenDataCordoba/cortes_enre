@@ -1,8 +1,8 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.767041109,-58.181177329,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,398,2022-12-30 14:00
--34.763428312,-58.179731237,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,2,2022-12-30 14:00
--34.767528150,-58.180094090,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,7,2022-12-30 14:00
--34.764795042,-58.181000179,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,380,2022-12-30 14:00
+-34.767041109,-58.181177329,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,398,Sin Datos
+-34.763428312,-58.179731237,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,2,Sin Datos
+-34.767528150,-58.180094090,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,7,Sin Datos
+-34.764795042,-58.181000179,11,media,Edesur,Berazategui,Berazategui Centro,Rigolleau,R:179-1-11/179-1-11,380,Sin Datos
 -35.046056084,-58.427538020,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,15,2022-12-30 18:00
 -35.074368533,-58.401656375,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2022-12-30 18:00
 -35.048414925,-58.403097405,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2022-12-30 18:00
@@ -63,20 +63,26 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.769251691,-58.402612173,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,119,2022-12-30 18:10
 -34.765823362,-58.403415386,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Heroes De Malvinas,R:076-2-21/076-2-21,2,2022-12-30 18:10
 -34.765630455,-58.403400684,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-21/076-2-21,13,2022-12-30 18:10
--34.583337946,-58.825273711,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,1,Sin Datos
--34.580221558,-58.822162660,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,2,Sin Datos
+-34.583337946,-58.825273711,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,1,2022-12-30 16:00
+-34.580221558,-58.822162660,12,media,Edenor,Moreno,Cuartel V,S/D,R:La Reja/163-Tr2/163-5525,2,2022-12-30 16:00
 -34.7278,-58.5766,22,baja,Edenor,La Matanza,Isidro Casanova,,,26,
 -34.7763,-58.6434,22,baja,Edenor,La Matanza,Gonzalez Catan,,,71,
--34.6624,-58.6773,22,baja,Edenor,Ituzaingo,Ituzaingo,,,22,
+-34.6624,-58.6773,22,baja,Edenor,Ituzaingo,Ituzaingo,,,24,
+-34.7524,-58.6846,22,baja,Edenor,Merlo,Pontevedra,,,12,
 -34.4552,-59.0099,22,baja,Edenor,Pilar,Manzanares,,,8,
 -34.3998,-58.736,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,29,
 -34.5833,-58.7542,22,baja,Edenor,Moreno,Trujui,,,45,
 -34.4608,-58.6813,22,baja,Edenor,Tigre,Ricardo Rojas,,,58,
 -34.5616,-58.7317,22,baja,Edenor,San Miguel,San Miguel,,,28,
--34.6314,-58.4242,21,baja,Edesur,Capital,Boedo,,,15,
+-34.5529,-58.5548,22,baja,Edenor,Gral San Martin,Villa Ballester,,,21,
+-34.7376,-58.5824,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,30,
+-34.6314,-58.4242,21,baja,Edesur,Capital,Boedo,,,16,
 -34.6268,-58.3725,21,baja,Edesur,Capital,Barracas,,,13,
 -34.5923,-58.5163,21,baja,Edesur,Capital,Villa Devoto,,,4,
 -34.8833,-58.3404,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,2,
--34.6,-58.4485,21,baja,Edesur,Capital,Villa Crespo,,,121,
--35.0221,-58.4234,21,baja,Edesur,San Vicente,San Vicente,,,3,
--34.7032,-58.3741,21,baja,Edesur,Lanus,Gerli,,,19,
+-34.6,-58.4485,21,baja,Edesur,Capital,Villa Crespo,,,124,
+-34.5961,-58.3966,21,baja,Edesur,Capital,Recoleta,,,6,
+-35.028,-58.429,21,baja,Edesur,San Vicente,San Vicente,,,6,
+-35.022,-58.4234,21,baja,Edesur,San Vicente,San Vicente,,,3,
+-34.7032,-58.3741,21,baja,Edesur,Lanus,Gerli,,,22,
+-34.6129,-58.5104,21,baja,Edesur,Capital,Villa Devoto,,,2,
