@@ -1,16 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.695312005,-58.346577738,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-16/172-1-16,807,Sin Datos
--34.618280666,-58.449715783,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,127,2022-12-31 13:53
--34.617163647,-58.443326597,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,1226,2022-12-31 13:53
--34.617569203,-58.448067525,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,199,2022-12-31 13:53
--34.616878784,-58.440623141,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,220,2022-12-31 13:53
--34.618046027,-58.450489231,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,75,2022-12-31 13:53
--34.617887136,-58.451524996,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,1,2022-12-31 13:53
--34.617333944,-58.445171429,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,72,2022-12-31 13:53
--34.617287355,-58.444967399,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,84,2022-12-31 13:53
--34.616782157,-58.445146118,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,2,2022-12-31 13:53
--34.617884878,-58.449665177,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,16,2022-12-31 13:53
--34.617197254,-58.446259039,11,media,Edesur,Capital Gp,Caballito Gp,Alberdi,R:218-2-23/218-2-23,20,2022-12-31 13:53
 -34.780072145,-58.736770998,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,85,2022-12-31 12:00
 -34.777744538,-58.733825275,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,81,2022-12-31 12:00
 -34.773028909,-58.728364862,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,145,2022-12-31 12:00
@@ -40,14 +29,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6873,-58.577,22,baja,Edenor,La Matanza,San Justo,,,4,
 -34.5961,-58.3966,21,baja,Edesur,Capital,Recoleta,,,8,
 -34.6318,-58.4569,21,baja,Edesur,Capital,Flores,,,5,
--34.6307,-58.5251,21,baja,Edesur,Capital,Versalles,,,101,
--34.7014,-58.4413,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,9,
--34.7561,-58.3745,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,24,
+-34.6307,-58.5251,21,baja,Edesur,Capital,Versalles,,,102,
+-34.7561,-58.3745,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,26,
 -35.0196,-58.4247,21,baja,Edesur,San Vicente,San Vicente,,,27,
 -34.7663,-58.4002,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,15,
--34.7986,-58.3811,21,baja,Edesur,Almirante Brown,Adrogue,,,13,
+-34.7986,-58.3811,21,baja,Edesur,Almirante Brown,Adrogue,,,14,
 -34.7626,-58.2205,21,baja,Edesur,Berazategui,Berazategui,,,19,
--34.6516,-58.4825,21,baja,Edesur,Capital,Parque Avellaneda,,,16,
+-34.6516,-58.4825,21,baja,Edesur,Capital,Parque Avellaneda,,,20,
 -34.7203,-58.39,21,baja,Edesur,Lanus,Remedios De Escalada,,,7,
 -34.6929,-58.4683,21,baja,Edesur,Capital,Villa Riachuelo,,,68,
 -34.7268,-58.3065,21,baja,Edesur,Quilmes,Bernal,,,25,
@@ -55,4 +43,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6865,-58.4826,21,baja,Edesur,Capital,Villa Lugano,,,2,
 -34.5983,-58.515,21,baja,Edesur,Capital,Villa Devoto,,,20,
 -34.6378,-58.4994,21,baja,Edesur,Capital,Capital,,,11,
--34.7572,-58.4216,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,40,
+-34.7572,-58.4216,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,46,
+-34.7567,-58.4245,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,4,
+-34.6181,-58.4428,21,baja,Edesur,Capital,Caballito,,,1,
