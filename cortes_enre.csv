@@ -1,18 +1,13 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.695312005,-58.346577738,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-1-16/172-1-16,807,Sin Datos
--34.784221153,-58.370917647,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,405,2022-12-31 10:53
--34.785663468,-58.365257939,11,media,Edesur,Almirante Brown,Rafael Calzada,Santa Catalina,R:182-2-21/182-2-21,693,2022-12-31 10:53
--34.785961777,-58.380876780,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,438,2022-12-31 10:53
--34.779890306,-58.369924825,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,464,2022-12-31 10:53
--34.785531714,-58.383961388,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,294,2022-12-31 10:53
--34.781925385,-58.377247191,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,547,2022-12-31 10:53
--34.782535156,-58.367878730,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,353,2022-12-31 10:53
--34.787339257,-58.376689104,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,355,2022-12-31 10:53
--34.782239167,-58.386278664,11,media,Edesur,Lomas De Zamora,Temperley,Santa Catalina,R:182-2-21/182-2-21,324,2022-12-31 10:53
--34.781372608,-58.372506373,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,308,2022-12-31 10:53
--34.786107751,-58.374374352,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,220,2022-12-31 10:53
--34.783858886,-58.380875400,11,media,Edesur,Almirante Brown,Marmol,Santa Catalina,R:182-2-21/182-2-21,48,2022-12-31 10:53
--34.8084,-58.6353,22,baja,Edenor,La Matanza,Virrey Del Pino,,,5,
+-34.615555679,-58.439210681,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-2-25/122-2-25,324,2022-12-31 10:33
+-34.619725136,-58.438237857,11,media,Edesur,Capital Rp,Caballito Rp,Caballito,R:122-2-25/122-2-25,96,2022-12-31 10:33
+-34.615722380,-58.440268035,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-2-25/122-2-25,472,2022-12-31 10:33
+-34.613966455,-58.437047272,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-2-25/122-2-25,156,2022-12-31 10:33
+-34.614541286,-58.438696626,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-2-25/122-2-25,270,2022-12-31 10:33
+-34.615164860,-58.438312037,11,media,Edesur,Capital Gp,Caballito Gp,Caballito,R:122-2-25/122-2-25,1,2022-12-31 10:33
+-34.508906084,-58.685129570,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Nogues/159-Tr1/159-5514,1,2022-12-31 09:00
+-34.475469617,-58.742518988,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,386,2022-12-31 09:00
 -34.4895,-58.9834,22,baja,Edenor,Pilar,Pilar,,,1,
 -34.7584,-58.6389,22,baja,Edenor,La Matanza,Gonzalez Catan,,,28,
 -34.7512,-58.5786,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
@@ -20,33 +15,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.814,-58.6425,22,baja,Edenor,La Matanza,Virrey Del Pino,,,25,
 -34.7093,-58.5365,22,baja,Edenor,La Matanza,Ciudad Evita,,,20,
 -34.6721,-58.7365,22,baja,Edenor,Merlo,Merlo,,,32,
--34.8107,-58.6436,22,baja,Edenor,La Matanza,Virrey Del Pino,,,13,
 -34.7689,-58.6078,22,baja,Edenor,La Matanza,Gonzalez Catan,,,18,
 -34.4034,-58.6734,22,baja,Edenor,Tigre,Benavidez,,,2,
 -34.6383,-58.5765,22,baja,Edenor,Moron,Villa Sarmiento,,,26,
--34.7734,-58.6433,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,
+-34.7734,-58.6433,22,baja,Edenor,La Matanza,Gonzalez Catan,,,27,
 -34.547,-58.4843,22,baja,Edenor,Capital Federal,Saavedra,,,19,
 -34.5977,-58.9282,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,37,
 -34.3367,-58.9103,22,baja,Edenor,Pilar,Zelaya,,,6,
+-34.6869,-58.5064,22,baja,Edenor,La Matanza,Villa Madero,,,4,
 -34.3965,-58.7524,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,19,
 -34.5603,-58.6166,22,baja,Edenor,3 De Febrero,El Libertador,,,6,
+-34.6523,-58.7712,22,baja,Edenor,Moreno,Moreno,,,20,
 -34.4411,-58.6561,22,baja,Edenor,Tigre,General Pacheco,,,1,
--34.601,-58.8966,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,9,
--34.7734,-58.7171,22,baja,Edenor,La Matanza,20 De Junio,,,61,
+-34.601,-58.8966,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,14,
+-34.7734,-58.7171,22,baja,Edenor,La Matanza,20 De Junio,,,75,
 -34.7058,-58.4773,22,baja,Edenor,La Matanza,Villa Madero,,,30,
 -34.5961,-58.3966,21,baja,Edesur,Capital,Recoleta,,,7,
 -35.028,-58.429,21,baja,Edesur,San Vicente,San Vicente,,,11,
 -34.7978,-58.1733,21,baja,Edesur,Berazategui,Platanos,,,9,
 -34.6318,-58.4569,21,baja,Edesur,Capital,Flores,,,5,
--34.6307,-58.5251,21,baja,Edesur,Capital,Versalles,,,92,
+-34.6307,-58.5251,21,baja,Edesur,Capital,Versalles,,,93,
 -34.6585,-58.3583,21,baja,Edesur,Avellaneda,Avellaneda,,,2,
 -34.7014,-58.4413,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,7,
 -34.7561,-58.3745,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,18,
--34.7663,-58.4002,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,11,
+-34.7663,-58.4002,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,12,
 -34.7986,-58.3811,21,baja,Edesur,Almirante Brown,Adrogue,,,10,
--34.7626,-58.2205,21,baja,Edesur,Berazategui,Berazategui,,,13,
--34.6516,-58.4825,21,baja,Edesur,Capital,Parque Avellaneda,,,10,
+-34.7626,-58.2205,21,baja,Edesur,Berazategui,Berazategui,,,14,
+-34.6516,-58.4825,21,baja,Edesur,Capital,Parque Avellaneda,,,12,
 -34.7907,-58.1493,21,baja,Edesur,Berazategui,Hudson,,,14,
--34.7268,-58.3065,21,baja,Edesur,Quilmes,Bernal,,,23,
+-34.7268,-58.3065,21,baja,Edesur,Quilmes,Bernal,,,24,
 -34.9149,-58.3797,21,baja,Edesur,Pte Peron,La Haya,,,5,
 -34.7048,-58.3236,21,baja,Edesur,Avellaneda,Wilde,,,8,
