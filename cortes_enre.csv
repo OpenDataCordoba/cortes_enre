@@ -4,11 +4,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.604675056,-58.379469104,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,80,2023-01-02 05:54
 -34.604678249,-58.379502954,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,1,2023-01-02 05:54
 -34.604564292,-58.379889538,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,67,2023-01-02 05:54
--34.902927957,-58.191852846,11,media,Edesur,Berazategui,El Pato,S/D,S/D,7,Sin Datos
--34.903626145,-58.192664983,11,media,Edesur,Berazategui,El Pato,S/D,S/D,5,Sin Datos
--34.904635109,-58.193836284,11,media,Edesur,Berazategui,El Pato,S/D,S/D,1,Sin Datos
--34.905575673,-58.194948811,11,media,Edesur,Berazategui,El Pato,S/D,S/D,6,Sin Datos
--34.906330425,-58.195829085,11,media,Edesur,Berazategui,El Pato,S/D,S/D,1,Sin Datos
+-34.902927957,-58.191852846,11,media,Edesur,Berazategui,El Pato,S/D,S/D,7,2023-01-02 06:30
+-34.903626145,-58.192664983,11,media,Edesur,Berazategui,El Pato,S/D,S/D,5,2023-01-02 06:30
+-34.904635109,-58.193836284,11,media,Edesur,Berazategui,El Pato,S/D,S/D,1,2023-01-02 06:30
+-34.905575673,-58.194948811,11,media,Edesur,Berazategui,El Pato,S/D,S/D,6,2023-01-02 06:30
+-34.906330425,-58.195829085,11,media,Edesur,Berazategui,El Pato,S/D,S/D,1,2023-01-02 06:30
 -34.942047139,-58.375470911,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,343,2023-01-02 01:23
 -34.939982374,-58.375238772,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,264,2023-01-02 01:23
 -34.935452504,-58.377395422,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,347,2023-01-02 01:23
@@ -140,33 +140,29 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.884468973,-58.338284941,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,N:082-3-981/082-3-981,100,2023-01-02 03:22
 -34.755390006,-58.680640487,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,100,2023-01-02 02:00
 -34.758158019,-58.677120552,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,265,2023-01-02 02:00
--34.750667428,-58.686506919,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,276,2023-01-02 02:00
--34.749704500,-58.687792723,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,1,2023-01-02 02:00
 -34.754907410,-58.677520126,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,582,2023-01-02 02:00
--34.753274387,-58.683278885,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,204,2023-01-02 02:00
--34.748189019,-58.689752056,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,9,2023-01-02 02:00
 -34.465332055,-58.698629666,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,N:Ford/151-Tr1/151-5541,10,Sin Datos
 -34.463859236,-58.698914338,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,N:Ford/151-Tr1/151-5541,17,Sin Datos
--34.854315493,-58.717440407,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 01:00
--34.857466736,-58.713566992,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 01:00
--34.861983045,-58.721747445,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2023-01-02 01:00
--34.856911001,-58.722090146,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 01:00
--34.852843780,-58.719286927,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-02 01:00
+-34.854315493,-58.717440407,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 02:00
+-34.857466736,-58.713566992,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 02:00
+-34.861983045,-58.721747445,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2023-01-02 02:00
+-34.856911001,-58.722090146,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 02:00
+-34.852843780,-58.719286927,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-02 02:00
 -34.720849024,-58.535757592,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5517,109,2023-01-02 02:00
--34.627713252,-58.754223366,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5522,25,2023-01-02 02:00
--34.626381724,-58.755663219,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5522,332,2023-01-02 02:00
--34.519114746,-58.711952902,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,3,2023-01-02 01:00
--34.519019508,-58.708252323,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,307,2023-01-02 01:00
--34.520646250,-58.709930348,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,1,2023-01-02 01:00
--34.517025440,-58.713951810,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,295,2023-01-02 01:00
--34.441659494,-58.605280857,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr1/156-5516,1,2023-01-02 01:00
+-34.627713252,-58.754223366,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5522,25,Sin Datos
+-34.626381724,-58.755663219,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5522,332,Sin Datos
+-34.519114746,-58.711952902,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,3,Sin Datos
+-34.519019508,-58.708252323,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,307,Sin Datos
+-34.520646250,-58.709930348,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,1,Sin Datos
+-34.517025440,-58.713951810,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,295,Sin Datos
+-34.441659494,-58.605280857,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr1/156-5516,1,2023-01-02 02:00
 -34.390235613,-58.578447318,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,35,2023-01-02 02:00
 -34.389441286,-58.579288469,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,52,2023-01-02 02:00
--34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,215,2023-01-02 02:00
--34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,2023-01-02 02:00
+-34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,215,2023-01-02 03:00
+-34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,2023-01-02 03:00
 -34.714751366,-58.809524019,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,1,2023-01-02 02:00
--34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,480,2023-01-02 01:00
--34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,226,2023-01-02 01:00
+-34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,480,2023-01-02 03:00
+-34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,226,2023-01-02 03:00
 -34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,25,Sin Datos
 -34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,Sin Datos
 -34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,Sin Datos
@@ -178,22 +174,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,27,Sin Datos
 -34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,6,Sin Datos
 -34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,35,Sin Datos
--34.671535750,-58.566188363,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,52,2023-01-02 01:00
--34.665205694,-58.574999265,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,277,2023-01-02 01:00
--34.668102591,-58.571128111,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,232,2023-01-02 01:00
--34.675227492,-58.564125271,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,97,2023-01-02 01:00
--34.668322524,-58.574408625,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,341,2023-01-02 01:00
--34.674654592,-58.562037541,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,1,2023-01-02 01:00
--34.662706340,-58.572910312,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,342,2023-01-02 01:00
--34.673644073,-58.563744800,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,145,2023-01-02 01:00
--34.664073043,-58.576525474,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,164,2023-01-02 01:00
--34.670448280,-58.567940336,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,129,2023-01-02 01:00
--34.666963718,-58.572834295,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,77,2023-01-02 01:00
--34.669026068,-58.569861241,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,64,2023-01-02 01:00
--34.674751286,-58.563641440,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,1,2023-01-02 01:00
--34.666418543,-58.573322084,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,79,2023-01-02 01:00
--34.666485040,-58.575009366,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,282,2023-01-02 01:00
--34.663169546,-58.573264584,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,283,2023-01-02 01:00
+-34.665205694,-58.574999265,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,277,2023-01-02 02:00
+-34.668102591,-58.571128111,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,232,2023-01-02 02:00
+-34.675227492,-58.564125271,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,97,2023-01-02 02:00
+-34.668322524,-58.574408625,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,341,2023-01-02 02:00
+-34.662706340,-58.572910312,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,342,2023-01-02 02:00
+-34.673644073,-58.563744800,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,145,2023-01-02 02:00
+-34.664073043,-58.576525474,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,164,2023-01-02 02:00
+-34.670448280,-58.567940336,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,129,2023-01-02 02:00
+-34.666963718,-58.572834295,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,77,2023-01-02 02:00
+-34.669026068,-58.569861241,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,64,2023-01-02 02:00
+-34.674751286,-58.563641440,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,1,2023-01-02 02:00
+-34.666418543,-58.573322084,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,79,2023-01-02 02:00
+-34.666485040,-58.575009366,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,282,2023-01-02 02:00
+-34.663169546,-58.573264584,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,283,2023-01-02 02:00
 -34.5818,-58.7629,22,baja,Edenor,Moreno,Trujui,,,13,
 -34.7243,-58.5281,22,baja,Edenor,La Matanza,Ciudad Evita,,,32,
 -34.4684,-58.6319,22,baja,Edenor,Tigre,General Pacheco,,,16,
