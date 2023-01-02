@@ -9,18 +9,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.904635109,-58.193836284,11,media,Edesur,Berazategui,El Pato,S/D,S/D,1,2023-01-02 06:30
 -34.905575673,-58.194948811,11,media,Edesur,Berazategui,El Pato,S/D,S/D,6,2023-01-02 06:30
 -34.906330425,-58.195829085,11,media,Edesur,Berazategui,El Pato,S/D,S/D,1,2023-01-02 06:30
--34.942047139,-58.375470911,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,343,2023-01-02 01:23
--34.939982374,-58.375238772,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,264,2023-01-02 01:23
--34.935452504,-58.377395422,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,347,2023-01-02 01:23
--34.930920083,-58.375704984,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,282,2023-01-02 01:23
--34.934873963,-58.372841071,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,290,2023-01-02 01:23
--34.939085640,-58.369750380,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,357,2023-01-02 01:23
--34.937457888,-58.377156734,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,142,2023-01-02 01:23
--34.943623978,-58.377833727,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,N:277-3-32/277-3-32,3,2023-01-02 01:23
--34.928460169,-58.370852596,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,N:277-3-32/277-3-32,12,2023-01-02 01:23
--34.931593138,-58.368560611,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,N:277-3-32/277-3-32,11,2023-01-02 01:23
--34.925083365,-58.377934067,11,media,Edesur,Pte Peron,25 De Mayo,Glew,N:277-3-32/277-3-32,155,2023-01-02 01:23
--34.927933153,-58.378351271,11,media,Edesur,S/D,S/D,Glew,N:277-3-32/277-3-32,149,2023-01-02 01:23
+-34.942047139,-58.375470911,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,343,Sin Datos
+-34.939982374,-58.375238772,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,264,Sin Datos
+-34.935452504,-58.377395422,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,347,Sin Datos
+-34.930920083,-58.375704984,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,282,Sin Datos
+-34.934873963,-58.372841071,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,290,Sin Datos
+-34.939085640,-58.369750380,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,357,Sin Datos
+-34.937457888,-58.377156734,11,media,Edesur,Pte Peron,Parque Americano,Glew,N:277-3-32/277-3-32,142,Sin Datos
+-34.943623978,-58.377833727,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,N:277-3-32/277-3-32,3,Sin Datos
+-34.928460169,-58.370852596,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,N:277-3-32/277-3-32,12,Sin Datos
+-34.931593138,-58.368560611,11,media,Edesur,Pte Peron,Quintas Agricolas,Glew,N:277-3-32/277-3-32,11,Sin Datos
+-34.925083365,-58.377934067,11,media,Edesur,Pte Peron,25 De Mayo,Glew,N:277-3-32/277-3-32,155,Sin Datos
+-34.927933153,-58.378351271,11,media,Edesur,S/D,S/D,Glew,N:277-3-32/277-3-32,149,Sin Datos
 -34.889598941,-58.512449544,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,26,2023-01-02 02:12
 -34.886824243,-58.508946231,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,57,2023-01-02 02:12
 -34.888059937,-58.514148700,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-2-26/083-2-26,25,2023-01-02 02:12
@@ -148,21 +148,19 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.861983045,-58.721747445,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2023-01-02 02:00
 -34.856911001,-58.722090146,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 02:00
 -34.852843780,-58.719286927,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-02 02:00
--34.720849024,-58.535757592,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5517,109,2023-01-02 02:00
--34.627713252,-58.754223366,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5522,25,Sin Datos
--34.626381724,-58.755663219,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5522,332,Sin Datos
--34.519114746,-58.711952902,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,3,Sin Datos
--34.519019508,-58.708252323,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,307,Sin Datos
--34.520646250,-58.709930348,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,1,Sin Datos
--34.517025440,-58.713951810,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,295,Sin Datos
--34.441659494,-58.605280857,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr1/156-5516,1,2023-01-02 02:00
--34.390235613,-58.578447318,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,35,2023-01-02 02:00
--34.389441286,-58.579288469,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,52,2023-01-02 02:00
--34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,215,2023-01-02 03:00
--34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,2023-01-02 03:00
+-34.720849024,-58.535757592,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5517,109,2023-01-02 03:00
+-34.519114746,-58.711952902,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,3,2023-01-02 03:00
+-34.519019508,-58.708252323,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,307,2023-01-02 03:00
+-34.520646250,-58.709930348,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,1,2023-01-02 03:00
+-34.517025440,-58.713951810,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,295,2023-01-02 03:00
+-34.441659494,-58.605280857,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr1/156-5516,1,2023-01-02 03:00
+-34.390235613,-58.578447318,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,35,Sin Datos
+-34.389441286,-58.579288469,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,52,Sin Datos
+-34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,215,2023-01-02 02:00
+-34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,2023-01-02 02:00
 -34.714751366,-58.809524019,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,1,2023-01-02 02:00
--34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,480,2023-01-02 03:00
--34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,226,2023-01-02 03:00
+-34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,480,2023-01-02 02:00
+-34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,226,2023-01-02 02:00
 -34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,25,Sin Datos
 -34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,Sin Datos
 -34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,Sin Datos
@@ -174,23 +172,22 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,27,Sin Datos
 -34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,6,Sin Datos
 -34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,35,Sin Datos
--34.665205694,-58.574999265,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,277,2023-01-02 02:00
--34.668102591,-58.571128111,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,232,2023-01-02 02:00
--34.675227492,-58.564125271,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,97,2023-01-02 02:00
--34.668322524,-58.574408625,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,341,2023-01-02 02:00
--34.662706340,-58.572910312,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,342,2023-01-02 02:00
--34.673644073,-58.563744800,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,145,2023-01-02 02:00
--34.664073043,-58.576525474,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,164,2023-01-02 02:00
--34.670448280,-58.567940336,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,129,2023-01-02 02:00
--34.666963718,-58.572834295,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,77,2023-01-02 02:00
--34.669026068,-58.569861241,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,64,2023-01-02 02:00
--34.674751286,-58.563641440,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,1,2023-01-02 02:00
--34.666418543,-58.573322084,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,79,2023-01-02 02:00
--34.666485040,-58.575009366,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,282,2023-01-02 02:00
--34.663169546,-58.573264584,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,283,2023-01-02 02:00
+-34.665205694,-58.574999265,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,277,Sin Datos
+-34.668102591,-58.571128111,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,232,Sin Datos
+-34.675227492,-58.564125271,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,97,Sin Datos
+-34.668322524,-58.574408625,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,341,Sin Datos
+-34.662706340,-58.572910312,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,342,Sin Datos
+-34.673644073,-58.563744800,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,145,Sin Datos
+-34.664073043,-58.576525474,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,164,Sin Datos
+-34.670448280,-58.567940336,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,129,Sin Datos
+-34.666963718,-58.572834295,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,77,Sin Datos
+-34.669026068,-58.569861241,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,64,Sin Datos
+-34.674751286,-58.563641440,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,1,Sin Datos
+-34.666418543,-58.573322084,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,79,Sin Datos
+-34.666485040,-58.575009366,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,282,Sin Datos
+-34.663169546,-58.573264584,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,283,Sin Datos
 -34.5818,-58.7629,22,baja,Edenor,Moreno,Trujui,,,13,
 -34.7243,-58.5281,22,baja,Edenor,La Matanza,Ciudad Evita,,,32,
--34.4684,-58.6319,22,baja,Edenor,Tigre,General Pacheco,,,16,
 -34.5498,-58.8119,22,baja,Edenor,Moreno,Cuartel V,,,7,
 -34.6299,-58.8657,22,baja,Edenor,Moreno,Francisco Alvarez,,,7,
 -34.6658,-58.7082,22,baja,Edenor,Merlo,San Antonio De Padua,,,15,
@@ -218,6 +215,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6108,-58.5202,21,baja,Edesur,Capital,Capital,,,28,
 -34.6295,-58.4689,21,baja,Edesur,Capital,Capital,,,56,
 -34.9494,-58.2662,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
--34.7695,-58.4262,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,13,
+-34.7695,-58.4262,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,14,
 -34.6867,-58.4181,21,baja,Edesur,Lanus,Lanus,,,4,
 -34.8415,-58.2438,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,
