@@ -138,16 +138,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.883217485,-58.345653521,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,N:082-3-981/082-3-981,149,2023-01-02 03:22
 -34.884830528,-58.342739950,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,N:082-3-981/082-3-981,106,2023-01-02 03:22
 -34.884468973,-58.338284941,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Burzaco,N:082-3-981/082-3-981,100,2023-01-02 03:22
--34.755390006,-58.680640487,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,100,2023-01-02 02:00
--34.758158019,-58.677120552,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,265,2023-01-02 02:00
--34.754907410,-58.677520126,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,582,2023-01-02 02:00
--34.465332055,-58.698629666,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,N:Ford/151-Tr1/151-5541,10,Sin Datos
--34.463859236,-58.698914338,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,N:Ford/151-Tr1/151-5541,17,Sin Datos
--34.854315493,-58.717440407,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 02:00
--34.857466736,-58.713566992,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 02:00
--34.861983045,-58.721747445,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2023-01-02 02:00
--34.856911001,-58.722090146,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 02:00
--34.852843780,-58.719286927,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-02 02:00
+-34.755390006,-58.680640487,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,100,Sin Datos
+-34.758158019,-58.677120552,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,265,Sin Datos
+-34.754907410,-58.677520126,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,582,Sin Datos
+-34.854315493,-58.717440407,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 03:00
+-34.857466736,-58.713566992,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 03:00
+-34.861983045,-58.721747445,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2023-01-02 03:00
+-34.856911001,-58.722090146,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-02 03:00
+-34.852843780,-58.719286927,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-02 03:00
 -34.720849024,-58.535757592,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5517,109,2023-01-02 03:00
 -34.519114746,-58.711952902,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,3,2023-01-02 03:00
 -34.519019508,-58.708252323,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr2/159-5521,307,2023-01-02 03:00
@@ -156,9 +154,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.441659494,-58.605280857,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr1/156-5516,1,2023-01-02 03:00
 -34.390235613,-58.578447318,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,35,Sin Datos
 -34.389441286,-58.579288469,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,52,Sin Datos
--34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,215,2023-01-02 02:00
--34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,2023-01-02 02:00
--34.714751366,-58.809524019,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,1,2023-01-02 02:00
+-34.717620285,-58.805709901,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,215,2023-01-02 03:00
+-34.720945202,-58.806905185,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,171,2023-01-02 03:00
+-34.714751366,-58.809524019,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,1,Sin Datos
 -34.720190143,-58.802121108,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,480,2023-01-02 02:00
 -34.716497495,-58.807018573,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,226,2023-01-02 02:00
 -34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,25,Sin Datos
@@ -172,20 +170,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,27,Sin Datos
 -34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,6,Sin Datos
 -34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,35,Sin Datos
--34.665205694,-58.574999265,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,277,Sin Datos
--34.668102591,-58.571128111,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,232,Sin Datos
--34.675227492,-58.564125271,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,97,Sin Datos
--34.668322524,-58.574408625,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,341,Sin Datos
--34.662706340,-58.572910312,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,342,Sin Datos
--34.673644073,-58.563744800,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,145,Sin Datos
--34.664073043,-58.576525474,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,164,Sin Datos
--34.670448280,-58.567940336,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,129,Sin Datos
--34.666963718,-58.572834295,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,77,Sin Datos
--34.669026068,-58.569861241,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,64,Sin Datos
--34.674751286,-58.563641440,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5524,1,Sin Datos
--34.666418543,-58.573322084,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,79,Sin Datos
--34.666485040,-58.575009366,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,282,Sin Datos
--34.663169546,-58.573264584,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:San Justo/164-Tr2/164-5524,283,Sin Datos
 -34.5818,-58.7629,22,baja,Edenor,Moreno,Trujui,,,13,
 -34.7243,-58.5281,22,baja,Edenor,La Matanza,Ciudad Evita,,,32,
 -34.5498,-58.8119,22,baja,Edenor,Moreno,Cuartel V,,,7,
