@@ -1,9 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.603951598,-58.380959569,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,54,Sin Datos
--34.603978476,-58.380969751,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,374,Sin Datos
--34.604675056,-58.379469104,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,80,Sin Datos
--34.604678249,-58.379502954,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,1,Sin Datos
--34.604564292,-58.379889538,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,67,Sin Datos
+-34.603951598,-58.380959569,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,54,2023-01-03 23:54
+-34.603978476,-58.380969751,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,374,2023-01-03 23:54
+-34.604675056,-58.379469104,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,80,2023-01-03 23:54
+-34.604678249,-58.379502954,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,1,2023-01-03 23:54
+-34.604564292,-58.379889538,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,67,2023-01-03 23:54
 -34.712611063,-58.358765617,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-15/075-1-15,100,2023-01-03 23:30
 -34.710163353,-58.356516062,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-15/075-1-15,252,2023-01-03 23:30
 -34.709567777,-58.357371887,11,media,Edesur,Lanus,Lanus Este,Corina,R:075-1-15/075-1-15,255,2023-01-03 23:30
@@ -55,24 +55,30 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.667612762,-58.372881980,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-3-37/279-3-37,731,2023-01-03 21:46
 -34.671053818,-58.374343193,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-3-37/279-3-37,2,2023-01-03 21:46
 -34.671083578,-58.377825806,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-3-37/279-3-37,300,2023-01-03 21:46
--34.746401851,-58.688742573,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5523,2,Sin Datos
--34.422896594,-58.861942197,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5515,7,2023-01-03 20:00
--34.732658419,-58.693815878,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,177,2023-01-03 20:00
--34.729849569,-58.697303977,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,44,2023-01-03 20:00
--34.736854886,-58.699394234,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,62,2023-01-03 20:00
--34.443046273,-58.713485948,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5516,1,2023-01-03 19:00
+-34.746401851,-58.688742573,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5523,2,2023-01-03 20:00
+-34.422896594,-58.861942197,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5515,7,Sin Datos
+-34.732658419,-58.693815878,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,177,2023-01-03 19:00
+-34.729849569,-58.697303977,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,44,2023-01-03 19:00
+-34.736854886,-58.699394234,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,62,2023-01-03 19:00
+-34.443046273,-58.713485948,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5516,1,Sin Datos
+-34.756354679,-58.998557638,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2023-01-03 20:00
+-34.746254614,-59.004258956,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2023-01-03 20:00
+-34.741107839,-59.016978513,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2023-01-03 22:00
+-34.724893499,-59.008330761,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2023-01-03 22:00
 -34.5302,-58.7416,22,baja,Edenor,Jose C Paz,Jose C Paz,,,13,
 -34.5931,-58.6658,22,baja,Edenor,Hurlingham,William Morris,,,15,
 -34.5997,-58.983,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,13,
 -34.6875,-58.7247,22,baja,Edenor,Merlo,Merlo,,,1,
--34.5469,-58.4713,22,baja,Edenor,Capital Federal,Nu?Ez,,,6,
+-34.5761,-58.436,22,baja,Edenor,Capital Federal,Palermo,,,4,
+-34.5469,-58.4713,22,baja,Edenor,Capital Federal,Nu?Ez,,,43,
+-34.6452,-58.6358,22,baja,Edenor,Moron,Castelar,,,2,
 -34.728,-58.3752,21,baja,Edesur,Lanus,Remedios De Escalada,,,19,
 -34.6148,-58.48,21,baja,Edesur,Capital,Villa Sta. Rita,,,22,
 -34.6216,-58.3693,21,baja,Edesur,Capital,San Telmo,,,16,
 -34.6112,-58.4206,21,baja,Edesur,Capital,Capital,,,2,
 -34.7652,-58.2373,21,baja,Edesur,Berazategui,Berazategui,,,47,
--34.6128,-58.4168,21,baja,Edesur,Capital,Almagro,,,51,
--34.8184,-58.3608,21,baja,Edesur,Almirante Brown,Claypole,,,41,
+-34.6128,-58.4168,21,baja,Edesur,Capital,Almagro,,,52,
+-34.8184,-58.3608,21,baja,Edesur,Almirante Brown,Claypole,,,43,
 -34.6309,-58.3859,21,baja,Edesur,Capital,Constitucion,,,1,
 -34.8171,-58.3866,21,baja,Edesur,Almirante Brown,Burzaco,,,14,
 -34.8935,-58.5598,21,baja,Edesur,Ezeiza,Tristan Suarez,,,5,
