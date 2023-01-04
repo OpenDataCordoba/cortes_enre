@@ -18,9 +18,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.722216958,-58.371273397,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-4-44/087-4-44,599,2023-01-04 14:46
 -34.720295054,-58.369475920,11,media,Edesur,Lanus,Lanus Este,Escalada,R:087-4-44/087-4-44,593,2023-01-04 14:46
 -34.727162336,-58.371520065,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-44/087-4-44,489,2023-01-04 14:46
--34.658811324,-58.720702762,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr2/366-5523,474,Sin Datos
+-34.658811324,-58.720702762,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr2/366-5523,474,2023-01-04 13:00
 -34.465568144,-58.838039795,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5534,74,2023-01-04 14:00
--34.416678145,-58.862907027,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,1,2023-01-04 13:00
+-34.416678145,-58.862907027,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,1,2023-01-04 14:00
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-04 13:00
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-04 13:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-04 13:00
@@ -488,6 +488,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6947,-58.4856,22,baja,Edenor,La Matanza,Villa Madero,,,3,
 -34.5957,-58.4665,22,baja,Edenor,Capital Federal,La Paternal,,,5,
 -34.6358,-58.89,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,6,
+-34.5487,-58.7037,22,baja,Edenor,San Miguel,Muñiz,,,4,
 -34.4335,-58.5981,22,baja,Edenor,Tigre,Ciudad De Tigre,,,13,
 -34.4277,-58.6992,22,baja,Edenor,Tigre,Benavidez,,,1,
 -34.6129,-58.4168,21,baja,Edesur,Capital,Almagro,,,25,
@@ -495,11 +496,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.633,-58.3608,21,baja,Edesur,Capital,La Boca,,,16,
 -34.6468,-58.4196,21,baja,Edesur,Capital,Nueva Pompeya,,,5,
 -34.6599,-58.444,21,baja,Edesur,Capital,Villa Soldati,,,2,
--34.7972,-58.2112,21,baja,Edesur,Berazategui,Ranelagh,,,22,
+-34.7972,-58.2112,21,baja,Edesur,Berazategui,Ranelagh,,,23,
 -34.8249,-58.4434,21,baja,Edesur,Almirante Brown,Burzaco,,,20,
--34.6208,-58.3717,21,baja,Edesur,Capital,San Telmo,,,5,
--34.6362,-58.4513,21,baja,Edesur,Capital,Parque Chacabuco,,,3,
--34.7253,-58.3719,21,baja,Edesur,Lanus,Monte Chingolo,,,3,
+-34.6209,-58.3717,21,baja,Edesur,Capital,San Telmo,,,5,
+-34.6362,-58.4513,21,baja,Edesur,Capital,Parque Chacabuco,,,4,
+-34.7253,-58.3719,21,baja,Edesur,Lanus,Monte Chingolo,,,5,
 -34.7307,-58.293,21,baja,Edesur,Quilmes,Quilmes,,,8,
 -34.8703,-58.3808,21,baja,Edesur,Almirante Brown,Longchamps,,,1,
 -34.7261,-58.3977,21,baja,Edesur,Lanus,Remedios De Escalada,,,1,
