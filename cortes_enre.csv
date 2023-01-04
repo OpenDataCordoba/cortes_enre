@@ -13,19 +13,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.879914292,-58.161303682,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,8,2023-01-04 19:00
 -34.879453149,-58.163128929,11,media,Edesur,Berazategui,El Pato,S/D,R:951-1-03/951-1-03,3,2023-01-04 19:00
 -34.716430036,-58.263675857,11,media,Edesur,Quilmes,Quilmes Este,Quilmes,R:073-3-34/073-3-34,407,2023-01-04 18:16
--34.658811324,-58.720702762,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr2/366-5523,474,2023-01-04 16:00
+-34.584112370,-58.447274432,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5566,95,Sin Datos
+-34.583706093,-58.447904928,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5566,149,Sin Datos
+-34.583470157,-58.447767329,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5566,79,Sin Datos
+-34.658811324,-58.720702762,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr2/366-5523,474,Sin Datos
 -34.479557760,-58.672981793,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5528,267,2023-01-04 17:00
--34.383484795,-58.652674224,12,media,Edenor,Tigre,Benavidez,S/D,R:Nordelta/156-Tr2/156-5523,38,2023-01-04 16:00
--34.380236740,-58.651334041,12,media,Edenor,Tigre,Benavidez,S/D,R:Nordelta/156-Tr2/156-5523,11,2023-01-04 16:00
--34.381333225,-58.664924181,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Nordelta/156-Tr2/156-5523,2,2023-01-04 16:00
--34.378166137,-58.655348738,12,media,Edenor,Tigre,Benavidez,S/D,R:Nordelta/156-Tr2/156-5523,3,2023-01-04 16:00
--34.382409056,-58.663300590,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Nordelta/156-Tr2/156-5523,20,2023-01-04 16:00
--34.385646347,-58.669965026,12,media,Edenor,Tigre,Benavidez,S/D,R:Nordelta/156-Tr2/156-5523,84,2023-01-04 16:00
--34.382760180,-58.672238617,12,media,Edenor,Tigre,Benavidez,S/D,R:Nordelta/156-Tr2/156-5523,84,2023-01-04 16:00
--34.389737740,-58.655260852,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr2/156-5523,2,2023-01-04 16:00
--34.381280151,-58.659446858,12,media,Edenor,Tigre,Benavidez,S/D,R:Nordelta/156-Tr2/156-5523,6,2023-01-04 16:00
+-34.383484795,-58.652674224,12,media,Edenor,Tigre,Benavidez,S/D,R:Nordelta/156-Tr2/156-5523,38,Sin Datos
+-34.380236740,-58.651334041,12,media,Edenor,Tigre,Benavidez,S/D,R:Nordelta/156-Tr2/156-5523,11,Sin Datos
+-34.389737740,-58.655260852,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr2/156-5523,2,Sin Datos
 -34.6577,-58.5326,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,20,
--34.463,-58.9936,22,baja,Edenor,3 De Febrero,Martin Coronado,,,20,
+-34.463,-58.9936,22,baja,Edenor,3 De Febrero,Martin Coronado,,,21,
 -34.6326,-58.5796,22,baja,Edenor,Moron,El Palomar,,,105,
 -34.6333,-58.4559,21,baja,Edesur,Capital,Flores,,,6,
 -34.6391,-58.4187,21,baja,Edesur,Capital,Boedo,,,5,
@@ -39,6 +36,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6209,-58.3717,21,baja,Edesur,Capital,San Telmo,,,6,
 -34.6362,-58.4513,21,baja,Edesur,Capital,Parque Chacabuco,,,4,
 -34.8396,-58.1859,21,baja,Edesur,Berazategui,Gutierrez,,,5,
--34.7927,-58.1462,21,baja,Edesur,Berazategui,Hudson,,,20,
--34.6028,-58.3812,21,baja,Edesur,Capital,San Nicolas,,,13,
--34.7884,-58.324,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,23,
+-34.7927,-58.1462,21,baja,Edesur,Berazategui,Hudson,,,21,
+-34.6028,-58.3812,21,baja,Edesur,Capital,San Nicolas,,,16,
+-34.8156,-58.4019,21,baja,Edesur,Almirante Brown,Burzaco,,,6,
+-34.7884,-58.324,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,25,
