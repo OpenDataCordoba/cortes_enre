@@ -31,18 +31,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.875263382,-58.509253351,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-3-33/083-3-33,111,2023-01-04 12:52
 -34.876128882,-58.507727023,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-3-33/083-3-33,60,2023-01-04 12:52
 -34.866288346,-58.509563449,11,media,Edesur,Ezeiza,Jose Maria Ezeiza,Echeverria,R:083-3-33/083-3-33,185,2023-01-04 12:52
--34.728539687,-58.446736057,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-2-22/281-2-22,541,2023-01-04 13:06
--34.459650933,-58.507394688,12,media,Edenor,San Isidro,San Isidro,S/D,R:San Isidro/152-Tr1/152-5512,50,2023-01-04 10:00
--34.749792053,-58.599831024,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5514,444,2023-01-04 10:00
--34.751695075,-58.595543269,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5514,424,2023-01-04 10:00
--34.748969586,-58.600685976,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5514,58,2023-01-04 10:00
--34.752556688,-58.596574671,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5514,65,2023-01-04 10:00
--34.719814838,-58.774844891,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,143,2023-01-04 10:00
--34.891632943,-58.928889632,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,64,2023-01-04 13:00
--34.658811324,-58.720702762,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr2/366-5523,474,2023-01-04 11:00
--34.465568144,-58.838039795,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5534,74,2023-01-04 11:00
--34.416678145,-58.862907027,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,1,2023-01-04 11:00
--34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2023-01-04 10:00
+-34.459650933,-58.507394688,12,media,Edenor,San Isidro,San Isidro,S/D,R:San Isidro/152-Tr1/152-5512,50,Sin Datos
+-34.749792053,-58.599831024,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5514,444,Sin Datos
+-34.751695075,-58.595543269,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5514,424,Sin Datos
+-34.748969586,-58.600685976,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5514,58,Sin Datos
+-34.752556688,-58.596574671,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5514,65,Sin Datos
+-34.719814838,-58.774844891,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,143,2023-01-04 11:00
+-34.891632943,-58.928889632,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,64,2023-01-04 11:00
+-34.658811324,-58.720702762,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr2/366-5523,474,2023-01-04 12:00
+-34.465568144,-58.838039795,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5534,74,2023-01-04 12:00
+-34.416678145,-58.862907027,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,1,2023-01-04 12:00
+-34.461436362,-58.904951773,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481/Cd111-5534,94,2023-01-04 11:00
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-04 11:00
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-04 11:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-04 11:00
@@ -500,18 +499,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-04 11:00
 -34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-04 11:00
 -34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-04 11:00
--34.745246045,-58.588949119,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,231,2023-01-04 13:00
--34.739143618,-58.591254341,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,409,2023-01-04 13:00
--34.742089542,-58.590308729,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,295,2023-01-04 13:00
--34.742954725,-58.594028328,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,300,2023-01-04 13:00
--34.743703327,-58.590936712,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,176,2023-01-04 13:00
--34.743142312,-58.591802933,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,128,2023-01-04 13:00
--34.743536118,-58.589103935,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,255,2023-01-04 13:00
+-34.745246045,-58.588949119,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,231,2023-01-04 11:00
+-34.739143618,-58.591254341,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,409,2023-01-04 11:00
+-34.742089542,-58.590308729,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,295,2023-01-04 11:00
+-34.742954725,-58.594028328,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,300,2023-01-04 11:00
+-34.743703327,-58.590936712,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,176,2023-01-04 11:00
+-34.743142312,-58.591802933,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,128,2023-01-04 11:00
+-34.743536118,-58.589103935,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5534,255,2023-01-04 11:00
+-34.593299666,-58.527733267,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,46,2023-01-04 12:00
+-34.592631370,-58.529642160,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,49,2023-01-04 12:00
+-34.592324403,-58.526415908,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,245,2023-01-04 12:00
+-34.593375842,-58.528396620,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,39,2023-01-04 12:00
+-34.590864453,-58.528071698,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,43,2023-01-04 12:00
 -34.6947,-58.4856,22,baja,Edenor,La Matanza,Villa Madero,,,3,
 -34.5957,-58.4665,22,baja,Edenor,Capital Federal,La Paternal,,,5,
 -34.4497,-58.6536,22,baja,Edenor,Tigre,General Pacheco,,,80,
 -34.6358,-58.89,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,6,
--34.6129,-58.4168,21,baja,Edesur,Capital,Almagro,,,37,
+-34.6129,-58.4168,21,baja,Edesur,Capital,Almagro,,,31,
 -34.633,-58.3608,21,baja,Edesur,Capital,La Boca,,,4,
 -34.6468,-58.4196,21,baja,Edesur,Capital,Nueva Pompeya,,,4,
 -34.6599,-58.444,21,baja,Edesur,Capital,Villa Soldati,,,2,
