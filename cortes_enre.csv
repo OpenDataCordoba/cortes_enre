@@ -1,19 +1,15 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.798707720,-58.277905129,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15/183-2-27,441,2023-01-05 19:56
--34.885423892,-58.578488217,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,135,Sin Datos
--34.887084509,-58.575503468,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,260,Sin Datos
--34.885136289,-58.576988170,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,47,Sin Datos
 -34.822753847,-58.230297946,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,514,Sin Datos
 -34.682059710,-58.508534227,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,386,2023-01-05 16:00
--34.901535338,-59.047009361,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
--34.525853021,-58.528548402,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Villa Adelina/155-Tr2/155-5523,297,2023-01-05 16:00
--34.526911204,-58.526375685,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Villa Adelina/155-Tr2/155-5523,1,2023-01-05 16:00
+-34.901535338,-59.047009361,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-01-05 16:00
+-34.525853021,-58.528548402,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Villa Adelina/155-Tr2/155-5523,297,Sin Datos
+-34.526911204,-58.526375685,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Villa Adelina/155-Tr2/155-5523,1,Sin Datos
 -34.6707,-58.8342,22,baja,Edenor,Moreno,La Reja,,,66,
 -34.6796,-58.5336,22,baja,Edenor,La Matanza,La Tablada,,,7,
 -34.6652,-58.522,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,2,
--34.6759,-58.5315,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,4,
 -34.5909,-58.9443,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,36,
--34.6849,-58.5049,22,baja,Edenor,Escobar,Garin,,,10,
+-34.6849,-58.5049,22,baja,Edenor,Escobar,Garin,,,14,
 -34.487,-58.7274,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,12,
 -34.7995,-58.2801,21,baja,Edesur,Florencio Varela,Florencio Varela,,,35,
 -34.7487,-58.4935,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,8,
@@ -24,5 +20,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7884,-58.2784,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,
 -34.7488,-58.2789,21,baja,Edesur,Quilmes,Quilmes,,,5,
 -34.7281,-58.3981,21,baja,Edesur,Lanus,Remedios De Escalada,,,4,
--34.6958,-58.348,21,baja,Edesur,Avellaneda,Sarandi,,,22,
+-34.6958,-58.348,21,baja,Edesur,Avellaneda,Sarandi,,,23,
 -34.7754,-58.3527,21,baja,Edesur,Almirante Brown,San Jose,,,1,
