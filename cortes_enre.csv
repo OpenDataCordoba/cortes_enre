@@ -1,38 +1,33 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.798707720,-58.277905129,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15/183-2-27,441,2023-01-05 22:34
 -34.610658287,-58.419187431,11,media,Edesur,Capital Gp,Almagro,Caballito,R:122-4-42/122-4-42,557,2023-01-05 20:43
--34.901535338,-59.047009361,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-01-05 18:00
+-34.901535338,-59.047009361,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
 -34.471979367,-58.843348063,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr2/260-5527,93,2023-01-05 19:00
--34.652828312,-58.576445858,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5518,353,Sin Datos
--34.612301224,-58.589303282,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,281,2023-01-05 21:00
--34.614949454,-58.589792967,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,50,2023-01-05 21:00
--34.624135386,-58.581709876,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,226,2023-01-05 21:00
--34.616689673,-58.583962202,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,1,2023-01-05 21:00
--34.608155395,-58.595798753,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,218,2023-01-05 21:00
--34.620638540,-58.586792214,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,250,2023-01-05 21:00
--34.621941212,-58.584633293,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,571,2023-01-05 21:00
--34.625777780,-58.580742702,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,216,2023-01-05 21:00
--34.614107486,-58.587702605,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,248,2023-01-05 21:00
--34.610286705,-58.593093741,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,452,2023-01-05 21:00
--34.619112872,-58.585985253,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,146,2023-01-05 21:00
--34.617494436,-58.583965789,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,374,2023-01-05 21:00
--34.623019369,-58.579931780,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,401,2023-01-05 21:00
--34.607531996,-58.599676916,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,45,2023-01-05 21:00
--34.614728493,-58.590317832,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,1,2023-01-05 21:00
+-34.652828312,-58.576445858,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5518,353,2023-01-05 19:00
+-34.620638540,-58.586792214,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,250,2023-01-05 19:00
+-34.621941212,-58.584633293,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,571,2023-01-05 19:00
+-34.619112872,-58.585985253,12,media,Edenor,Moron,El Palomar,S/D,R:Hurlingham/166-Tr3/166-5531,146,2023-01-05 19:00
+-34.627659480,-58.810196834,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr2/163-5521,278,2023-01-05 22:00
 -34.6796,-58.5336,22,baja,Edenor,La Matanza,La Tablada,,,7,
 -34.6652,-58.522,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,2,
--34.6849,-58.5049,22,baja,Edenor,Escobar,Garin,,,34,
+-34.6849,-58.5049,22,baja,Edenor,Escobar,Garin,,,41,
+-34.6244,-58.8112,22,baja,Edenor,Moreno,La Reja,,,4,
 -34.4978,-58.8124,22,baja,Edenor,Jose C Paz,Jose C Paz,,,7,
 -34.5359,-58.5322,22,baja,Edenor,Vicente Lopez,Munro,,,56,
 -34.5668,-58.4456,22,baja,Edenor,Capital Federal,Belgrano,,,13,
 -34.6877,-58.6329,22,baja,Edenor,Moron,Moron,,,1,
+-34.6318,-58.7113,22,baja,Edenor,Ituzaingo,Ituzaingo,,,41,
 -34.7487,-58.4935,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,8,
--34.8712,-58.3789,21,baja,Edesur,Almirante Brown,Longchamps,,,10,
 -34.7279,-58.3753,21,baja,Edesur,Lanus,Remedios De Escalada,,,9,
--34.7896,-58.1512,21,baja,Edesur,Berazategui,Hudson,,,48,
+-34.6308,-58.4694,21,baja,Edesur,Capital,Flores,,,8,
+-34.7896,-58.1512,21,baja,Edesur,Berazategui,Hudson,,,49,
+-34.5907,-58.3909,21,baja,Edesur,Capital,Recoleta,,,8,
 -34.7488,-58.2789,21,baja,Edesur,Quilmes,Quilmes,,,5,
 -34.7281,-58.3981,21,baja,Edesur,Lanus,Remedios De Escalada,,,4,
--34.6151,-58.5123,21,baja,Edesur,Capital,Capital,,,9,
+-34.6151,-58.5123,21,baja,Edesur,Capital,Capital,,,13,
+-34.6758,-58.4853,21,baja,Edesur,Capital,Villa Lugano,,,5,
 -34.7598,-58.2591,21,baja,Edesur,Quilmes,Quilmes,,,1,
--34.8703,-58.3808,21,baja,Edesur,Almirante Brown,Longchamps,,,1,
+-34.6272,-58.4768,21,baja,Edesur,Capital,Floresta,,,6,
 -34.7258,-58.4305,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,2,
+-34.6153,-58.5231,21,baja,Edesur,Capital,Capital,,,5,
+-34.591,-58.3911,21,baja,Edesur,Capital,Recoleta,,,2,
