@@ -1,38 +1,125 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.749453823,-58.343097998,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-4-48/184-4-48/184-1-14,64,2023-01-05 13:03
--34.798707720,-58.277905129,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15/183-2-27,441,2023-01-05 13:06
--34.817989219,-58.861810573,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,18,2023-01-05 11:00
--34.811986014,-58.865770432,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,130,2023-01-05 11:00
--34.810906499,-58.860614343,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,99,2023-01-05 11:00
--34.815799668,-58.860966434,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,27,2023-01-05 11:00
--34.534264473,-58.469507456,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5515,347,Sin Datos
--34.682059710,-58.508534227,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,386,2023-01-05 11:00
+-34.749453823,-58.343097998,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-4-48/184-4-48/184-1-14,64,2023-01-05 15:46
+-34.798707720,-58.277905129,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-15/183-1-15/183-2-27,441,2023-01-05 15:46
+-34.630212401,-58.468781681,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-28/218-2-28,641,2023-01-05 13:45
+-34.630866389,-58.467937030,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-28/218-2-28,1,2023-01-05 13:45
+-34.630880211,-58.467930855,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-28/218-2-28,256,2023-01-05 13:45
+-34.631452455,-58.468239003,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-28/218-2-28,338,2023-01-05 13:45
+-34.817989219,-58.861810573,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,18,Sin Datos
+-34.811986014,-58.865770432,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,130,Sin Datos
+-34.810906499,-58.860614343,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,99,Sin Datos
+-34.815799668,-58.860966434,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,27,Sin Datos
+-34.534264473,-58.469507456,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5515,347,2023-01-05 11:00
+-34.682059710,-58.508534227,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,386,2023-01-05 12:00
 -34.780972826,-58.611099220,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,165,2023-01-05 11:00
--34.790804851,-58.754552879,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,Sin Datos
+-34.790804851,-58.754552879,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2023-01-05 12:00
 -34.840082911,-58.946596026,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,6,2023-01-05 11:00
--34.834158405,-58.947723762,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,3,Sin Datos
--34.615572449,-58.729506600,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,279,2023-01-05 13:06
--34.534323300,-58.800514482,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5512,147,Sin Datos
--34.536678285,-58.798155878,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5512,257,Sin Datos
--34.532621273,-58.802024229,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5512,270,Sin Datos
--34.535043808,-58.799863298,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5512,5,Sin Datos
--34.537936036,-58.800663019,12,media,Edenor,Moreno,Cuartel V,S/D,R:San Miguel/165-Tr1/165-5512,85,Sin Datos
--34.690227402,-58.743788724,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr4/62-5547,116,2023-01-05 12:00
--34.688905759,-58.742372897,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr4/62-5547,99,2023-01-05 12:00
--34.687922120,-58.740889034,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr4/62-5547,79,2023-01-05 12:00
+-34.834158405,-58.947723762,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5512,3,2023-01-05 11:00
+-34.615572449,-58.729506600,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,279,2023-01-05 11:00
+-34.534323300,-58.800514482,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5512,147,2023-01-05 11:00
+-34.536678285,-58.798155878,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5512,257,2023-01-05 11:00
+-34.532621273,-58.802024229,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5512,270,2023-01-05 11:00
+-34.535043808,-58.799863298,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5512,5,2023-01-05 11:00
+-34.537936036,-58.800663019,12,media,Edenor,Moreno,Cuartel V,S/D,R:San Miguel/165-Tr1/165-5512,85,2023-01-05 11:00
+-34.452299695,-58.608679294,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Talar/58-Tr1/58-5515,238,2023-01-05 10:56
+-34.147283080,-58.558047333,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,2023-01-05 12:57
+-34.149562721,-58.551083095,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,7,2023-01-05 12:57
+-34.148674320,-58.531020900,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.148726168,-58.522616496,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.119817098,-58.515020296,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,2023-01-05 12:57
+-34.118149049,-58.513367144,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.123999835,-58.515318955,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.103776612,-58.502473944,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.114398145,-58.511368739,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.120271399,-58.511676907,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.087946385,-58.503584710,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,2023-01-05 12:57
+-34.108298121,-58.469349734,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.121706245,-58.512509469,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.137349698,-58.530240123,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.148391123,-58.527122493,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.145835558,-58.534067031,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.097587333,-58.483975926,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.147919734,-58.554837206,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,2023-01-05 12:57
+-34.139968608,-58.532547535,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.098147563,-58.494087021,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.148644671,-58.540222778,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,2023-01-05 12:57
+-34.100640280,-58.499936136,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,2023-01-05 12:57
+-34.120067787,-58.454975893,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.135389378,-58.525082154,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.142642667,-58.454683718,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.145943532,-58.453580755,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.096649781,-58.496641573,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.151814065,-58.450215586,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.139409707,-58.455763130,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.149011273,-58.452081152,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.150314393,-58.542713087,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.131324245,-58.456923585,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.143780853,-58.532219287,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.133569943,-58.526541564,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.118732007,-58.442867892,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.107431389,-58.505259718,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.159574661,-58.484547791,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.139549350,-58.532175228,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.167405969,-58.440294148,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.169842265,-58.443104087,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.166382959,-58.433352697,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.145160874,-58.450769999,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.150827315,-58.547215754,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.162267559,-58.482013377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.132276612,-58.453738972,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.125464423,-58.453928713,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.184994684,-58.450890715,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,2023-01-05 12:57
+-34.177711327,-58.457656781,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.117359636,-58.496020485,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,2023-01-05 12:57
+-34.153218053,-58.486867620,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,2023-01-05 12:57
+-34.146937772,-58.487846933,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.175113353,-58.416098627,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.143981237,-58.488210890,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,5,2023-01-05 12:57
+-34.102025944,-58.493397301,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.137762035,-58.452956163,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.139161069,-58.488876160,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,4,2023-01-05 12:57
+-34.123823292,-58.494773693,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.134560955,-58.456572567,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.110072589,-58.496121283,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.124162619,-58.518863930,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.135495195,-58.490277504,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.129689199,-58.492683194,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.139943962,-58.452400358,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.173528581,-58.445103405,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.135474647,-58.415973609,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.173077899,-58.420316207,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.161581975,-58.438447377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.146440072,-58.538433002,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.143202912,-58.403487776,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.144663204,-58.521813680,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.180664658,-58.452559169,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.156859786,-58.446346170,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.151112132,-58.447220086,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.091987852,-58.493641356,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.126653866,-58.517529820,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.176564350,-58.412298789,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.168932469,-58.438510342,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.181042731,-58.406862964,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.175353834,-58.422174163,12,media,Edenor,S/D,S/D,15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.170382964,-58.431958659,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,2,2023-01-05 12:57
+-34.153210718,-58.449196684,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
+-34.189682571,-58.407255354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-05 12:57
+-34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-05 12:57
 -34.3825,-58.6979,22,baja,Edenor,Tigre,Dique Lujan,,,31,
 -34.7888,-58.6197,22,baja,Edenor,La Matanza,Gonzalez Catan,,,23,
 -34.6234,-58.7006,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,11,
 -34.668,-58.5368,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,7,
 -34.6252,-58.5793,22,baja,Edenor,Moron,El Palomar,,,1,
--34.6189,-58.9828,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,1,
+-34.5267,-58.5543,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,11,
 -34.8025,-58.2804,21,baja,Edesur,Florencio Varela,Florencio Varela,,,29,
 -34.8413,-58.286,21,baja,Edesur,Florencio Varela,Florencio Varela,,,8,
 -34.7487,-58.4935,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,8,
 -34.6193,-58.4057,21,baja,Edesur,Capital,San Cristobal,,,5,
--34.7279,-58.3753,21,baja,Edesur,Lanus,Remedios De Escalada,,,5,
+-34.7279,-58.3753,21,baja,Edesur,Lanus,Remedios De Escalada,,,7,
+-34.6336,-58.3758,21,baja,Edesur,Capital,Barracas,,,10,
 -34.7317,-58.2602,21,baja,Edesur,Quilmes,Quilmes,,,6,
 -34.6101,-58.519,21,baja,Edesur,Capital,Villa Devoto,,,1,
 -34.8703,-58.3808,21,baja,Edesur,Almirante Brown,Longchamps,,,2,
--34.7896,-58.1512,21,baja,Edesur,Berazategui,Hudson,,,18,
+-34.7896,-58.1512,21,baja,Edesur,Berazategui,Hudson,,,24,
+-34.7884,-58.2784,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,
 -34.8072,-58.2961,21,baja,Edesur,Florencio Varela,Florencio Varela,,,1,
