@@ -37,37 +37,57 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.675209725,-58.350168656,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-2-22/172-2-22,579,2023-01-06 17:14
 -34.526778596,-58.514279874,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5522,1,2023-01-06 15:00
 -34.512428117,-58.862274785,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Manzone/257-Tr1/257-5518,1,2023-01-06 15:00
--34.513300650,-58.861664198,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,10,Sin Datos
--34.756354679,-58.998557638,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2023-01-06 15:00
--34.746254614,-59.004258956,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2023-01-06 15:00
--34.697260829,-58.970231870,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,Sin Datos
--34.712302119,-58.986504028,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,Sin Datos
--34.710956584,-58.998993878,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,Sin Datos
--34.694126101,-58.974196877,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,Sin Datos
--34.629158323,-58.536261857,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr2/167-5534,323,Sin Datos
+-34.513300650,-58.861664198,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,10,2023-01-06 15:00
+-34.756354679,-58.998557638,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2023-01-06 16:00
+-34.746254614,-59.004258956,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2023-01-06 16:00
+-34.697260829,-58.970231870,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2023-01-06 15:00
+-34.712302119,-58.986504028,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2023-01-06 15:00
+-34.710956584,-58.998993878,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2023-01-06 15:00
+-34.694126101,-58.974196877,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,2023-01-06 15:00
+-34.629158323,-58.536261857,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr2/167-5534,323,2023-01-06 16:00
+-34.661527469,-58.667795835,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:Castelar/61-Tr1/61-5512,64,2023-01-06 18:00
+-34.659016250,-58.664421350,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:Castelar/61-Tr1/61-5512,62,2023-01-06 18:00
+-34.660905580,-58.665772391,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:Castelar/61-Tr1/61-5512,56,2023-01-06 18:00
+-34.659798825,-58.667045786,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:Castelar/61-Tr1/61-5512,118,2023-01-06 18:00
+-34.652049650,-58.645233893,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5512,302,2023-01-06 18:00
+-34.651497091,-58.643963611,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5512,161,2023-01-06 18:00
+-34.652001778,-58.642857406,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5512,153,2023-01-06 18:00
+-34.653767552,-58.646706387,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5512,315,2023-01-06 18:00
+-34.667247126,-58.699611346,12,media,Edenor,Merlo,San Antonio De Padua,S/D,R:Castelar/61-Tr1/61-5512,265,2023-01-06 18:00
+-34.666367066,-58.700954872,12,media,Edenor,Merlo,San Antonio De Padua,S/D,R:Castelar/61-Tr1/61-5512,99,2023-01-06 18:00
+-34.666601841,-58.702551836,12,media,Edenor,Merlo,San Antonio De Padua,S/D,R:Castelar/61-Tr1/61-5512,358,2023-01-06 18:00
+-34.665122206,-58.681915349,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:Castelar/61-Tr1/61-5512,439,2023-01-06 18:00
+-34.660608529,-58.665057123,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:Castelar/61-Tr1/61-5512,200,2023-01-06 18:00
+-34.668343909,-58.707571109,12,media,Edenor,Merlo,San Antonio De Padua,S/D,R:Castelar/61-Tr1/61-5512,1,2023-01-06 18:00
+-34.660145342,-58.669516118,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:Castelar/61-Tr1/61-5512,396,2023-01-06 18:00
+-34.574393231,-58.402791161,12,media,Edenor,Capital Federal,Palermo,S/D,R:Puerto Nuevo/44-Tr1/44-5512,1,2023-01-06 18:00
+-34.578139175,-58.390447235,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Puerto Nuevo/44-Tr1/44-5512,1,2023-01-06 18:00
+-34.571339802,-58.399780628,12,media,Edenor,Capital Federal,Palermo,S/D,R:Puerto Nuevo/44-Tr1/44-5512,2,2023-01-06 18:00
+-34.572050577,-58.399305100,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Puerto Nuevo/44-Tr1/44-5512,9,2023-01-06 18:00
+-34.573621770,-58.395560517,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Puerto Nuevo/44-Tr1/44-5512,3,2023-01-06 18:00
+-34.572271446,-58.399019328,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Puerto Nuevo/44-Tr1/44-5512,1,2023-01-06 18:00
+-34.577515670,-58.391403514,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Puerto Nuevo/44-Tr1/44-5512,1,2023-01-06 18:00
+-34.573757934,-58.395324812,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Puerto Nuevo/44-Tr1/44-5512,3,2023-01-06 18:00
+-34.575874460,-58.403450543,12,media,Edenor,Capital Federal,Palermo,S/D,R:Puerto Nuevo/44-Tr1/44-5512,43,2023-01-06 18:00
 -34.5378,-58.7423,22,baja,Edenor,Jose C Paz,Jose C Paz,,,16,
--34.5702,-58.4587,22,baja,Edenor,Capital Federal,Belgrano,,,3,
 -34.6341,-58.8643,22,baja,Edenor,Moreno,Francisco Alvarez,,,1,
 -34.6831,-58.5583,22,baja,Edenor,La Matanza,San Justo,,,4,
 -34.8458,-58.6431,22,baja,Edenor,La Matanza,Virrey Del Pino,,,4,
 -34.6584,-58.7372,22,baja,Edenor,Merlo,Merlo,,,51,
--34.663,-58.7216,22,baja,Edenor,Merlo,Merlo,,,50,
 -34.6984,-58.5887,22,baja,Edenor,La Matanza,Isidro Casanova,,,25,
 -34.5833,-58.7542,22,baja,Edenor,Moreno,Trujui,,,45,
 -34.7007,-58.6044,22,baja,Edenor,La Matanza,Isidro Casanova,,,23,
 -34.58,-58.5458,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,30,
--34.6562,-58.6111,22,baja,Edenor,Moron,Moron,,,1,
+-34.6033,-58.8806,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,1,
 -34.6618,-58.4306,21,baja,Edesur,Capital,Villa Soldati,,,12,
 -34.637,-58.3903,21,baja,Edesur,Capital,Barracas,,,22,
--34.8414,-58.2801,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,
--34.6313,-58.4574,21,baja,Edesur,Capital,Flores,,,38,
+-34.6313,-58.4574,21,baja,Edesur,Capital,Flores,,,39,
 -34.6033,-58.4244,21,baja,Edesur,Capital,Almagro,,,2,
--34.6389,-58.3623,21,baja,Edesur,Capital,La Boca,,,6,
--34.8525,-58.3652,21,baja,Edesur,Almirante Brown,Longchamps,,,15,
--34.6504,-58.4835,21,baja,Edesur,Capital,Capital,,,14,
+-34.6389,-58.3623,21,baja,Edesur,Capital,La Boca,,,7,
+-34.6504,-58.4835,21,baja,Edesur,Capital,Capital,,,21,
 -34.7705,-58.4046,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,
--34.8914,-58.3759,21,baja,Edesur,Almirante Brown,Glew,,,14,
+-34.8914,-58.3759,21,baja,Edesur,Almirante Brown,Glew,,,15,
 -34.6288,-58.4736,21,baja,Edesur,Capital,Flores,,,7,
--34.7328,-58.4125,21,baja,Edesur,Lanus,Remedios De Escalada,,,31,
--34.6925,-58.4034,21,baja,Edesur,Lanus,Lanus,,,25,
+-34.7328,-58.4125,21,baja,Edesur,Lanus,Remedios De Escalada,,,33,
+-34.6925,-58.4034,21,baja,Edesur,Lanus,Lanus,,,27,
 -34.6894,-58.3565,21,baja,Edesur,Avellaneda,Avellaneda,,,3,
