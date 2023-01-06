@@ -1,10 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.733280946,-58.429245246,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-12/076-1-12,118,2023-01-06 03:49
 -34.733180490,-58.432746191,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-1-12/076-1-12,409,2023-01-06 03:49
--34.792496278,-58.276337146,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,529,2023-01-06 03:00
--34.574102114,-58.755835035,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5512,228,2023-01-06 04:00
--34.573441317,-58.759518662,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5512,315,2023-01-06 04:00
--34.572223993,-58.761511214,12,media,Edenor,S/D,S/D,S/D,R:Mu?Iz/265-Tr1/265-5512,185,2023-01-06 04:00
+-34.574102114,-58.755835035,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5512,228,Sin Datos
+-34.573441317,-58.759518662,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr1/265-5512,315,Sin Datos
+-34.572223993,-58.761511214,12,media,Edenor,S/D,S/D,S/D,R:Mu?Iz/265-Tr1/265-5512,185,Sin Datos
 -34.6597,-58.7342,22,baja,Edenor,Merlo,Merlo,,,36,
 -34.5668,-58.4456,22,baja,Edenor,Capital Federal,Belgrano,,,15,
 -34.7607,-58.6212,22,baja,Edenor,La Matanza,Gonzalez Catan,,,19,
@@ -19,7 +18,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7488,-58.2789,21,baja,Edesur,Quilmes,Quilmes,,,5,
 -34.6151,-58.5123,21,baja,Edesur,Capital,Capital,,,15,
 -34.6065,-58.4122,21,baja,Edesur,Capital,Capital,,,9,
--34.6758,-58.4853,21,baja,Edesur,Capital,Villa Lugano,,,7,
+-34.6758,-58.4853,21,baja,Edesur,Capital,Villa Lugano,,,8,
 -34.6105,-58.4104,21,baja,Edesur,Capital,Balvanera,,,5,
 -34.6618,-58.4306,21,baja,Edesur,Capital,Villa Soldati,,,11,
 -34.6373,-58.3903,21,baja,Edesur,Capital,Barracas,,,17,
