@@ -93,24 +93,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.809680005,-58.204080411,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-27/080-2-27,113,2023-01-06 18:46
 -34.810815848,-58.203134025,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-27/080-2-27,1,2023-01-06 18:46
 -34.808105625,-58.205530927,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-27/080-2-27,24,2023-01-06 18:46
--34.526778596,-58.514279874,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5522,1,2023-01-06 17:00
 -34.756354679,-58.998557638,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2023-01-06 17:00
 -34.746254614,-59.004258956,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,5,2023-01-06 17:00
--34.697260829,-58.970231870,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2023-01-06 17:00
--34.712302119,-58.986504028,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2023-01-06 17:00
--34.710956584,-58.998993878,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2023-01-06 17:00
--34.694126101,-58.974196877,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,2023-01-06 17:00
+-34.697260829,-58.970231870,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,3,2023-01-06 18:00
+-34.712302119,-58.986504028,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,2,2023-01-06 18:00
+-34.710956584,-58.998993878,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,1,2023-01-06 18:00
+-34.694126101,-58.974196877,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,6,2023-01-06 18:00
 -34.700122995,-58.473596813,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5542,442,Sin Datos
--34.5378,-58.7423,22,baja,Edenor,Jose C Paz,Jose C Paz,,,16,
 -34.6801,-58.5592,22,baja,Edenor,La Matanza,San Justo,,,7,
 -34.6831,-58.5583,22,baja,Edenor,La Matanza,San Justo,,,4,
 -34.8458,-58.6431,22,baja,Edenor,La Matanza,Virrey Del Pino,,,4,
 -34.6584,-58.7372,22,baja,Edenor,Merlo,Merlo,,,51,
 -34.6984,-58.5887,22,baja,Edenor,La Matanza,Isidro Casanova,,,25,
--34.5833,-58.7542,22,baja,Edenor,Moreno,Trujui,,,45,
 -34.7007,-58.6044,22,baja,Edenor,La Matanza,Isidro Casanova,,,23,
--34.6199,-58.9839,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,27,
--34.58,-58.5458,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,30,
+-34.6199,-58.9839,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,30,
 -34.6635,-58.6148,22,baja,Edenor,Moron,Moron,,,3,
 -34.5428,-58.505,22,baja,Edenor,Vicente Lopez,Villa Martelli,,,16,
 -34.6957,-58.5768,22,baja,Edenor,La Matanza,Isidro Casanova,,,5,
@@ -120,12 +116,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6033,-58.4244,21,baja,Edesur,Capital,Almagro,,,3,
 -34.6389,-58.3623,21,baja,Edesur,Capital,La Boca,,,7,
 -34.6504,-58.4835,21,baja,Edesur,Capital,Capital,,,44,
--34.7705,-58.4046,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,24,
--34.8914,-58.3759,21,baja,Edesur,Almirante Brown,Glew,,,18,
--34.6288,-58.4736,21,baja,Edesur,Capital,Flores,,,10,
--34.7328,-58.4125,21,baja,Edesur,Lanus,Remedios De Escalada,,,51,
--34.6925,-58.4034,21,baja,Edesur,Lanus,Lanus,,,25,
--34.6894,-58.3565,21,baja,Edesur,Avellaneda,Avellaneda,,,3,
--34.7884,-58.2711,21,baja,Edesur,Florencio Varela,Florencio Varela,,,11,
--34.7528,-58.4024,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,
+-34.7705,-58.4046,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,29,
+-34.8914,-58.3759,21,baja,Edesur,Almirante Brown,Glew,,,20,
+-34.6288,-58.4736,21,baja,Edesur,Capital,Flores,,,12,
+-34.7328,-58.4125,21,baja,Edesur,Lanus,Remedios De Escalada,,,52,
+-34.7884,-58.2711,21,baja,Edesur,Florencio Varela,Florencio Varela,,,13,
+-34.7521,-58.4023,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,8,
 -34.7598,-58.2591,21,baja,Edesur,Quilmes,Quilmes,,,1,
