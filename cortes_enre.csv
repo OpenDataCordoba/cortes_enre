@@ -1,27 +1,79 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.956595122,-58.395989976,11,media,Edesur,Pte Peron,Copenhagüe,Glew,R:277-2-25/277-2-25,2,2023-01-07 04:26
--34.951317802,-58.385344693,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,54,2023-01-07 04:26
--34.950006310,-58.385201526,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,17,2023-01-07 04:26
--34.954728614,-58.392273045,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,28,2023-01-07 04:26
--34.954344459,-58.387651667,11,media,Edesur,Pte Peron,Copenhagüe,Glew,R:277-2-25/277-2-25,20,2023-01-07 04:26
--34.948699475,-58.380010446,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,38,2023-01-07 04:26
--34.952613436,-58.383326640,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,44,2023-01-07 04:26
--34.958048114,-58.392741222,11,media,Edesur,Pte Peron,Copenhagüe,Glew,R:277-2-25/277-2-25,5,2023-01-07 04:26
--34.415334070,-58.701947015,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,115,Sin Datos
+-34.956595122,-58.395989976,11,media,Edesur,Pte Peron,Copenhagüe,Glew,R:277-2-25/277-2-25,2,2023-01-07 06:03
+-34.951317802,-58.385344693,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,54,2023-01-07 06:03
+-34.950006310,-58.385201526,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,17,2023-01-07 06:03
+-34.954728614,-58.392273045,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,28,2023-01-07 06:03
+-34.954344459,-58.387651667,11,media,Edesur,Pte Peron,Copenhagüe,Glew,R:277-2-25/277-2-25,20,2023-01-07 06:03
+-34.948699475,-58.380010446,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,38,2023-01-07 06:03
+-34.952613436,-58.383326640,11,media,Edesur,Pte Peron,Parque Las Naciones,Glew,R:277-2-25/277-2-25,44,2023-01-07 06:03
+-34.958048114,-58.392741222,11,media,Edesur,Pte Peron,Copenhagüe,Glew,R:277-2-25/277-2-25,5,2023-01-07 06:03
+-35.061055573,-58.782417525,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.060444488,-58.779104154,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,10,2023-01-07 06:03
+-35.060790943,-58.784033381,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,4,2023-01-07 06:03
+-35.065238384,-58.778346003,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,4,2023-01-07 06:03
+-35.064005584,-58.787865728,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.056876851,-58.789681402,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,4,2023-01-07 06:03
+-35.086015819,-58.784793158,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.087983675,-58.782281663,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.061879240,-58.808920461,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,4,2023-01-07 06:03
+-35.083381201,-58.788186202,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.090126403,-58.796751494,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,6,2023-01-07 06:03
+-35.095305357,-58.802475216,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.097115124,-58.804479077,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,4,2023-01-07 06:03
+-35.069911108,-58.844035375,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.063569983,-58.818328281,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.099642549,-58.903203232,11,media,Edesur,Cañuelas,Uribelarrea,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.064307538,-58.822432158,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,5,2023-01-07 06:03
+-35.094928838,-58.905332645,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,8,2023-01-07 06:03
+-35.084282829,-58.811436236,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.060009862,-58.776683496,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,30,2023-01-07 06:03
+-35.050616801,-58.795826721,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,4,2023-01-07 06:03
+-35.054618976,-58.791726678,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.079084366,-58.817938674,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.096737308,-58.889297579,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.047609789,-58.799521438,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,4,2023-01-07 06:03
+-35.137355062,-58.816367964,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.108308128,-58.817925718,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.064543893,-58.782913772,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,9,2023-01-07 06:03
+-35.053520567,-58.799054768,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.130412210,-58.830337752,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,3,2023-01-07 06:03
+-35.069680280,-58.772652025,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.140090244,-58.812803181,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,3,2023-01-07 06:03
+-35.062932531,-58.814780601,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,3,2023-01-07 06:03
+-35.097026894,-58.776764027,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.060127219,-58.792976883,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,6,2023-01-07 06:03
+-35.059800251,-58.797459955,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.054535142,-58.836059173,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.046714780,-58.810567474,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.062314576,-58.790100722,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,3,2023-01-07 06:03
+-35.089493468,-58.804916860,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,6,2023-01-07 06:03
+-35.102243803,-58.895826446,11,media,Edesur,Cañuelas,Uribelarrea,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.162610783,-58.788335604,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.097413311,-58.805756822,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.059430596,-58.793892822,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.060809616,-58.781080546,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.075870135,-58.780553841,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,3,2023-01-07 06:03
+-35.067587967,-58.802942931,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.060082847,-58.798926657,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.056705615,-58.789147156,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.063477781,-58.772943634,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,51,2023-01-07 06:03
+-35.096416114,-58.903413673,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,2,2023-01-07 06:03
+-35.059290488,-58.787935613,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.055165544,-58.821385253,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.090585811,-58.779917974,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.180367363,-58.807453044,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.050473973,-58.804782529,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-35.053801013,-58.799359218,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-2-23/271-2-23,1,2023-01-07 06:03
+-34.415334070,-58.701947015,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5526,115,2023-01-07 02:00
 -34.8458,-58.6431,22,baja,Edenor,La Matanza,Virrey Del Pino,,,4,
 -34.6957,-58.5768,22,baja,Edenor,La Matanza,Isidro Casanova,,,11,
 -34.7242,-58.6031,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
--34.62,-58.7834,22,baja,Edenor,Moreno,Moreno,,,27,
 -34.709,-58.4725,22,baja,Edenor,Moron,Castelar,,,2,
 -34.5532,-58.4527,22,baja,Edenor,Capital Federal,Belgrano,,,7,
--34.607,-58.7478,22,baja,Edenor,Moreno,Trujui,,,1,
 -34.5878,-58.4912,22,baja,Edenor,Capital Federal,Agronomia,,,14,
--34.3968,-58.9701,22,baja,Edenor,Pilar,Fatima,,,2,
 -34.5435,-58.7538,22,baja,Edenor,Jose C Paz,Jose C Paz,,,16,
--34.7082,-58.6286,22,baja,Edenor,La Matanza,Rafael Castillo,,,15,
--34.7082,-58.6286,22,baja,Edenor,La Matanza,Rafael Castillo,,,0,
--34.584,-58.7675,22,baja,Edenor,Moreno,Trujui,,,5,
--34.6389,-58.3623,21,baja,Edesur,Capital,La Boca,,,16,
+-34.7082,-58.6286,22,baja,Edenor,La Matanza,Rafael Castillo,,,16,
+-34.6389,-58.3623,21,baja,Edesur,Capital,La Boca,,,17,
 -34.8914,-58.3759,21,baja,Edesur,Almirante Brown,Glew,,,39,
 -34.7328,-58.4125,21,baja,Edesur,Lanus,Remedios De Escalada,,,61,
 -34.6506,-58.4711,21,baja,Edesur,Capital,Capital,,,5,
@@ -31,6 +83,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7307,-58.4128,21,baja,Edesur,Lanus,Remedios De Escalada,,,5,
 -34.6011,-58.4181,21,baja,Edesur,Capital,Almagro,,,8,
 -34.609,-58.4844,21,baja,Edesur,Capital,Capital,,,6,
--34.7224,-58.2585,21,baja,Edesur,Quilmes,Quilmes,,,9,
--34.6067,-58.497,21,baja,Edesur,Capital,Capital,,,15,
--34.7861,-58.3488,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,7,
+-34.7224,-58.2585,21,baja,Edesur,Quilmes,Quilmes,,,10,
+-34.6067,-58.497,21,baja,Edesur,Capital,Capital,,,16,
