@@ -1,69 +1,16 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.595862447,-58.378110525,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,4,Sin Datos
--34.595877439,-58.378081683,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,21,Sin Datos
--34.594899720,-58.379927596,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,214,Sin Datos
--34.594900316,-58.379901791,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,28,Sin Datos
--34.594892508,-58.379259520,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,125,Sin Datos
 -34.595586416,-58.377095071,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,1,Sin Datos
--34.594893697,-58.379039486,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,12,Sin Datos
 -34.596076932,-58.378534307,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,1,Sin Datos
 -34.596122796,-58.378538027,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,1,Sin Datos
--34.595591945,-58.379062266,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-11/025-1-11,341,Sin Datos
--34.432566815,-58.709895060,12,media,Edenor,Tigre,Benavidez,S/D,N:Benavidez/59-Tr2/59-5526,155,2023-01-07 20:00
--34.554835615,-58.838569563,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,60,2023-01-07 21:00
--34.569810100,-58.853138851,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,9,2023-01-07 21:00
--34.568321578,-58.853304692,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,2,2023-01-07 21:00
--34.569068680,-58.851817886,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,2,2023-01-07 21:00
--34.568507901,-58.841842639,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,147,2023-01-07 21:00
--34.569541176,-58.854432138,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,4,2023-01-07 21:00
--34.556306654,-58.834806605,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,32,2023-01-07 21:00
--34.561292611,-58.838870500,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,2,2023-01-07 21:00
--34.564646833,-58.839130523,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.566417353,-58.837119841,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-07 21:00
--34.567883457,-58.834725766,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.562127574,-58.840106891,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.567223311,-58.851488976,12,media,Edenor,Moreno,Trujui,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-07 21:00
--34.559257282,-58.835806137,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.569298277,-58.857648691,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.566703359,-58.862772329,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.533379732,-58.824632353,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,112,2023-01-07 21:00
--34.531841664,-58.822305037,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,42,2023-01-07 21:00
--34.530457890,-58.825263284,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,97,2023-01-07 21:00
--34.559115663,-58.836985534,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,2,2023-01-07 21:00
--34.558698343,-58.836862925,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.558273216,-58.835171453,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.568753017,-58.854014598,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-07 21:00
--34.560567537,-58.839187429,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.561195475,-58.827151931,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.558628660,-58.830955478,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,12,2023-01-07 21:00
--34.557202828,-58.828378710,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-07 21:00
--34.556147947,-58.823402474,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,16,2023-01-07 21:00
--34.551811941,-58.839293937,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,65,2023-01-07 21:00
--34.567064843,-58.841527140,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,123,2023-01-07 21:00
--34.550189053,-58.824781411,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,9,2023-01-07 21:00
--34.542313250,-58.828667283,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,15,2023-01-07 21:00
--34.549918020,-58.829691106,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,4,2023-01-07 21:00
--34.546591499,-58.835629367,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,3,2023-01-07 21:00
--34.563740866,-58.851588746,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,10,2023-01-07 21:00
--34.572723010,-58.857442009,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.561075729,-58.835513842,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,9,2023-01-07 21:00
--34.556415794,-58.823131517,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.566268572,-58.845217832,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,66,2023-01-07 21:00
--34.558117765,-58.843658695,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,145,2023-01-07 21:00
--34.543243085,-58.824979642,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-07 21:00
--34.555928922,-58.846061555,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,99,2023-01-07 21:00
--34.555392002,-58.835745456,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,4,2023-01-07 21:00
--34.563359934,-58.839886458,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,3,2023-01-07 21:00
--34.534454958,-58.826244975,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-07 21:00
--34.560023952,-58.853254595,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 21:00
--34.6804,-58.5599,22,baja,Edenor,La Matanza,San Justo,,,1,
--34.6134,-58.6469,22,baja,Edenor,Hurlingham,Villa Tesei,,,81,
--34.5001,-58.7618,22,baja,Edenor,Pilar,Pte Derqui,,,31,
--34.584,-58.7675,22,baja,Edenor,Moreno,Trujui,,,32,
+-34.432566815,-58.709895060,12,media,Edenor,Tigre,Benavidez,S/D,N:Benavidez/59-Tr2/59-5526,155,Sin Datos
+-34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,25,2023-01-07 18:00
+-34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,2023-01-07 18:00
+-34.561195475,-58.827151931,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-07 18:00
+-34.5001,-58.7618,22,baja,Edenor,Pilar,Pte Derqui,,,32,
 -34.9105,-58.716,22,baja,Edenor,Marcos Paz,Marcos Paz,,,21,
 -34.555,-58.677,22,baja,Edenor,San Miguel,Bella Vista,,,24,
 -34.6468,-58.6298,22,baja,Edenor,Moron,Castelar,,,29,
--34.7082,-58.6286,22,baja,Edenor,La Matanza,Rafael Castillo,,,6,
+-34.7082,-58.6286,22,baja,Edenor,La Matanza,Rafael Castillo,,,24,
 -34.6856,-58.6375,22,baja,Edenor,Moron,Castelar,,,1,
 -34.609,-58.4844,21,baja,Edesur,Capital,Capital,,,6,
 -34.6076,-58.4032,21,baja,Edesur,Capital,Balvanera,,,19,
@@ -71,8 +18,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5942,-58.3814,21,baja,Edesur,Capital,Retiro,,,5,
 -34.6333,-58.461,21,baja,Edesur,Capital,Flores,,,6,
 -34.7312,-58.4134,21,baja,Edesur,Lanus,Remedios De Escalada,,,6,
--34.7657,-58.2867,21,baja,Edesur,Quilmes,Quilmes,,,55,
--34.7224,-58.2585,21,baja,Edesur,Quilmes,Quilmes,,,10,
--34.6175,-58.5029,21,baja,Edesur,Capital,Monte Castro,,,12,
+-34.7657,-58.2867,21,baja,Edesur,Quilmes,Quilmes,,,56,
+-34.7224,-58.2585,21,baja,Edesur,Quilmes,Quilmes,,,12,
+-34.6175,-58.5029,21,baja,Edesur,Capital,Monte Castro,,,19,
 -34.6982,-58.422,21,baja,Edesur,Lanus,Lanus,,,5,
--34.8817,-58.5699,21,baja,Edesur,Ezeiza,Tristan Suarez,,,17,
+-34.8817,-58.5699,21,baja,Edesur,Ezeiza,Tristan Suarez,,,22,
+-34.7842,-58.3489,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,6,
