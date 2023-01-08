@@ -1,8 +1,8 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.605160517,-58.375219281,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-14/022-1-14,201,2023-01-08 15:31
--34.628100818,-58.352549348,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,12,2023-01-08 13:44
--34.627183087,-58.353678592,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,1,2023-01-08 13:44
--34.627197792,-58.353649524,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,4,2023-01-08 13:44
+-34.605160517,-58.375219281,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-14/022-1-14,201,2023-01-08 16:03
+-34.628100818,-58.352549348,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,12,2023-01-08 16:03
+-34.627183087,-58.353678592,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,1,2023-01-08 16:03
+-34.627197792,-58.353649524,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,4,2023-01-08 16:03
 -34.807071443,-58.850061733,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,1,Sin Datos
 -34.548176850,-58.477080811,12,media,Edenor,Capital Federal,Saavedra,S/D,R:Saavedra/137-Tr1/137-5553,1,2023-01-08 11:00
 -34.515699955,-58.566241287,12,media,Edenor,San Isidro,Boulogne,S/D,R:J. L. Suarez/266-Tr1/266-5548,1,2023-01-08 11:00
@@ -25,7 +25,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6176,-58.6252,22,baja,Edenor,Hurlingham,Villa Tesei,,,19,
 -34.4142,-58.8327,22,baja,Edenor,Pilar,Villa Rosa,,,31,
 -34.504,-58.7844,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
--34.6076,-58.4032,21,baja,Edesur,Capital,Balvanera,,,18,
+-34.6076,-58.4032,21,baja,Edesur,Capital,Balvanera,,,17,
 -34.7413,-58.4467,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
 -34.7657,-58.2867,21,baja,Edesur,Quilmes,Quilmes,,,79,
 -34.6997,-58.436,21,baja,Edesur,Lanus,Valentin Alsina,,,19,
@@ -33,7 +33,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7636,-58.3573,21,baja,Edesur,Lomas De Zamora,Temperley,,,2,
 -34.6033,-58.395,21,baja,Edesur,Capital,Balvanera,,,17,
 -34.7147,-58.3311,21,baja,Edesur,Avellaneda,Wilde,,,4,
--34.6054,-58.456,21,baja,Edesur,Capital,Caballito,,,24,
+-34.6054,-58.456,21,baja,Edesur,Capital,Caballito,,,25,
 -34.5997,-58.4619,21,baja,Edesur,Capital,La Paternal,,,8,
 -34.6227,-58.4908,21,baja,Edesur,Capital,Floresta,,,63,
 -34.9849,-58.3751,21,baja,Edesur,San Vicente,Alejandro Korn,,,28,
