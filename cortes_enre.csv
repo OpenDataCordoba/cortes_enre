@@ -1,7 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.628100818,-58.352549348,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,12,2023-01-08 19:57
--34.627183087,-58.353678592,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,1,2023-01-08 19:57
--34.627197792,-58.353649524,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,4,2023-01-08 19:57
+-34.628100818,-58.352549348,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,12,2023-01-08 21:54
+-34.627183087,-58.353678592,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,1,2023-01-08 21:54
+-34.627197792,-58.353649524,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,4,2023-01-08 21:54
 -34.738023210,-58.385574825,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-2324/087-2-2324,352,2023-01-08 20:08
 -34.741976750,-58.391930640,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-2324/087-2-2324,238,2023-01-08 20:08
 -34.738337570,-58.392640551,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-2-2324/087-2-2324,659,2023-01-08 20:08
@@ -11,31 +11,29 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.731191674,-58.387150988,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-2324/087-2-2324,494,2023-01-08 20:08
 -34.738400989,-58.387495750,11,media,Edesur,Lomas De Zamora,Bandfield,Escalada,R:087-2-2324/087-2-2324,426,2023-01-08 20:08
 -34.741704326,-58.391820700,11,media,Edesur,Lomas De Zamora,Bandfield,Escalada,R:087-2-2324/087-2-2324,1,2023-01-08 20:08
--34.637241450,-58.610772065,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,1,2023-01-08 17:00
--34.484807241,-58.699264443,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Nogues/159-Tr1/159-5517,494,Sin Datos
--34.487677660,-58.696970180,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Nogues/159-Tr1/159-5517,155,Sin Datos
--34.488127582,-58.696508586,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5517,140,Sin Datos
+-34.484807241,-58.699264443,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Nogues/159-Tr1/159-5517,494,2023-01-08 17:00
+-34.487677660,-58.696970180,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Nogues/159-Tr1/159-5517,155,2023-01-08 18:00
+-34.488127582,-58.696508586,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5517,140,2023-01-08 17:00
 -34.58,-58.7939,22,baja,Edenor,Moreno,Cuartel V,,,10,
 -34.402,-58.6411,22,baja,Edenor,Tigre,Rincon De Milberg,,,18,
 -34.6341,-58.8643,22,baja,Edenor,Moreno,Francisco Alvarez,,,1,
--34.44,-58.7615,22,baja,Edenor,Moreno,Trujui,,,14,
+-34.44,-58.7615,22,baja,Edenor,Moreno,Trujui,,,17,
 -34.4851,-58.9138,22,baja,Edenor,Pilar,Pilar,,,27,
 -34.5012,-58.8396,22,baja,Edenor,Pilar,Pte Derqui,,,13,
 -34.5709,-58.4456,22,baja,Edenor,Capital Federal,Palermo,,,1,
 -34.3801,-58.8636,22,baja,Edenor,Pilar,Villa Rosa,,,6,
+-34.5802,-58.7448,22,baja,Edenor,San Miguel,San Miguel,,,32,
 -34.6169,-58.7745,22,baja,Edenor,Moreno,Moreno,,,27,
 -34.6076,-58.4032,21,baja,Edesur,Capital,Balvanera,,,16,
 -34.7636,-58.3573,21,baja,Edesur,Lomas De Zamora,Temperley,,,2,
 -34.6033,-58.395,21,baja,Edesur,Capital,Balvanera,,,28,
--34.9849,-58.3751,21,baja,Edesur,San Vicente,Alejandro Korn,,,40,
+-34.9849,-58.3751,21,baja,Edesur,San Vicente,Alejandro Korn,,,41,
 -34.6054,-58.456,21,baja,Edesur,Capital,Caballito,,,27,
 -34.6227,-58.4908,21,baja,Edesur,Capital,Floresta,,,82,
 -34.671,-58.4839,21,baja,Edesur,Capital,Capital,,,9,
 -34.6324,-58.4411,21,baja,Edesur,Capital,Parque Chacabuco,,,15,
--34.7224,-58.2585,21,baja,Edesur,Quilmes,Quilmes,,,6,
 -34.7748,-58.4378,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,6,
 -34.8325,-58.456,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,
--35.0719,-58.2797,21,baja,Edesur,San Vicente,Domselaar,,,14,
--34.7329,-58.4162,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,13,
--34.7187,-58.3443,21,baja,Edesur,Lanus,Monte Chingolo,,,2,
+-35.0719,-58.2797,21,baja,Edesur,San Vicente,Domselaar,,,17,
+-34.7329,-58.4162,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,14,
 -34.7889,-58.2211,21,baja,Edesur,Berazategui,Berazategui,,,1,
