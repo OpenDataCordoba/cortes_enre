@@ -25,19 +25,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.741731937,-58.499695112,11,media,Edesur,Esteban Echeverria,9 De Abril,Santa Catalina,R:182-3-33/182-3-33,2,2023-01-08 10:02
 -34.802631853,-58.850034945,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,17,2023-01-08 08:00
 -34.492837119,-58.698109159,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Nogues/159-Tr1/159-5517,191,2023-01-08 08:00
--34.656349863,-58.546562836,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,355,2023-01-08 10:00
--34.663102166,-58.539119611,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5533,298,2023-01-08 10:00
--34.653641444,-58.549585556,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,438,2023-01-08 10:00
--34.658197221,-58.544497885,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,207,2023-01-08 10:00
--34.655400243,-58.547651941,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,163,2023-01-08 10:00
--34.660979471,-58.541441851,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5533,134,2023-01-08 10:00
--34.657241461,-58.545596394,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,12,2023-01-08 10:00
--34.657425800,-58.547633967,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,346,2023-01-08 10:00
--34.659961000,-58.542581863,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,201,2023-01-08 10:00
--34.661816355,-58.540548109,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5533,142,2023-01-08 10:00
+-34.656349863,-58.546562836,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,355,2023-01-08 08:00
+-34.663102166,-58.539119611,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5533,298,2023-01-08 08:00
+-34.653641444,-58.549585556,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,438,2023-01-08 08:00
+-34.658197221,-58.544497885,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,207,2023-01-08 08:00
+-34.655400243,-58.547651941,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,163,2023-01-08 08:00
+-34.660979471,-58.541441851,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5533,134,2023-01-08 08:00
+-34.657241461,-58.545596394,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,12,2023-01-08 08:00
+-34.657425800,-58.547633967,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,346,2023-01-08 08:00
+-34.659961000,-58.542581863,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr2/164-5533,201,2023-01-08 08:00
+-34.661816355,-58.540548109,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5533,142,2023-01-08 08:00
 -34.659,-58.6162,22,baja,Edenor,Moron,Moron,,,73,
 -34.5215,-58.8165,22,baja,Edenor,Moreno,Cuartel V,,,11,
 -34.7365,-58.6071,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,29,
+-34.4587,-58.5648,22,baja,Edenor,San Fernando,Virreyes,,,4,
 -34.6076,-58.4032,21,baja,Edesur,Capital,Balvanera,,,18,
 -34.7263,-58.482,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,7,
 -34.7413,-58.4467,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
@@ -51,4 +52,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7147,-58.3311,21,baja,Edesur,Avellaneda,Wilde,,,4,
 -34.6054,-58.456,21,baja,Edesur,Capital,Caballito,,,23,
 -34.5997,-58.4619,21,baja,Edesur,Capital,La Paternal,,,7,
--34.6227,-58.4908,21,baja,Edesur,Capital,Floresta,,,57,
+-34.6227,-58.4908,21,baja,Edesur,Capital,Floresta,,,59,
