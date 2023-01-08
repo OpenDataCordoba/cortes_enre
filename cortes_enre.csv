@@ -1,27 +1,32 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.605160517,-58.375219281,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-14/022-1-14,201,Sin Datos
--34.628100818,-58.352549348,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,12,Sin Datos
--34.627183087,-58.353678592,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,1,Sin Datos
--34.627197792,-58.353649524,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,4,Sin Datos
--34.548176850,-58.477080811,12,media,Edenor,Capital Federal,Saavedra,S/D,R:Saavedra/137-Tr1/137-5553,1,2023-01-08 15:00
--34.515699955,-58.566241287,12,media,Edenor,San Isidro,Boulogne,S/D,R:J. L. Suarez/266-Tr1/266-5548,1,Sin Datos
--34.637241450,-58.610772065,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,1,2023-01-08 15:00
--34.469457923,-58.674774942,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr4/58-5548,1,Sin Datos
--34.396380079,-58.982002785,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5481,1,2023-01-08 14:00
--34.484807241,-58.699264443,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Nogues/159-Tr1/159-5517,494,2023-01-08 15:00
--34.487677660,-58.696970180,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Nogues/159-Tr1/159-5517,155,Sin Datos
--34.488127582,-58.696508586,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5517,140,2023-01-08 14:00
--34.626381724,-58.755663219,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5522,332,Sin Datos
+-34.605160517,-58.375219281,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-14/022-1-14,201,2023-01-08 18:51
+-34.628100818,-58.352549348,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,12,2023-01-08 18:51
+-34.627183087,-58.353678592,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,1,2023-01-08 18:51
+-34.627197792,-58.353649524,11,media,Edesur,Capital Rp,La Boca,Perez Galdos,R:236-2-25/236-2-25,4,2023-01-08 18:51
+-34.515699955,-58.566241287,12,media,Edenor,San Isidro,Boulogne,S/D,R:J. L. Suarez/266-Tr1/266-5548,1,2023-01-08 15:00
+-34.637241450,-58.610772065,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,1,2023-01-08 14:00
+-34.469457923,-58.674774942,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr4/58-5548,1,2023-01-08 15:00
+-34.396380079,-58.982002785,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5481,1,Sin Datos
+-34.484807241,-58.699264443,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Nogues/159-Tr1/159-5517,494,2023-01-08 14:00
+-34.487677660,-58.696970180,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Nogues/159-Tr1/159-5517,155,2023-01-08 15:00
+-34.488127582,-58.696508586,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Nogues/159-Tr1/159-5517,140,2023-01-08 15:00
+-34.626381724,-58.755663219,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5522,332,2023-01-08 14:00
+-34.595643804,-58.966254297,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,40,2023-01-08 15:00
+-34.594418760,-58.961518931,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,98,2023-01-08 15:00
+-34.591173882,-58.970023652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,152,2023-01-08 15:00
+-34.588280060,-58.981653905,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,2,2023-01-08 15:00
+-34.586639286,-58.983366768,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,5,2023-01-08 15:00
+-34.598151414,-58.969005758,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,240,2023-01-08 15:00
+-34.598450864,-58.963602358,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,422,2023-01-08 15:00
+-34.586726765,-58.984154965,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,1,2023-01-08 15:00
 -34.58,-58.7939,22,baja,Edenor,Moreno,Cuartel V,,,10,
--34.773,-58.6369,22,baja,Edenor,La Matanza,Gonzalez Catan,,,6,
--34.5696,-58.4556,22,baja,Edenor,Capital Federal,Colegiales,,,28,
--34.5985,-58.9636,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,23,
+-34.773,-58.6369,22,baja,Edenor,La Matanza,Gonzalez Catan,,,40,
 -34.6341,-58.8643,22,baja,Edenor,Moreno,Francisco Alvarez,,,1,
 -34.6076,-58.4032,21,baja,Edesur,Capital,Balvanera,,,17,
 -34.7657,-58.2867,21,baja,Edesur,Quilmes,Quilmes,,,85,
 -34.6559,-58.5246,21,baja,Edesur,Capital,Capital,,,13,
 -34.7636,-58.3573,21,baja,Edesur,Lomas De Zamora,Temperley,,,2,
--34.6033,-58.395,21,baja,Edesur,Capital,Balvanera,,,22,
+-34.6033,-58.395,21,baja,Edesur,Capital,Balvanera,,,23,
 -34.7147,-58.3311,21,baja,Edesur,Avellaneda,Wilde,,,6,
 -34.9849,-58.3751,21,baja,Edesur,San Vicente,Alejandro Korn,,,40,
 -34.6054,-58.456,21,baja,Edesur,Capital,Caballito,,,27,
@@ -34,5 +39,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7315,-58.4132,21,baja,Edesur,Lanus,Remedios De Escalada,,,3,
 -34.8325,-58.456,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,
 -35.0758,-58.2837,21,baja,Edesur,San Vicente,Domselaar,,,9,
--34.7334,-58.4171,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,7,
--34.6029,-58.4226,21,baja,Edesur,Capital,Capital,,,3,
+-34.7334,-58.4171,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,8,
+-34.6029,-58.4226,21,baja,Edesur,Capital,Capital,,,4,
