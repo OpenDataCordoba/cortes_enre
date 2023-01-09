@@ -1,66 +1,45 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.802627163,-58.208190302,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-2-27/080-2-27,198,2023-01-09 23:14
--34.799990690,-58.213414560,11,media,Edesur,Berazategui,Sourigues,Ezpeleta,R:080-2-27/080-2-27,327,2023-01-09 23:14
--34.731507739,-58.480792718,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,47,2023-01-09 23:20
--34.733698472,-58.481477719,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,18,2023-01-09 23:20
--34.743400904,-58.475117503,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,52,2023-01-09 23:20
--34.742195226,-58.476025492,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,30,2023-01-09 23:20
--34.735625974,-58.476637982,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-1-11/281-1-11,6,2023-01-09 23:20
--34.735538541,-58.481009241,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,28,2023-01-09 23:20
--34.733951812,-58.477254593,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,8,2023-01-09 23:20
--34.732008402,-58.474861927,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,21,2023-01-09 23:20
--34.732751488,-58.474302443,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,6,2023-01-09 23:20
--34.732578049,-58.473785763,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,11,2023-01-09 23:20
--34.733873422,-58.473895587,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,27,2023-01-09 23:20
--34.733355291,-58.473262174,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,16,2023-01-09 23:20
--34.734170182,-58.473107436,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,21,2023-01-09 23:20
--34.734480190,-58.472284079,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,20,2023-01-09 23:20
--34.734614940,-58.471923223,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,15,2023-01-09 23:20
--34.734847713,-58.471308756,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,15,2023-01-09 23:20
--34.735418157,-58.470848589,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,17,2023-01-09 23:20
--34.735060950,-58.470796097,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,8,2023-01-09 23:20
--34.735340352,-58.469952067,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,20,2023-01-09 23:20
--34.732513121,-58.474481818,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,13,2023-01-09 23:20
--34.734423302,-58.472435170,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,6,2023-01-09 23:20
--34.734715962,-58.471641871,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,6,2023-01-09 23:20
--34.735125151,-58.471078828,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,3,2023-01-09 23:20
--34.735168454,-58.470471349,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,8,2023-01-09 23:20
--34.732323075,-58.474624831,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,7,2023-01-09 23:20
--34.732771945,-58.474163057,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,14,2023-01-09 23:20
--34.733714670,-58.482459758,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,81,2023-01-09 23:20
--34.733666888,-58.480381165,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,143,2023-01-09 23:20
--34.733624753,-58.478119848,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,87,2023-01-09 23:20
--34.736026416,-58.473254330,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,8,2023-01-09 23:20
--34.735930264,-58.474711255,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,133,2023-01-09 23:20
--34.736057705,-58.478386534,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,313,2023-01-09 23:20
--34.738101731,-58.476796581,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,302,2023-01-09 23:20
--34.737780852,-58.472848924,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-11/281-1-11,183,2023-01-09 23:20
--34.740811068,-58.473235132,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-1-11/281-1-11,245,2023-01-09 23:20
--34.547416906,-58.555047016,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,378,2023-01-09 19:00
--34.589045237,-58.424255909,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,529,2023-01-09 19:00
--34.589453542,-58.422790588,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,615,2023-01-09 19:00
--34.589272052,-58.423682673,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,114,2023-01-09 19:00
--34.616362918,-58.551940842,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5544,150,2023-01-09 20:00
--34.615428230,-58.556910562,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5544,623,2023-01-09 20:00
+-34.607124095,-58.418754396,11,media,Edesur,Capital Gp,Almagro,Once,R:113-1-17/113-1-17/020-1-17,757,2023-01-09 22:41
+-34.605918447,-58.416199613,11,media,Edesur,Capital Gp,Almagro,Once,R:113-1-17/113-1-17/020-1-17,748,2023-01-09 22:41
+-34.607872982,-58.415514312,11,media,Edesur,Capital Gp,Almagro,Once,R:113-1-17/113-1-17/020-1-17,578,2023-01-09 22:41
+-34.608280945,-58.418264951,11,media,Edesur,Capital Gp,Almagro,Once,R:113-1-17/113-1-17/020-1-17,680,2023-01-09 22:41
+-34.614895012,-58.413587453,11,media,Edesur,Capital Gp,Almagro,Once,R:113-1-17/113-1-17/020-1-17,725,2023-01-09 22:41
+-34.606771978,-58.416317199,11,media,Edesur,Capital Gp,Almagro,Once,R:113-1-17/113-1-17/020-1-17,47,2023-01-09 22:41
+-34.611922374,-58.414650599,11,media,Edesur,Capital Gp,Almagro,Once,R:113-1-17/113-1-17/020-1-17,139,2023-01-09 22:41
+-34.607581874,-58.415512284,11,media,Edesur,Capital Gp,Almagro,Once,R:113-1-17/113-1-17/020-1-17,1,2023-01-09 22:41
+-34.604673670,-58.421382437,11,media,Edesur,Capital Gp,Almagro,Once,R:113-1-17/113-1-17/020-1-17,36,2023-01-09 22:41
+-34.547416906,-58.555047016,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5546,378,2023-01-09 20:00
+-34.589045237,-58.424255909,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,529,2023-01-09 20:00
+-34.589453542,-58.422790588,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,615,2023-01-09 20:00
+-34.589272052,-58.423682673,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,114,2023-01-09 20:00
+-34.592631370,-58.529642160,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5542,49,2023-01-09 22:00
+-34.615428230,-58.556910562,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Ciudadela/167-Tr1/167-5544,623,Sin Datos
 -34.5369,-58.56,22,baja,Edenor,Gral San Martin,Villa Ballester,,,63,
--34.6051,-58.5529,22,baja,Edenor,3 De Febrero,Santos Lugares,,,1,
--34.6582,-58.5445,22,baja,Edenor,La Matanza,Ramos Mejia,,,19,
--34.6957,-58.5768,22,baja,Edenor,La Matanza,Isidro Casanova,,,6,
--34.5591,-58.676,22,baja,Edenor,San Miguel,Bella Vista,,,15,
+-34.6957,-58.5768,22,baja,Edenor,La Matanza,Isidro Casanova,,,7,
+-34.5591,-58.676,22,baja,Edenor,San Miguel,Bella Vista,,,23,
 -34.4488,-58.9713,22,baja,Edenor,Pilar,Fatima,,,23,
 -34.5654,-58.4937,22,baja,Edenor,Capital Federal,Villa Urquiza,,,14,
+-34.6641,-58.8199,22,baja,Edenor,Moreno,Moreno,,,4,
 -34.5797,-58.6336,22,baja,Edenor,Hurlingham,Hurlingham,,,35,
--34.4522,-58.8796,22,baja,Edenor,Pilar,Pilar,,,17,
--34.6105,-58.4114,21,baja,Edesur,Capital,Balvanera,,,22,
--34.5994,-58.4162,21,baja,Edesur,Capital,Almagro,,,4,
+-34.7391,-58.5913,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,34,
+-34.4608,-58.6813,22,baja,Edenor,Tigre,Ricardo Rojas,,,8,
+-34.7743,-58.6154,22,baja,Edenor,La Matanza,Gonzalez Catan,,,1,
+-34.4658,-58.6658,22,baja,Edenor,Tigre,El Talar,,,39,
+-34.4526,-58.8793,22,baja,Edenor,Pilar,Pilar,,,17,
+-34.6105,-58.4114,21,baja,Edesur,Capital,Balvanera,,,23,
+-34.5994,-58.4162,21,baja,Edesur,Capital,Almagro,,,5,
 -34.6266,-58.4326,21,baja,Edesur,Capital,Caballito,,,12,
 -34.6123,-58.4563,21,baja,Edesur,Capital,Caballito,,,4,
 -34.6592,-58.5059,21,baja,Edesur,Capital,Mataderos,,,5,
 -34.6374,-58.4161,21,baja,Edesur,Capital,Boedo,,,8,
--34.6583,-58.442,21,baja,Edesur,Capital,Villa Soldati,,,15,
+-34.6583,-58.442,21,baja,Edesur,Capital,Villa Soldati,,,14,
 -34.9049,-58.1817,21,baja,Edesur,Berazategui,El Pato,,,6,
--34.6045,-58.4217,21,baja,Edesur,Capital,Capital,,,23,
+-34.6045,-58.4217,21,baja,Edesur,Capital,Capital,,,27,
 -34.6372,-58.4997,21,baja,Edesur,Capital,Capital,,,15,
--34.6349,-58.4856,21,baja,Edesur,Capital,Velez Sarfield,,,8,
+-34.6349,-58.4856,21,baja,Edesur,Capital,Velez Sarfield,,,7,
+-34.7335,-58.4151,21,baja,Edesur,Lomas De Zamora,Bandfield,,,12,
+-34.6539,-58.4077,21,baja,Edesur,Capital,Nueva Pompeya,,,2,
+-34.766,-58.3591,21,baja,Edesur,Almirante Brown,San Jose,,,64,
 -34.6981,-58.4263,21,baja,Edesur,Lanus,Lanus,,,10,
 -34.6157,-58.3764,21,baja,Edesur,Capital,Monserrat,,,1,
+-34.7613,-58.3607,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,
