@@ -1,91 +1,78 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.805453057,-58.237660797,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-23/080-2-23,100,Sin Datos
 -34.804140789,-58.237591124,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-23/080-2-23,37,Sin Datos
--34.693424692,-58.371779942,11,media,Edesur,Avellaneda,Gerli A,Corina,R:075-2-21/075-2-21,410,2023-01-10 21:29
--34.696731592,-58.368136381,11,media,Edesur,Avellaneda,Gerli A,Corina,R:075-2-21/075-2-21,1,2023-01-10 21:29
--34.696726910,-58.368803670,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,253,2023-01-10 21:29
--34.695678418,-58.370755058,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,316,2023-01-10 21:29
--34.695926532,-58.371048502,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,2,2023-01-10 21:29
--34.744938546,-58.373889050,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,487,2023-01-10 22:48
--34.743698404,-58.381228711,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,214,2023-01-10 22:48
--34.750542156,-58.385617527,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,524,2023-01-10 22:48
--34.749313536,-58.379650178,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,470,2023-01-10 22:48
--34.751783109,-58.391513777,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-27/076-2-27,388,2023-01-10 22:48
--34.743551467,-58.385520158,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,558,2023-01-10 22:48
--34.752393217,-58.377454006,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,481,2023-01-10 22:48
--34.751264661,-58.386845523,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,1,2023-01-10 22:48
--34.746350926,-58.381710364,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,351,2023-01-10 22:48
--34.752277476,-58.389293310,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-27/076-2-27,475,2023-01-10 22:48
--34.753435802,-58.381137610,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,832,2023-01-10 22:48
--34.748978525,-58.372922262,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,406,2023-01-10 22:48
--34.747274998,-58.390267409,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,926,2023-01-10 22:48
--34.741919075,-58.380407579,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,712,2023-01-10 22:48
--34.746312316,-58.377461016,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,357,2023-01-10 22:48
--34.744817947,-58.382863103,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,111,2023-01-10 22:48
--34.747923416,-58.385536894,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,557,2023-01-10 22:48
--34.745304986,-58.375844827,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,83,2023-01-10 22:48
--34.745491996,-58.390271545,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,1,2023-01-10 22:48
+-34.693424692,-58.371779942,11,media,Edesur,Avellaneda,Gerli A,Corina,R:075-2-21/075-2-21,410,Sin Datos
+-34.696731592,-58.368136381,11,media,Edesur,Avellaneda,Gerli A,Corina,R:075-2-21/075-2-21,1,Sin Datos
+-34.696726910,-58.368803670,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,253,Sin Datos
+-34.695678418,-58.370755058,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,316,Sin Datos
+-34.695926532,-58.371048502,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,2,Sin Datos
+-34.744938546,-58.373889050,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,487,2023-01-11 00:46
+-34.743698404,-58.381228711,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,214,2023-01-11 00:46
+-34.750542156,-58.385617527,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,524,2023-01-11 00:46
+-34.749313536,-58.379650178,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,470,2023-01-11 00:46
+-34.751783109,-58.391513777,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-27/076-2-27,388,2023-01-11 00:46
+-34.752393217,-58.377454006,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,481,2023-01-11 00:46
+-34.751264661,-58.386845523,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,1,2023-01-11 00:46
+-34.746350926,-58.381710364,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,351,2023-01-11 00:46
+-34.752277476,-58.389293310,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Heroes De Malvinas,R:076-2-27/076-2-27,475,2023-01-11 00:46
+-34.753435802,-58.381137610,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,832,2023-01-11 00:46
+-34.748978525,-58.372922262,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,406,2023-01-11 00:46
+-34.747274998,-58.390267409,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,926,2023-01-11 00:46
+-34.741919075,-58.380407579,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,712,2023-01-11 00:46
+-34.746312316,-58.377461016,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,357,2023-01-11 00:46
+-34.744817947,-58.382863103,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,111,2023-01-11 00:46
+-34.747923416,-58.385536894,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,557,2023-01-11 00:46
+-34.745304986,-58.375844827,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,83,2023-01-11 00:46
+-34.745491996,-58.390271545,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,1,2023-01-11 00:46
 -34.610376097,-58.406039591,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-4-45/113-4-45,73,2023-01-10 23:09
 -34.610585263,-58.409087436,11,media,Edesur,Capital Gp,Balvanera Gp,Once,R:113-4-45/113-4-45,146,2023-01-10 23:09
 -34.610472164,-58.407857898,11,media,Edesur,Capital Gp,Balvanera Gp,Once,R:113-4-45/113-4-45,192,2023-01-10 23:09
 -34.610751465,-58.409071565,11,media,Edesur,Capital Gp,Balvanera Gp,Once,R:113-4-45/113-4-45,145,2023-01-10 23:09
 -34.610512378,-58.408376939,11,media,Edesur,Capital Gp,Balvanera Gp,Once,R:113-4-45/113-4-45,3,2023-01-10 23:09
 -34.609605884,-58.409015496,11,media,Edesur,Capital Gp,Balvanera Gp,Once,R:113-4-45/113-4-45,545,2023-01-10 23:09
--34.441001969,-58.895480204,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,23,2023-01-10 21:00
--34.443351912,-58.898721994,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,13,2023-01-10 21:00
--34.789896268,-58.612394233,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,366,2023-01-10 20:00
--34.787282107,-58.610627853,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,239,2023-01-10 20:00
--34.554746281,-58.464360567,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,624,2023-01-10 21:00
--34.555784551,-58.464509235,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,429,2023-01-10 21:00
--34.689492807,-58.663583731,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5525,94,2023-01-10 20:00
--34.655763873,-58.536621474,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,168,2023-01-10 23:00
--34.658962722,-58.541064462,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,302,2023-01-10 23:00
--34.655620576,-58.537575804,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,447,2023-01-10 23:00
--34.654681805,-58.532236890,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,163,2023-01-10 23:00
--34.660376617,-58.538194258,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,260,2023-01-10 23:00
--34.653314785,-58.536233151,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,398,2023-01-10 23:00
--34.659418928,-58.541667577,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,1,2023-01-10 23:00
--34.661963694,-58.536445210,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,414,2023-01-10 23:00
--34.655336944,-58.536143026,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,121,2023-01-10 23:00
--34.659168427,-58.539518634,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,136,2023-01-10 23:00
--34.657355745,-58.538855576,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,186,2023-01-10 23:00
--34.654244794,-58.533077909,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,143,2023-01-10 23:00
--34.654583049,-58.535038955,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,140,2023-01-10 23:00
--34.663194286,-58.542619321,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,334,2023-01-10 23:00
--34.663680742,-58.544610637,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,276,2023-01-10 23:00
+-34.441001969,-58.895480204,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,23,Sin Datos
+-34.443351912,-58.898721994,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,13,Sin Datos
+-34.789896268,-58.612394233,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,366,Sin Datos
+-34.787282107,-58.610627853,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,239,Sin Datos
+-34.555784551,-58.464509235,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,429,Sin Datos
+-34.689492807,-58.663583731,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5525,94,Sin Datos
+-34.658962722,-58.541064462,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:San Justo/164-Tr1/164-5543,302,Sin Datos
+-34.660376617,-58.538194258,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,260,Sin Datos
+-34.659418928,-58.541667577,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,1,Sin Datos
+-34.661963694,-58.536445210,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,414,Sin Datos
+-34.659168427,-58.539518634,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,136,Sin Datos
+-34.657355745,-58.538855576,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,186,Sin Datos
+-34.663194286,-58.542619321,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,334,Sin Datos
+-34.663680742,-58.544610637,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5543,276,Sin Datos
 -34.5049,-58.8063,22,baja,Edenor,Jose C Paz,Jose C Paz,,,10,
 -34.5795,-58.5291,22,baja,Edenor,Gral San Martin,Chacabuco,,,20,
 -34.5654,-58.4937,22,baja,Edenor,Capital Federal,Villa Urquiza,,,5,
 -34.6641,-58.7706,22,baja,Edenor,Moreno,Paso Del Rey,,,32,
--34.6396,-58.5402,22,baja,Edenor,3 De Febrero,Ciudadela,,,4,
 -34.6694,-58.7196,22,baja,Edenor,Merlo,Merlo,,,5,
 -34.6948,-58.7812,22,baja,Edenor,Merlo,Merlo,,,2,
--34.5165,-58.5426,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,22,
 -34.6166,-58.561,22,baja,Edenor,3 De Febrero,Caseros,,,5,
 -34.5268,-58.7202,22,baja,Edenor,San Miguel,San Miguel,,,65,
 -34.6881,-58.7388,22,baja,Edenor,Merlo,Merlo,,,21,
--34.4406,-58.7834,22,baja,Edenor,Pilar,Manuel Alberti,,,16,
 -34.5662,-58.7325,22,baja,Edenor,San Miguel,San Miguel,,,18,
--34.6582,-58.5445,22,baja,Edenor,La Matanza,Ramos Mejia,,,19,
--34.7535,-58.6292,22,baja,Edenor,La Matanza,Gonzalez Catan,,,6,
+-34.7535,-58.6292,22,baja,Edenor,La Matanza,Gonzalez Catan,,,41,
 -34.7525,-58.6244,22,baja,Edenor,La Matanza,Gonzalez Catan,,,22,
--34.7078,-58.5958,22,baja,Edenor,La Matanza,Isidro Casanova,,,12,
+-34.7078,-58.5958,22,baja,Edenor,La Matanza,Isidro Casanova,,,14,
 -34.6722,-58.6869,22,baja,Edenor,Merlo,San Antonio De Padua,,,25,
--34.4923,-58.8343,22,baja,Edenor,Pilar,Pte Derqui,,,26,
--34.6099,-58.9545,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,19,
 -34.464,-58.5616,22,baja,Edenor,San Fernando,Victoria,,,1,
 -34.6873,-58.577,22,baja,Edenor,La Matanza,San Justo,,,70,
 -34.5296,-58.807,22,baja,Edenor,Moreno,Cuartel V,,,13,
 -34.647,-58.8022,22,baja,Edenor,Moreno,Moreno,,,7,
+-34.487,-58.6518,22,baja,Edenor,Tigre,Don Torcuato,,,4,
 -34.4295,-58.9981,22,baja,Edenor,Pilar,Fatima,,,17,
+-34.6556,-58.5376,22,baja,Edenor,La Matanza,Ramos Mejia,,,23,
 -34.629,-58.4526,21,baja,Edesur,Capital,Flores,,,8,
 -34.6157,-58.3764,21,baja,Edesur,Capital,Monserrat,,,9,
 -34.8253,-58.4703,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,11,
--34.6074,-58.4032,21,baja,Edesur,Capital,Balvanera,,,8,
+-34.6074,-58.4032,21,baja,Edesur,Capital,Balvanera,,,10,
 -34.7559,-58.2934,21,baja,Edesur,Quilmes,Quilmes,,,13,
--34.6015,-58.4513,21,baja,Edesur,Capital,Capital,,,16,
+-34.6015,-58.4513,21,baja,Edesur,Capital,Capital,,,17,
 -34.6394,-58.362,21,baja,Edesur,Capital,La Boca,,,1,
--34.7926,-58.3271,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,16,
+-34.7926,-58.3271,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,17,
 -34.6276,-58.3762,21,baja,Edesur,Capital,Barracas,,,6,
 -34.6255,-58.4294,21,baja,Edesur,Capital,Caballito,,,1,
 -34.6578,-58.4433,21,baja,Edesur,Capital,Villa Soldati,,,6,
