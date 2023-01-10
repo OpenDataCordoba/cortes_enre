@@ -1,22 +1,83 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.607783855,-58.502554268,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-27/038-2-27,472,2023-01-10 11:22
--34.787241067,-58.249069509,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,5,2023-01-10 11:39
--34.788978208,-58.247024942,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,166,2023-01-10 11:39
--34.796132873,-58.241207809,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,399,2023-01-10 11:39
--34.794432859,-58.246016270,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,38,2023-01-10 11:39
--34.792849141,-58.236753488,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,906,2023-01-10 11:39
--34.794173774,-58.242592377,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,387,2023-01-10 11:39
--34.652564837,-58.550840982,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5515,99,2023-01-10 12:00
+-34.787241067,-58.249069509,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,5,Sin Datos
+-34.788978208,-58.247024942,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,166,Sin Datos
+-34.796132873,-58.241207809,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,399,Sin Datos
+-34.794432859,-58.246016270,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,38,Sin Datos
+-34.792849141,-58.236753488,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,906,Sin Datos
+-34.794173774,-58.242592377,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,387,Sin Datos
+-35.034282793,-58.731132241,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,43,2023-01-10 12:03
+-34.978016542,-58.673246755,11,media,Edesur,Cañuelas,A. Petion,Canuelas,R:271-1-13/271-1-13,362,2023-01-10 12:03
+-34.980840524,-58.678471108,11,media,Edesur,Cañuelas,A. Petion,Canuelas,R:271-1-13/271-1-13,37,2023-01-10 12:03
+-34.990450215,-58.687897961,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-13/271-1-13,38,2023-01-10 12:03
+-35.041736960,-58.739803615,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,411,2023-01-10 12:03
+-34.985567695,-58.691397344,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-13/271-1-13,1,2023-01-10 12:03
+-34.999252155,-58.697616919,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,32,2023-01-10 12:03
+-35.024561753,-58.726032077,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,12,2023-01-10 12:03
+-35.004498631,-58.703686878,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,11,2023-01-10 12:03
+-35.011943800,-58.704309494,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,3,2023-01-10 12:03
+-35.010664962,-58.710128861,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,13,2023-01-10 12:03
+-34.991818615,-58.694948942,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,43,2023-01-10 12:03
+-35.044444081,-58.737489690,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,35,2023-01-10 12:03
+-35.028184143,-58.726638533,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,5,2023-01-10 12:03
+-34.992832715,-58.690544577,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-13/271-1-13,25,2023-01-10 12:03
+-35.030375987,-58.726611447,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,4,2023-01-10 12:03
+-35.029550010,-58.731789464,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,15,2023-01-10 12:03
+-35.050307660,-58.743818825,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,33,2023-01-10 12:03
+-35.012750445,-58.703181906,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,17,2023-01-10 12:03
+-35.012390447,-58.706505889,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,14,2023-01-10 12:03
+-35.013261602,-58.707473250,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,10,2023-01-10 12:03
+-35.045112503,-58.743790844,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,303,2023-01-10 12:03
+-35.039354560,-58.734771667,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,225,2023-01-10 12:03
+-35.009408633,-58.707926669,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,1,2023-01-10 12:03
+-35.039872448,-58.737606718,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,322,2023-01-10 12:03
+-35.031108942,-58.727457600,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,1,2023-01-10 12:03
+-35.000606560,-58.685392508,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,10,2023-01-10 12:03
+-35.044264042,-58.739774364,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,114,2023-01-10 12:03
+-34.995150387,-58.686430524,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-13/271-1-13,1,2023-01-10 12:03
+-35.022305236,-58.723594415,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,3,2023-01-10 12:03
+-35.003219241,-58.686383727,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,34,2023-01-10 12:03
+-35.025714259,-58.733994940,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-13/271-1-13,1,2023-01-10 12:03
+-34.998762319,-58.684642509,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,65,2023-01-10 12:03
+-34.986450869,-58.688953204,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-13/271-1-13,18,2023-01-10 12:03
+-35.014946561,-58.706286978,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,3,2023-01-10 12:03
+-35.015061851,-58.705098182,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,8,2023-01-10 12:03
+-35.050659015,-58.742389163,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,5,2023-01-10 12:03
+-35.050868363,-58.742367512,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,4,2023-01-10 12:03
+-35.051263110,-58.741858343,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,11,2023-01-10 12:03
+-35.051656588,-58.743481194,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,13,2023-01-10 12:03
+-35.051489732,-58.744252177,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,13,2023-01-10 12:03
+-35.052031318,-58.743591105,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,1,2023-01-10 12:03
+-35.052409155,-58.743131623,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,1,2023-01-10 12:03
+-35.051983766,-58.743880814,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,9,2023-01-10 12:03
+-35.052319669,-58.743243681,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,8,2023-01-10 12:03
+-35.052423968,-58.744388261,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,8,2023-01-10 12:03
+-35.052582954,-58.742903585,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,44,2023-01-10 12:03
+-35.052123981,-58.743477510,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,2,2023-01-10 12:03
+-34.998729633,-58.695107346,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,33,2023-01-10 12:03
+-34.997255310,-58.693523655,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,104,2023-01-10 12:03
+-34.994444644,-58.690362127,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,6,2023-01-10 12:03
+-35.050600011,-58.739420608,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,147,2023-01-10 12:03
+-34.996150005,-58.692387972,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,126,2023-01-10 12:03
+-34.999856266,-58.689860251,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,71,2023-01-10 12:03
+-34.997568351,-58.687301762,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,74,2023-01-10 12:03
+-35.046580149,-58.740041533,11,media,Edesur,Cañuelas,Cañuelas,Canuelas,R:271-1-13/271-1-13,2,2023-01-10 12:03
+-35.017215345,-58.702055896,11,media,Edesur,Cañuelas,Zona Rural 3,Canuelas,R:271-1-13/271-1-13,2,2023-01-10 12:03
+-34.998335457,-58.696505752,11,media,Edesur,Cañuelas,V. Adriana,Canuelas,R:271-1-13/271-1-13,1,2023-01-10 12:03
+-34.652564837,-58.550840982,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5515,99,2023-01-10 09:00
+-34.733013911,-58.683155439,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5517,92,2023-01-10 13:09
+-34.461642676,-58.703604526,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,1,2023-01-10 13:08
+-34.462025177,-58.702330637,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,11,2023-01-10 13:08
 -34.6386,-58.8857,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,16,
 -34.5972,-58.4695,22,baja,Edenor,Capital Federal,La Paternal,,,16,
 -34.7337,-58.6464,22,baja,Edenor,La Matanza,Gonzalez Catan,,,7,
 -34.5747,-58.7084,22,baja,Edenor,San Miguel,Bella Vista,,,27,
 -34.7546,-58.6106,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,1,
--34.6123,-58.4563,21,baja,Edesur,Capital,Caballito,,,4,
+-34.574,-58.5181,22,baja,Edenor,Gral San Martin,Villa Maipu,,,73,
 -34.8255,-58.4722,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,
--34.6453,-58.3662,21,baja,Edesur,Capital,La Boca,,,37,
--34.7992,-58.2854,21,baja,Edesur,Florencio Varela,Florencio Varela,,,49,
+-34.6453,-58.3662,21,baja,Edesur,Capital,La Boca,,,40,
+-34.7992,-58.2854,21,baja,Edesur,Florencio Varela,Florencio Varela,,,51,
 -34.8029,-58.2832,21,baja,Edesur,Florencio Varela,Florencio Varela,,,15,
 -34.5995,-58.4409,21,baja,Edesur,Capital,Capital,,,5,
 -35.022,-58.4234,21,baja,Edesur,San Vicente,San Vicente,,,3,
--34.6968,-58.4273,21,baja,Edesur,Lanus,Lanus,,,4,
+-34.6968,-58.4273,21,baja,Edesur,Lanus,Lanus,,,6,
