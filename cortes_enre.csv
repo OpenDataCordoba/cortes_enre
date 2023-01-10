@@ -1,9 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.805453057,-58.237660797,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-23/080-2-23,100,Sin Datos
 -34.804140789,-58.237591124,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-23/080-2-23,37,Sin Datos
--34.606837734,-58.386464674,11,media,Edesur,Capital Rp,San Nicolas,Pozos,R:023-2-25/023-2-25,2,2023-01-10 22:05
--34.606865887,-58.386463472,11,media,Edesur,Capital Rp,San Nicolas,Pozos,R:023-2-25/023-2-25,448,2023-01-10 22:05
--34.607523144,-58.387775367,11,media,Edesur,Capital Rp,San Nicolas,Pozos,R:023-2-25/023-2-25,1,2023-01-10 22:05
+-34.606837734,-58.386464674,11,media,Edesur,Capital Rp,San Nicolas,Pozos,R:023-2-25/023-2-25,2,2023-01-10 22:51
+-34.606865887,-58.386463472,11,media,Edesur,Capital Rp,San Nicolas,Pozos,R:023-2-25/023-2-25,448,2023-01-10 22:51
+-34.607523144,-58.387775367,11,media,Edesur,Capital Rp,San Nicolas,Pozos,R:023-2-25/023-2-25,1,2023-01-10 22:51
 -34.844852575,-58.486112507,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-4-44/083-4-44,252,2023-01-10 20:07
 -34.843448501,-58.476261696,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-44/083-4-44,290,2023-01-10 20:07
 -34.840456910,-58.483166585,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-4-44/083-4-44,397,2023-01-10 20:07
@@ -19,70 +19,52 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.850568808,-58.482322026,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-44/083-4-44,325,2023-01-10 20:07
 -34.853746381,-58.482653215,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-44/083-4-44,153,2023-01-10 20:07
 -34.852508306,-58.486330523,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-4-44/083-4-44,12,2023-01-10 20:07
--34.682474327,-58.533579730,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,1,2023-01-10 18:00
+-34.682474327,-58.533579730,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,1,Sin Datos
 -34.691069202,-58.803758137,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,10,2023-01-10 18:00
 -34.688877510,-58.801111512,12,media,Edenor,S/D,S/D,S/D,R:Paso Del Rey/258-Tr1/258-5541,106,2023-01-10 18:00
 -34.691669505,-58.799929720,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,11,2023-01-10 18:00
 -34.694473006,-58.798890318,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,54,2023-01-10 18:00
 -34.353168973,-58.688113588,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,5,2023-01-10 18:00
--34.441001969,-58.895480204,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,23,2023-01-10 18:00
--34.443351912,-58.898721994,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,13,2023-01-10 18:00
+-34.441001969,-58.895480204,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,23,Sin Datos
+-34.443351912,-58.898721994,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,13,Sin Datos
 -34.720551567,-58.786834461,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Merlo/62-Tr1/62-5517,349,Sin Datos
--34.484105156,-58.918033548,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5515,200,Sin Datos
--34.784433998,-58.619070496,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,394,Sin Datos
--34.787336824,-58.627114586,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,34,Sin Datos
--34.787995212,-58.614678439,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,278,Sin Datos
--34.785587075,-58.626037795,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,5,Sin Datos
--34.781610457,-58.622535908,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,337,Sin Datos
--34.784460142,-58.622609090,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,55,Sin Datos
--34.780032911,-58.616998465,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,266,Sin Datos
--34.777849480,-58.614540002,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,370,Sin Datos
--34.785498056,-58.614748370,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,443,Sin Datos
--34.778047885,-58.622521105,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,103,Sin Datos
--34.777297346,-58.613905299,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,189,Sin Datos
--34.785667003,-58.617283840,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,229,Sin Datos
--34.789896268,-58.612394233,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,366,Sin Datos
--34.787837088,-58.612560227,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,216,Sin Datos
--34.787282107,-58.610627853,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,239,Sin Datos
--34.781166467,-58.618613639,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,218,Sin Datos
--34.783518684,-58.621664717,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,226,Sin Datos
--34.666123699,-58.631730662,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,63,Sin Datos
--34.656018542,-58.623537751,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,147,Sin Datos
+-34.535654819,-58.537726540,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,138,Sin Datos
+-34.546502066,-58.525987517,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,4,Sin Datos
+-34.538260973,-58.529222822,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,317,Sin Datos
+-34.537178760,-58.535133425,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,150,Sin Datos
+-34.541809100,-58.528851094,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,62,Sin Datos
+-34.541272878,-58.529226834,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,64,Sin Datos
+-34.538043265,-58.532025480,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,172,Sin Datos
+-34.537895276,-58.531041672,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,8,Sin Datos
+-34.784433998,-58.619070496,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,394,2023-01-10 18:00
+-34.787336824,-58.627114586,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,34,2023-01-10 18:00
+-34.787995212,-58.614678439,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,278,2023-01-10 18:00
+-34.785587075,-58.626037795,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,5,2023-01-10 18:00
+-34.781610457,-58.622535908,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,337,2023-01-10 18:00
+-34.784460142,-58.622609090,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,55,2023-01-10 18:00
+-34.780032911,-58.616998465,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,266,2023-01-10 18:00
+-34.777849480,-58.614540002,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,370,2023-01-10 18:00
+-34.785498056,-58.614748370,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,443,2023-01-10 18:00
+-34.778047885,-58.622521105,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,103,2023-01-10 18:00
+-34.777297346,-58.613905299,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,189,2023-01-10 18:00
+-34.785667003,-58.617283840,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,229,2023-01-10 18:00
+-34.789896268,-58.612394233,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,366,2023-01-10 18:00
+-34.787837088,-58.612560227,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,216,2023-01-10 18:00
+-34.787282107,-58.610627853,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,239,2023-01-10 18:00
+-34.781166467,-58.618613639,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,218,2023-01-10 18:00
+-34.783518684,-58.621664717,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,226,2023-01-10 18:00
 -34.669180362,-58.615886057,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,292,Sin Datos
--34.659666903,-58.624872287,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,255,Sin Datos
 -34.669866866,-58.619977517,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,265,Sin Datos
--34.662586183,-58.626722681,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,249,Sin Datos
 -34.666643408,-58.618950669,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,385,Sin Datos
--34.667007283,-58.624680234,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,496,Sin Datos
--34.669408007,-58.628966667,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,318,Sin Datos
--34.669421167,-58.621835785,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,383,Sin Datos
--34.663326947,-58.623994606,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,240,Sin Datos
--34.662615317,-58.628777317,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,85,Sin Datos
--34.667387732,-58.627384384,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,1,Sin Datos
--34.667003744,-58.626625625,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,41,Sin Datos
--34.666342448,-58.627387122,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,236,Sin Datos
 -34.668281112,-58.617021144,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr1/64-5545,121,Sin Datos
--34.554621078,-58.466075620,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,84,2023-01-10 21:00
--34.554422466,-58.465511032,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,484,2023-01-10 21:00
--34.553654581,-58.466124614,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,102,2023-01-10 21:00
--34.555254806,-58.468391587,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,555,2023-01-10 21:00
--34.555758408,-58.466698338,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,331,2023-01-10 21:00
--34.554746281,-58.464360567,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,624,2023-01-10 21:00
--34.555784551,-58.464509235,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,429,2023-01-10 21:00
--34.554712276,-58.467600950,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,279,2023-01-10 21:00
--34.555492031,-58.467977289,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,361,2023-01-10 21:00
--34.555482786,-58.467461677,12,media,Edenor,Capital Federal,Villa Urquiza,S/D,R:Saavedra/137-Tr1/137-5512,162,2023-01-10 21:00
--34.552756041,-58.469602752,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,283,2023-01-10 21:00
--34.555373726,-58.466829053,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Saavedra/137-Tr1/137-5512,86,2023-01-10 21:00
--34.553289983,-58.467186505,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,181,2023-01-10 21:00
--34.551262438,-58.469721608,12,media,Edenor,Capital Federal,Saavedra,S/D,R:Saavedra/137-Tr1/137-5512,125,2023-01-10 21:00
--34.555021697,-58.467376461,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Saavedra/137-Tr1/137-5512,217,2023-01-10 21:00
--34.554343245,-58.467678593,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Saavedra/137-Tr1/137-5512,212,2023-01-10 21:00
--34.553338867,-58.465127628,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,198,2023-01-10 21:00
--34.555806828,-58.466089644,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,195,2023-01-10 21:00
--34.555986966,-58.464878609,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,104,2023-01-10 21:00
--34.554844591,-58.465873699,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,142,2023-01-10 21:00
--34.556630857,-58.464786494,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,184,2023-01-10 21:00
+-34.554621078,-58.466075620,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,84,2023-01-10 18:00
+-34.554422466,-58.465511032,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,484,2023-01-10 18:00
+-34.553654581,-58.466124614,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,102,2023-01-10 18:00
+-34.554746281,-58.464360567,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,624,2023-01-10 18:00
+-34.555784551,-58.464509235,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,429,2023-01-10 18:00
+-34.553289983,-58.467186505,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,181,2023-01-10 18:00
+-34.553338867,-58.465127628,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,198,2023-01-10 18:00
+-34.554844591,-58.465873699,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,142,2023-01-10 18:00
 -34.5049,-58.8063,22,baja,Edenor,Jose C Paz,Jose C Paz,,,10,
 -34.7526,-58.5884,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,1,
 -34.464,-58.5616,22,baja,Edenor,San Fernando,Victoria,,,5,
@@ -96,19 +78,22 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6641,-58.7706,22,baja,Edenor,Moreno,Paso Del Rey,,,32,
 -34.6948,-58.7812,22,baja,Edenor,Merlo,Merlo,,,2,
 -34.5165,-58.5426,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,22,
--34.7526,-58.5884,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,12,
+-34.6166,-58.561,22,baja,Edenor,3 De Febrero,Caseros,,,4,
+-34.7526,-58.5884,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,10,
+-34.5268,-58.7202,22,baja,Edenor,San Miguel,San Miguel,,,65,
+-34.78,-58.6089,22,baja,Edenor,La Matanza,Gonzalez Catan,,,4,
 -34.7992,-58.2854,21,baja,Edesur,Florencio Varela,Florencio Varela,,,81,
 -34.629,-58.4526,21,baja,Edesur,Capital,Flores,,,8,
 -34.6531,-58.4335,21,baja,Edesur,Capital,Nueva Pompeya,,,25,
 -34.7535,-58.3904,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,9,
 -34.6157,-58.3764,21,baja,Edesur,Capital,Monserrat,,,8,
 -34.5953,-58.3793,21,baja,Edesur,Capital,Retiro,,,4,
--34.6224,-58.5112,21,baja,Edesur,Capital,Capital,,,11,
+-34.6224,-58.5112,21,baja,Edesur,Capital,Capital,,,12,
 -34.6249,-58.511,21,baja,Edesur,Capital,Villa Luro,,,28,
 -34.8253,-58.4703,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,10,
 -34.6074,-58.4032,21,baja,Edesur,Capital,Balvanera,,,6,
--34.736,-58.4116,21,baja,Edesur,Lomas De Zamora,Bandfield,,,21,
--34.737,-58.3692,21,baja,Edesur,Lanus,Monte Chingolo,,,27,
+-34.736,-58.4116,21,baja,Edesur,Lomas De Zamora,Bandfield,,,22,
+-34.737,-58.3692,21,baja,Edesur,Lanus,Monte Chingolo,,,28,
 -34.6954,-58.472,21,baja,Edesur,Capital,Villa Riachuelo,,,9,
 -34.8186,-58.2677,21,baja,Edesur,Florencio Varela,Florencio Varela,,,9,
 -34.7904,-58.4811,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,
