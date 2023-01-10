@@ -1,11 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.805453057,-58.237660797,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-23/080-2-23,100,Sin Datos
 -34.804140789,-58.237591124,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-23/080-2-23,37,Sin Datos
--34.693424692,-58.371779942,11,media,Edesur,Avellaneda,Gerli A,Corina,R:075-2-21/075-2-21,410,2023-01-11 00:56
 -34.696731592,-58.368136381,11,media,Edesur,Avellaneda,Gerli A,Corina,R:075-2-21/075-2-21,1,2023-01-11 00:56
--34.696726910,-58.368803670,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,253,2023-01-11 00:56
--34.695678418,-58.370755058,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,316,2023-01-11 00:56
--34.695926532,-58.371048502,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,2,2023-01-11 00:56
 -34.744938546,-58.373889050,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,487,2023-01-11 00:46
 -34.743698404,-58.381228711,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,214,2023-01-11 00:46
 -34.750542156,-58.385617527,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-27/076-2-27,524,2023-01-11 00:46
@@ -36,11 +32,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.787282107,-58.610627853,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5526,239,2023-01-10 21:00
 -34.689492807,-58.663583731,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5525,94,2023-01-10 22:00
 -34.5049,-58.8063,22,baja,Edenor,Jose C Paz,Jose C Paz,,,10,
--34.5795,-58.5291,22,baja,Edenor,Gral San Martin,Chacabuco,,,20,
--34.5654,-58.4937,22,baja,Edenor,Capital Federal,Villa Urquiza,,,5,
 -34.6641,-58.7706,22,baja,Edenor,Moreno,Paso Del Rey,,,32,
 -34.6694,-58.7196,22,baja,Edenor,Merlo,Merlo,,,5,
 -34.6948,-58.7812,22,baja,Edenor,Merlo,Merlo,,,3,
+-34.4223,-58.7058,22,baja,Edenor,Tigre,Benavidez,,,15,
+-34.5697,-58.7188,22,baja,Edenor,San Miguel,Muñiz,,,4,
 -34.6166,-58.561,22,baja,Edenor,3 De Febrero,Caseros,,,6,
 -34.5268,-58.7202,22,baja,Edenor,San Miguel,San Miguel,,,65,
 -34.6881,-58.7388,22,baja,Edenor,Merlo,Merlo,,,21,
@@ -51,21 +47,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6722,-58.6869,22,baja,Edenor,Merlo,San Antonio De Padua,,,25,
 -34.464,-58.5616,22,baja,Edenor,San Fernando,Victoria,,,1,
 -34.6873,-58.577,22,baja,Edenor,La Matanza,San Justo,,,70,
--34.6099,-58.5644,22,baja,Edenor,3 De Febrero,Caseros,,,4,
 -34.5296,-58.807,22,baja,Edenor,Moreno,Cuartel V,,,13,
--34.647,-58.8022,22,baja,Edenor,Moreno,Moreno,,,7,
 -34.487,-58.6518,22,baja,Edenor,Tigre,Don Torcuato,,,32,
 -34.4295,-58.9981,22,baja,Edenor,Pilar,Fatima,,,17,
 -34.6556,-58.5376,22,baja,Edenor,La Matanza,Ramos Mejia,,,23,
--34.4608,-58.6813,22,baja,Edenor,Tigre,Ricardo Rojas,,,8,
+-34.4608,-58.6813,22,baja,Edenor,Tigre,Ricardo Rojas,,,58,
 -34.629,-58.4526,21,baja,Edesur,Capital,Flores,,,8,
 -34.6157,-58.3764,21,baja,Edesur,Capital,Monserrat,,,9,
 -34.8253,-58.4703,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,11,
 -34.6074,-58.4032,21,baja,Edesur,Capital,Balvanera,,,10,
 -34.7559,-58.2934,21,baja,Edesur,Quilmes,Quilmes,,,13,
--34.6015,-58.4513,21,baja,Edesur,Capital,Capital,,,18,
+-34.8204,-58.2068,21,baja,Edesur,Florencio Varela,Bosques,,,10,
+-34.6015,-58.4513,21,baja,Edesur,Capital,Capital,,,19,
 -34.6394,-58.362,21,baja,Edesur,Capital,La Boca,,,1,
--34.7926,-58.3271,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,18,
+-34.7926,-58.3271,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,19,
 -34.6276,-58.3762,21,baja,Edesur,Capital,Barracas,,,6,
 -34.6255,-58.4294,21,baja,Edesur,Capital,Caballito,,,1,
 -34.6578,-58.4433,21,baja,Edesur,Capital,Villa Soldati,,,7,
