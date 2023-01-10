@@ -1,41 +1,35 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.805453057,-58.237660797,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-23/080-2-23,100,Sin Datos
 -34.804140789,-58.237591124,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-23/080-2-23,37,Sin Datos
--34.682474327,-58.533579730,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,1,2023-01-10 15:00
+-34.682474327,-58.533579730,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,1,2023-01-10 16:00
 -34.691069202,-58.803758137,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,10,2023-01-10 16:00
 -34.688877510,-58.801111512,12,media,Edenor,S/D,S/D,S/D,R:Paso Del Rey/258-Tr1/258-5541,106,2023-01-10 16:00
 -34.691669505,-58.799929720,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,11,2023-01-10 16:00
 -34.694473006,-58.798890318,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,54,2023-01-10 16:00
--34.461642676,-58.703604526,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,1,2023-01-10 15:00
--34.462025177,-58.702330637,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,11,2023-01-10 15:00
--34.353168973,-58.688113588,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,5,2023-01-10 16:00
--34.441001969,-58.895480204,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,23,2023-01-10 15:00
--34.443351912,-58.898721994,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,13,2023-01-10 15:00
--34.526105682,-58.752634290,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr2/165-5528,178,2023-01-10 16:00
--34.6787,-58.5038,22,baja,Edenor,La Matanza,La Tablada,,,42,
+-34.461642676,-58.703604526,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,1,2023-01-10 17:00
+-34.462025177,-58.702330637,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,11,2023-01-10 17:00
+-34.353168973,-58.688113588,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,5,2023-01-10 17:00
+-34.441001969,-58.895480204,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,23,2023-01-10 16:00
+-34.443351912,-58.898721994,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5537,13,2023-01-10 16:00
 -34.5049,-58.8063,22,baja,Edenor,Jose C Paz,Jose C Paz,,,10,
 -34.445,-58.9014,22,baja,Edenor,Pilar,Pilar,,,15,
 -34.464,-58.5616,22,baja,Edenor,San Fernando,Victoria,,,4,
--34.4525,-58.9058,22,baja,Edenor,Pilar,Pilar,,,17,
--34.6358,-58.8901,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,6,
+-34.4525,-58.9058,22,baja,Edenor,Pilar,Pilar,,,18,
 -34.487,-58.7274,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,9,
--34.7205,-58.7869,22,baja,Edenor,Merlo,Mariano Acosta,,,9,
+-34.7205,-58.7869,22,baja,Edenor,Merlo,Mariano Acosta,,,11,
 -34.7526,-58.5884,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,7,
 -34.6237,-58.5701,22,baja,Edenor,3 De Febrero,Caseros,,,28,
--34.5795,-58.5291,22,baja,Edenor,Gral San Martin,Chacabuco,,,6,
--34.7992,-58.2854,21,baja,Edesur,Florencio Varela,Florencio Varela,,,80,
--34.629,-58.4526,21,baja,Edesur,Capital,Flores,,,7,
--34.6968,-58.4273,21,baja,Edesur,Lanus,Lanus,,,27,
--34.7854,-58.3157,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,2,
+-34.5795,-58.5291,22,baja,Edenor,Gral San Martin,Chacabuco,,,20,
+-34.5573,-58.5767,22,baja,Edenor,Gral San Martin,Cnel Jose Zapiola,,,7,
+-34.3907,-58.7389,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,21,
+-34.8009,-58.2853,21,baja,Edesur,Florencio Varela,Florencio Varela,,,83,
+-34.629,-58.4526,21,baja,Edesur,Capital,Flores,,,8,
+-34.6531,-58.4335,21,baja,Edesur,Capital,Nueva Pompeya,,,24,
+-34.7854,-58.3157,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,3,
 -34.7535,-58.3904,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,9,
--34.6047,-58.4217,21,baja,Edesur,Capital,Capital,,,16,
--34.6013,-58.432,21,baja,Edesur,Capital,Villa Crespo,,,11,
--34.6224,-58.5112,21,baja,Edesur,Capital,Capital,,,6,
--34.622,-58.5111,21,baja,Edesur,Capital,Monte Castro,,,87,
--34.6036,-58.4449,21,baja,Edesur,Capital,Capital,,,4,
--34.7766,-58.2983,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,7,
--34.6542,-58.4314,21,baja,Edesur,Capital,Nueva Pompeya,,,2,
+-34.6047,-58.4217,21,baja,Edesur,Capital,Capital,,,17,
+-34.6224,-58.5112,21,baja,Edesur,Capital,Capital,,,7,
+-34.622,-58.5111,21,baja,Edesur,Capital,Monte Castro,,,97,
 -34.6074,-58.4032,21,baja,Edesur,Capital,Balvanera,,,6,
--34.8422,-58.4535,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,12,
--34.897,-58.5426,21,baja,Edesur,Ezeiza,Tristan Suarez,,,3,
--34.736,-58.4116,21,baja,Edesur,Lomas De Zamora,Bandfield,,,18,
+-34.8445,-58.4566,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,11,
+-34.736,-58.4116,21,baja,Edesur,Lomas De Zamora,Bandfield,,,20,
