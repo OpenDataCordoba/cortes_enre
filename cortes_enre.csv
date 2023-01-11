@@ -1,14 +1,14 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.792849141,-58.236753488,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-23/080-2-23,906,2023-01-11 14:33
 -34.717376328,-58.596525523,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5524,356,2023-01-11 12:00
--34.697001497,-58.535350662,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5553,246,2023-01-11 13:00
--34.760550903,-58.713621960,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5522,328,Sin Datos
--34.552299423,-58.808325502,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,250,Sin Datos
--34.509619664,-58.732108469,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr2/159-5525,1,2023-01-11 13:00
+-34.697001497,-58.535350662,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5553,246,2023-01-11 12:00
+-34.760550903,-58.713621960,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5522,328,2023-01-11 13:00
+-34.552299423,-58.808325502,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,250,2023-01-11 12:00
+-34.509619664,-58.732108469,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Nogues/159-Tr2/159-5525,1,2023-01-11 12:00
 -34.552582879,-58.690866554,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr2/362-5528,336,2023-01-11 12:00
 -34.551747547,-58.691635239,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr2/362-5528,106,2023-01-11 12:00
 -34.554403272,-58.691769308,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Ara San Juan/362-Tr2/362-5528,78,2023-01-11 12:00
--34.537216319,-58.596830387,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr1/266-5511,1,Sin Datos
+-34.537216319,-58.596830387,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr1/266-5511,1,2023-01-11 13:00
 -34.086999618,-58.602952932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos
 -34.074842267,-58.596057371,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,6,Sin Datos
 -34.231366305,-58.595229767,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos
@@ -285,21 +285,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.189682571,-58.407255354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos
 -34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos
 -34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos
--34.687450138,-58.956566989,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,118,2023-01-11 12:00
--34.685447994,-58.961738098,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,270,2023-01-11 12:00
--34.687404300,-58.959406398,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr3/263-5471,82,2023-01-11 12:00
--34.637201197,-58.625325830,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,63,Sin Datos
--34.635802540,-58.625508431,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,52,Sin Datos
--34.639128784,-58.624769415,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,88,Sin Datos
--34.636700036,-58.626317993,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,126,Sin Datos
--34.638073174,-58.624218913,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,253,Sin Datos
--34.636336176,-58.625504669,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,219,Sin Datos
--34.636665699,-58.628142692,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,85,Sin Datos
+-34.637201197,-58.625325830,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,63,2023-01-11 13:00
+-34.635802540,-58.625508431,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,52,2023-01-11 13:00
+-34.639128784,-58.624769415,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,88,2023-01-11 13:00
+-34.636700036,-58.626317993,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,126,2023-01-11 13:00
+-34.638073174,-58.624218913,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,253,2023-01-11 13:00
+-34.636336176,-58.625504669,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,219,2023-01-11 13:00
+-34.636665699,-58.628142692,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5537,85,2023-01-11 13:00
 -34.535414395,-58.534632813,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,472,2023-01-11 12:00
 -34.537178760,-58.535133425,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,150,2023-01-11 12:00
 -34.535654819,-58.537726540,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,138,2023-01-11 12:00
 -34.6655,-58.5338,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,18,
--34.4643,-58.747,22,baja,Edenor,Pilar,Manuel Alberti,,,5,
 -34.6482,-58.5944,22,baja,Edenor,Moron,Haedo,,,6,
 -34.5591,-58.4891,22,baja,Edenor,Capital Federal,Saavedra,,,25,
 -34.5945,-58.926,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,38,
@@ -309,7 +305,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4572,-58.9356,22,baja,Edenor,Pilar,Pilar,,,6,
 -34.7659,-58.7199,22,baja,Edenor,Merlo,Pontevedra,,,35,
 -34.5748,-58.434,22,baja,Edenor,Capital Federal,Palermo,,,14,
--34.5787,-58.7477,22,baja,Edenor,San Miguel,San Miguel,,,1,
 -34.5419,-58.5378,22,baja,Edenor,Vicente Lopez,Munro,,,45,
 -34.6278,-58.7567,22,baja,Edenor,Moreno,Paso Del Rey,,,1,
 -34.4829,-58.8378,22,baja,Edenor,Pilar,Pte Derqui,,,5,
@@ -321,6 +316,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6095,-58.405,21,baja,Edesur,Capital,Balvanera,,,25,
 -34.9086,-58.3973,21,baja,Edesur,Almirante Brown,Glew,,,5,
 -34.6489,-58.3785,21,baja,Edesur,Capital,Barracas,,,93,
--34.6239,-58.5122,21,baja,Edesur,Capital,Capital,,,72,
--34.6487,-58.4845,21,baja,Edesur,Capital,Capital,,,70,
+-34.6239,-58.5122,21,baja,Edesur,Capital,Capital,,,73,
 -34.5944,-58.5046,21,baja,Edesur,Capital,Villa Devoto,,,4,
