@@ -1,51 +1,46 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.663060220,-58.406433633,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-57/079-5-57,482,2023-01-13 21:43
--34.512050617,-58.570454573,12,media,Edenor,San Isidro,Boulogne,S/D,R:J. L. Suarez/266-Tr1/266-5548,395,Sin Datos
--34.676262687,-58.731493888,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,485,2023-01-13 20:00
--34.678732254,-58.723263240,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,101,2023-01-13 20:00
--34.673469468,-58.728921531,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,227,2023-01-13 20:00
--34.680822151,-58.727243198,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,212,2023-01-13 20:00
--34.677192490,-58.727157570,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,292,2023-01-13 20:00
--34.672111448,-58.726617003,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,267,2023-01-13 20:00
--34.674652172,-58.726506541,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,116,2023-01-13 20:00
--34.667305997,-58.741511799,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,1,2023-01-13 20:00
--34.677182939,-58.722362249,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,71,2023-01-13 20:00
--34.672391682,-58.727268636,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,74,2023-01-13 20:00
--34.674445698,-58.725805833,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,50,2023-01-13 20:00
--34.680215363,-58.724162561,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,142,2023-01-13 20:00
--34.671086693,-58.731647563,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,206,2023-01-13 20:00
--34.677422604,-58.730861157,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,59,2023-01-13 20:00
--34.675839124,-58.721594771,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,45,2023-01-13 20:00
--34.679553682,-58.720335927,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,1,2023-01-13 20:00
--34.677827658,-58.724655171,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,210,2023-01-13 20:00
--34.678315844,-58.729936736,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,154,2023-01-13 20:00
--34.672015018,-58.734488428,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,215,2023-01-13 20:00
--34.671632485,-58.729765727,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,86,2023-01-13 20:00
--34.680007422,-58.719211934,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,314,2023-01-13 20:00
--34.675934339,-58.727733193,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,107,2023-01-13 20:00
--34.471803582,-58.856417428,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,242,2023-01-13 20:00
--34.477845621,-58.851712347,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,176,2023-01-13 20:00
--34.472427010,-58.849893379,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,431,2023-01-13 20:00
--34.467300259,-58.855868381,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,477,2023-01-13 20:00
--34.475997862,-58.856579821,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,61,2023-01-13 20:00
--34.480688741,-58.858591756,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,66,2023-01-13 20:00
--34.477109037,-58.845821419,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,102,2023-01-13 20:00
--34.475336649,-58.853667025,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,129,2023-01-13 20:00
--34.467134744,-58.859943437,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,79,2023-01-13 20:00
--34.475733844,-58.848077972,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,237,2023-01-13 20:00
+-34.621079498,-58.403583469,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,340,2023-01-13 21:00
+-34.621141679,-58.404061883,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,14,2023-01-13 21:00
+-34.621389835,-58.402743541,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,17,2023-01-13 21:00
+-34.629962436,-58.408957402,11,media,Edesur,Capital Rp,Parque Patricios,Independencia,R:020-2-21/020-2-21,288,2023-01-13 21:00
+-34.628473163,-58.410744956,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,673,2023-01-13 21:00
+-34.630016258,-58.409181537,11,media,Edesur,Capital Rp,Parque Patricios,Independencia,R:020-2-21/020-2-21,84,2023-01-13 21:00
+-34.629770773,-58.410596095,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,338,2023-01-13 21:00
+-34.630397824,-58.410670395,11,media,Edesur,Capital Rp,Parque Patricios,Independencia,R:020-2-21/020-2-21,281,2023-01-13 21:00
+-34.630880905,-58.411839002,11,media,Edesur,Capital Rp,Parque Patricios,Independencia,R:020-2-21/020-2-21,139,2023-01-13 21:00
+-34.630649278,-58.411700222,11,media,Edesur,Capital Rp,Parque Patricios,Independencia,R:020-2-21/020-2-21,5,2023-01-13 21:00
+-34.631148096,-58.408859159,11,media,Edesur,Capital Rp,Parque Patricios,Independencia,R:020-2-21/020-2-21,397,2023-01-13 21:00
+-34.623485740,-58.407410890,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,783,2023-01-13 21:00
+-34.621859749,-58.405209607,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,248,2023-01-13 21:00
+-34.622830664,-58.406246994,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,187,2023-01-13 21:00
+-34.621660808,-58.404239362,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,44,2023-01-13 21:00
+-34.512050617,-58.570454573,12,media,Edenor,San Isidro,Boulogne,S/D,R:J. L. Suarez/266-Tr1/266-5548,395,2023-01-13 17:00
+-34.676262687,-58.731493888,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,485,2023-01-13 17:00
+-34.673469468,-58.728921531,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,227,2023-01-13 17:00
+-34.677192490,-58.727157570,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,292,2023-01-13 17:00
+-34.674652172,-58.726506541,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,116,2023-01-13 17:00
+-34.674445698,-58.725805833,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,50,2023-01-13 17:00
+-34.675934339,-58.727733193,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,107,2023-01-13 17:00
+-34.467300259,-58.855868381,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,477,2023-01-13 18:00
 -34.5837,-58.8838,22,baja,Edenor,Moreno,Francisco Alvarez,,,15,
 -34.6439,-58.8026,22,baja,Edenor,Moreno,Moreno,,,4,
+-34.4279,-58.5719,22,baja,Edenor,Tigre,Ciudad De Tigre,,,4,
+-34.6049,-58.5659,22,baja,Edenor,3 De Febrero,Caseros,,,4,
 -34.7769,-58.6553,22,baja,Edenor,La Matanza,Gonzalez Catan,,,6,
--34.6359,-58.3882,21,baja,Edesur,Capital,Barracas,,,46,
+-34.7519,-58.617,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
+-34.6359,-58.3882,21,baja,Edesur,Capital,Barracas,,,47,
 -35.0696,-58.2867,21,baja,Edesur,San Vicente,Domselaar,,,10,
 -35.0502,-58.7435,21,baja,Edesur,Cañuelas,Cañuelas,,,6,
 -34.6463,-58.4341,21,baja,Edesur,Capital,Nueva Pompeya,,,21,
 -34.8582,-58.3879,21,baja,Edesur,Almirante Brown,Longchamps,,,1,
 -34.6102,-58.3887,21,baja,Edesur,Capital,Monserrat,,,8,
--34.692,-58.308,21,baja,Edesur,Avellaneda,Wilde,,,90,
--34.6301,-58.4679,21,baja,Edesur,Capital,Capital,,,10,
+-34.692,-58.308,21,baja,Edesur,Avellaneda,Wilde,,,88,
+-34.6301,-58.4679,21,baja,Edesur,Capital,Capital,,,11,
 -34.756,-58.2479,21,baja,Edesur,Quilmes,Ezpeleta,,,3,
 -34.7899,-58.365,21,baja,Edesur,Almirante Brown,Marmol,,,3,
--34.6383,-58.4995,21,baja,Edesur,Capital,Villa Luro,,,7,
+-34.6383,-58.4995,21,baja,Edesur,Capital,Villa Luro,,,6,
 -34.7185,-58.4661,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,4,
 -34.6255,-58.4294,21,baja,Edesur,Capital,Caballito,,,1,
+-34.6234,-58.4065,21,baja,Edesur,Capital,San Cristobal,,,1,
+-34.6301,-58.4097,21,baja,Edesur,Capital,Parque Patricios,,,2,
