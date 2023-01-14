@@ -3,19 +3,19 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.787859703,-58.253723976,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,1,Sin Datos
 -34.792080097,-58.247293069,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,106,Sin Datos
 -34.787132119,-58.252470363,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,10,Sin Datos
--34.558169431,-58.522912952,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Tecnopolis/352-Tr2/352-5527,1,Sin Datos
--34.364639651,-58.786678335,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,1,Sin Datos
--34.439260633,-58.718449352,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr4/59-5541,1,2023-01-14 14:00
--34.454445753,-58.555979275,12,media,Edenor,San Fernando,Virreyes,S/D,R:Victoria/53-Tr1/53-5513,567,Sin Datos
+-34.558169431,-58.522912952,12,media,Edenor,Gral San Martin,Gderos De San Mart?N,S/D,R:Tecnopolis/352-Tr2/352-5527,1,2023-01-14 15:00
+-34.364639651,-58.786678335,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,1,2023-01-14 14:00
+-34.439260633,-58.718449352,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr4/59-5541,1,Sin Datos
+-34.454445753,-58.555979275,12,media,Edenor,San Fernando,Virreyes,S/D,R:Victoria/53-Tr1/53-5513,567,2023-01-14 14:00
 -34.568785750,-58.541141259,12,media,Edenor,Gral San Martin,San Andres,S/D,R:Malaver/68-Tr2/68-5524,587,2023-01-14 14:00
 -34.563308460,-58.548007681,12,media,Edenor,Gral San Martin,San Andres,S/D,R:Malaver/68-Tr2/68-5524,116,2023-01-14 14:00
 -34.567093422,-58.543210940,12,media,Edenor,Gral San Martin,San Andres,S/D,R:Malaver/68-Tr2/68-5524,188,2023-01-14 14:00
--34.388055852,-58.761408632,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5522,197,2023-01-14 14:00
--34.389145800,-58.763331433,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5522,1,2023-01-14 14:00
--34.385384021,-58.756486204,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5522,43,2023-01-14 14:00
--34.385828149,-58.766197996,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5522,58,2023-01-14 14:00
--34.838369702,-58.823803445,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,13,2023-01-14 14:00
--34.833797966,-58.822283015,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2023-01-14 14:00
+-34.388055852,-58.761408632,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5522,197,Sin Datos
+-34.389145800,-58.763331433,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5522,1,Sin Datos
+-34.385384021,-58.756486204,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5522,43,Sin Datos
+-34.385828149,-58.766197996,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5522,58,Sin Datos
+-34.838369702,-58.823803445,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,13,2023-01-14 15:00
+-34.833797966,-58.822283015,12,media,Edenor,S/D,S/D,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2023-01-14 15:00
 -34.6133,-58.9458,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,7,
 -34.7912,-58.8287,22,baja,Edenor,Marcos Paz,Marcos Paz,,,25,
 -34.4203,-58.7273,22,baja,Edenor,Escobar,Garin,,,67,
@@ -24,4 +24,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6055,-58.4044,21,baja,Edesur,Capital,Balvanera,,,17,
 -34.6089,-58.4056,21,baja,Edesur,Capital,Balvanera,,,6,
 -34.6273,-58.5115,21,baja,Edesur,Capital,Villa Luro,,,16,
--34.6163,-58.4597,21,baja,Edesur,Capital,Flores,,,26,
+-34.6163,-58.4597,21,baja,Edesur,Capital,Flores,,,28,
