@@ -1,73 +1,20 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.704590379,-58.394875253,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-1314/087-1-1314,218,2023-01-14 02:36
--34.717283211,-58.394192883,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-1314/087-1-1314,15,2023-01-14 02:36
--34.720799625,-58.394065436,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-1-1314/087-1-1314,1,2023-01-14 02:36
--34.705469280,-58.393621875,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-1314/087-1-1314,102,2023-01-14 02:36
--34.705972445,-58.394114761,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-1314/087-1-1314,90,2023-01-14 02:36
--34.711598033,-58.394452053,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-1314/087-1-1314,15,2023-01-14 02:36
 -34.611613324,-58.690055308,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr2/67-5511,221,Sin Datos
 -34.619755136,-58.699226512,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr2/67-5511,266,Sin Datos
 -34.614844272,-58.693627235,12,media,Edenor,Ituzaingo,Villa Udaondo,S/D,R:Moron/67-Tr2/67-5511,260,Sin Datos
--34.554835615,-58.838569563,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,60,2023-01-14 01:00
--34.569810100,-58.853138851,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,9,2023-01-14 01:00
--34.568321578,-58.853304692,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,2,2023-01-14 01:00
--34.569068680,-58.851817886,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,2,2023-01-14 01:00
--34.568507901,-58.841842639,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,147,2023-01-14 01:00
--34.569541176,-58.854432138,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,4,2023-01-14 01:00
--34.556306654,-58.834806605,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,32,2023-01-14 01:00
--34.561292611,-58.838870500,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,2,2023-01-14 01:00
--34.564646833,-58.839130523,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.566417353,-58.837119841,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-14 01:00
--34.567883457,-58.834725766,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.562127574,-58.840106891,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.567223311,-58.851488976,12,media,Edenor,Moreno,Trujui,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-14 01:00
--34.559257282,-58.835806137,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.569298277,-58.857648691,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.566703359,-58.862772329,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.533379732,-58.824632353,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,112,2023-01-14 01:00
--34.531841664,-58.822305037,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,42,2023-01-14 01:00
--34.530457890,-58.825263284,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,97,2023-01-14 01:00
--34.559115663,-58.836985534,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,2,2023-01-14 01:00
--34.558698343,-58.836862925,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.558273216,-58.835171453,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.568753017,-58.854014598,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-14 01:00
--34.560567537,-58.839187429,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.561195475,-58.827151931,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.558628660,-58.830955478,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,18,2023-01-14 01:00
--34.557202828,-58.828378710,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,18,2023-01-14 01:00
--34.556147947,-58.823402474,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,16,2023-01-14 01:00
--34.551811941,-58.839293937,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,65,2023-01-14 01:00
--34.567064843,-58.841527140,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,123,2023-01-14 01:00
--34.550189053,-58.824781411,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,9,2023-01-14 01:00
--34.542313250,-58.828667283,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,15,2023-01-14 01:00
--34.549918020,-58.829691106,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,4,2023-01-14 01:00
--34.546591499,-58.835629367,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,3,2023-01-14 01:00
--34.563740866,-58.851588746,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,10,2023-01-14 01:00
--34.572723010,-58.857442009,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.561075729,-58.835513842,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,9,2023-01-14 01:00
--34.556415794,-58.823131517,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.566268572,-58.845217832,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,66,2023-01-14 01:00
--34.558117765,-58.843658695,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,145,2023-01-14 01:00
--34.543243085,-58.824979642,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-14 01:00
--34.555928922,-58.846061555,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,99,2023-01-14 01:00
--34.555392002,-58.835745456,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,4,2023-01-14 01:00
--34.563359934,-58.839886458,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,3,2023-01-14 01:00
--34.534454958,-58.826244975,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,6,2023-01-14 01:00
--34.560023952,-58.853254595,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr4/263-5482,1,2023-01-14 01:00
--34.7769,-58.6553,22,baja,Edenor,La Matanza,Gonzalez Catan,,,1,
 -34.5066,-58.7827,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
 -34.7649,-58.6619,22,baja,Edenor,La Matanza,Gonzalez Catan,,,57,
 -34.6169,-58.5333,22,baja,Edenor,3 De Febrero,Jose Ingenieros,,,5,
 -34.5668,-58.4456,22,baja,Edenor,Capital Federal,Belgrano,,,15,
 -34.6463,-58.4341,21,baja,Edesur,Capital,Nueva Pompeya,,,37,
--34.8582,-58.3879,21,baja,Edesur,Almirante Brown,Longchamps,,,1,
 -34.6102,-58.3887,21,baja,Edesur,Capital,Monserrat,,,12,
 -34.756,-58.2479,21,baja,Edesur,Quilmes,Ezpeleta,,,9,
 -34.6399,-58.362,21,baja,Edesur,Capital,La Boca,,,1,
--34.6383,-58.4995,21,baja,Edesur,Capital,Villa Luro,,,19,
--34.6055,-58.4044,21,baja,Edesur,Capital,Balvanera,,,13,
--34.817,-58.4617,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,
+-34.6383,-58.4995,21,baja,Edesur,Capital,Villa Luro,,,18,
+-34.6055,-58.4044,21,baja,Edesur,Capital,Balvanera,,,14,
+-34.784,-58.4206,21,baja,Edesur,Lomas De Zamora,Temperley,,,20,
+-34.817,-58.4617,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,8,
 -34.8321,-58.2212,21,baja,Edesur,Florencio Varela,Bosques,,,2,
--34.7118,-58.3949,21,baja,Edesur,Lanus,Lanus,,,13,
--34.7006,-58.3516,21,baja,Edesur,Avellaneda,Villa Dominico,,,9,
--34.8586,-58.4031,21,baja,Edesur,Almirante Brown,Longchamps,,,1,
+-34.7006,-58.3516,21,baja,Edesur,Avellaneda,Villa Dominico,,,11,
+-34.613,-58.4805,21,baja,Edesur,Capital,Villa Sta. Rita,,,9,
+-34.7653,-58.4016,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,4,
