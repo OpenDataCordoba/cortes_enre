@@ -1,18 +1,19 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.538879159,-58.530900716,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr1/55-5543,1,2023-01-15 13:00
--34.538879159,-58.530900716,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr1/55-5543,198,2023-01-15 13:00
--34.454452470,-58.701595018,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr2/151-5521,1,Sin Datos
+-34.538879159,-58.530900716,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr1/55-5543,1,Sin Datos
+-34.538879159,-58.530900716,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr1/55-5543,198,2023-01-15 14:00
+-34.454452470,-58.701595018,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr2/151-5521,1,2023-01-15 13:00
 -34.458740803,-58.571688560,12,media,Edenor,San Fernando,Virreyes,S/D,R:San Fernando/351-Tr2/351-5524,258,2023-01-15 13:00
--34.459854159,-58.570953327,12,media,Edenor,San Fernando,Virreyes,S/D,R:San Fernando/351-Tr2/351-5524,246,2023-01-15 13:00
+-34.459854159,-58.570953327,12,media,Edenor,San Fernando,Virreyes,S/D,R:San Fernando/351-Tr2/351-5524,246,2023-01-15 14:00
 -34.460614553,-58.570398740,12,media,Edenor,San Fernando,San Fernando,S/D,R:San Fernando/351-Tr2/351-5524,147,Sin Datos
--34.648600387,-58.778651086,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,194,2023-01-15 14:00
--34.646884404,-58.780264342,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,276,2023-01-15 14:00
--34.650795036,-58.776513719,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,152,2023-01-15 14:00
--34.647184879,-58.776137887,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,258,2023-01-15 14:00
+-34.571694712,-58.440048520,12,media,Edenor,Capital Federal,Palermo,S/D,R:J. Newbery/235-Tr1/235-5517,76,2023-01-15 13:00
+-34.648600387,-58.778651086,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,194,2023-01-15 13:00
+-34.646884404,-58.780264342,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,276,2023-01-15 13:00
+-34.650795036,-58.776513719,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,152,2023-01-15 13:00
+-34.647184879,-58.776137887,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr1/258-5546,258,2023-01-15 13:00
 -34.5979,-58.7183,22,baja,Edenor,San Miguel,Bella Vista,,,20,
 -34.3273,-58.5291,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,9,
 -34.6047,-58.8098,22,baja,Edenor,Moreno,Moreno,,,10,
--34.7126,-58.6229,22,baja,Edenor,La Matanza,Rafael Castillo,,,15,
+-34.7126,-58.6229,22,baja,Edenor,La Matanza,Rafael Castillo,,,5,
 -34.4206,-58.585,22,baja,Edenor,Tigre,Ciudad De Tigre,,,127,
 -34.548,-58.7193,22,baja,Edenor,San Miguel,San Miguel,,,43,
 -34.6089,-58.4056,21,baja,Edesur,Capital,Balvanera,,,5,
@@ -21,4 +22,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8225,-58.4919,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,8,
 -34.784,-58.2531,21,baja,Edesur,Berazategui,Berazategui,,,72,
 -34.6428,-58.4931,21,baja,Edesur,Capital,Capital,,,5,
--34.6608,-58.3584,21,baja,Edesur,Avellaneda,Avellaneda,,,16,
+-34.6608,-58.3584,21,baja,Edesur,Avellaneda,Avellaneda,,,18,
+-34.6644,-58.4046,21,baja,Edesur,Avellaneda,Piñeyro,,,20,
