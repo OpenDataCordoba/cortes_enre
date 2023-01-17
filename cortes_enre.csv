@@ -1,7 +1,8 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.600337515,-58.372693223,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-29/211-3-29,115,2023-01-17 08:26
--34.600720655,-58.373170426,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-29/211-3-29,36,2023-01-17 08:26
--34.722330054,-58.619114627,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5523,122,2023-01-17 12:00
+-34.600337515,-58.372693223,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-29/211-3-29,115,Sin Datos
+-34.600720655,-58.373170426,11,media,Edesur,Capital Rp,San Nicolas,Reconquista,R:211-3-29/211-3-29,36,Sin Datos
+-34.677839274,-58.552449578,12,media,Edenor,La Matanza,San Justo,S/D,R:San Justo/164-Tr2/164-5538,51,2023-01-17 09:05
+-34.722330054,-58.619114627,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr2/451-5523,122,2023-01-17 09:00
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-17 09:00
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-17 09:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-17 09:00
@@ -454,38 +455,37 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.189682571,-58.407255354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-17 09:00
 -34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-17 09:00
 -34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-17 09:00
--34.446381060,-58.675664517,12,media,Edenor,Tigre,General Pacheco,S/D,R:Benavidez/59-Tr2/59-5527,138,Sin Datos
 -34.709,-58.5354,22,baja,Edenor,La Matanza,Ciudad Evita,,,42,
 -34.4437,-58.5566,22,baja,Edenor,San Fernando,San Fernando,,,28,
 -34.6109,-58.6306,22,baja,Edenor,Hurlingham,Hurlingham,,,18,
 -34.5686,-58.4702,22,baja,Edenor,Capital Federal,Belgrano,,,26,
--34.4467,-58.9812,22,baja,Edenor,Moron,Moron,,,11,
+-34.4467,-58.9812,22,baja,Edenor,Moron,Moron,,,15,
 -34.6484,-58.5954,22,baja,Edenor,Moron,Haedo,,,18,
--34.6616,-58.3591,21,baja,Edesur,Avellaneda,Avellaneda,,,43,
+-34.4142,-58.8328,22,baja,Edenor,Pilar,Villa Rosa,,,31,
+-34.6616,-58.3591,21,baja,Edesur,Avellaneda,Avellaneda,,,40,
 -34.7728,-58.1896,21,baja,Edesur,Berazategui,Berazategui,,,6,
--34.6358,-58.3708,21,baja,Edesur,Capital,Barracas,,,12,
+-34.6358,-58.3708,21,baja,Edesur,Capital,Barracas,,,13,
 -34.7245,-58.4269,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,14,
 -34.7693,-58.3604,21,baja,Edesur,Almirante Brown,San Jose,,,5,
 -34.679,-58.3504,21,baja,Edesur,Avellaneda,Sarandi,,,12,
--34.6455,-58.3713,21,baja,Edesur,Capital,Barracas,,,10,
+-34.6454,-58.3715,21,baja,Edesur,Capital,Barracas,,,9,
 -34.6279,-58.3784,21,baja,Edesur,Capital,Constitucion,,,6,
--34.6024,-58.3917,21,baja,Edesur,Capital,San Nicolas,,,23,
 -34.6542,-58.485,21,baja,Edesur,Capital,Mataderos,,,34,
 -34.6674,-58.47,21,baja,Edesur,Capital,Capital,,,26,
--34.6249,-58.3852,21,baja,Edesur,Capital,Constitucion,,,12,
+-34.6249,-58.3852,21,baja,Edesur,Capital,Constitucion,,,13,
 -34.6007,-58.5106,21,baja,Edesur,Capital,Villa Devoto,,,9,
 -34.8809,-58.1575,21,baja,Edesur,Berazategui,El Pato,,,6,
--34.6784,-58.3911,21,baja,Edesur,Avellaneda,Avellaneda,,,42,
+-34.6784,-58.3911,21,baja,Edesur,Avellaneda,Avellaneda,,,43,
 -34.7658,-58.402,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,10,
--34.6116,-58.5281,21,baja,Edesur,Capital,Villa Devoto,,,12,
--34.8082,-58.4251,21,baja,Edesur,Lomas De Zamora,Lavallol,,,8,
--34.6621,-58.3779,21,baja,Edesur,Avellaneda,Avellaneda,,,9,
--34.6902,-58.4737,21,baja,Edesur,Capital,Villa Riachuelo,,,33,
--34.8106,-58.4775,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,12,
+-34.6116,-58.5281,21,baja,Edesur,Capital,Villa Devoto,,,13,
+-34.8075,-58.4237,21,baja,Edesur,Lomas De Zamora,Lavallol,,,8,
+-34.6621,-58.3779,21,baja,Edesur,Avellaneda,Avellaneda,,,12,
+-34.6902,-58.4737,21,baja,Edesur,Capital,Villa Riachuelo,,,35,
+-34.8106,-58.4775,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,13,
 -34.6381,-58.4993,21,baja,Edesur,Capital,Villa Luro,,,30,
 -34.676,-58.4736,21,baja,Edesur,Capital,Villa Lugano,,,3,
--34.6051,-58.4277,21,baja,Edesur,Capital,Almagro,,,30,
+-34.6051,-58.4277,21,baja,Edesur,Capital,Almagro,,,34,
 -34.7019,-58.3818,21,baja,Edesur,Lanus,Lanus,,,10,
--34.7291,-58.4532,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,11,
--34.815,-58.2417,21,baja,Edesur,Florencio Varela,Florencio Varela,,,13,
+-34.7291,-58.4532,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,12,
+-34.815,-58.2417,21,baja,Edesur,Florencio Varela,Florencio Varela,,,18,
 -34.6,-58.4375,21,baja,Edesur,Capital,Capital,,,1,
