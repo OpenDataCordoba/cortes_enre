@@ -5,7 +5,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.671126603,-58.409073016,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-1-18/186-1-18,291,2023-01-17 19:53
 -34.668160743,-58.411980480,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-1-18/186-1-18,3,2023-01-17 19:53
 -34.768715855,-58.406511246,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-4-43/182-4-43,227,2023-01-17 19:59
--34.775115235,-58.407073655,11,media,Edesur,Lomas De Zamora,Temperley,Santa Catalina,R:182-4-43/182-4-43,504,2023-01-17 19:59
 -34.770804023,-58.405278455,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-4-43/182-4-43,280,2023-01-17 19:59
 -34.766023396,-58.404771372,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-4-43/182-4-43,373,2023-01-17 19:59
 -34.764289188,-58.403828704,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-4-43/182-4-43,29,2023-01-17 19:59
@@ -26,10 +25,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.726726011,-58.377043373,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1920/087-2-1920,363,2023-01-17 19:53
 -34.720590191,-58.383773316,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-1920/087-2-1920,458,2023-01-17 19:53
 -34.717167610,-58.526698025,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,29,2023-01-17 15:00
--34.446381060,-58.675664517,12,media,Edenor,Tigre,General Pacheco,S/D,R:Benavidez/59-Tr2/59-5536,132,2023-01-17 16:00
--34.453927259,-58.702065220,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,1,2023-01-17 16:00
--34.474807711,-58.515262836,12,media,Edenor,San Isidro,San Isidro,S/D,R:San Isidro/152-Tr2/152-5527,176,2023-01-17 15:00
--34.474737569,-58.515716776,12,media,Edenor,San Isidro,San Isidro,S/D,R:San Isidro/152-Tr2/152-5527,207,2023-01-17 15:00
+-34.453927259,-58.702065220,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr1/151-5541,1,2023-01-17 15:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-17 15:00
 -34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-17 15:00
 -34.258289540,-58.647205781,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-17 15:00
@@ -133,53 +129,51 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6336,-58.8778,22,baja,Edenor,Moreno,Francisco Alvarez,,,27,
 -34.6099,-58.9546,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,38,
 -34.772,-58.6471,22,baja,Edenor,La Matanza,Gonzalez Catan,,,26,
+-34.5674,-58.7028,22,baja,Edenor,San Miguel,Bella Vista,,,4,
 -34.5724,-58.6104,22,baja,Edenor,3 De Febrero,Pablo Podesta,,,24,
 -34.2287,-58.5846,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,8,
--34.3303,-58.7595,22,baja,Edenor,Pilar,Manzanares,,,143,
 -34.5365,-58.7068,22,baja,Edenor,San Miguel,San Miguel,,,27,
 -34.7207,-58.4895,22,baja,Edenor,La Matanza,Tapiales,,,23,
 -34.6605,-58.6314,22,baja,Edenor,Moron,Moron,,,1,
+-34.5258,-58.4748,22,baja,Edenor,Vicente Lopez,Vicente Lopez,,,49,
+-34.6149,-58.945,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,20,
 -34.629,-58.3838,21,baja,Edesur,Capital,Constitucion,,,8,
--34.6358,-58.3708,21,baja,Edesur,Capital,Barracas,,,25,
+-34.6358,-58.3708,21,baja,Edesur,Capital,Barracas,,,24,
 -34.6455,-58.3713,21,baja,Edesur,Capital,Barracas,,,13,
--34.652,-58.4836,21,baja,Edesur,Capital,Parque Avellaneda,,,52,
--34.666,-58.4699,21,baja,Edesur,Capital,Villa Lugano,,,38,
+-34.652,-58.4836,21,baja,Edesur,Capital,Parque Avellaneda,,,53,
 -34.6249,-58.3852,21,baja,Edesur,Capital,Constitucion,,,18,
--34.6368,-58.4961,21,baja,Edesur,Capital,Villa Luro,,,15,
--34.652,-58.505,21,baja,Edesur,Capital,Capital,,,3,
+-34.6366,-58.5006,21,baja,Edesur,Capital,Capital,,,20,
 -34.7549,-58.3773,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,34,
 -34.6493,-58.4915,21,baja,Edesur,Capital,Capital,,,8,
--34.8082,-58.4251,21,baja,Edesur,Lomas De Zamora,Lavallol,,,26,
--34.6623,-58.3771,21,baja,Edesur,Avellaneda,Avellaneda,,,40,
+-34.8082,-58.4251,21,baja,Edesur,Lomas De Zamora,Lavallol,,,28,
+-34.6623,-58.3771,21,baja,Edesur,Avellaneda,Avellaneda,,,38,
 -34.6902,-58.4737,21,baja,Edesur,Capital,Villa Riachuelo,,,64,
 -34.6347,-58.4599,21,baja,Edesur,Capital,Flores,,,20,
 -34.7489,-58.3455,21,baja,Edesur,Lomas De Zamora,Temperley,,,17,
 -34.8031,-58.3617,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,19,
 -34.7763,-58.3179,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,
--34.6029,-58.4485,21,baja,Edesur,Capital,Capital,,,2,
--34.6302,-58.431,21,baja,Edesur,Capital,Parque Chacabuco,,,33,
--34.5975,-58.4271,21,baja,Edesur,Capital,Villa Crespo,,,27,
+-34.5975,-58.4271,21,baja,Edesur,Capital,Villa Crespo,,,30,
 -34.7228,-58.3237,21,baja,Edesur,Quilmes,Bernal,,,1,
 -34.7059,-58.2736,21,baja,Edesur,Quilmes,Bernal,,,2,
--34.6359,-58.3882,21,baja,Edesur,Capital,Barracas,,,59,
--34.6365,-58.39,21,baja,Edesur,Capital,Barracas,,,5,
+-34.6359,-58.3882,21,baja,Edesur,Capital,Barracas,,,61,
+-34.6365,-58.39,21,baja,Edesur,Capital,Barracas,,,6,
 -34.838,-58.4618,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,8,
 -34.7908,-58.3483,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,4,
 -34.7731,-58.3699,21,baja,Edesur,Lomas De Zamora,Temperley,,,10,
 -34.6109,-58.5212,21,baja,Edesur,Capital,Villa Devoto,,,36,
 -34.6776,-58.3505,21,baja,Edesur,Avellaneda,Sarandi,,,2,
--34.7435,-58.4598,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,4,
--34.7851,-58.3141,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,30,
--34.6006,-58.4739,21,baja,Edesur,Capital,Capital,,,40,
--34.7092,-58.4334,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,14,
--34.9779,-58.3798,21,baja,Edesur,San Vicente,Alejandro Korn,,,4,
+-34.7851,-58.3141,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,34,
+-34.6003,-58.473,21,baja,Edesur,Capital,Capital,,,54,
+-34.7092,-58.4334,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,16,
+-34.9779,-58.3798,21,baja,Edesur,San Vicente,Alejandro Korn,,,6,
 -34.7543,-58.3985,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,20,
 -34.8096,-58.4781,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,
 -34.6181,-58.4272,21,baja,Edesur,Capital,Capital,,,2,
--34.7019,-58.3818,21,baja,Edesur,Lanus,Lanus,,,11,
+-34.7019,-58.3818,21,baja,Edesur,Lanus,Lanus,,,14,
 -34.6289,-58.388,21,baja,Edesur,Capital,Constitucion,,,5,
 -34.8369,-58.4588,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,
--34.7153,-58.3039,21,baja,Edesur,Quilmes,Bernal,,,9,
+-34.7153,-58.3039,21,baja,Edesur,Quilmes,Bernal,,,10,
 -34.6688,-58.3568,21,baja,Edesur,Avellaneda,Avellaneda,,,1,
 -34.8104,-58.3464,21,baja,Edesur,Almirante Brown,Claypole,,,1,
 -34.6866,-58.3532,21,baja,Edesur,Avellaneda,Sarandi,,,4,
+-34.8321,-58.2212,21,baja,Edesur,Florencio Varela,Bosques,,,1,
