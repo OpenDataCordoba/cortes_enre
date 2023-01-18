@@ -1,24 +1,13 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.619868883,-58.499693968,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,285,Sin Datos
--34.620023943,-58.501726435,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,312,Sin Datos
--34.620456095,-58.502499423,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,379,Sin Datos
--34.618493479,-58.500436487,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,2,Sin Datos
--34.820331585,-58.469085819,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,N:083-3-36/083-3-36,173,2023-01-18 06:57
--34.594403086,-58.410451308,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,716,Sin Datos
--34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,56,Sin Datos
--34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,12,Sin Datos
--34.609513050,-58.570560526,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Caseros/69-Tr1/69-5518,449,2023-01-18 04:00
--34.608702132,-58.568399326,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Caseros/69-Tr1/69-5518,252,2023-01-18 04:00
--34.609430995,-58.570114725,12,media,Edenor,3 De Febrero,Caseros,S/D,R:Caseros/69-Tr1/69-5518,125,2023-01-18 04:00
--34.5195,-58.722,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,24,
+-34.619868883,-58.499693968,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,285,2023-01-18 09:00
+-34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,56,2023-01-18 05:00
+-34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,12,2023-01-18 05:00
 -34.7027,-58.5226,22,baja,Edenor,La Matanza,La Tablada,,,4,
 -34.3961,-58.8978,22,baja,Edenor,Pilar,Villa Rosa,,,16,
--34.424,-58.7039,22,baja,Edenor,Tigre,Benavidez,,,15,
 -34.7895,-58.6209,22,baja,Edenor,La Matanza,Gonzalez Catan,,,12,
 -34.7518,-58.6967,22,baja,Edenor,Merlo,Pontevedra,,,32,
 -34.3597,-58.5742,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,5,
 -34.6732,-58.5269,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,1,
--34.7627,-58.6094,22,baja,Edenor,La Matanza,Gonzalez Catan,,,17,
 -34.5552,-58.7257,22,baja,Edenor,San Miguel,San Miguel,,,28,
 -34.6528,-58.578,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,
 -34.434,-58.7491,22,baja,Edenor,Escobar,Garin,,,16,
@@ -31,7 +20,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6093,-58.6485,22,baja,Edenor,Hurlingham,Villa Tesei,,,9,
 -34.709,-58.5354,22,baja,Edenor,La Matanza,Ciudad Evita,,,42,
 -34.7267,-58.5937,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,14,
--34.6632,-58.7739,22,baja,Edenor,Moreno,Moreno,,,4,
+-34.6632,-58.7739,22,baja,Edenor,Moreno,Moreno,,,5,
 -34.4771,-58.7086,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,17,
 -34.629,-58.3838,21,baja,Edesur,Capital,Constitucion,,,13,
 -34.6358,-58.3708,21,baja,Edesur,Capital,Barracas,,,20,
