@@ -1,20 +1,18 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.619868883,-58.499693968,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,285,2023-01-18 09:00
--34.306799009,-58.784551523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,56,2023-01-18 06:00
--34.309403200,-58.782419919,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5522,12,2023-01-18 06:00
--34.548297749,-58.745168343,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,123,2023-01-18 05:00
--34.546945293,-58.739077701,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,188,2023-01-18 05:00
--34.543827506,-58.743575823,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,128,2023-01-18 05:00
--34.549679433,-58.738324530,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,236,2023-01-18 05:00
--34.528031509,-58.754934337,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,70,2023-01-18 05:00
--34.534166040,-58.751914806,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,119,2023-01-18 05:00
--34.545474608,-58.751818817,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,221,2023-01-18 05:00
--34.542941607,-58.749053955,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,234,2023-01-18 05:00
--34.546569796,-58.742685400,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,546,2023-01-18 05:00
--34.540773000,-58.750345969,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,379,2023-01-18 05:00
--34.547592252,-58.753940555,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,553,2023-01-18 05:00
--34.544448982,-58.750903868,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,268,2023-01-18 05:00
--34.529458858,-58.755906853,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,565,2023-01-18 05:00
+-34.548297749,-58.745168343,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,123,2023-01-18 06:00
+-34.546945293,-58.739077701,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,188,2023-01-18 06:00
+-34.543827506,-58.743575823,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,128,2023-01-18 06:00
+-34.549679433,-58.738324530,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,236,2023-01-18 06:00
+-34.528031509,-58.754934337,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,70,2023-01-18 06:00
+-34.534166040,-58.751914806,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,119,2023-01-18 06:00
+-34.545474608,-58.751818817,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,221,2023-01-18 06:00
+-34.542941607,-58.749053955,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,234,2023-01-18 06:00
+-34.546569796,-58.742685400,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5518,546,2023-01-18 06:00
+-34.540773000,-58.750345969,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,379,2023-01-18 06:00
+-34.547592252,-58.753940555,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,553,2023-01-18 06:00
+-34.544448982,-58.750903868,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,268,2023-01-18 06:00
+-34.529458858,-58.755906853,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5518,565,2023-01-18 06:00
 -34.7027,-58.5226,22,baja,Edenor,La Matanza,La Tablada,,,4,
 -34.7895,-58.6209,22,baja,Edenor,La Matanza,Gonzalez Catan,,,12,
 -34.3597,-58.5742,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,5,
@@ -25,16 +23,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4265,-58.7445,22,baja,Edenor,Escobar,Garin,,,26,
 -34.5592,-58.7289,22,baja,Edenor,San Miguel,San Miguel,,,11,
 -34.5524,-58.4907,22,baja,Edenor,Capital Federal,Saavedra,,,37,
--34.7741,-58.7473,22,baja,Edenor,Merlo,Pontevedra,,,2,
 -34.6446,-58.6246,22,baja,Edenor,Moron,Moron,,,20,
 -34.6093,-58.6485,22,baja,Edenor,Hurlingham,Villa Tesei,,,9,
 -34.709,-58.5354,22,baja,Edenor,La Matanza,Ciudad Evita,,,42,
 -34.6632,-58.7739,22,baja,Edenor,Moreno,Moreno,,,5,
 -34.4771,-58.7086,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,17,
 -34.5436,-58.4728,22,baja,Edenor,Capital Federal,Nu?Ez,,,12,
+-34.5777,-58.7355,22,baja,Edenor,San Miguel,San Miguel,,,47,
 -34.629,-58.3838,21,baja,Edesur,Capital,Constitucion,,,13,
 -34.6358,-58.3708,21,baja,Edesur,Capital,Barracas,,,20,
--34.7185,-58.3713,21,baja,Edesur,Lanus,Lanus,,,28,
+-34.7185,-58.3713,21,baja,Edesur,Lanus,Lanus,,,29,
 -34.7549,-58.3773,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,56,
 -34.6073,-58.3986,21,baja,Edesur,Capital,Balvanera,,,2,
 -34.69,-58.4672,21,baja,Edesur,Capital,Capital,,,15,
@@ -47,7 +45,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.728,-58.4511,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,9,
 -34.643,-58.4744,21,baja,Edesur,Capital,Parque Avellaneda,,,1,
 -34.7451,-58.4554,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,24,
--34.8135,-58.2467,21,baja,Edesur,Florencio Varela,Florencio Varela,,,47,
+-34.8135,-58.2467,21,baja,Edesur,Florencio Varela,Florencio Varela,,,49,
 -34.6526,-58.5038,21,baja,Edesur,Capital,Capital,,,1,
 -34.7993,-58.399,21,baja,Edesur,Almirante Brown,Adrogue,,,5,
 -34.631,-58.4138,21,baja,Edesur,Capital,Boedo,,,19,
