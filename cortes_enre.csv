@@ -1,38 +1,35 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.619868883,-58.499693968,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,285,2023-01-18 04:53
--34.620023943,-58.501726435,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,312,2023-01-18 04:53
--34.620456095,-58.502499423,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,379,2023-01-18 04:53
--34.618493479,-58.500436487,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,2,2023-01-18 04:53
--34.841534364,-58.206139028,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,120,2023-01-18 05:11
--34.641457150,-58.531052163,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5546,106,2023-01-18 02:00
+-34.619868883,-58.499693968,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,285,Sin Datos
+-34.620023943,-58.501726435,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,312,Sin Datos
+-34.620456095,-58.502499423,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,379,Sin Datos
+-34.618493479,-58.500436487,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,2,Sin Datos
+-34.641457150,-58.531052163,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5546,106,2023-01-18 03:00
 -34.593318380,-58.411683142,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,1029,2023-01-18 03:00
 -34.594403086,-58.410451308,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,716,2023-01-18 03:00
 -34.593818999,-58.413543254,12,media,Edenor,Capital Federal,Palermo,S/D,R:Austria/133-Tr2/133-5534,810,2023-01-18 03:00
 -34.593957467,-58.412678030,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,701,2023-01-18 03:00
 -34.593225743,-58.409471477,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,96,2023-01-18 03:00
 -34.594180276,-58.417220185,12,media,Edenor,Capital Federal,Palermo,S/D,R:Austria/133-Tr2/133-5534,127,2023-01-18 03:00
--34.566311180,-58.561660566,12,media,Edenor,Gral San Martin,Juan Gregorio Las Heras,S/D,R:Malaver/68-Tr4/68-5548,307,Sin Datos
--34.567756560,-58.578708062,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,11,Sin Datos
--34.565044569,-58.579141855,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,5,Sin Datos
--34.571497773,-58.580574128,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5548,395,Sin Datos
--34.566623499,-58.572187329,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,106,Sin Datos
--34.564807308,-58.580442887,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,40,Sin Datos
--34.564231647,-58.580233554,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,1,Sin Datos
--34.566151633,-58.574904101,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,1,Sin Datos
--34.569362059,-58.576820288,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,301,Sin Datos
--34.565744460,-58.576131747,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,3,Sin Datos
--34.565387462,-58.577642838,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,9,Sin Datos
--34.565815610,-58.581298825,12,media,Edenor,Gral San Martin,Bo Parque San Martin,S/D,R:Malaver/68-Tr4/68-5548,1,Sin Datos
+-34.566311180,-58.561660566,12,media,Edenor,Gral San Martin,Juan Gregorio Las Heras,S/D,R:Malaver/68-Tr4/68-5548,307,2023-01-18 03:00
+-34.567756560,-58.578708062,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,11,2023-01-18 03:00
+-34.565044569,-58.579141855,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,5,2023-01-18 03:00
+-34.571497773,-58.580574128,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5548,395,2023-01-18 03:00
+-34.566623499,-58.572187329,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,106,2023-01-18 03:00
+-34.564807308,-58.580442887,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,40,2023-01-18 03:00
+-34.564231647,-58.580233554,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,1,2023-01-18 03:00
+-34.566151633,-58.574904101,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,1,2023-01-18 03:00
+-34.569362059,-58.576820288,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,301,2023-01-18 03:00
+-34.565744460,-58.576131747,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,3,2023-01-18 03:00
+-34.565387462,-58.577642838,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,9,2023-01-18 03:00
+-34.565815610,-58.581298825,12,media,Edenor,Gral San Martin,Bo Parque San Martin,S/D,R:Malaver/68-Tr4/68-5548,1,2023-01-18 03:00
 -34.5195,-58.722,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,24,
 -34.7027,-58.5226,22,baja,Edenor,La Matanza,La Tablada,,,4,
 -34.3961,-58.8978,22,baja,Edenor,Pilar,Villa Rosa,,,16,
--34.7512,-58.639,22,baja,Edenor,La Matanza,Gonzalez Catan,,,37,
 -34.424,-58.7039,22,baja,Edenor,Tigre,Benavidez,,,15,
 -34.7895,-58.6209,22,baja,Edenor,La Matanza,Gonzalez Catan,,,12,
 -34.7518,-58.6967,22,baja,Edenor,Merlo,Pontevedra,,,5,
 -34.6732,-58.5269,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,1,
 -34.7627,-58.6094,22,baja,Edenor,La Matanza,Gonzalez Catan,,,17,
--34.5524,-58.5604,22,baja,Edenor,Gral San Martin,Gral Jose Tomas Guido,,,26,
 -34.7064,-58.6192,22,baja,Edenor,La Matanza,Rafael Castillo,,,17,
 -34.5552,-58.7257,22,baja,Edenor,San Miguel,San Miguel,,,28,
 -34.6528,-58.578,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,
@@ -48,7 +45,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.709,-58.5354,22,baja,Edenor,La Matanza,Ciudad Evita,,,42,
 -34.629,-58.3838,21,baja,Edesur,Capital,Constitucion,,,13,
 -34.6358,-58.3708,21,baja,Edesur,Capital,Barracas,,,20,
--34.7185,-58.3713,21,baja,Edesur,Lanus,Lanus,,,21,
+-34.7185,-58.3713,21,baja,Edesur,Lanus,Lanus,,,26,
 -34.7549,-58.3773,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,53,
 -34.6073,-58.3986,21,baja,Edesur,Capital,Balvanera,,,2,
 -34.69,-58.4672,21,baja,Edesur,Capital,Capital,,,14,
