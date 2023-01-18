@@ -1,18 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.806971392,-58.460196329,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-28/281-2-28,454,2023-01-18 03:47
--34.803365028,-58.460476438,11,media,Edesur,Esteban Echeverria,Luis Guillon,Transradio,R:281-2-28/281-2-28,343,2023-01-18 03:47
--34.811791406,-58.462193943,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-28/281-2-28,247,2023-01-18 03:47
--34.814304936,-58.466011555,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-28/281-2-28,74,2023-01-18 03:47
--34.812515798,-58.466921518,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-28/281-2-28,467,2023-01-18 03:47
--34.619116681,-58.498687643,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,421,2023-01-18 04:53
 -34.619868883,-58.499693968,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,285,2023-01-18 04:53
--34.620936234,-58.498334559,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,465,2023-01-18 04:53
--34.622191772,-58.497631531,11,media,Edesur,Capital Gp,Velez Sarfield,Luro,R:038-2-22/038-2-22,236,2023-01-18 04:53
 -34.620023943,-58.501726435,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,312,2023-01-18 04:53
--34.618678732,-58.498266340,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,392,2023-01-18 04:53
--34.616618031,-58.497145099,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,131,2023-01-18 04:53
 -34.620456095,-58.502499423,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,379,2023-01-18 04:53
--34.615663952,-58.496568709,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,15,2023-01-18 04:53
 -34.618493479,-58.500436487,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,2,2023-01-18 04:53
 -34.855895620,-58.242730521,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,1,2023-01-18 05:11
 -34.854181113,-58.244024742,11,media,Edesur,Florencio Varela,Florencio Varela,Gutierrez Ii,R:174-2-25/174-2-25,1,2023-01-18 05:11
@@ -48,32 +37,29 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.842464034,-58.208529332,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,125,2023-01-18 05:11
 -34.842115286,-58.209430426,11,media,Edesur,Florencio Varela,Bosques,Gutierrez Ii,R:174-2-25/174-2-25,117,2023-01-18 05:11
 -34.852846480,-58.209793693,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-25/174-2-25,14,2023-01-18 05:11
--34.641457150,-58.531052163,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5546,106,2023-01-18 02:00
--34.593318380,-58.411683142,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,1029,2023-01-18 01:00
--34.594403086,-58.410451308,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,716,2023-01-18 01:00
--34.592588973,-58.409962217,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,1056,2023-01-18 01:00
--34.593818999,-58.413543254,12,media,Edenor,Capital Federal,Palermo,S/D,R:Austria/133-Tr2/133-5534,810,2023-01-18 01:00
--34.593957467,-58.412678030,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,701,2023-01-18 01:00
--34.593225743,-58.409471477,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,96,2023-01-18 01:00
--34.594180276,-58.417220185,12,media,Edenor,Capital Federal,Palermo,S/D,R:Austria/133-Tr2/133-5534,127,2023-01-18 01:00
--34.593324891,-58.410757384,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,1,2023-01-18 01:00
--34.591448907,-58.409130847,12,media,Edenor,Capital Federal,Saavedra,S/D,R:Austria/133-Tr2/133-5534,408,2023-01-18 01:00
--34.566311180,-58.561660566,12,media,Edenor,Gral San Martin,Juan Gregorio Las Heras,S/D,R:Malaver/68-Tr4/68-5548,307,2023-01-18 02:00
--34.567756560,-58.578708062,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,11,2023-01-18 02:00
--34.565044569,-58.579141855,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,5,2023-01-18 02:00
--34.571497773,-58.580574128,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5548,395,2023-01-18 02:00
--34.566623499,-58.572187329,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,106,2023-01-18 02:00
--34.564807308,-58.580442887,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,40,2023-01-18 02:00
--34.564231647,-58.580233554,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,1,2023-01-18 02:00
--34.566151633,-58.574904101,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,1,2023-01-18 02:00
--34.569362059,-58.576820288,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,301,2023-01-18 02:00
--34.565744460,-58.576131747,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,3,2023-01-18 02:00
--34.565387462,-58.577642838,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,9,2023-01-18 02:00
--34.565815610,-58.581298825,12,media,Edenor,Gral San Martin,Bo Parque San Martin,S/D,R:Malaver/68-Tr4/68-5548,1,2023-01-18 02:00
+-34.641457150,-58.531052163,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5546,106,2023-01-18 03:00
+-34.593318380,-58.411683142,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,1029,2023-01-18 02:00
+-34.594403086,-58.410451308,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,716,2023-01-18 02:00
+-34.593818999,-58.413543254,12,media,Edenor,Capital Federal,Palermo,S/D,R:Austria/133-Tr2/133-5534,810,2023-01-18 02:00
+-34.593957467,-58.412678030,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,701,2023-01-18 02:00
+-34.593225743,-58.409471477,12,media,Edenor,Capital Federal,Recoleta,S/D,R:Austria/133-Tr2/133-5534,96,2023-01-18 02:00
+-34.594180276,-58.417220185,12,media,Edenor,Capital Federal,Palermo,S/D,R:Austria/133-Tr2/133-5534,127,2023-01-18 02:00
+-34.566311180,-58.561660566,12,media,Edenor,Gral San Martin,Juan Gregorio Las Heras,S/D,R:Malaver/68-Tr4/68-5548,307,Sin Datos
+-34.567756560,-58.578708062,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,11,Sin Datos
+-34.565044569,-58.579141855,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,5,Sin Datos
+-34.571497773,-58.580574128,12,media,Edenor,Gral San Martin,Billinghurst,S/D,R:Malaver/68-Tr4/68-5548,395,Sin Datos
+-34.566623499,-58.572187329,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,106,Sin Datos
+-34.564807308,-58.580442887,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,40,Sin Datos
+-34.564231647,-58.580233554,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,1,Sin Datos
+-34.566151633,-58.574904101,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,1,Sin Datos
+-34.569362059,-58.576820288,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,301,Sin Datos
+-34.565744460,-58.576131747,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,3,Sin Datos
+-34.565387462,-58.577642838,12,media,Edenor,Gral San Martin,Cnel Jose Zapiola,S/D,R:Malaver/68-Tr4/68-5548,9,Sin Datos
+-34.565815610,-58.581298825,12,media,Edenor,Gral San Martin,Bo Parque San Martin,S/D,R:Malaver/68-Tr4/68-5548,1,Sin Datos
 -34.5195,-58.722,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,24,
 -34.7027,-58.5226,22,baja,Edenor,La Matanza,La Tablada,,,4,
 -34.3961,-58.8978,22,baja,Edenor,Pilar,Villa Rosa,,,16,
--34.7512,-58.639,22,baja,Edenor,La Matanza,Gonzalez Catan,,,25,
+-34.7512,-58.639,22,baja,Edenor,La Matanza,Gonzalez Catan,,,37,
 -34.424,-58.7039,22,baja,Edenor,Tigre,Benavidez,,,15,
 -34.7895,-58.6209,22,baja,Edenor,La Matanza,Gonzalez Catan,,,12,
 -34.7518,-58.6967,22,baja,Edenor,Merlo,Pontevedra,,,5,
@@ -84,19 +70,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5552,-58.7257,22,baja,Edenor,San Miguel,San Miguel,,,28,
 -34.6528,-58.578,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,
 -34.434,-58.7491,22,baja,Edenor,Escobar,Garin,,,16,
--34.6938,-58.4835,22,baja,Edenor,La Matanza,Villa Madero,,,37,
--34.4265,-58.7445,22,baja,Edenor,Escobar,Garin,,,5,
+-34.4265,-58.7445,22,baja,Edenor,Escobar,Garin,,,26,
 -34.5592,-58.7289,22,baja,Edenor,San Miguel,San Miguel,,,11,
 -34.5524,-58.4907,22,baja,Edenor,Capital Federal,Saavedra,,,37,
--34.763,-58.586,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,1,
 -34.5646,-58.4557,22,baja,Edenor,Capital Federal,Belgrano,,,6,
 -34.7741,-58.7473,22,baja,Edenor,Merlo,Pontevedra,,,2,
+-34.6446,-58.6246,22,baja,Edenor,Moron,Moron,,,20,
 -34.5823,-58.6077,22,baja,Edenor,3 De Febrero,Pablo Podesta,,,1,
 -34.629,-58.3838,21,baja,Edesur,Capital,Constitucion,,,13,
 -34.6358,-58.3708,21,baja,Edesur,Capital,Barracas,,,20,
--34.7185,-58.3713,21,baja,Edesur,Lanus,Lanus,,,16,
+-34.7185,-58.3713,21,baja,Edesur,Lanus,Lanus,,,19,
 -34.7549,-58.3773,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,46,
--34.7519,-58.4799,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,3,
 -34.6073,-58.3986,21,baja,Edesur,Capital,Balvanera,,,2,
 -34.69,-58.4672,21,baja,Edesur,Capital,Capital,,,14,
 -34.7059,-58.2736,21,baja,Edesur,Quilmes,Bernal,,,4,
@@ -108,19 +92,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6495,-58.5238,21,baja,Edesur,Capital,Liniers,,,7,
 -34.6301,-58.4679,21,baja,Edesur,Capital,Capital,,,5,
 -34.643,-58.4744,21,baja,Edesur,Capital,Parque Avellaneda,,,1,
--34.7451,-58.4554,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,22,
+-34.7451,-58.4554,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,23,
 -34.6526,-58.5038,21,baja,Edesur,Capital,Capital,,,1,
 -34.7993,-58.399,21,baja,Edesur,Almirante Brown,Adrogue,,,5,
 -34.631,-58.4138,21,baja,Edesur,Capital,Boedo,,,19,
--34.6394,-58.4238,21,baja,Edesur,Capital,Boedo,,,15,
--34.785,-58.3141,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,18,
--34.6394,-58.4467,21,baja,Edesur,Capital,Parque Chacabuco,,,66,
+-34.6394,-58.4238,21,baja,Edesur,Capital,Boedo,,,16,
+-34.785,-58.3141,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,21,
+-34.7628,-58.3794,21,baja,Edesur,Lomas De Zamora,Temperley,,,3,
 -34.9404,-58.3883,21,baja,Edesur,Pte Peron,Parque Las Naciones,,,28,
 -34.6749,-58.4028,21,baja,Edesur,Lanus,Valentin Alsina,,,16,
 -34.636,-58.4537,21,baja,Edesur,Capital,Flores,,,3,
 -34.6365,-58.4428,21,baja,Edesur,Capital,Parque Chacabuco,,,5,
 -34.728,-58.3743,21,baja,Edesur,Lanus,Remedios De Escalada,,,14,
--34.6683,-58.3956,21,baja,Edesur,Avellaneda,Piñeyro,,,5,
 -34.6264,-58.4703,21,baja,Edesur,Capital,Flores,,,23,
 -34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,7,
 -34.7256,-58.306,21,baja,Edesur,Quilmes,Bernal,,,19,
