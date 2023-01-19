@@ -7,27 +7,27 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.684574513,-58.329844033,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-3-38/279-3-38,504,Sin Datos
 -34.610613891,-58.375939417,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-24/126-2-24,79,2023-01-19 22:06
 -34.610635085,-58.375961862,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-24/126-2-24,2,2023-01-19 22:06
--34.361194198,-58.668420425,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,32,2023-01-19 17:00
--34.368874441,-58.659077962,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,2023-01-19 17:00
--34.370827562,-58.657705025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,2023-01-19 17:00
--34.364643795,-58.666522097,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,20,2023-01-19 17:00
--34.366048750,-58.664223654,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,65,2023-01-19 17:00
--34.382441481,-58.639407793,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,39,2023-01-19 17:00
--34.376930362,-58.652042442,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,2023-01-19 17:00
--34.364766305,-58.654516172,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,2023-01-19 17:00
+-34.361194198,-58.668420425,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,32,Sin Datos
+-34.368874441,-58.659077962,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,Sin Datos
+-34.370827562,-58.657705025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,Sin Datos
+-34.364643795,-58.666522097,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,20,Sin Datos
+-34.366048750,-58.664223654,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,65,Sin Datos
+-34.382441481,-58.639407793,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,39,Sin Datos
+-34.376930362,-58.652042442,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,Sin Datos
+-34.364766305,-58.654516172,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,Sin Datos
 -34.6098,-58.6274,22,baja,Edenor,Hurlingham,Hurlingham,,,21,
 -34.5432,-58.7118,22,baja,Edenor,San Miguel,San Miguel,,,2,
 -34.6551,-58.789,22,baja,Edenor,Moreno,Moreno,,,4,
 -34.4374,-58.5674,22,baja,Edenor,San Fernando,San Fernando,,,22,
 -34.6229,-58.5393,22,baja,Edenor,3 De Febrero,Ciudadela,,,166,
+-34.3929,-58.5639,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,11,
 -34.5454,-58.7171,22,baja,Edenor,San Miguel,San Miguel,,,24,
--34.4294,-58.7349,22,baja,Edenor,Escobar,Garin,,,32,
+-34.4294,-58.7349,22,baja,Edenor,Escobar,Garin,,,41,
 -34.525,-58.7563,22,baja,Edenor,Jose C Paz,Jose C Paz,,,5,
--34.7541,-58.6223,22,baja,Edenor,La Matanza,Gonzalez Catan,,,27,
 -34.4933,-58.7477,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,4,
--34.7391,-58.5913,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,48,
--34.4625,-58.9112,22,baja,Edenor,Pilar,Pilar,,,4,
--34.5045,-58.7736,22,baja,Edenor,Jose C Paz,Jose C Paz,,,9,
+-34.3543,-58.7866,22,baja,Edenor,Escobar,Escobar,,,20,
+-34.4625,-58.9112,22,baja,Edenor,Pilar,Pilar,,,5,
+-34.5045,-58.7736,22,baja,Edenor,Jose C Paz,Jose C Paz,,,11,
 -34.5172,-58.767,22,baja,Edenor,Jose C Paz,Jose C Paz,,,19,
 -34.6482,-58.6216,22,baja,Edenor,Moron,Moron,,,2,
 -34.5168,-58.5076,22,baja,Edenor,Vicente Lopez,Olivos,,,14,
@@ -39,28 +39,26 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5821,-58.6151,22,baja,Edenor,3 De Febrero,Ejcto Militar (Tf),,,1,
 -34.5369,-58.56,22,baja,Edenor,Gral San Martin,Villa Ballester,,,63,
 -34.6139,-58.3947,21,baja,Edesur,Capital,Balvanera,,,30,
--34.6016,-58.3886,21,baja,Edesur,Capital,San Nicolas,,,11,
+-34.6016,-58.3886,21,baja,Edesur,Capital,San Nicolas,,,12,
 -34.6371,-58.3895,21,baja,Edesur,Capital,Capital Rp,,,10,
 -34.6535,-58.3838,21,baja,Edesur,Capital,Barracas,,,3,
 -34.6262,-58.457,21,baja,Edesur,Capital,Flores,,,37,
 -34.5964,-58.3796,21,baja,Edesur,Capital,Retiro,,,14,
 -34.6607,-58.4382,21,baja,Edesur,Capital,Villa Soldati,,,65,
 -34.7291,-58.3754,21,baja,Edesur,Lanus,Monte Chingolo,,,5,
--34.6456,-58.3728,21,baja,Edesur,Capital,Barracas,,,27,
--34.6121,-58.3952,21,baja,Edesur,Capital,Balvanera,,,18,
+-34.6456,-58.3728,21,baja,Edesur,Capital,Barracas,,,37,
+-34.6121,-58.3952,21,baja,Edesur,Capital,Balvanera,,,20,
 -34.7248,-58.2478,21,baja,Edesur,Quilmes,Quilmes,,,30,
--34.6396,-58.4238,21,baja,Edesur,Capital,Boedo,,,6,
--34.6453,-58.4616,21,baja,Edesur,Capital,Flores,,,35,
+-34.6396,-58.4238,21,baja,Edesur,Capital,Boedo,,,8,
+-34.6453,-58.4616,21,baja,Edesur,Capital,Flores,,,36,
 -34.665,-58.3538,21,baja,Edesur,Avellaneda,Avellaneda,,,56,
--34.6266,-58.5232,21,baja,Edesur,Capital,Capital,,,47,
--34.7691,-58.441,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,12,
--34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,22,
--34.6697,-58.3581,21,baja,Edesur,Avellaneda,Avellaneda,,,18,
+-34.6266,-58.5232,21,baja,Edesur,Capital,Capital,,,48,
+-34.7691,-58.441,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,14,
+-34.7232,-58.3672,21,baja,Edesur,Lanus,Lanus,,,12,
+-34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,25,
+-34.6697,-58.3581,21,baja,Edesur,Avellaneda,Avellaneda,,,22,
 -34.6374,-58.5004,21,baja,Edesur,Capital,Villa Luro,,,20,
--34.6378,-58.498,21,baja,Edesur,Capital,Villa Luro,,,6,
--34.7142,-58.3467,21,baja,Edesur,Avellaneda,Villa Dominico,,,13,
--34.6397,-58.3629,21,baja,Edesur,Capital,La Boca,,,7,
--34.6298,-58.4508,21,baja,Edesur,Capital,Caballito,,,11,
--34.6539,-58.5096,21,baja,Edesur,Capital,Mataderos,,,3,
--34.6864,-58.3993,21,baja,Edesur,Lanus,Lanus,,,6,
--34.6109,-58.486,21,baja,Edesur,Capital,Capital,,,1,
+-34.6378,-58.498,21,baja,Edesur,Capital,Villa Luro,,,8,
+-34.6397,-58.3629,21,baja,Edesur,Capital,La Boca,,,8,
+-34.6304,-58.4502,21,baja,Edesur,Capital,Caballito,,,13,
+-34.6864,-58.3993,21,baja,Edesur,Lanus,Lanus,,,7,
