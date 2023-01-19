@@ -1,15 +1,12 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.616166717,-58.378705525,11,media,Edesur,Capital Rp,Monserrat,Perez Galdos,R:236-1-17/236-1-17,356,2023-01-19 01:03
 -34.618255804,-58.379919259,11,media,Edesur,Capital Rp,Constitucion,Perez Galdos,R:236-1-17/236-1-17,1,2023-01-19 01:03
--34.666464458,-58.369022881,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-3-34/279-3-34,340,2023-01-19 04:23
--34.663840024,-58.372134335,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-3-34/279-3-34,357,2023-01-19 04:23
 -34.639936961,-58.388717979,11,media,Edesur,Capital Rp,Barracas,Patricios,R:015-2-23/015-2-23,102,2023-01-19 03:07
 -34.640961745,-58.387821584,11,media,Edesur,Capital Rp,Barracas,Patricios,R:015-2-23/015-2-23,61,2023-01-19 03:07
 -34.640195922,-58.394260320,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-23/015-2-23,1,2023-01-19 03:07
 -34.642069718,-58.388830487,11,media,Edesur,Capital Rp,Barracas,Patricios,R:015-2-23/015-2-23,178,2023-01-19 03:07
 -34.640369117,-58.395552977,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-23/015-2-23,146,2023-01-19 03:07
--34.530064415,-58.511989245,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr1/55-5513,360,2023-01-19 00:00
--34.6869,-58.682,22,baja,Edenor,Merlo,Libertad,,,114,
+-34.530064415,-58.511989245,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr1/55-5513,360,2023-01-19 01:00
 -34.6032,-58.5316,22,baja,Edenor,3 De Febrero,Saenz Pe?A,,,27,
 -34.4277,-58.6992,22,baja,Edenor,Tigre,Benavidez,,,1,
 -34.4859,-58.5077,22,baja,Edenor,San Isidro,Martinez,,,20,
@@ -18,11 +15,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5196,-58.7221,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,20,
 -34.3847,-58.742,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,40,
 -34.6204,-58.9722,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,26,
--34.6344,-58.4605,21,baja,Edesur,Capital,Capital,,,21,
+-34.6344,-58.4605,21,baja,Edesur,Capital,Capital,,,22,
 -34.6283,-58.5026,21,baja,Edesur,Capital,Capital,,,28,
 -34.8092,-58.2558,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
--34.6372,-58.3895,21,baja,Edesur,Capital,Barracas,,,9,
+-34.6372,-58.3895,21,baja,Edesur,Capital,Barracas,,,10,
 -34.6264,-58.4572,21,baja,Edesur,Capital,Flores,,,30,
+-34.676,-58.3717,21,baja,Edesur,Avellaneda,Gerli,,,7,
 -34.8373,-58.4618,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,3,
 -34.6858,-58.3997,21,baja,Edesur,Lanus,Valentin Alsina,,,11,
 -34.6007,-58.4388,21,baja,Edesur,Capital,Villa Crespo,,,2,
@@ -31,10 +29,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6296,-58.517,21,baja,Edesur,Capital,Capital,,,5,
 -34.6312,-58.385,21,baja,Edesur,Capital,Constitucion,,,7,
 -34.8343,-58.2216,21,baja,Edesur,Florencio Varela,Bosques,,,12,
--34.6652,-58.4045,21,baja,Edesur,Lanus,Valentin Alsina,,,56,
--34.6651,-58.3994,21,baja,Edesur,Avellaneda,Avellaneda,,,12,
--34.7191,-58.3691,21,baja,Edesur,Lanus,Lanus,,,13,
--34.6632,-58.3778,21,baja,Edesur,Avellaneda,Avellaneda,,,13,
--34.6691,-58.395,21,baja,Edesur,Avellaneda,Avellaneda,,,4,
--34.6729,-58.4055,21,baja,Edesur,Lanus,Valentin Alsina,,,12,
--34.6748,-58.393,21,baja,Edesur,Avellaneda,Piñeyro,,,15,
+-34.6652,-58.4045,21,baja,Edesur,Lanus,Valentin Alsina,,,62,
+-34.6651,-58.3994,21,baja,Edesur,Avellaneda,Avellaneda,,,15,
+-34.7191,-58.3691,21,baja,Edesur,Lanus,Lanus,,,14,
+-34.6782,-58.3818,21,baja,Edesur,Avellaneda,Gerli,,,16,
+-34.6632,-58.3778,21,baja,Edesur,Avellaneda,Avellaneda,,,16,
+-34.668,-58.3812,21,baja,Edesur,Avellaneda,Avellaneda,,,5,
+-34.6691,-58.395,21,baja,Edesur,Avellaneda,Avellaneda,,,5,
+-34.6729,-58.4055,21,baja,Edesur,Lanus,Valentin Alsina,,,21,
+-34.6809,-58.3753,21,baja,Edesur,Avellaneda,Avellaneda,,,10,
+-34.6731,-58.3895,21,baja,Edesur,Avellaneda,Avellaneda,,,19,
+-34.667,-58.3851,21,baja,Edesur,Avellaneda,Avellaneda,,,8,
+-34.6726,-58.3911,21,baja,Edesur,Avellaneda,Piñeyro,,,6,
+-34.6748,-58.393,21,baja,Edesur,Avellaneda,Piñeyro,,,26,
