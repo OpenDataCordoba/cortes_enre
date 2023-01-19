@@ -1,6 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.618255804,-58.379919259,11,media,Edesur,Capital Rp,Constitucion,Perez Galdos,R:236-1-17/236-1-17,1,2023-01-19 17:51
--34.640369117,-58.395552977,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-23/015-2-23,146,2023-01-19 17:51
+-34.618255804,-58.379919259,11,media,Edesur,Capital Rp,Constitucion,Perez Galdos,R:236-1-17/236-1-17,1,2023-01-19 19:43
+-34.640369117,-58.395552977,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-23/015-2-23,146,2023-01-19 19:43
 -34.797170969,-58.316265309,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-4-46/189-4-46,7,Sin Datos
 -34.794155830,-58.309459505,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-4-46/189-4-46,56,Sin Datos
 -34.794737442,-58.310544106,11,media,Edesur,Florencio Varela,Florencio Varela,Rafael Calzada,R:189-4-46/189-4-46,13,Sin Datos
@@ -52,105 +52,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.751159822,-58.357868624,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-1-14/184-1-14,10,2023-01-19 17:00
 -34.686589479,-58.328050159,11,media,Edesur,Avellaneda,Villa Dominico,9 De Julio,R:279-3-38/279-3-38,830,2023-01-19 14:44
 -34.684574513,-58.329844033,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-3-38/279-3-38,504,2023-01-19 14:44
--34.968416610,-58.729078542,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,90,2023-01-19 15:56
--34.956715021,-58.733681759,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,104,2023-01-19 15:56
--34.951618312,-58.740308465,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,27,2023-01-19 15:56
--34.948509939,-58.744419409,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,20,2023-01-19 15:56
--34.952256450,-58.748938497,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,25,2023-01-19 15:56
--35.003222062,-58.747120385,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,9,2023-01-19 15:56
--34.973107616,-58.738675759,11,media,Edesur,Cañuelas,Peluffo,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.933530939,-58.721795134,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,8,2023-01-19 15:56
--34.931525148,-58.721606921,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,41,2023-01-19 15:56
--34.988545467,-58.746153635,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.997457652,-58.747396829,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.942416358,-58.724841564,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,5,2023-01-19 15:56
--34.949009983,-58.727457585,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.936941482,-58.722675970,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.973045543,-58.722979123,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,50,2023-01-19 15:56
--35.010436986,-58.747622143,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.980771700,-58.742446184,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.966496025,-58.735599053,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.958658988,-58.731881936,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,169,2023-01-19 15:56
--34.929853398,-58.715070636,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,4,2023-01-19 15:56
--34.960657355,-58.689635414,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,3,2023-01-19 15:56
--34.963808071,-58.696914250,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,16,2023-01-19 15:56
--34.930157372,-58.704558612,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,26,2023-01-19 15:56
--34.929505949,-58.710815030,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,19,2023-01-19 15:56
--34.928148831,-58.717326590,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,8,2023-01-19 15:56
--34.928166925,-58.721276176,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,13,2023-01-19 15:56
--34.925036563,-58.712714072,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,19,2023-01-19 15:56
--34.939337290,-58.703367047,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,10,2023-01-19 15:56
--34.969904733,-58.711637525,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.934309377,-58.712173341,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,8,2023-01-19 15:56
--34.936839083,-58.732423855,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-1-11/271-1-11,173,2023-01-19 15:56
--35.018657973,-58.746844983,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--35.020247204,-58.747919964,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,5,2023-01-19 15:56
--34.939614465,-58.733625439,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-1-11/271-1-11,172,2023-01-19 15:56
--34.936843319,-58.702080102,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,28,2023-01-19 15:56
--34.956681895,-58.730901254,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,110,2023-01-19 15:56
--34.958174970,-58.726782028,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,89,2023-01-19 15:56
--34.922679006,-58.703948769,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,18,2023-01-19 15:56
--34.995167491,-58.747501844,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.942811478,-58.728173036,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-1-11/271-1-11,125,2023-01-19 15:56
--34.932784622,-58.708367519,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,4,2023-01-19 15:56
--34.921523453,-58.708909489,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,15,2023-01-19 15:56
--34.924129637,-58.707465348,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,16,2023-01-19 15:56
--34.964646977,-58.734775695,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,34,2023-01-19 15:56
--34.965684225,-58.717093770,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,10,2023-01-19 15:56
--34.954071751,-58.683838312,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.959319506,-58.692455858,11,media,Edesur,Cañuelas,Vissir,Canuelas,R:271-1-11/271-1-11,3,2023-01-19 15:56
--34.953590422,-58.694827513,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.937456722,-58.693822545,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.952329997,-58.680282545,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.946120125,-58.719092557,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.925132717,-58.707901423,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,8,2023-01-19 15:56
--34.961702202,-58.688005682,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.927397567,-58.713987982,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,13,2023-01-19 15:56
--34.951244361,-58.750436165,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,9,2023-01-19 15:56
--34.954120177,-58.716615462,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.953387645,-58.750284772,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,15,2023-01-19 15:56
--34.933511651,-58.692923086,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.968223722,-58.741176243,11,media,Edesur,Cañuelas,Santa Rosa,Canuelas,R:271-1-11/271-1-11,64,2023-01-19 15:56
--34.939666349,-58.727773766,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-1-11/271-1-11,101,2023-01-19 15:56
--34.926677433,-58.705552926,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,37,2023-01-19 15:56
--34.923074692,-58.710989922,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,8,2023-01-19 15:56
--34.938307424,-58.703967261,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,9,2023-01-19 15:56
--34.931020053,-58.701044022,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,5,2023-01-19 15:56
--34.934350785,-58.707119763,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,6,2023-01-19 15:56
--34.924014576,-58.710215835,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.942394238,-58.704159804,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,16,2023-01-19 15:56
--34.962245822,-58.724623113,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,306,2023-01-19 15:56
--34.964492616,-58.727127847,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,270,2023-01-19 15:56
--34.960153288,-58.732634920,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,136,2023-01-19 15:56
--34.928873378,-58.701232506,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.924828110,-58.708873471,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,5,2023-01-19 15:56
--34.934312938,-58.702754835,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,14,2023-01-19 15:56
--34.937140626,-58.717299264,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.925490587,-58.709218991,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.925251700,-58.709422706,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.925948536,-58.711139577,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,8,2023-01-19 15:56
--34.931564625,-58.707113551,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-1-11/271-1-11,3,2023-01-19 15:56
--34.963854429,-58.721155011,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,106,2023-01-19 15:56
--34.952376533,-58.730867150,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,5,2023-01-19 15:56
--34.950727261,-58.731911279,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.949830078,-58.734036856,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.948843380,-58.736437305,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,6,2023-01-19 15:56
--34.948065613,-58.735576669,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-1-11/271-1-11,2,2023-01-19 15:56
--34.980047244,-58.698652410,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-1-11/271-1-11,1,2023-01-19 15:56
--34.653492158,-58.511055866,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-1-13/043-1-13,533,2023-01-19 17:54
--34.670592713,-59.051195887,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2023-01-19 14:00
--34.361194198,-58.668420425,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,32,2023-01-19 14:00
--34.368874441,-58.659077962,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,2023-01-19 14:00
--34.370827562,-58.657705025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,2023-01-19 14:00
--34.364643795,-58.666522097,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,20,2023-01-19 14:00
--34.366048750,-58.664223654,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,65,2023-01-19 14:00
--34.382441481,-58.639407793,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,39,2023-01-19 14:00
--34.376930362,-58.652042442,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,2023-01-19 14:00
--34.364766305,-58.654516172,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,2023-01-19 14:00
+-34.653492158,-58.511055866,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-1-13/043-1-13,533,2023-01-19 19:43
+-34.361194198,-58.668420425,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,32,Sin Datos
+-34.368874441,-58.659077962,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,Sin Datos
+-34.370827562,-58.657705025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,Sin Datos
+-34.364643795,-58.666522097,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,20,Sin Datos
+-34.366048750,-58.664223654,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,65,Sin Datos
+-34.382441481,-58.639407793,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,39,Sin Datos
+-34.376930362,-58.652042442,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,Sin Datos
+-34.364766305,-58.654516172,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,Sin Datos
 -34.6627,-58.5929,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,14,
 -34.4433,-58.8903,22,baja,Edenor,Pilar,Villa Rosa,,,8,
 -34.3045,-58.7727,22,baja,Edenor,Escobar,Escobar,,,8,
--34.6237,-58.9085,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,29,
 -34.6098,-58.6274,22,baja,Edenor,Hurlingham,Hurlingham,,,21,
 -34.5432,-58.7118,22,baja,Edenor,San Miguel,San Miguel,,,2,
 -34.6776,-58.5618,22,baja,Edenor,La Matanza,San Justo,,,30,
@@ -159,8 +72,28 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4374,-58.5674,22,baja,Edenor,San Fernando,San Fernando,,,14,
 -34.663,-58.5901,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,1,
 -34.3444,-58.7888,22,baja,Edenor,Escobar,Escobar,,,15,
--34.6462,-58.4617,21,baja,Edesur,Capital,Flores,,,39,
+-34.5454,-58.7171,22,baja,Edenor,San Miguel,San Miguel,,,24,
+-34.6139,-58.3947,21,baja,Edesur,Capital,Balvanera,,,27,
+-34.6371,-58.3895,21,baja,Edesur,Capital,Capital Rp,,,10,
+-34.6535,-58.3838,21,baja,Edesur,Capital,Barracas,,,3,
+-34.6262,-58.457,21,baja,Edesur,Capital,Flores,,,38,
+-34.6548,-58.5238,21,baja,Edesur,Capital,Capital,,,18,
+-34.5964,-58.3796,21,baja,Edesur,Capital,Retiro,,,14,
+-34.6607,-58.4382,21,baja,Edesur,Capital,Villa Soldati,,,58,
+-34.6775,-58.3761,21,baja,Edesur,Avellaneda,Gerli,,,11,
+-34.7317,-58.3815,21,baja,Edesur,Lanus,Remedios De Escalada,,,20,
+-34.6456,-58.3728,21,baja,Edesur,Capital,Barracas,,,25,
+-34.6296,-58.517,21,baja,Edesur,Capital,Capital,,,9,
+-34.6121,-58.3952,21,baja,Edesur,Capital,Balvanera,,,14,
+-34.7248,-58.2478,21,baja,Edesur,Quilmes,Quilmes,,,25,
+-34.6846,-58.4018,21,baja,Edesur,Lanus,Lanus,,,40,
+-34.7748,-58.2886,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,12,
+-34.6453,-58.4616,21,baja,Edesur,Capital,Flores,,,33,
+-34.665,-58.3538,21,baja,Edesur,Avellaneda,Avellaneda,,,20,
+-34.6459,-58.4599,21,baja,Edesur,Capital,Capital,,,41,
 -34.6154,-58.4276,21,baja,Edesur,Capital,Almagro,,,12,
 -34.8204,-58.2067,21,baja,Edesur,Florencio Varela,Bosques,,,2,
 -34.7099,-58.375,21,baja,Edesur,Lanus,Lanus,,,15,
 -34.6493,-58.5193,21,baja,Edesur,Capital,Capital,,,10,
+-34.6375,-58.499,21,baja,Edesur,Capital,Capital,,,4,
+-34.6694,-58.3727,21,baja,Edesur,Avellaneda,Avellaneda,,,4,
