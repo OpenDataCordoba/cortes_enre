@@ -1,19 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.618255804,-58.379919259,11,media,Edesur,Capital Rp,Constitucion,Perez Galdos,R:236-1-17/236-1-17,1,2023-01-19 07:03
 -34.640369117,-58.395552977,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-23/015-2-23,146,2023-01-19 06:15
--34.680973454,-58.434760332,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-13/089-1-13,193,2023-01-19 03:48
--34.670106253,-58.421901384,11,media,Edesur,Lanus,Valentin Alsina,Alsina,R:089-1-13/089-1-13,237,2023-01-19 03:48
--34.668510019,-58.427832024,11,media,Edesur,Lanus,Valentin Alsina,Alsina,R:089-1-13/089-1-13,78,2023-01-19 03:48
--34.668016124,-58.420219567,11,media,Edesur,Lanus,Valentin Alsina,Alsina,R:089-1-13/089-1-13,5,2023-01-19 03:48
--34.670606595,-58.420445333,11,media,Edesur,Lanus,Valentin Alsina,Alsina,R:089-1-13/089-1-13,107,2023-01-19 03:48
--34.667137957,-58.421365367,11,media,Edesur,Lanus,Valentin Alsina,Alsina,R:089-1-13/089-1-13,4,2023-01-19 03:48
--34.680295879,-58.434247266,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-13/089-1-13,75,2023-01-19 03:48
--34.677745622,-58.432337943,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-13/089-1-13,18,2023-01-19 03:48
--34.678925117,-58.430683741,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-13/089-1-13,50,2023-01-19 03:48
--34.676025749,-58.432744427,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-13/089-1-13,120,2023-01-19 03:48
--34.680949378,-58.436613317,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-13/089-1-13,2,2023-01-19 03:48
--34.672878553,-58.427493699,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-13/089-1-13,1,2023-01-19 03:48
--34.678330637,-58.431109053,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-1-13/089-1-13,3,2023-01-19 03:48
 -34.691224415,-58.448181234,11,media,Edesur,Lomas De Zamora,Villa Fiorito,S/D,R:,14,2023-01-19 05:42
 -34.682954110,-58.440328348,11,media,Edesur,Lanus,Lanus Oeste,S/D,R:,7,2023-01-19 05:42
 -34.682557707,-58.434647198,11,media,Edesur,Lanus,Lanus Oeste,S/D,R:,602,2023-01-19 05:42
@@ -25,12 +12,64 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.652623062,-58.363126297,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-27/279-2-27,5,2023-01-19 06:14
 -34.651872719,-58.359927395,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-27/279-2-27,5,2023-01-19 06:14
 -34.649446211,-58.362563327,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-27/279-2-27,7,2023-01-19 06:14
+-34.398842031,-58.645184682,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,59,2023-01-19 07:00
+-34.398305112,-58.647334006,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,148,2023-01-19 07:00
+-34.394142108,-58.641791413,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,30,2023-01-19 07:00
+-34.395041034,-58.643306815,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,46,2023-01-19 07:00
+-34.395231621,-58.645887985,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,176,2023-01-19 07:00
+-34.392397326,-58.642816390,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,56,2023-01-19 07:00
+-34.391811373,-58.645280615,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,118,2023-01-19 07:00
+-34.390976699,-58.646101879,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,1,2023-01-19 07:00
+-34.361194198,-58.668420425,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,32,2023-01-19 07:00
+-34.396298999,-58.645973148,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,62,2023-01-19 07:00
+-34.397400978,-58.644125692,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,240,2023-01-19 07:00
+-34.401585144,-58.647135637,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,23,2023-01-19 07:00
+-34.396684079,-58.646047305,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,25,2023-01-19 07:00
+-34.389543424,-58.643546192,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,160,2023-01-19 07:00
+-34.384290924,-58.639718154,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,23,2023-01-19 07:00
+-34.385104728,-58.637654748,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,32,2023-01-19 07:00
+-34.389743007,-58.641002459,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,49,2023-01-19 07:00
+-34.388193263,-58.637485278,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,61,2023-01-19 07:00
+-34.379413518,-58.636287780,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,22,2023-01-19 07:00
+-34.376017177,-58.638052812,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,2023-01-19 07:00
+-34.363339527,-58.639959808,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,14,2023-01-19 07:00
+-34.357141255,-58.646451048,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,2023-01-19 07:00
+-34.368874441,-58.659077962,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,2023-01-19 07:00
+-34.370827562,-58.657705025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,2023-01-19 07:00
+-34.352340229,-58.649847479,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,2023-01-19 07:00
+-34.364643795,-58.666522097,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,20,2023-01-19 07:00
+-34.366048750,-58.664223654,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,65,2023-01-19 07:00
+-34.382441481,-58.639407793,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,39,2023-01-19 07:00
+-34.344955696,-58.651811420,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,30,2023-01-19 07:00
+-34.331478109,-58.653480303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,14,2023-01-19 07:00
+-34.318466248,-58.649647619,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,25,2023-01-19 07:00
+-34.307268978,-58.644044069,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,2023-01-19 07:00
+-34.299668872,-58.641179720,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,8,2023-01-19 07:00
+-34.376930362,-58.652042442,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,2023-01-19 07:00
+-34.286030875,-58.647452348,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,3,2023-01-19 07:00
+-34.279652899,-58.649720577,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,20,2023-01-19 07:00
+-34.271975440,-58.653414997,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,11,2023-01-19 07:00
+-34.364766305,-58.654516172,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,2023-01-19 07:00
+-34.392909412,-58.640925211,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,8,2023-01-19 07:00
+-34.333734713,-58.658002034,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,10,2023-01-19 07:00
+-34.399104127,-58.648343809,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,387,2023-01-19 07:00
+-34.383207565,-58.634495971,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,1,2023-01-19 07:00
+-34.369163450,-58.641493089,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,5,2023-01-19 07:00
+-34.358542909,-58.648903434,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,29,2023-01-19 07:00
+-34.298163978,-58.644139960,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,34,2023-01-19 07:00
+-34.276144712,-58.653553859,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,2023-01-19 07:00
+-34.285277535,-58.650786473,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,7,2023-01-19 07:00
+-34.353846611,-58.650886606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,2023-01-19 07:00
+-34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,8,2023-01-19 07:00
+-34.326418161,-58.655226207,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,15,2023-01-19 07:00
+-34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,2023-01-19 07:00
 -34.6032,-58.5316,22,baja,Edenor,3 De Febrero,Saenz Pe?A,,,27,
 -34.5196,-58.7221,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,20,
 -34.3847,-58.742,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,40,
 -34.6204,-58.9722,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,26,
 -34.4838,-58.8976,22,baja,Edenor,Pilar,Pilar,,,1,
 -34.7733,-58.8219,22,baja,Edenor,Marcos Paz,Marcos Paz,,,4,
+-34.7673,-58.6276,22,baja,Edenor,La Matanza,Gonzalez Catan,,,22,
 -34.6283,-58.5026,21,baja,Edesur,Capital,Capital,,,28,
 -34.8092,-58.2558,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
 -34.6372,-58.3895,21,baja,Edesur,Capital,Barracas,,,10,
