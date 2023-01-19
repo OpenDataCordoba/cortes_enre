@@ -1,9 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.618255804,-58.379919259,11,media,Edesur,Capital Rp,Constitucion,Perez Galdos,R:236-1-17/236-1-17,1,2023-01-19 07:03
 -34.640369117,-58.395552977,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-23/015-2-23,146,2023-01-19 06:15
--34.691224415,-58.448181234,11,media,Edesur,Lomas De Zamora,Villa Fiorito,S/D,R:,14,2023-01-19 05:42
--34.682954110,-58.440328348,11,media,Edesur,Lanus,Lanus Oeste,S/D,R:,7,2023-01-19 05:42
--34.682557707,-58.434647198,11,media,Edesur,Lanus,Lanus Oeste,S/D,R:,602,2023-01-19 05:42
 -34.649446211,-58.362563327,11,media,Edesur,Avellaneda,Dock Sud,9 De Julio,R:279-2-27/279-2-27,7,2023-01-19 08:29
 -34.620826132,-58.441859641,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-2-22/218-2-22,326,2023-01-19 07:02
 -34.621297926,-58.442176548,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-2-22/218-2-22,472,2023-01-19 07:02
@@ -12,31 +9,30 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.624083433,-58.449377195,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-2-22/218-2-22,216,2023-01-19 07:02
 -34.625303119,-58.452501140,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-2-22/218-2-22,148,2023-01-19 07:02
 -34.625343064,-58.452596357,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-2-22/218-2-22,43,2023-01-19 07:02
--34.670592713,-59.051195887,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2023-01-19 06:00
--34.393403347,-58.638303919,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,1,2023-01-19 05:00
--34.394142108,-58.641791413,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,30,2023-01-19 05:00
--34.361194198,-58.668420425,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,32,2023-01-19 05:00
--34.397400978,-58.644125692,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,240,2023-01-19 05:00
--34.389543424,-58.643546192,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,160,2023-01-19 05:00
--34.384290924,-58.639718154,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,23,2023-01-19 05:00
--34.385104728,-58.637654748,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,32,2023-01-19 05:00
--34.389743007,-58.641002459,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,49,2023-01-19 05:00
--34.388193263,-58.637485278,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,61,2023-01-19 05:00
--34.368874441,-58.659077962,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,2023-01-19 05:00
--34.370827562,-58.657705025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,2023-01-19 05:00
--34.364643795,-58.666522097,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,20,2023-01-19 05:00
--34.366048750,-58.664223654,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,65,2023-01-19 05:00
--34.382441481,-58.639407793,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,39,2023-01-19 05:00
--34.376930362,-58.652042442,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,2023-01-19 05:00
--34.364766305,-58.654516172,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,2023-01-19 05:00
--34.392909412,-58.640925211,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,8,2023-01-19 05:00
--34.383207565,-58.634495971,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,1,2023-01-19 05:00
+-34.670592713,-59.051195887,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5475,1,2023-01-19 05:00
+-34.393403347,-58.638303919,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,1,Sin Datos
+-34.394142108,-58.641791413,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,30,Sin Datos
+-34.361194198,-58.668420425,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,32,Sin Datos
+-34.397400978,-58.644125692,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,240,Sin Datos
+-34.389543424,-58.643546192,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,160,Sin Datos
+-34.384290924,-58.639718154,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,23,Sin Datos
+-34.385104728,-58.637654748,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,32,Sin Datos
+-34.389743007,-58.641002459,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,49,Sin Datos
+-34.388193263,-58.637485278,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,61,Sin Datos
+-34.368874441,-58.659077962,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,12,Sin Datos
+-34.370827562,-58.657705025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,19,Sin Datos
+-34.364643795,-58.666522097,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,20,Sin Datos
+-34.366048750,-58.664223654,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,65,Sin Datos
+-34.382441481,-58.639407793,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,39,Sin Datos
+-34.376930362,-58.652042442,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,Sin Datos
+-34.364766305,-58.654516172,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,Sin Datos
+-34.392909412,-58.640925211,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5515,8,Sin Datos
+-34.383207565,-58.634495971,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,1,Sin Datos
 -34.6032,-58.5316,22,baja,Edenor,3 De Febrero,Saenz Pe?A,,,27,
 -34.5196,-58.7221,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,20,
 -34.3847,-58.742,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,40,
 -34.6204,-58.9722,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,26,
 -34.7733,-58.8219,22,baja,Edenor,Marcos Paz,Marcos Paz,,,4,
--34.7673,-58.6276,22,baja,Edenor,La Matanza,Gonzalez Catan,,,58,
 -34.6283,-58.5026,21,baja,Edesur,Capital,Capital,,,28,
 -34.8092,-58.2558,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
 -34.6372,-58.3895,21,baja,Edesur,Capital,Barracas,,,10,
