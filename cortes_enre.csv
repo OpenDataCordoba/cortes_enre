@@ -3,12 +3,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.640369117,-58.395552977,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-23/015-2-23,146,2023-01-20 08:06
 -34.612220737,-58.371678168,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,N:126-1-11/126-1-11,285,2023-01-20 05:28
 -34.648239058,-58.425543417,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,4,2023-01-20 05:20
--34.617062346,-58.391699049,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-4-44/023-4-44,339,2023-01-20 08:06
--34.618329808,-58.390498851,11,media,Edesur,Capital Rp,Constitucion,Pozos,R:023-4-44/023-4-44,68,2023-01-20 08:06
 -34.591637800,-58.379273786,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,38,2023-01-20 08:19
 -34.591231806,-58.379929716,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,225,2023-01-20 08:19
 -34.592003092,-58.380086230,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,79,2023-01-20 08:19
--34.641133499,-58.594184217,12,media,Edenor,Moron,Haedo,S/D,R:Ramos Mejia/66-Tr2/66-5542,469,2023-01-20 05:00
+-34.641133499,-58.594184217,12,media,Edenor,Moron,Haedo,S/D,R:Ramos Mejia/66-Tr2/66-5542,469,Sin Datos
 -34.476396889,-58.678730571,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,Sin Datos
 -34.4933,-58.7477,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,1,
 -34.5759,-58.543,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,84,
@@ -27,6 +25,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7123,-58.6318,22,baja,Edenor,La Matanza,Rafael Castillo,,,35,
 -34.5096,-58.6842,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,13,
 -34.5945,-58.7149,22,baja,Edenor,San Miguel,Bella Vista,,,87,
+-34.5523,-58.5506,22,baja,Edenor,Gral San Martin,Villa Ballester,,,5,
 -34.6371,-58.3895,21,baja,Edesur,Capital,Capital Rp,,,12,
 -34.661,-58.4403,21,baja,Edesur,Capital,Villa Soldati,,,64,
 -34.6456,-58.3728,21,baja,Edesur,Capital,Barracas,,,47,
