@@ -1,45 +1,30 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.612220737,-58.371678168,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,N:126-1-11/126-1-11,285,2023-01-20 20:10
--34.709545507,-58.801866429,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,66,2023-01-20 18:00
--34.564584621,-58.455167281,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5543,116,Sin Datos
--34.404019872,-58.776141084,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,258,2023-01-20 20:00
--34.409714850,-58.774268837,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,335,2023-01-20 20:00
--34.405781993,-58.777630970,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,4,2023-01-20 20:00
--34.411717798,-58.773175471,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,83,2023-01-20 20:00
--34.408262662,-58.771830284,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,188,2023-01-20 20:00
--34.410120649,-58.772164198,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,68,2023-01-20 20:00
--34.412483259,-58.772772832,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,62,2023-01-20 20:00
--34.405811010,-58.774585992,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,266,2023-01-20 20:00
--34.407103910,-58.770516586,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,35,2023-01-20 20:00
--34.402501750,-58.777201754,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr1/154-5512,209,2023-01-20 20:00
--34.481339093,-58.710807366,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5525,188,2023-01-20 20:00
--34.482947444,-58.713268890,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5525,72,2023-01-20 20:00
--34.473554418,-58.722817107,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,79,2023-01-20 20:00
--34.476922574,-58.720957600,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,108,2023-01-20 20:00
--34.463428775,-58.716463885,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr2/252-5525,3,2023-01-20 20:00
--34.484941726,-58.709830888,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5525,50,2023-01-20 20:00
--34.483233551,-58.716635240,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5525,101,2023-01-20 20:00
--34.467670009,-58.719759306,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,284,2023-01-20 20:00
--34.470444820,-58.724894447,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,265,2023-01-20 20:00
--34.478101673,-58.725960393,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,146,2023-01-20 20:00
--34.481281263,-58.711628120,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,75,2023-01-20 20:00
--34.479596650,-58.717645555,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,404,2023-01-20 20:00
--34.478855289,-58.727671880,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,435,2023-01-20 20:00
--34.469728806,-58.723541685,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,185,2023-01-20 20:00
--34.464436114,-58.715962630,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,2,2023-01-20 20:00
--34.467044924,-58.718452714,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,244,2023-01-20 20:00
--34.477842451,-58.724084525,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,289,2023-01-20 20:00
--34.481533159,-58.727170520,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,524,2023-01-20 20:00
+-34.709545507,-58.801866429,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,66,2023-01-20 17:00
+-34.564584621,-58.455167281,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5543,116,2023-01-20 18:00
+-34.481339093,-58.710807366,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5525,188,2023-01-20 17:00
+-34.482947444,-58.713268890,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5525,72,2023-01-20 17:00
+-34.473554418,-58.722817107,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,79,2023-01-20 17:00
+-34.476922574,-58.720957600,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,108,2023-01-20 17:00
+-34.484941726,-58.709830888,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5525,50,2023-01-20 17:00
+-34.483233551,-58.716635240,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5525,101,2023-01-20 17:00
+-34.470444820,-58.724894447,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,265,2023-01-20 17:00
+-34.478101673,-58.725960393,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,146,2023-01-20 17:00
+-34.481281263,-58.711628120,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,75,2023-01-20 17:00
+-34.479596650,-58.717645555,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,404,2023-01-20 17:00
+-34.478855289,-58.727671880,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,435,2023-01-20 17:00
+-34.477842451,-58.724084525,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,289,2023-01-20 17:00
+-34.481533159,-58.727170520,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,524,2023-01-20 17:00
 -34.549,-58.7556,22,baja,Edenor,Jose C Paz,Jose C Paz,,,20,
 -34.4785,-58.7322,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,2,
+-34.5507,-58.4652,22,baja,Edenor,Capital Federal,Nu?Ez,,,3,
 -34.6261,-58.7458,22,baja,Edenor,Moreno,Paso Del Rey,,,23,
 -34.4839,-58.6171,22,baja,Edenor,Tigre,Don Torcuato,,,106,
--34.4057,-58.6727,22,baja,Edenor,Tigre,Benavidez,,,62,
--34.6605,-58.6314,22,baja,Edenor,Moron,Moron,,,1,
+-34.4057,-58.6727,22,baja,Edenor,Tigre,Benavidez,,,67,
 -34.5702,-58.5684,22,baja,Edenor,Gral San Martin,Juan M De Pueyrredon,,,23,
 -34.5419,-58.5378,22,baja,Edenor,Vicente Lopez,Munro,,,18,
 -34.7062,-58.5437,22,baja,Edenor,La Matanza,Ciudad Evita,,,11,
--34.6901,-58.7159,22,baja,Edenor,Merlo,Merlo,,,26,
+-34.6901,-58.7159,22,baja,Edenor,Merlo,Merlo,,,52,
 -34.5915,-58.6433,22,baja,Edenor,Hurlingham,Hurlingham,,,25,
 -34.6586,-58.6057,22,baja,Edenor,Moron,Moron,,,51,
 -34.4747,-58.5153,22,baja,Edenor,San Isidro,San Isidro,,,34,
@@ -49,19 +34,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5597,-58.45,22,baja,Edenor,Capital Federal,Belgrano,,,23,
 -34.6976,-58.6218,22,baja,Edenor,La Matanza,Rafael Castillo,,,1,
 -34.6163,-58.5462,22,baja,Edenor,3 De Febrero,Caseros,,,52,
+-34.69,-58.7856,22,baja,Edenor,Merlo,Merlo,,,5,
+-34.4845,-58.7156,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,5,
 -34.6456,-58.3728,21,baja,Edesur,Capital,Barracas,,,8,
 -34.6046,-58.3945,21,baja,Edesur,Capital,Balvanera,,,16,
 -34.6288,-58.3887,21,baja,Edesur,Capital,Constitucion,,,7,
 -34.6048,-58.4045,21,baja,Edesur,Capital,Balvanera,,,8,
 -34.7306,-58.2693,21,baja,Edesur,Quilmes,Quilmes,,,65,
+-34.6216,-58.3834,21,baja,Edesur,Capital,Constitucion,,,10,
 -34.7665,-58.4031,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,13,
--34.6539,-58.4709,21,baja,Edesur,Capital,Parque Avellaneda,,,20,
+-34.6539,-58.4709,21,baja,Edesur,Capital,Parque Avellaneda,,,17,
 -34.6136,-58.3951,21,baja,Edesur,Capital,Balvanera,,,8,
 -34.626,-58.4444,21,baja,Edesur,Capital,Caballito,,,3,
--34.6625,-58.5061,21,baja,Edesur,Capital,Capital,,,3,
--34.6264,-58.4703,21,baja,Edesur,Capital,Flores,,,11,
+-34.6264,-58.4703,21,baja,Edesur,Capital,Flores,,,12,
 -34.7104,-58.2871,21,baja,Edesur,Quilmes,Bernal,,,5,
 -34.6265,-58.4725,21,baja,Edesur,Capital,Capital,,,10,
 -34.6853,-58.4006,21,baja,Edesur,Lanus,Lanus,,,1,
--34.7729,-58.4415,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,1,
 -34.8275,-58.4646,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,
+-34.6394,-58.3635,21,baja,Edesur,Capital,La Boca,,,3,
