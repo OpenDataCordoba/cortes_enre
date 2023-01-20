@@ -9,22 +9,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.617688955,-58.388488548,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-4-44/023-4-44,1,2023-01-20 08:06
 -34.618166381,-58.387124259,11,media,Edesur,Capital Rp,Constitucion,Pozos,R:023-4-44/023-4-44,361,2023-01-20 08:06
 -34.591045055,-58.381503415,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,39,2023-01-20 06:40
--34.591885704,-58.377789494,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,28,2023-01-20 06:40
 -34.591637800,-58.379273786,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,38,2023-01-20 06:40
 -34.591231806,-58.379929716,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,225,2023-01-20 06:40
 -34.592549746,-58.381503803,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,27,2023-01-20 06:40
--34.591244009,-58.378715669,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,96,2023-01-20 06:40
--34.593187966,-58.378038671,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,398,2023-01-20 06:40
--34.591671014,-58.378102883,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,306,2023-01-20 06:40
 -34.591235120,-58.380577704,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,215,2023-01-20 06:40
--34.590295543,-58.380087075,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,51,2023-01-20 06:40
--34.595482543,-58.372195286,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,28,2023-01-20 06:40
--34.590619074,-58.379593522,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,63,2023-01-20 06:40
 -34.591211810,-58.381503180,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,37,2023-01-20 06:40
 -34.592009037,-58.381503099,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,201,2023-01-20 06:40
 -34.592589491,-58.380586994,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,227,2023-01-20 06:40
--34.589732293,-58.381078555,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,33,2023-01-20 06:40
--34.589748303,-58.381050528,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,15,2023-01-20 06:40
 -34.592003092,-58.380086230,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,79,2023-01-20 06:40
 -34.476396889,-58.678730571,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,Sin Datos
 -34.4933,-58.7477,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,1,
@@ -45,7 +36,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4545,-58.5658,22,baja,Edenor,San Fernando,San Fernando,,,20,
 -34.7123,-58.6318,22,baja,Edenor,La Matanza,Rafael Castillo,,,35,
 -34.5096,-58.6842,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,13,
--34.7332,-58.5841,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,17,
 -34.5945,-58.7149,22,baja,Edenor,San Miguel,Bella Vista,,,87,
 -34.3722,-58.871,22,baja,Edenor,Pilar,Zelaya,,,5,
 -34.6371,-58.3895,21,baja,Edesur,Capital,Capital Rp,,,12,
@@ -61,4 +51,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7847,-58.3714,21,baja,Edesur,Almirante Brown,Marmol,,,7,
 -34.6984,-58.4077,21,baja,Edesur,Lanus,Lanus,,,23,
 -34.854,-58.5324,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,5,
--34.845,-58.374,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,9,
+-34.845,-58.374,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,11,
