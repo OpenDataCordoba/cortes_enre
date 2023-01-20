@@ -2,7 +2,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.618255804,-58.379919259,11,media,Edesur,Capital Rp,Constitucion,Perez Galdos,R:236-1-17/236-1-17,1,2023-01-20 03:24
 -34.640369117,-58.395552977,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-23/015-2-23,146,2023-01-20 03:24
 -34.612220737,-58.371678168,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,N:126-1-11/126-1-11,285,2023-01-20 05:28
--34.837557803,-58.408139906,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-3-38/180-3-38,34,2023-01-20 03:24
 -34.645289872,-58.426850254,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,491,2023-01-20 01:51
 -34.645401519,-58.430042921,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,542,2023-01-20 01:51
 -34.642888212,-58.430121800,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,619,2023-01-20 01:51
@@ -47,7 +46,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.617688955,-58.388488548,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-4-44/023-4-44,1,2023-01-20 03:07
 -34.617238569,-58.387615641,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-4-44/023-4-44,267,2023-01-20 03:07
 -34.618166381,-58.387124259,11,media,Edesur,Capital Rp,Constitucion,Pozos,R:023-4-44/023-4-44,361,2023-01-20 03:07
--34.720077449,-58.715788266,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5526,500,Sin Datos
+-34.720077449,-58.715788266,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5526,500,2023-01-20 01:00
 -34.372161964,-58.871031986,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr1/51-5513,347,2023-01-20 02:00
 -34.370310708,-58.872273805,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr1/51-5513,411,2023-01-20 02:00
 -34.368433324,-58.877661889,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr1/51-5513,4,2023-01-20 02:00
@@ -67,20 +66,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.345634697,-58.907165158,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr1/51-5513,54,2023-01-20 02:00
 -34.337707986,-58.909421033,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr1/51-5513,47,2023-01-20 02:00
 -34.343643330,-58.890869130,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr1/51-5513,91,2023-01-20 02:00
--34.477049154,-58.678492078,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 04:00
--34.479289412,-58.667182206,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 04:00
--34.476291647,-58.678813368,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,6,2023-01-20 04:00
--34.480286673,-58.663975832,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 04:00
--34.479356488,-58.667334683,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 04:00
--34.477791720,-58.666690050,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,12,2023-01-20 04:00
--34.475461549,-58.679409100,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,3,2023-01-20 04:00
--34.476396889,-58.678730571,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 04:00
--34.476692461,-58.672589169,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,120,2023-01-20 04:00
--34.473638486,-58.680910448,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,3,2023-01-20 04:00
--34.476875697,-58.672417665,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 04:00
--34.479343056,-58.675349789,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,6,2023-01-20 04:00
--34.479577598,-58.664779357,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 04:00
--34.477389383,-58.676201898,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 04:00
+-34.477049154,-58.678492078,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 02:00
+-34.476291647,-58.678813368,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,6,2023-01-20 02:00
+-34.477791720,-58.666690050,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,12,2023-01-20 02:00
+-34.475461549,-58.679409100,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,3,2023-01-20 02:00
+-34.476396889,-58.678730571,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,2023-01-20 02:00
+-34.473638486,-58.680910448,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,3,2023-01-20 02:00
+-34.479343056,-58.675349789,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,6,2023-01-20 02:00
 -34.4933,-58.7477,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,1,
 -34.5759,-58.543,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,84,
 -34.7683,-58.6,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
@@ -91,7 +83,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5544,-58.4655,22,baja,Edenor,Capital Federal,Nu?Ez,,,32,
 -34.5929,-58.4028,22,baja,Edenor,Capital Federal,Recoleta,,,33,
 -34.5068,-58.5802,22,baja,Edenor,San Isidro,Boulogne,,,78,
--34.345,-58.8005,22,baja,Edenor,Escobar,Escobar,,,14,
+-34.345,-58.8005,22,baja,Edenor,Escobar,Escobar,,,16,
 -34.5347,-58.5291,22,baja,Edenor,Vicente Lopez,Munro,,,35,
 -34.4771,-58.7086,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,22,
 -34.4839,-58.6171,22,baja,Edenor,Tigre,Don Torcuato,,,92,
@@ -106,9 +98,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7271,-58.3452,21,baja,Edesur,Lanus,Monte Chingolo,,,8,
 -34.6397,-58.3629,21,baja,Edesur,Capital,La Boca,,,11,
 -34.678,-58.4193,21,baja,Edesur,Lanus,Valentin Alsina,,,4,
--34.5981,-58.5156,21,baja,Edesur,Capital,Villa Devoto,,,3,
 -34.626,-58.4441,21,baja,Edesur,Capital,Caballito,,,2,
 -34.7847,-58.3714,21,baja,Edesur,Almirante Brown,Marmol,,,5,
--34.6985,-58.4071,21,baja,Edesur,Lanus,Lanus,,,18,
+-34.6984,-58.4077,21,baja,Edesur,Lanus,Lanus,,,21,
 -34.727,-58.32,21,baja,Edesur,Quilmes,Bernal,,,1,
--34.854,-58.5324,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,4,
+-34.854,-58.5324,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,5,
+-34.845,-58.374,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,8,
