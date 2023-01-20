@@ -11,16 +11,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.619576453,-58.406074425,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-4-42/020-4-42,235,2023-01-20 16:53
 -34.618991057,-58.406136893,11,media,Edesur,Capital Gp,Balvanera Gp,Independencia,R:020-4-42/020-4-42,331,2023-01-20 16:53
 -34.476396889,-58.678730571,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,Sin Datos
--34.685497989,-58.539105698,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5546,347,2023-01-20 15:00
 -34.494872631,-58.778636613,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5513,251,2023-01-20 15:00
 -34.498322147,-58.791300008,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5513,152,2023-01-20 15:00
 -34.497752086,-58.782641736,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5513,145,2023-01-20 15:00
 -34.498566646,-58.787049066,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5513,116,2023-01-20 15:00
--34.641829264,-58.777466564,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5513,117,2023-01-20 15:00
--34.562604165,-58.455724980,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5543,274,2023-01-20 15:00
--34.563621520,-58.456270379,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5543,197,2023-01-20 15:00
--34.564584621,-58.455167281,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5543,116,2023-01-20 15:00
--34.563871551,-58.456979347,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5543,1,2023-01-20 15:00
+-34.641829264,-58.777466564,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5513,117,Sin Datos
+-34.564584621,-58.455167281,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5543,116,Sin Datos
 -34.5419,-58.7008,22,baja,Edenor,San Miguel,Muñiz,,,5,
 -34.549,-58.7556,22,baja,Edenor,Jose C Paz,Jose C Paz,,,20,
 -34.5921,-58.556,22,baja,Edenor,Gral San Martin,Ayacucho,,,13,
@@ -28,22 +24,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5901,-58.9583,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,
 -34.5496,-58.705,22,baja,Edenor,San Miguel,Muñiz,,,23,
 -34.5874,-58.7499,22,baja,Edenor,Moreno,Trujui,,,13,
--34.4785,-58.7322,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,1,
+-34.4785,-58.7322,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,2,
 -34.3966,-58.6605,22,baja,Edenor,Tigre,Benavidez,,,1,
 -34.6261,-58.7458,22,baja,Edenor,Moreno,Paso Del Rey,,,23,
+-34.5731,-58.5628,22,baja,Edenor,Gral San Martin,Juan M De Pueyrredon,,,23,
 -34.4839,-58.6147,22,baja,Edenor,Tigre,Don Torcuato,,,14,
 -34.4839,-58.6171,22,baja,Edenor,Tigre,Don Torcuato,,,92,
+-34.6605,-58.6314,22,baja,Edenor,Moron,Moron,,,1,
+-34.4265,-58.7445,22,baja,Edenor,Escobar,Garin,,,5,
 -34.6456,-58.3728,21,baja,Edesur,Capital,Barracas,,,5,
 -34.6046,-58.3945,21,baja,Edesur,Capital,Balvanera,,,16,
 -34.6396,-58.4238,21,baja,Edesur,Capital,Boedo,,,10,
 -34.6397,-58.3629,21,baja,Edesur,Capital,La Boca,,,13,
 -34.6533,-58.5071,21,baja,Edesur,Capital,Capital,,,68,
 -34.8292,-58.1722,21,baja,Edesur,Berazategui,Gutierrez,,,2,
--34.7306,-58.2693,21,baja,Edesur,Quilmes,Quilmes,,,62,
--34.6539,-58.4709,21,baja,Edesur,Capital,Parque Avellaneda,,,19,
--34.6299,-58.4508,21,baja,Edesur,Capital,Caballito,,,11,
+-34.7306,-58.2693,21,baja,Edesur,Quilmes,Quilmes,,,61,
+-34.6539,-58.4709,21,baja,Edesur,Capital,Parque Avellaneda,,,20,
 -34.626,-58.4444,21,baja,Edesur,Capital,Caballito,,,3,
 -34.6281,-58.3977,21,baja,Edesur,Capital,San Cristobal,,,15,
 -34.9012,-58.3751,21,baja,Edesur,Pte Peron,Los Pinos,,,1,
 -34.6264,-58.4703,21,baja,Edesur,Capital,Flores,,,8,
 -34.6538,-58.5081,21,baja,Edesur,Capital,Capital,,,1,
+-34.7294,-58.2702,21,baja,Edesur,Quilmes,Quilmes,,,1,
