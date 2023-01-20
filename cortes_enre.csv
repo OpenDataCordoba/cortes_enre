@@ -1,11 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.618255804,-58.379919259,11,media,Edesur,Capital Rp,Constitucion,Perez Galdos,R:236-1-17/236-1-17,1,2023-01-20 08:06
 -34.640369117,-58.395552977,11,media,Edesur,Capital Rp,Parque Patricios,Patricios,R:015-2-23/015-2-23,146,2023-01-20 08:06
--34.612220737,-58.371678168,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,N:126-1-11/126-1-11,285,2023-01-20 05:28
--34.648239058,-58.425543417,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,4,2023-01-20 05:20
+-34.612220737,-58.371678168,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,N:126-1-11/126-1-11,285,Sin Datos
+-34.648239058,-58.425543417,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,4,Sin Datos
 -34.591637800,-58.379273786,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,38,2023-01-20 08:19
--34.591231806,-58.379929716,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,225,2023-01-20 08:19
--34.592003092,-58.380086230,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,79,2023-01-20 08:19
 -34.641133499,-58.594184217,12,media,Edenor,Moron,Haedo,S/D,R:Ramos Mejia/66-Tr2/66-5542,469,2023-01-20 06:00
 -34.476396889,-58.678730571,12,media,Edenor,Tigre,El Talar,S/D,R:Talar/58-Tr2/58-5525,1,Sin Datos
 -34.4933,-58.7477,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,1,
@@ -14,16 +12,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.3436,-58.8922,22,baja,Edenor,Pilar,Zelaya,,,18,
 -34.7021,-58.6032,22,baja,Edenor,La Matanza,Isidro Casanova,,,5,
 -34.5644,-58.4506,22,baja,Edenor,Capital Federal,Belgrano,,,4,
--34.5544,-58.4655,22,baja,Edenor,Capital Federal,Nu?Ez,,,32,
--34.5068,-58.5802,22,baja,Edenor,San Isidro,Boulogne,,,78,
 -34.345,-58.8005,22,baja,Edenor,Escobar,Escobar,,,18,
 -34.5176,-58.6748,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,15,
--34.6026,-58.6894,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,16,
 -34.4545,-58.5658,22,baja,Edenor,San Fernando,San Fernando,,,20,
 -34.7123,-58.6318,22,baja,Edenor,La Matanza,Rafael Castillo,,,35,
 -34.5096,-58.6842,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,13,
--34.5945,-58.7149,22,baja,Edenor,San Miguel,Bella Vista,,,87,
--34.5523,-58.5506,22,baja,Edenor,Gral San Martin,Villa Ballester,,,8,
+-34.5523,-58.5506,22,baja,Edenor,Gral San Martin,Villa Ballester,,,43,
 -34.6371,-58.3895,21,baja,Edesur,Capital,Capital Rp,,,12,
 -34.661,-58.4403,21,baja,Edesur,Capital,Villa Soldati,,,64,
 -34.6456,-58.3728,21,baja,Edesur,Capital,Barracas,,,47,
@@ -35,6 +29,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6554,-58.5238,21,baja,Edesur,Capital,Capital,,,31,
 -34.626,-58.4441,21,baja,Edesur,Capital,Caballito,,,2,
 -34.7847,-58.3714,21,baja,Edesur,Almirante Brown,Marmol,,,7,
+-34.5993,-58.4067,21,baja,Edesur,Capital,Balvanera,,,6,
 -34.6984,-58.4077,21,baja,Edesur,Lanus,Lanus,,,23,
 -34.854,-58.5324,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,5,
 -34.845,-58.374,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,11,
