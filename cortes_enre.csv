@@ -23,8 +23,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.907085070,-58.553333319,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-27/270-2-27,4,2023-01-20 20:49
 -34.905384926,-58.546850709,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-27/270-2-27,3,2023-01-20 20:49
 -34.894923529,-58.564633309,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-27/270-2-27,243,2023-01-20 20:49
--34.709545507,-58.801866429,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,66,2023-01-20 19:00
--34.564584621,-58.455167281,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5543,116,2023-01-20 18:00
+-34.709545507,-58.801866429,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr2/258-5525,66,2023-01-20 20:00
+-34.564584621,-58.455167281,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5543,116,Sin Datos
 -34.481339093,-58.710807366,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5525,188,2023-01-20 19:00
 -34.482947444,-58.713268890,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5525,72,2023-01-20 19:00
 -34.473554418,-58.722817107,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,79,2023-01-20 19:00
@@ -38,381 +38,372 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.478855289,-58.727671880,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,435,2023-01-20 19:00
 -34.477842451,-58.724084525,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,289,2023-01-20 19:00
 -34.481533159,-58.727170520,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,524,2023-01-20 19:00
--34.471803582,-58.856417428,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,242,2023-01-20 18:00
--34.477845621,-58.851712347,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,176,2023-01-20 18:00
--34.459715361,-58.865605897,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,177,2023-01-20 18:00
--34.453366091,-58.870519361,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,160,2023-01-20 18:00
--34.472427010,-58.849893379,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,433,2023-01-20 18:00
--34.466653057,-58.860938171,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-20 18:00
--34.467300259,-58.855868381,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,477,2023-01-20 18:00
--34.477109037,-58.845821419,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,102,2023-01-20 18:00
--34.459259321,-58.873492094,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,75,2023-01-20 18:00
--34.460302235,-58.872671838,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,91,2023-01-20 18:00
--34.458376545,-58.870046697,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,214,2023-01-20 18:00
--34.464139037,-58.869081385,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,186,2023-01-20 18:00
--34.462167758,-58.865268749,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,169,2023-01-20 18:00
--34.475336649,-58.853667025,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,129,2023-01-20 18:00
--34.465100256,-58.861520232,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,3,2023-01-20 18:00
--34.467134744,-58.859943437,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,79,2023-01-20 18:00
--34.452713029,-58.871050684,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-20 18:00
--34.456204057,-58.870758193,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,54,2023-01-20 18:00
--34.457846677,-58.867058517,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,2,2023-01-20 18:00
--34.451480463,-58.868427816,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-20 18:00
--34.456233926,-58.864962551,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-20 18:00
--34.455638420,-58.865622876,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,3,2023-01-20 18:00
--34.448416419,-58.871121726,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,77,2023-01-20 18:00
--34.455029099,-58.864629605,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-20 18:00
--34.455798698,-58.871909536,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,205,2023-01-20 18:00
--34.475733844,-58.848077972,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,237,2023-01-20 18:00
--34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.086999618,-58.602952932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.074842267,-58.596057371,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.221921046,-58.601023281,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.064340230,-58.763205728,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,9,2023-01-20 18:00
--34.075791489,-58.788048749,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.078658614,-58.794066544,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.082762838,-58.808709601,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.091095075,-58.808000652,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.127556873,-58.767428381,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.132833215,-58.772140597,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.147830091,-58.766287351,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.157917379,-58.750551143,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.178400645,-58.697065061,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,8,2023-01-20 18:00
--34.193366434,-58.697203593,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.203692688,-58.698499098,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.210817200,-58.702260041,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.216347608,-58.707501994,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.235773187,-58.713067499,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.240830882,-58.713309108,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.245627916,-58.713953585,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.220447720,-58.682906996,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.258289540,-58.647205781,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.259561235,-58.545352489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,14,2023-01-20 18:00
--34.250195452,-58.554438553,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.253850744,-58.548968955,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2023-01-20 18:00
--34.252909443,-58.552661466,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.249423209,-58.590776252,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.213875591,-58.573392683,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.168355477,-58.614263754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,17,2023-01-20 18:00
--34.168384314,-58.620761599,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2023-01-20 18:00
--34.168474272,-58.626883522,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.168249960,-58.629997217,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.167329482,-58.641559087,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.167094742,-58.645914747,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.166570761,-58.648819391,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.165449444,-58.653029468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.168819221,-58.670181524,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.170476203,-58.683676020,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.172048227,-58.693588989,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.158603699,-58.633657194,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.153655973,-58.636107286,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.140230830,-58.630595809,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.133417624,-58.626082282,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.132561073,-58.624517815,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.118451270,-58.614452470,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.093574512,-58.604624216,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.102233028,-58.580977932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,15,2023-01-20 18:00
--34.131611416,-58.592838530,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.122442563,-58.647158435,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.122557546,-58.648399084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.231182518,-58.668385306,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.225301414,-58.667532424,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.211600881,-58.668628798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.192678327,-58.676357013,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,13,2023-01-20 18:00
--34.180977611,-58.686535182,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.070245827,-58.775994881,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.216003680,-58.652915279,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.218782637,-58.451473109,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.227238783,-58.434336389,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.138720271,-58.770901981,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.223935758,-58.428761588,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.225255235,-58.421292443,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.254253226,-58.433639926,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.170138950,-58.571169021,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.248429912,-58.581523965,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.207519619,-58.583333545,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.241574561,-58.538523844,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.278388587,-58.576511430,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.221637198,-58.437895150,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.144061030,-58.573670984,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.148032073,-58.565781937,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.188862999,-58.498653210,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.169253660,-58.521182685,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.153016970,-58.538491869,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.159201301,-58.525672956,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.165321507,-58.524284471,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.248537114,-58.543595514,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,25,2023-01-20 18:00
--34.236811408,-58.539679852,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,23,2023-01-20 18:00
--34.223515310,-58.536080575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,23,2023-01-20 18:00
--34.208353968,-58.537746265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.201853067,-58.536318946,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.133744909,-58.587498199,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.198964935,-58.542859084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.253265147,-58.644300798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.249497110,-58.642324026,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.192562902,-58.543511928,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.164906624,-58.540023386,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.177232949,-58.614115843,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.266480126,-58.538918505,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.272872274,-58.587379274,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.122822817,-58.587455710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.083559679,-58.809995488,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2023-01-20 18:00
--34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.263844772,-58.540613134,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.247099225,-58.593824223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.196441140,-58.495289224,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.192894052,-58.493066220,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,9,2023-01-20 18:00
--34.225131684,-58.561919891,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.189350668,-58.568805653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.178155531,-58.568953177,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.244689145,-58.614628158,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.255891212,-58.666963702,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,13,2023-01-20 18:00
--34.208328280,-58.469334008,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.168482383,-58.665369755,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.252193833,-58.556646780,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,15,2023-01-20 18:00
--34.251575399,-58.560531813,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.231248680,-58.583283140,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.145050841,-58.564872652,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.147283080,-58.558047333,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.149562721,-58.551083095,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,7,2023-01-20 18:00
--34.148674320,-58.531020900,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.148726168,-58.522616496,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.164300558,-58.520980171,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.171802597,-58.513869818,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.187811877,-58.492469924,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,15,2023-01-20 18:00
--34.190899341,-58.485358238,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.166944772,-58.605583865,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.265296834,-58.599131480,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.260302810,-58.602456885,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.173590256,-58.512343370,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.119817098,-58.515020296,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.156129956,-58.635464561,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.261124217,-58.605610567,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.217631575,-58.434974033,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.114735760,-58.576642471,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.118149049,-58.513367144,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.123999835,-58.515318955,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.108069936,-58.576362272,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.266208026,-58.626333382,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.267179584,-58.532232710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.103776612,-58.502473944,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.114398145,-58.511368739,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.254540394,-58.620511210,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.120271399,-58.511676907,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.258042902,-58.640737820,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,8,2023-01-20 18:00
--34.166318103,-58.650791123,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.231360551,-58.712753193,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.204671977,-58.607415589,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.183283362,-58.601475369,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.179710294,-58.506148513,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.087946385,-58.503584710,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.108298121,-58.469349734,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.199510860,-58.474812035,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.121706245,-58.512509469,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.137349698,-58.530240123,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.206792815,-58.606070405,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.262247317,-58.602926910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.206537801,-58.465751524,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.148391123,-58.527122493,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.210201850,-58.579020471,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.145835558,-58.534067031,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.218806922,-58.429929354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.122138142,-58.580638660,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.193338500,-58.483000952,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.128736047,-58.585145334,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.213702478,-58.450090844,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.181151505,-58.509845390,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.097587333,-58.483975926,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.147919734,-58.554837206,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.181364577,-58.617984081,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.195867497,-58.623354801,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.206460675,-58.628710656,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.218303475,-58.632697055,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.219169018,-58.634993824,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.259172459,-58.649769855,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,17,2023-01-20 18:00
--34.251088816,-58.658371301,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,18,2023-01-20 18:00
--34.244659586,-58.662502828,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,8,2023-01-20 18:00
--34.186185446,-58.683094686,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.212187776,-58.643305108,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.189211152,-58.651275494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.140671094,-58.770201843,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.178846163,-58.598680009,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.252933368,-58.607223239,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,10,2023-01-20 18:00
--34.207579961,-58.700399035,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.274449970,-58.592528997,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,27,2023-01-20 18:00
--34.267959786,-58.615499517,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.265595942,-58.629927177,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,17,2023-01-20 18:00
--34.265260269,-58.632205227,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,9,2023-01-20 18:00
--34.264261095,-58.638759680,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,10,2023-01-20 18:00
--34.262745043,-58.647497262,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.192684858,-58.634919388,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,12,2023-01-20 18:00
--34.207191811,-58.639751868,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.242204223,-58.601365004,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.174134659,-58.612803677,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.253122463,-58.581788750,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2023-01-20 18:00
--34.262998929,-58.580308788,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.270915252,-58.585156522,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,10,2023-01-20 18:00
--34.225662036,-58.632141668,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.240046705,-58.636487721,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.199663591,-58.561184192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.223217377,-58.432125375,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.085686289,-58.809509580,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.060774224,-58.756233209,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.203354210,-58.698553395,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.115211752,-58.583190984,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.197926178,-58.696993162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.219345302,-58.460701910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.139968608,-58.532547535,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.175793768,-58.510449786,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.216476759,-58.439967420,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.143042270,-58.568140722,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.124771573,-58.582308714,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.098147563,-58.494087021,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.148644671,-58.540222778,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.225671834,-58.594135129,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.100640280,-58.499936136,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.174458924,-58.511600998,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.159906982,-58.567688104,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.120067787,-58.454975893,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.140684816,-58.577837597,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.135389378,-58.525082154,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.153548131,-58.519720801,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.163519383,-58.570149612,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.251430744,-58.669241204,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.239273644,-58.679699538,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.215835213,-58.643792841,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.251838724,-58.558610163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.226135275,-58.535166829,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.274631823,-58.592021268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.178689463,-58.507660578,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.256435696,-58.635526265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.261304266,-58.605477489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.197068360,-58.478267968,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.196427848,-58.484722653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.142642667,-58.454683718,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.145943532,-58.453580755,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.096649781,-58.496641573,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.151814065,-58.450215586,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.201818859,-58.471994717,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.139409707,-58.455763130,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.224542687,-58.424751754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.171420120,-58.544867310,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.149011273,-58.452081152,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.150314393,-58.542713087,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.131324245,-58.456923585,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.143780853,-58.532219287,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.133569943,-58.526541564,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.118732007,-58.442867892,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.107431389,-58.505259718,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.159574661,-58.484547791,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.139549350,-58.532175228,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.167405969,-58.440294148,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.169842265,-58.443104087,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.166382959,-58.433352697,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.145160874,-58.450769999,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.199212918,-58.481276826,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.150827315,-58.547215754,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.162267559,-58.482013377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.132276612,-58.453738972,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.125464423,-58.453928713,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.177536815,-58.509001370,12,media,Edenor,S/D,S/D,S/D,S/D,3,2023-01-20 18:00
--34.206073872,-58.557765595,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.179180259,-58.506916019,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.184994684,-58.450890715,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.117359636,-58.496020485,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.153218053,-58.486867620,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.177890973,-58.688156314,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.146937772,-58.487846933,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.179764586,-58.542841506,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.143981237,-58.488210890,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.248447537,-58.671546852,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.266431607,-58.583493749,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.102025944,-58.493397301,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.137762035,-58.452956163,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.139161069,-58.488876160,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.123823292,-58.494773693,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.134560955,-58.456572567,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.110072589,-58.496121283,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.124162619,-58.518863930,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.135495195,-58.490277504,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.129689199,-58.492683194,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.139943962,-58.452400358,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.167522790,-58.741809412,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.233961181,-58.596202077,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.169233237,-58.603164599,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.166031586,-58.639033295,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.267210145,-58.531445775,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,2023-01-20 18:00
--34.166310509,-58.524489246,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.173077899,-58.420316207,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.046979458,-58.724485194,12,media,Edenor,S/D,S/D,S/D,S/D,1,2023-01-20 18:00
--34.250155302,-58.552423661,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.161581975,-58.438447377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.161042803,-58.495795412,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.154324172,-58.498956798,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.186904902,-58.488970702,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.086429893,-58.583797277,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.112237494,-58.576493885,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.180664658,-58.452559169,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.265805007,-58.549303381,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.213370133,-58.462434223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.267489039,-58.556566905,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.256419456,-58.624620575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.265675518,-58.546648179,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.151112132,-58.447220086,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.243490261,-58.556284265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.134707499,-58.771975742,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.212713501,-58.585605500,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.091987852,-58.493641356,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.083343454,-58.601554938,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.238822984,-58.598454971,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.244910489,-58.642988149,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.251230489,-58.563473335,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.188056178,-58.541000580,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.176564350,-58.412298789,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.168932469,-58.438510342,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.181042731,-58.406862964,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.175353834,-58.422174163,12,media,Edenor,S/D,S/D,S/D,S/D,1,2023-01-20 18:00
--34.254366077,-58.562056502,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.163852131,-58.607288978,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.074378875,-58.593989385,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.176358061,-58.488786269,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,2023-01-20 18:00
--34.054951795,-58.742030108,12,media,Edenor,S/D,S/D,S/D,S/D,1,2023-01-20 18:00
--34.230901272,-58.640187232,12,media,Edenor,S/D,S/D,S/D,S/D,1,2023-01-20 18:00
--34.256223395,-58.561415163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.265467429,-58.577350268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-20 18:00
--34.074705424,-58.785713822,12,media,Edenor,San Fernando,San Fernando,S/D,S/D,1,2023-01-20 18:00
--34.228686047,-58.636674544,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.075068453,-58.593348434,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.170382964,-58.431958659,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.251529715,-58.654619586,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,12,2023-01-20 18:00
--34.265602935,-58.621147171,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.265204700,-58.623675719,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.243343814,-58.639169079,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.157158209,-58.541970014,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.251606473,-58.604970281,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.164224014,-58.648090767,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.154129634,-58.546247059,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-20 18:00
--34.154065568,-58.547360977,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.229184793,-58.415414699,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.247011734,-58.710498241,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.265332606,-58.583355493,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.165272812,-58.646808488,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.129685583,-58.768816705,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-20 18:00
--34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
--34.257415223,-58.646784397,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-20 18:00
--34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-20 18:00
+-34.459715361,-58.865605897,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,177,2023-01-20 19:00
+-34.453366091,-58.870519361,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,160,2023-01-20 19:00
+-34.459259321,-58.873492094,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,75,2023-01-20 19:00
+-34.460302235,-58.872671838,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,91,2023-01-20 19:00
+-34.458376545,-58.870046697,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,214,2023-01-20 19:00
+-34.464139037,-58.869081385,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,186,2023-01-20 19:00
+-34.462167758,-58.865268749,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,169,2023-01-20 19:00
+-34.465100256,-58.861520232,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,3,2023-01-20 19:00
+-34.452713029,-58.871050684,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-20 19:00
+-34.456204057,-58.870758193,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,54,2023-01-20 19:00
+-34.457846677,-58.867058517,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,2,2023-01-20 19:00
+-34.451480463,-58.868427816,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-20 19:00
+-34.456233926,-58.864962551,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-20 19:00
+-34.455638420,-58.865622876,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,3,2023-01-20 19:00
+-34.448416419,-58.871121726,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,77,2023-01-20 19:00
+-34.455029099,-58.864629605,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-20 19:00
+-34.455798698,-58.871909536,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr1/260-5512,205,2023-01-20 19:00
+-34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.086999618,-58.602952932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.074842267,-58.596057371,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.221921046,-58.601023281,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.064340230,-58.763205728,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,9,Sin Datos
+-34.075791489,-58.788048749,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.078658614,-58.794066544,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.082762838,-58.808709601,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.091095075,-58.808000652,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.127556873,-58.767428381,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.132833215,-58.772140597,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.147830091,-58.766287351,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.157917379,-58.750551143,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.178400645,-58.697065061,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,8,Sin Datos
+-34.193366434,-58.697203593,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.203692688,-58.698499098,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.210817200,-58.702260041,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.216347608,-58.707501994,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.235773187,-58.713067499,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.240830882,-58.713309108,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.245627916,-58.713953585,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.220447720,-58.682906996,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.258289540,-58.647205781,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.259561235,-58.545352489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,14,Sin Datos
+-34.250195452,-58.554438553,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.253850744,-58.548968955,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,Sin Datos
+-34.252909443,-58.552661466,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.249423209,-58.590776252,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.213875591,-58.573392683,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.168355477,-58.614263754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,17,Sin Datos
+-34.168384314,-58.620761599,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,Sin Datos
+-34.168474272,-58.626883522,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.168249960,-58.629997217,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.167329482,-58.641559087,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.167094742,-58.645914747,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.166570761,-58.648819391,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.165449444,-58.653029468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.168819221,-58.670181524,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.170476203,-58.683676020,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.172048227,-58.693588989,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.158603699,-58.633657194,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.153655973,-58.636107286,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.140230830,-58.630595809,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.133417624,-58.626082282,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.132561073,-58.624517815,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.118451270,-58.614452470,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.093574512,-58.604624216,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.102233028,-58.580977932,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,15,Sin Datos
+-34.131611416,-58.592838530,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.122442563,-58.647158435,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.122557546,-58.648399084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.231182518,-58.668385306,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.225301414,-58.667532424,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.211600881,-58.668628798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.192678327,-58.676357013,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,13,Sin Datos
+-34.180977611,-58.686535182,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.070245827,-58.775994881,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.216003680,-58.652915279,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.218782637,-58.451473109,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.227238783,-58.434336389,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.138720271,-58.770901981,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.223935758,-58.428761588,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.225255235,-58.421292443,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.254253226,-58.433639926,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.170138950,-58.571169021,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.248429912,-58.581523965,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.207519619,-58.583333545,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.241574561,-58.538523844,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.278388587,-58.576511430,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.221637198,-58.437895150,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.144061030,-58.573670984,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.148032073,-58.565781937,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.188862999,-58.498653210,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.169253660,-58.521182685,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.153016970,-58.538491869,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.159201301,-58.525672956,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.165321507,-58.524284471,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.248537114,-58.543595514,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,25,Sin Datos
+-34.236811408,-58.539679852,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,23,Sin Datos
+-34.223515310,-58.536080575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,23,Sin Datos
+-34.208353968,-58.537746265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.201853067,-58.536318946,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.133744909,-58.587498199,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.198964935,-58.542859084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.253265147,-58.644300798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.249497110,-58.642324026,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.192562902,-58.543511928,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.164906624,-58.540023386,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.177232949,-58.614115843,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.266480126,-58.538918505,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.272872274,-58.587379274,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.122822817,-58.587455710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.083559679,-58.809995488,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,Sin Datos
+-34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.263844772,-58.540613134,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.247099225,-58.593824223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.196441140,-58.495289224,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.192894052,-58.493066220,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,9,Sin Datos
+-34.225131684,-58.561919891,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.189350668,-58.568805653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.178155531,-58.568953177,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.244689145,-58.614628158,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.255891212,-58.666963702,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,13,Sin Datos
+-34.208328280,-58.469334008,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.168482383,-58.665369755,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.252193833,-58.556646780,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,15,Sin Datos
+-34.251575399,-58.560531813,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.231248680,-58.583283140,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.145050841,-58.564872652,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.147283080,-58.558047333,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.149562721,-58.551083095,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,7,Sin Datos
+-34.148674320,-58.531020900,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.148726168,-58.522616496,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.164300558,-58.520980171,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.171802597,-58.513869818,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.187811877,-58.492469924,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,15,Sin Datos
+-34.190899341,-58.485358238,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.166944772,-58.605583865,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.265296834,-58.599131480,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.260302810,-58.602456885,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.173590256,-58.512343370,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.119817098,-58.515020296,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.156129956,-58.635464561,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.261124217,-58.605610567,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.217631575,-58.434974033,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.114735760,-58.576642471,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.118149049,-58.513367144,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.123999835,-58.515318955,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.108069936,-58.576362272,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.266208026,-58.626333382,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.267179584,-58.532232710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.103776612,-58.502473944,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.114398145,-58.511368739,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.254540394,-58.620511210,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.120271399,-58.511676907,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.258042902,-58.640737820,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,8,Sin Datos
+-34.166318103,-58.650791123,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.231360551,-58.712753193,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.204671977,-58.607415589,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.183283362,-58.601475369,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.179710294,-58.506148513,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.087946385,-58.503584710,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.108298121,-58.469349734,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.199510860,-58.474812035,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.121706245,-58.512509469,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.137349698,-58.530240123,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.206792815,-58.606070405,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.262247317,-58.602926910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.206537801,-58.465751524,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.148391123,-58.527122493,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.210201850,-58.579020471,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.145835558,-58.534067031,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.218806922,-58.429929354,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.122138142,-58.580638660,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.193338500,-58.483000952,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.128736047,-58.585145334,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.213702478,-58.450090844,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.181151505,-58.509845390,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.097587333,-58.483975926,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.147919734,-58.554837206,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.181364577,-58.617984081,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.195867497,-58.623354801,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.206460675,-58.628710656,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.218303475,-58.632697055,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.219169018,-58.634993824,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.259172459,-58.649769855,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,17,Sin Datos
+-34.251088816,-58.658371301,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,18,Sin Datos
+-34.244659586,-58.662502828,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,8,Sin Datos
+-34.186185446,-58.683094686,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.212187776,-58.643305108,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.189211152,-58.651275494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.140671094,-58.770201843,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.178846163,-58.598680009,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.252933368,-58.607223239,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,10,Sin Datos
+-34.207579961,-58.700399035,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.274449970,-58.592528997,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,27,Sin Datos
+-34.267959786,-58.615499517,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.265595942,-58.629927177,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,17,Sin Datos
+-34.265260269,-58.632205227,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,9,Sin Datos
+-34.264261095,-58.638759680,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,10,Sin Datos
+-34.262745043,-58.647497262,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.192684858,-58.634919388,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,12,Sin Datos
+-34.207191811,-58.639751868,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.242204223,-58.601365004,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.174134659,-58.612803677,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.253122463,-58.581788750,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,Sin Datos
+-34.262998929,-58.580308788,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.270915252,-58.585156522,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,10,Sin Datos
+-34.225662036,-58.632141668,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.240046705,-58.636487721,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.199663591,-58.561184192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.223217377,-58.432125375,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.085686289,-58.809509580,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.060774224,-58.756233209,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.203354210,-58.698553395,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.115211752,-58.583190984,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.197926178,-58.696993162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.219345302,-58.460701910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.139968608,-58.532547535,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.175793768,-58.510449786,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.216476759,-58.439967420,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.143042270,-58.568140722,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.124771573,-58.582308714,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.098147563,-58.494087021,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.148644671,-58.540222778,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.225671834,-58.594135129,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.100640280,-58.499936136,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.174458924,-58.511600998,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.159906982,-58.567688104,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.120067787,-58.454975893,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.140684816,-58.577837597,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.135389378,-58.525082154,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.153548131,-58.519720801,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.163519383,-58.570149612,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.251430744,-58.669241204,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.239273644,-58.679699538,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.215835213,-58.643792841,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.251838724,-58.558610163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.226135275,-58.535166829,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.274631823,-58.592021268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.178689463,-58.507660578,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.256435696,-58.635526265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.261304266,-58.605477489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.197068360,-58.478267968,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.196427848,-58.484722653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.142642667,-58.454683718,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.145943532,-58.453580755,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.096649781,-58.496641573,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.151814065,-58.450215586,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.201818859,-58.471994717,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.139409707,-58.455763130,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.224542687,-58.424751754,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.171420120,-58.544867310,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.149011273,-58.452081152,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.150314393,-58.542713087,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.131324245,-58.456923585,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.143780853,-58.532219287,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.133569943,-58.526541564,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.118732007,-58.442867892,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.107431389,-58.505259718,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.159574661,-58.484547791,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.139549350,-58.532175228,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.167405969,-58.440294148,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.169842265,-58.443104087,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.166382959,-58.433352697,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.145160874,-58.450769999,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.199212918,-58.481276826,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.150827315,-58.547215754,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.162267559,-58.482013377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.132276612,-58.453738972,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.125464423,-58.453928713,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.177536815,-58.509001370,12,media,Edenor,S/D,S/D,S/D,S/D,3,Sin Datos
+-34.206073872,-58.557765595,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.179180259,-58.506916019,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.184994684,-58.450890715,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.117359636,-58.496020485,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.153218053,-58.486867620,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.177890973,-58.688156314,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.146937772,-58.487846933,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.179764586,-58.542841506,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.143981237,-58.488210890,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.248447537,-58.671546852,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.266431607,-58.583493749,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.102025944,-58.493397301,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.137762035,-58.452956163,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.139161069,-58.488876160,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.123823292,-58.494773693,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.134560955,-58.456572567,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.110072589,-58.496121283,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.124162619,-58.518863930,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.135495195,-58.490277504,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.129689199,-58.492683194,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.139943962,-58.452400358,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.167522790,-58.741809412,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.233961181,-58.596202077,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.169233237,-58.603164599,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.166031586,-58.639033295,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.267210145,-58.531445775,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,7,Sin Datos
+-34.166310509,-58.524489246,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.173077899,-58.420316207,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.046979458,-58.724485194,12,media,Edenor,S/D,S/D,S/D,S/D,1,Sin Datos
+-34.250155302,-58.552423661,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.161581975,-58.438447377,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.161042803,-58.495795412,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.154324172,-58.498956798,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.186904902,-58.488970702,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.086429893,-58.583797277,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.112237494,-58.576493885,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.180664658,-58.452559169,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.265805007,-58.549303381,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.213370133,-58.462434223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.267489039,-58.556566905,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.256419456,-58.624620575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.265675518,-58.546648179,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.151112132,-58.447220086,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.243490261,-58.556284265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.134707499,-58.771975742,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.212713501,-58.585605500,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.091987852,-58.493641356,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.083343454,-58.601554938,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.238822984,-58.598454971,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.244910489,-58.642988149,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.251230489,-58.563473335,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.188056178,-58.541000580,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.176564350,-58.412298789,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.168932469,-58.438510342,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.181042731,-58.406862964,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.175353834,-58.422174163,12,media,Edenor,S/D,S/D,S/D,S/D,1,Sin Datos
+-34.254366077,-58.562056502,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.163852131,-58.607288978,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.074378875,-58.593989385,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.176358061,-58.488786269,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,4,Sin Datos
+-34.054951795,-58.742030108,12,media,Edenor,S/D,S/D,S/D,S/D,1,Sin Datos
+-34.230901272,-58.640187232,12,media,Edenor,S/D,S/D,S/D,S/D,1,Sin Datos
+-34.256223395,-58.561415163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.265467429,-58.577350268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,Sin Datos
+-34.074705424,-58.785713822,12,media,Edenor,San Fernando,San Fernando,S/D,S/D,1,Sin Datos
+-34.228686047,-58.636674544,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.075068453,-58.593348434,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.170382964,-58.431958659,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.251529715,-58.654619586,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,12,Sin Datos
+-34.265602935,-58.621147171,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.265204700,-58.623675719,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.243343814,-58.639169079,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.157158209,-58.541970014,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.251606473,-58.604970281,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.164224014,-58.648090767,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.154129634,-58.546247059,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
+-34.154065568,-58.547360977,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.229184793,-58.415414699,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.247011734,-58.710498241,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.265332606,-58.583355493,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.165272812,-58.646808488,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.129685583,-58.768816705,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
+-34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
+-34.257415223,-58.646784397,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,Sin Datos
+-34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,Sin Datos
 -34.455588023,-59.007733397,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,292,2023-01-20 19:00
 -34.459986269,-58.993822639,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,412,2023-01-20 19:00
 -34.456272440,-58.999222163,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,785,2023-01-20 19:00
@@ -440,147 +431,157 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.455174363,-59.009891111,12,media,Edenor,Pilar,Manzanares,S/D,R:Pilar/158-Tr1/158-5513,90,2023-01-20 19:00
 -34.551277208,-58.810359418,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,310,2023-01-20 19:00
 -34.549820367,-58.811887038,12,media,Edenor,Moreno,Cuartel V,S/D,R:Gaona/263-Tr3/263-5472/952-5513,128,2023-01-20 19:00
--34.744753025,-58.681498894,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,436,2023-01-20 19:00
--34.743000371,-58.686193022,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,391,2023-01-20 19:00
--34.750347454,-58.683724684,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,1,2023-01-20 19:00
--34.747596142,-58.684813150,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,6,2023-01-20 19:00
--34.741881044,-58.681999927,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,153,2023-01-20 19:00
--34.740766599,-58.683392136,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,116,2023-01-20 19:00
--34.744515959,-58.688042342,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,34,2023-01-20 19:00
--34.727064867,-58.759631465,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,113,2023-01-20 19:00
--34.741206892,-58.746079910,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2023-01-20 19:00
--34.716651343,-58.777060532,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,344,2023-01-20 19:00
--34.720837303,-58.740841318,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,293,2023-01-20 19:00
--34.731812274,-58.750690671,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2023-01-20 19:00
--34.727002565,-58.729689807,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,2,2023-01-20 19:00
--34.741599750,-58.763376691,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,6,2023-01-20 19:00
--34.736928414,-58.756155372,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,8,2023-01-20 19:00
--34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,392,2023-01-20 19:00
--34.729080178,-58.727733989,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,420,2023-01-20 19:00
--34.749272513,-58.774573818,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2023-01-20 19:00
--34.726092626,-58.744535376,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,2023-01-20 19:00
--34.721221808,-58.771041543,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,355,2023-01-20 19:00
--34.734980942,-58.739454535,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,66,2023-01-20 19:00
--34.722854637,-58.738783991,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,319,2023-01-20 19:00
--34.736156054,-58.772885082,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,37,2023-01-20 19:00
--34.724653367,-58.766357619,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2023-01-20 19:00
--34.726852065,-58.763365522,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,10,2023-01-20 19:00
--34.739626539,-58.744493058,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2023-01-20 19:00
--34.731640087,-58.760286501,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2023-01-20 19:00
--34.724139807,-58.742493755,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,1,2023-01-20 19:00
--34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,35,2023-01-20 19:00
--34.731161543,-58.765174804,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,3,2023-01-20 19:00
--34.738335032,-58.758167785,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,2023-01-20 19:00
--34.718806981,-58.779439851,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,155,2023-01-20 19:00
--34.719814838,-58.774844891,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,143,2023-01-20 19:00
--34.714392959,-58.780880898,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,151,2023-01-20 19:00
--34.732850084,-58.780999133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,142,2023-01-20 19:00
--34.719476277,-58.738929516,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,235,2023-01-20 19:00
--34.734017725,-58.738476478,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,73,2023-01-20 19:00
--34.728278047,-58.746864048,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,31,2023-01-20 19:00
--34.729200779,-58.743289638,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,98,2023-01-20 19:00
--34.854315493,-58.717440407,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 21:00
--34.863986190,-58.713126740,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,6,2023-01-20 21:00
--34.862255180,-58.715525134,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,7,2023-01-20 21:00
--34.857466736,-58.713566992,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 21:00
--34.861983045,-58.721747445,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,4,2023-01-20 21:00
--34.856911001,-58.722090146,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 21:00
--34.852843780,-58.719286927,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,1,2023-01-20 21:00
--34.834840755,-58.698926368,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,7,2023-01-20 21:00
--34.835615922,-58.705061119,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,3,2023-01-20 21:00
--34.842902168,-58.723707021,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,6,2023-01-20 21:00
--34.843410418,-58.730923144,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,1,2023-01-20 21:00
--34.846252315,-58.735246208,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,4,2023-01-20 21:00
--34.848906096,-58.731974902,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 21:00
--34.839656342,-58.719994958,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 21:00
--34.838177917,-58.694830497,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,1,2023-01-20 21:00
--34.837108014,-58.701675901,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,4,2023-01-20 21:00
--34.745063112,-58.695538026,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,281,2023-01-20 19:00
--34.745589803,-58.692497977,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,226,2023-01-20 19:00
--34.755390006,-58.680640487,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,100,2023-01-20 19:00
--34.758158019,-58.677120552,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,266,2023-01-20 19:00
--34.750667428,-58.686506919,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,276,2023-01-20 19:00
--34.740251414,-58.699505253,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,451,2023-01-20 19:00
--34.749704500,-58.687792723,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,1,2023-01-20 19:00
--34.732658419,-58.693815878,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,178,2023-01-20 19:00
--34.754907410,-58.677520126,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,582,2023-01-20 19:00
--34.753274387,-58.683278885,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,204,2023-01-20 19:00
--34.758623507,-58.687900998,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,4,2023-01-20 19:00
--34.751895788,-58.692068233,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,228,2023-01-20 19:00
--34.748567240,-58.696238109,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,196,2023-01-20 19:00
--34.729849569,-58.697303977,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,44,2023-01-20 19:00
--34.743986232,-58.694179040,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,39,2023-01-20 19:00
--34.748189019,-58.689752056,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,9,2023-01-20 19:00
--34.755825747,-58.691341242,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,196,2023-01-20 19:00
--34.736854886,-58.699394234,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,62,2023-01-20 19:00
--34.742938210,-58.696109517,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,86,2023-01-20 19:00
--34.545930052,-58.708309021,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,143,2023-01-20 18:00
--34.548653623,-58.705499249,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5516,228,2023-01-20 18:00
--34.543972398,-58.710623564,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,5,2023-01-20 18:00
--34.548688189,-58.703784313,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5516,533,2023-01-20 18:00
--34.545492804,-58.710268804,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,102,2023-01-20 18:00
--34.546417670,-58.707154285,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,353,2023-01-20 18:00
--34.549257615,-58.703598466,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,318,2023-01-20 18:00
--34.543823033,-58.709997600,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,1,2023-01-20 18:00
--34.547873807,-58.705592509,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5516,281,2023-01-20 18:00
--34.543893909,-58.710882892,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,179,2023-01-20 18:00
--34.739776795,-58.566476205,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,54,2023-01-20 21:00
--34.730725926,-58.565713918,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,509,2023-01-20 21:00
--34.736286539,-58.555627411,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 21:00
--34.732958081,-58.569616917,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,345,2023-01-20 21:00
--34.741854091,-58.569799875,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,4,2023-01-20 21:00
--34.735915895,-58.566817074,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,91,2023-01-20 21:00
--34.741212726,-58.568955900,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,6,2023-01-20 21:00
--34.737660080,-58.568543131,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,3,2023-01-20 21:00
--34.728368803,-58.566238990,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,493,2023-01-20 21:00
--34.729250547,-58.564102206,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,338,2023-01-20 21:00
--34.738080968,-58.566060950,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,16,2023-01-20 21:00
--34.736916231,-58.569496880,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 21:00
--34.739644681,-58.562080655,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,2,2023-01-20 21:00
--34.736755487,-58.570261137,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,156,2023-01-20 21:00
--34.738252205,-58.571912446,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5533,95,2023-01-20 21:00
--34.738295544,-58.567729860,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,6,2023-01-20 21:00
--34.741021296,-58.565590331,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 21:00
--34.733937471,-58.568201359,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,101,2023-01-20 21:00
--34.737380946,-58.563785958,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,4,2023-01-20 21:00
--34.741203955,-58.565558405,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 21:00
--34.729422332,-58.562073509,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Aeroclub/451-Tr2/451-5533,169,2023-01-20 21:00
--34.730171239,-58.561063032,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Aeroclub/451-Tr2/451-5533,139,2023-01-20 21:00
--34.730916503,-58.560047614,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Aeroclub/451-Tr2/451-5533,115,2023-01-20 21:00
--34.731240857,-58.559629545,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Aeroclub/451-Tr2/451-5533,96,2023-01-20 21:00
--34.736213958,-58.569513388,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 21:00
--34.736282283,-58.565243004,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 21:00
--34.740058431,-58.564468040,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 21:00
--34.737647852,-58.566249703,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 21:00
--34.727473078,-58.567444531,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,223,2023-01-20 21:00
+-34.744753025,-58.681498894,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,436,Sin Datos
+-34.743000371,-58.686193022,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,391,Sin Datos
+-34.750347454,-58.683724684,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,1,Sin Datos
+-34.747596142,-58.684813150,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,6,Sin Datos
+-34.741881044,-58.681999927,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,153,Sin Datos
+-34.740766599,-58.683392136,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,116,Sin Datos
+-34.744515959,-58.688042342,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,34,Sin Datos
+-34.727064867,-58.759631465,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,113,Sin Datos
+-34.741206892,-58.746079910,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,Sin Datos
+-34.716651343,-58.777060532,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,344,Sin Datos
+-34.720837303,-58.740841318,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,293,Sin Datos
+-34.731812274,-58.750690671,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,Sin Datos
+-34.727002565,-58.729689807,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,2,Sin Datos
+-34.741599750,-58.763376691,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,6,Sin Datos
+-34.736928414,-58.756155372,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,8,Sin Datos
+-34.722273282,-58.777295039,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,392,Sin Datos
+-34.729080178,-58.727733989,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,420,Sin Datos
+-34.749272513,-58.774573818,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,Sin Datos
+-34.726092626,-58.744535376,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,2,Sin Datos
+-34.721221808,-58.771041543,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,355,Sin Datos
+-34.734980942,-58.739454535,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,66,Sin Datos
+-34.722854637,-58.738783991,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,319,Sin Datos
+-34.736156054,-58.772885082,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,37,Sin Datos
+-34.724653367,-58.766357619,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,Sin Datos
+-34.726852065,-58.763365522,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,10,Sin Datos
+-34.739626539,-58.744493058,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,Sin Datos
+-34.731640087,-58.760286501,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,Sin Datos
+-34.724139807,-58.742493755,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,1,Sin Datos
+-34.727160722,-58.771934175,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,35,Sin Datos
+-34.731161543,-58.765174804,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,3,Sin Datos
+-34.738335032,-58.758167785,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,1,Sin Datos
+-34.718806981,-58.779439851,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,155,Sin Datos
+-34.719814838,-58.774844891,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,143,Sin Datos
+-34.714392959,-58.780880898,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,151,Sin Datos
+-34.732850084,-58.780999133,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,142,Sin Datos
+-34.719476277,-58.738929516,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,235,Sin Datos
+-34.734017725,-58.738476478,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,73,Sin Datos
+-34.728278047,-58.746864048,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,31,Sin Datos
+-34.729200779,-58.743289638,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,98,Sin Datos
+-34.854315493,-58.717440407,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 19:00
+-34.863986190,-58.713126740,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,6,2023-01-20 19:00
+-34.862255180,-58.715525134,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,7,2023-01-20 19:00
+-34.857466736,-58.713566992,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 19:00
+-34.861983045,-58.721747445,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,4,2023-01-20 19:00
+-34.856911001,-58.722090146,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 19:00
+-34.852843780,-58.719286927,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,1,2023-01-20 19:00
+-34.834840755,-58.698926368,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,7,2023-01-20 19:00
+-34.835615922,-58.705061119,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,3,2023-01-20 19:00
+-34.842902168,-58.723707021,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,6,2023-01-20 19:00
+-34.843410418,-58.730923144,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,1,2023-01-20 19:00
+-34.846252315,-58.735246208,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,4,2023-01-20 19:00
+-34.848906096,-58.731974902,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 19:00
+-34.839656342,-58.719994958,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,2,2023-01-20 19:00
+-34.838177917,-58.694830497,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,1,2023-01-20 19:00
+-34.837108014,-58.701675901,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,N:El Pino/353-Tr1/353-5517,4,2023-01-20 19:00
+-34.745063112,-58.695538026,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,281,Sin Datos
+-34.745589803,-58.692497977,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,226,Sin Datos
+-34.755390006,-58.680640487,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,100,Sin Datos
+-34.758158019,-58.677120552,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,266,Sin Datos
+-34.750667428,-58.686506919,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,276,Sin Datos
+-34.740251414,-58.699505253,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,451,Sin Datos
+-34.749704500,-58.687792723,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,1,Sin Datos
+-34.732658419,-58.693815878,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,178,Sin Datos
+-34.754907410,-58.677520126,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,582,Sin Datos
+-34.753274387,-58.683278885,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,204,Sin Datos
+-34.758623507,-58.687900998,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,4,Sin Datos
+-34.751895788,-58.692068233,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,228,Sin Datos
+-34.748567240,-58.696238109,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,196,Sin Datos
+-34.729849569,-58.697303977,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,44,Sin Datos
+-34.743986232,-58.694179040,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,39,Sin Datos
+-34.748189019,-58.689752056,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,9,Sin Datos
+-34.755825747,-58.691341242,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,196,Sin Datos
+-34.736854886,-58.699394234,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,62,Sin Datos
+-34.742938210,-58.696109517,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,86,Sin Datos
+-34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,25,2023-01-20 21:00
+-34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,2023-01-20 21:00
+-34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,2023-01-20 21:00
+-34.360008826,-58.677282287,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,47,2023-01-20 21:00
+-34.351333754,-58.682781151,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,30,2023-01-20 21:00
+-34.336433840,-58.675489405,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,8,2023-01-20 21:00
+-34.326331135,-58.672323649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,23,2023-01-20 21:00
+-34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,20,2023-01-20 21:00
+-34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,27,2023-01-20 21:00
+-34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,6,2023-01-20 21:00
+-34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,35,2023-01-20 21:00
+-34.545930052,-58.708309021,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,143,Sin Datos
+-34.548653623,-58.705499249,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5516,228,Sin Datos
+-34.543972398,-58.710623564,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,5,Sin Datos
+-34.548688189,-58.703784313,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5516,533,Sin Datos
+-34.545492804,-58.710268804,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,102,Sin Datos
+-34.546417670,-58.707154285,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,353,Sin Datos
+-34.549257615,-58.703598466,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,318,Sin Datos
+-34.543823033,-58.709997600,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,1,Sin Datos
+-34.547873807,-58.705592509,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5516,281,Sin Datos
+-34.543893909,-58.710882892,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5516,179,Sin Datos
+-34.739776795,-58.566476205,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,54,2023-01-20 19:00
+-34.730725926,-58.565713918,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,509,2023-01-20 19:00
+-34.736286539,-58.555627411,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 19:00
+-34.732958081,-58.569616917,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,345,2023-01-20 19:00
+-34.741854091,-58.569799875,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,4,2023-01-20 19:00
+-34.735915895,-58.566817074,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,91,2023-01-20 19:00
+-34.741212726,-58.568955900,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,6,2023-01-20 19:00
+-34.737660080,-58.568543131,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,3,2023-01-20 19:00
+-34.728368803,-58.566238990,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,493,2023-01-20 19:00
+-34.729250547,-58.564102206,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,338,2023-01-20 19:00
+-34.738080968,-58.566060950,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,16,2023-01-20 19:00
+-34.736916231,-58.569496880,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 19:00
+-34.739644681,-58.562080655,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,2,2023-01-20 19:00
+-34.736755487,-58.570261137,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,156,2023-01-20 19:00
+-34.738252205,-58.571912446,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5533,95,2023-01-20 19:00
+-34.738295544,-58.567729860,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,6,2023-01-20 19:00
+-34.741021296,-58.565590331,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 19:00
+-34.733937471,-58.568201359,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,101,2023-01-20 19:00
+-34.737380946,-58.563785958,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,4,2023-01-20 19:00
+-34.741203955,-58.565558405,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 19:00
+-34.729422332,-58.562073509,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Aeroclub/451-Tr2/451-5533,169,2023-01-20 19:00
+-34.730171239,-58.561063032,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Aeroclub/451-Tr2/451-5533,139,2023-01-20 19:00
+-34.730916503,-58.560047614,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Aeroclub/451-Tr2/451-5533,115,2023-01-20 19:00
+-34.731240857,-58.559629545,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Aeroclub/451-Tr2/451-5533,96,2023-01-20 19:00
+-34.736213958,-58.569513388,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 19:00
+-34.736282283,-58.565243004,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 19:00
+-34.740058431,-58.564468040,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 19:00
+-34.737647852,-58.566249703,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,1,2023-01-20 19:00
+-34.727473078,-58.567444531,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Aeroclub/451-Tr2/451-5533,223,2023-01-20 19:00
 -34.4785,-58.7322,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,2,
 -34.5507,-58.4652,22,baja,Edenor,Capital Federal,Nu?Ez,,,3,
 -34.6261,-58.7458,22,baja,Edenor,Moreno,Paso Del Rey,,,23,
--34.4839,-58.6171,22,baja,Edenor,Tigre,Don Torcuato,,,106,
--34.4057,-58.6727,22,baja,Edenor,Tigre,Benavidez,,,78,
+-34.4057,-58.6727,22,baja,Edenor,Tigre,Benavidez,,,79,
 -34.5419,-58.5378,22,baja,Edenor,Vicente Lopez,Munro,,,18,
--34.7062,-58.5437,22,baja,Edenor,La Matanza,Ciudad Evita,,,12,
 -34.6586,-58.6057,22,baja,Edenor,Moron,Moron,,,51,
 -34.4747,-58.5153,22,baja,Edenor,San Isidro,San Isidro,,,34,
 -34.6939,-58.5915,22,baja,Edenor,La Matanza,Isidro Casanova,,,118,
 -34.4872,-58.8294,22,baja,Edenor,Pilar,Pte Derqui,,,84,
 -34.6133,-58.5865,22,baja,Edenor,Moron,El Palomar,,,4,
 -34.5597,-58.45,22,baja,Edenor,Capital Federal,Belgrano,,,23,
--34.6976,-58.6218,22,baja,Edenor,La Matanza,Rafael Castillo,,,1,
 -34.6163,-58.5462,22,baja,Edenor,3 De Febrero,Caseros,,,52,
 -34.69,-58.7856,22,baja,Edenor,Merlo,Merlo,,,51,
 -34.7221,-58.4879,22,baja,Edenor,La Matanza,Tapiales,,,29,
 -34.6546,-58.6038,22,baja,Edenor,Moron,Moron,,,32,
--34.6456,-58.3728,21,baja,Edesur,Capital,Barracas,,,8,
--34.6046,-58.3945,21,baja,Edesur,Capital,Balvanera,,,16,
+-34.532,-58.8864,22,baja,Edenor,Pilar,Pilar,,,1,
+-34.6046,-58.3945,21,baja,Edesur,Capital,Balvanera,,,17,
 -34.6288,-58.3887,21,baja,Edesur,Capital,Constitucion,,,7,
 -34.6048,-58.4045,21,baja,Edesur,Capital,Balvanera,,,8,
--34.7306,-58.2693,21,baja,Edesur,Quilmes,Quilmes,,,66,
+-34.6489,-58.4275,21,baja,Edesur,Capital,Nueva Pompeya,,,6,
+-34.7318,-58.2701,21,baja,Edesur,Quilmes,Quilmes,,,74,
 -34.6216,-58.3834,21,baja,Edesur,Capital,Constitucion,,,10,
--34.6539,-58.4709,21,baja,Edesur,Capital,Parque Avellaneda,,,13,
+-34.6539,-58.4709,21,baja,Edesur,Capital,Parque Avellaneda,,,14,
 -34.6136,-58.3951,21,baja,Edesur,Capital,Balvanera,,,8,
 -34.626,-58.4444,21,baja,Edesur,Capital,Caballito,,,3,
 -34.6265,-58.4725,21,baja,Edesur,Capital,Capital,,,12,
 -34.6952,-58.3329,21,baja,Edesur,Avellaneda,Villa Dominico,,,2,
 -34.6394,-58.3635,21,baja,Edesur,Capital,La Boca,,,7,
 -34.9185,-58.5908,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,1,
+-34.7501,-58.4452,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,3,
