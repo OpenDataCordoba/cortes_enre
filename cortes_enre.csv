@@ -1,14 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.950330326,-58.656927180,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,1,2023-01-21 09:24
--34.957975294,-58.653280224,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,19,2023-01-21 09:24
--34.953200573,-58.655534558,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,1,2023-01-21 09:24
--34.965062792,-58.670921934,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,4,2023-01-21 09:24
--34.966617155,-58.673568850,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,15,2023-01-21 09:24
--34.962277254,-58.652894911,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,24,2023-01-21 09:24
--34.957124872,-58.655209628,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,3,2023-01-21 09:24
--34.960869623,-58.663787694,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,2,2023-01-21 09:24
 -34.634542214,-58.503477945,11,media,Edesur,Capital Gp,Villa Luro,Luro,R:038-3-36/038-3-36,570,2023-01-21 09:14
--34.470444820,-58.724894447,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5525,265,Sin Datos
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-21 06:00
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-21 06:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-21 06:00
@@ -358,20 +349,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-21 06:00
 -34.257415223,-58.646784397,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-21 06:00
 -34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-21 06:00
--34.320098855,-58.623662991,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,2023-01-21 07:00
--34.276416428,-58.624711292,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2023-01-21 07:00
--34.321026055,-58.617681082,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2023-01-21 07:00
--34.315145147,-58.615980435,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2023-01-21 07:00
--34.345438931,-58.623981156,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,43,2023-01-21 07:00
--34.327509779,-58.622201755,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,31,2023-01-21 07:00
--34.309511824,-58.620832228,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,14,2023-01-21 07:00
--34.295742595,-58.623737731,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,38,2023-01-21 07:00
--34.280547217,-58.631004795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,2023-01-21 07:00
--34.280325788,-58.633355838,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,2023-01-21 07:00
--34.315019207,-58.620052647,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,2023-01-21 07:00
--34.273909103,-58.631289417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2023-01-21 07:00
--34.320122383,-58.616231818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,2023-01-21 07:00
--34.334977758,-58.623286818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,2023-01-21 07:00
+-34.320098855,-58.623662991,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,Sin Datos
+-34.276416428,-58.624711292,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,Sin Datos
+-34.321026055,-58.617681082,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos
+-34.315145147,-58.615980435,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos
+-34.345438931,-58.623981156,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,43,Sin Datos
+-34.327509779,-58.622201755,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,31,Sin Datos
+-34.309511824,-58.620832228,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,14,Sin Datos
+-34.295742595,-58.623737731,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,38,Sin Datos
+-34.280547217,-58.631004795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,Sin Datos
+-34.280325788,-58.633355838,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,9,Sin Datos
+-34.315019207,-58.620052647,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,Sin Datos
+-34.273909103,-58.631289417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,Sin Datos
+-34.320122383,-58.616231818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,7,Sin Datos
+-34.334977758,-58.623286818,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,2,Sin Datos
 -34.635346582,-58.850435316,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,86,Sin Datos
 -34.335925088,-58.678146072,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,19,Sin Datos
 -34.325442902,-58.675428571,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,9,Sin Datos
@@ -410,24 +401,24 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.755390006,-58.680640487,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,100,2023-01-21 06:00
 -34.758158019,-58.677120552,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,266,2023-01-21 06:00
 -34.754907410,-58.677520126,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5524,582,2023-01-21 06:00
--34.810341013,-58.678334763,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.807409974,-58.685521107,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.808850892,-58.688356900,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.823044663,-58.665977233,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,27,Sin Datos
--34.821082619,-58.665098377,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,4,Sin Datos
--34.831305436,-58.668832867,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,Sin Datos
--34.827759549,-58.666951670,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,9,Sin Datos
--34.827390860,-58.669629695,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,3,Sin Datos
--34.826588317,-58.661510192,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,11,Sin Datos
--34.825205602,-58.678916086,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.826394037,-58.668479092,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,Sin Datos
--34.811257038,-58.690050356,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.814027989,-58.690105226,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.805968239,-58.683900117,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.818510329,-58.698667038,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.815897118,-58.695528383,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.825648614,-58.662740873,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,Sin Datos
--34.812686644,-58.675445291,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
+-34.810341013,-58.678334763,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 06:00
+-34.807409974,-58.685521107,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 06:00
+-34.808850892,-58.688356900,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 06:00
+-34.823044663,-58.665977233,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,27,2023-01-21 06:00
+-34.821082619,-58.665098377,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,4,2023-01-21 06:00
+-34.831305436,-58.668832867,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,2023-01-21 06:00
+-34.827759549,-58.666951670,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,9,2023-01-21 06:00
+-34.827390860,-58.669629695,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,3,2023-01-21 06:00
+-34.826588317,-58.661510192,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,11,2023-01-21 06:00
+-34.825205602,-58.678916086,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 06:00
+-34.826394037,-58.668479092,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,2023-01-21 06:00
+-34.811257038,-58.690050356,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 06:00
+-34.814027989,-58.690105226,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 06:00
+-34.805968239,-58.683900117,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 06:00
+-34.818510329,-58.698667038,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 06:00
+-34.815897118,-58.695528383,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 06:00
+-34.825648614,-58.662740873,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,2023-01-21 06:00
+-34.812686644,-58.675445291,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 06:00
 -34.545022625,-58.925495402,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,Sin Datos
 -34.549267471,-58.922423004,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,24,Sin Datos
 -34.545777129,-58.921779429,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,16,Sin Datos
@@ -437,48 +428,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.537633335,-58.923514540,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,Sin Datos
 -34.530629395,-58.928041372,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,6,Sin Datos
 -34.541165300,-58.913015968,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,3,Sin Datos
--34.542132761,-58.452763734,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Libertador/41-Tr2/41-5517,1,Sin Datos
 -34.564584621,-58.455167281,12,media,Edenor,Capital Federal,Belgrano,S/D,S/D,116,Sin Datos
--34.661178926,-58.636773049,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,140,2023-01-21 09:00
--34.655718850,-58.642089462,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,64,2023-01-21 09:00
--34.646262506,-58.593475085,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,317,2023-01-21 09:00
--34.639501075,-58.611601705,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,11,2023-01-21 09:00
--34.645702778,-58.592646898,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,247,2023-01-21 09:00
--34.655417568,-58.639154144,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,273,2023-01-21 09:00
--34.655946714,-58.642427240,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,551,2023-01-21 09:00
--34.646209245,-58.593059675,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,83,2023-01-21 09:00
--34.639649889,-58.610981629,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,1,2023-01-21 09:00
--34.653341107,-58.639827388,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr1/61-5543,257,2023-01-21 09:00
--34.656790224,-58.642127405,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,408,2023-01-21 09:00
--34.655199718,-58.638619595,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,125,2023-01-21 09:00
--34.653474062,-58.637414158,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,267,2023-01-21 09:00
--34.656043180,-58.638857993,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,185,2023-01-21 09:00
--34.655138323,-58.640713363,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,27,2023-01-21 09:00
--34.662866172,-58.635575544,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,250,2023-01-21 09:00
--34.663533311,-58.637748301,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,371,2023-01-21 09:00
--34.646377388,-58.595530216,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,32,2023-01-21 09:00
--34.659824180,-58.641720428,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,341,2023-01-21 09:00
--34.637241450,-58.610772065,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,112,2023-01-21 09:00
--34.655203164,-58.640322131,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,566,2023-01-21 09:00
--34.653382545,-58.634830412,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,213,2023-01-21 09:00
--34.644993495,-58.593526077,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,439,2023-01-21 09:00
--34.654037904,-58.636255173,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5543,142,2023-01-21 09:00
--34.640345631,-58.611068797,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,1,2023-01-21 09:00
--34.639157755,-58.610885556,12,media,Edenor,Moron,Haedo,S/D,R:Castelar/61-Tr1/61-5543,3,2023-01-21 09:00
--34.640575662,-58.581656623,12,media,Edenor,Moron,Villa Sarmiento,S/D,R:Castelar/61-Tr1/61-5543,1,2023-01-21 09:00
--34.671390314,-58.652992558,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,302,2023-01-21 09:00
--34.671083006,-58.651904872,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,269,2023-01-21 09:00
--34.669684532,-58.653033534,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,174,2023-01-21 09:00
--34.665877063,-58.648616148,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,22,2023-01-21 09:00
--34.662559542,-58.649192403,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,407,2023-01-21 09:00
--34.662935065,-58.643692028,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,368,2023-01-21 09:00
--34.665331117,-58.650596155,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,415,2023-01-21 09:00
--34.659269043,-58.648953034,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,227,2023-01-21 09:00
--34.661050142,-58.645530634,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,277,2023-01-21 09:00
--34.664814416,-58.646322071,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,1,2023-01-21 09:00
--34.668747289,-58.651478255,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,115,2023-01-21 09:00
--34.662792759,-58.646249537,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,172,2023-01-21 09:00
--34.661723404,-58.653482631,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,125,2023-01-21 09:00
+-34.671390314,-58.652992558,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,302,2023-01-21 06:00
+-34.671083006,-58.651904872,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,269,2023-01-21 06:00
+-34.669684532,-58.653033534,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,174,2023-01-21 06:00
+-34.665877063,-58.648616148,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,22,2023-01-21 06:00
+-34.664814416,-58.646322071,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,1,2023-01-21 06:00
+-34.668747289,-58.651478255,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,115,2023-01-21 06:00
 -34.7122,-58.6686,22,baja,Edenor,Merlo,Libertad,,,1,
 -34.7089,-58.4907,22,baja,Edenor,La Matanza,Tapiales,,,17,
 -34.3829,-58.8755,22,baja,Edenor,Pilar,Zelaya,,,7,
@@ -502,11 +458,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7484,-58.7952,22,baja,Edenor,Marcos Paz,Marcos Paz,,,4,
 -34.5941,-58.654,22,baja,Edenor,Hurlingham,Hurlingham,,,15,
 -34.6084,-58.7286,22,baja,Edenor,Moreno,Trujui,,,25,
--34.4524,-58.6541,22,baja,Edenor,Tigre,General Pacheco,,,23,
+-34.4524,-58.6541,22,baja,Edenor,Tigre,General Pacheco,,,24,
 -34.6337,-58.8188,22,baja,Edenor,Moreno,La Reja,,,31,
--34.4134,-58.851,22,baja,Edenor,Pilar,Villa Rosa,,,10,
+-34.4134,-58.851,22,baja,Edenor,Pilar,Villa Rosa,,,67,
 -34.6922,-58.5569,22,baja,Edenor,La Matanza,San Justo,,,4,
--34.6937,-58.5086,22,baja,Edenor,La Matanza,Villa Madero,,,20,
+-34.6937,-58.5086,22,baja,Edenor,La Matanza,Villa Madero,,,21,
 -34.6046,-58.3945,21,baja,Edesur,Capital,Balvanera,,,17,
 -34.6288,-58.3887,21,baja,Edesur,Capital,Constitucion,,,7,
 -34.6048,-58.4045,21,baja,Edesur,Capital,Balvanera,,,9,
@@ -525,6 +481,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7308,-58.4408,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,6,
 -34.611,-58.4643,21,baja,Edesur,Capital,Villa General Mitre,,,13,
 -34.764,-58.2665,21,baja,Edesur,Quilmes,Ezpeleta,,,11,
--34.6945,-58.3835,21,baja,Edesur,Lanus,Gerli,,,10,
+-34.6945,-58.3835,21,baja,Edesur,Lanus,Gerli,,,9,
 -34.7827,-58.3007,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,6,
 -34.6956,-58.4716,21,baja,Edesur,Capital,Capital,,,2,
