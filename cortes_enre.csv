@@ -9,7 +9,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.006855421,-58.720314837,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,5,2023-01-21 14:32
 -35.006110306,-58.719490979,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,1,2023-01-21 14:32
 -35.002002048,-58.717114309,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,1,2023-01-21 14:32
--34.418475199,-58.971579405,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5473,1,2023-01-21 14:00
+-34.418475199,-58.971579405,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5473,1,2023-01-21 15:00
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-21 14:00
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-21 14:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-21 14:00
@@ -287,46 +287,44 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.094399621,-58.494836576,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-21 14:00
 -34.257415223,-58.646784397,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-21 14:00
 -34.167715352,-58.491041481,12,media,Edenor,San Fernando,Delta 3Ra Seccion (Sf),S/D,S/D,1,2023-01-21 14:00
--34.635346582,-58.850435316,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,86,Sin Datos
--34.810341013,-58.678334763,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.807409974,-58.685521107,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.808850892,-58.688356900,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.823044663,-58.665977233,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,27,Sin Datos
--34.821082619,-58.665098377,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,4,Sin Datos
--34.831305436,-58.668832867,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,Sin Datos
--34.827759549,-58.666951670,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,9,Sin Datos
--34.827390860,-58.669629695,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,3,Sin Datos
--34.826588317,-58.661510192,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,11,Sin Datos
--34.825205602,-58.678916086,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.826394037,-58.668479092,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,Sin Datos
--34.811257038,-58.690050356,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.814027989,-58.690105226,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.805968239,-58.683900117,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.818510329,-58.698667038,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.815897118,-58.695528383,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,Sin Datos
--34.825648614,-58.662740873,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,Sin Datos
--34.812686644,-58.675445291,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,Sin Datos
--34.545022625,-58.925495402,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2023-01-21 15:00
--34.549267471,-58.922423004,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,24,2023-01-21 15:00
--34.545777129,-58.921779429,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,16,2023-01-21 15:00
--34.541327712,-58.928387374,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2023-01-21 15:00
--34.542149725,-58.914732523,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,5,2023-01-21 15:00
--34.539746793,-58.927467705,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,32,2023-01-21 15:00
--34.537633335,-58.923514540,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2023-01-21 15:00
--34.530629395,-58.928041372,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,6,2023-01-21 15:00
--34.541165300,-58.913015968,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,3,2023-01-21 15:00
--34.608372441,-58.728565223,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,249,2023-01-21 14:00
--34.506681896,-58.787829366,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5513,207,2023-01-21 14:00
+-34.635346582,-58.850435316,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,86,2023-01-21 14:00
+-34.810341013,-58.678334763,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 15:00
+-34.807409974,-58.685521107,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 15:00
+-34.808850892,-58.688356900,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 15:00
+-34.823044663,-58.665977233,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,27,2023-01-21 15:00
+-34.821082619,-58.665098377,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,4,2023-01-21 15:00
+-34.831305436,-58.668832867,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,2023-01-21 15:00
+-34.827759549,-58.666951670,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,9,2023-01-21 15:00
+-34.827390860,-58.669629695,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,3,2023-01-21 15:00
+-34.826588317,-58.661510192,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,11,2023-01-21 15:00
+-34.825205602,-58.678916086,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 15:00
+-34.826394037,-58.668479092,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,2023-01-21 15:00
+-34.811257038,-58.690050356,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 15:00
+-34.814027989,-58.690105226,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 15:00
+-34.805968239,-58.683900117,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 15:00
+-34.818510329,-58.698667038,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 15:00
+-34.815897118,-58.695528383,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,2,2023-01-21 15:00
+-34.825648614,-58.662740873,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,6,2023-01-21 15:00
+-34.812686644,-58.675445291,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,1,2023-01-21 15:00
+-34.545022625,-58.925495402,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2023-01-21 14:00
+-34.549267471,-58.922423004,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,24,2023-01-21 14:00
+-34.545777129,-58.921779429,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,16,2023-01-21 14:00
+-34.541327712,-58.928387374,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,2,2023-01-21 14:00
+-34.542149725,-58.914732523,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,5,2023-01-21 14:00
+-34.539746793,-58.927467705,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,32,2023-01-21 14:00
+-34.537633335,-58.923514540,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,1,2023-01-21 14:00
+-34.530629395,-58.928041372,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,6,2023-01-21 14:00
+-34.541165300,-58.913015968,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,3,2023-01-21 14:00
+-34.608372441,-58.728565223,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,249,2023-01-21 15:00
+-34.506681896,-58.787829366,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5513,207,2023-01-21 15:00
 -34.484870545,-58.857428344,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5518,69,Sin Datos
 -34.482715506,-58.858080980,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5518,1,Sin Datos
--34.483699975,-58.867573133,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5518,26,2023-01-21 14:00
--34.378460840,-58.883856087,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,36,Sin Datos
--34.370242536,-58.891587557,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,16,Sin Datos
--34.372341277,-58.896828046,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,18,Sin Datos
--34.375674573,-58.885959219,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,3,Sin Datos
--34.372434019,-58.888422417,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,5,Sin Datos
--34.377506284,-58.602887047,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,19,2023-01-21 15:00
--34.380782415,-58.594173491,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,46,2023-01-21 15:00
+-34.483699975,-58.867573133,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5518,26,2023-01-21 15:00
+-34.378460840,-58.883856087,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,36,2023-01-21 14:00
+-34.370242536,-58.891587557,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,16,2023-01-21 14:00
+-34.372341277,-58.896828046,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,18,2023-01-21 14:00
+-34.375674573,-58.885959219,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,3,2023-01-21 14:00
+-34.372434019,-58.888422417,12,media,Edenor,Pilar,Zelaya,S/D,R:Matheu/51-Tr2/51-5522,5,2023-01-21 14:00
 -34.301773865,-58.601077894,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2023-01-21 14:00
 -34.277122641,-58.617328086,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,43,2023-01-21 14:00
 -34.312225714,-58.602400476,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,20,2023-01-21 14:00
@@ -337,14 +335,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.276509605,-58.623738124,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,2023-01-21 14:00
 -34.284267264,-58.617366494,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,2023-01-21 14:00
 -34.295147933,-58.603446511,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,2023-01-21 14:00
+-34.817718578,-58.652407802,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Oro Verde/356-Tr2/356-5562,75,2023-01-21 14:00
 -34.4665,-58.7225,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,7,
 -34.6522,-58.7327,22,baja,Edenor,Merlo,Merlo,,,4,
 -34.6076,-58.8533,22,baja,Edenor,Moreno,Francisco Alvarez,,,4,
--34.5915,-58.6433,22,baja,Edenor,Hurlingham,Hurlingham,,,25,
 -34.666,-58.6084,22,baja,Edenor,Moron,Moron,,,9,
 -34.6238,-58.6476,22,baja,Edenor,Hurlingham,Villa Tesei,,,4,
 -34.5976,-58.6312,22,baja,Edenor,Hurlingham,Hurlingham,,,12,
--34.6256,-58.59,22,baja,Edenor,Moron,El Palomar,,,12,
 -34.6271,-58.6635,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,25,
 -34.4655,-58.6316,22,baja,Edenor,Tigre,General Pacheco,,,37,
 -34.6641,-58.5945,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,5,
@@ -354,46 +351,43 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6003,-58.6364,22,baja,Edenor,Hurlingham,Hurlingham,,,60,
 -34.6319,-58.8145,22,baja,Edenor,Moreno,La Reja,,,11,
 -34.6067,-58.6304,22,baja,Edenor,Hurlingham,Hurlingham,,,6,
--34.4776,-58.7289,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,4,
+-34.4776,-58.7289,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,22,
 -34.3631,-58.5366,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
--34.4301,-58.8679,22,baja,Edenor,Pilar,Villa Rosa,,,0,
--34.3785,-58.8839,22,baja,Edenor,Pilar,Zelaya,,,17,
--34.6586,-58.6057,22,baja,Edenor,Moron,Moron,,,4,
 -34.5344,-58.5593,22,baja,Edenor,Gral San Martin,Gral Eugenio Necochea,,,11,
--34.3185,-58.6496,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,72,
+-34.5964,-58.6372,22,baja,Edenor,Hurlingham,Hurlingham,,,20,
 -34.4272,-58.8688,22,baja,Edenor,Pilar,Villa Rosa,,,12,
--34.4604,-58.7903,22,baja,Edenor,Pilar,Del Viso,,,10,
 -34.503,-58.6292,22,baja,Edenor,Tigre,Don Torcuato,,,4,
--34.8177,-58.6524,22,baja,Edenor,La Matanza,Virrey Del Pino,,,14,
 -34.5861,-58.7424,22,baja,Edenor,San Miguel,San Miguel,,,4,
 -34.5521,-58.7662,22,baja,Edenor,Jose C Paz,Jose C Paz,,,10,
+-34.6661,-58.6084,22,baja,Edenor,Moron,Moron,,,5,
 -34.4839,-58.6171,22,baja,Edenor,Tigre,Don Torcuato,,,106,
 -34.5552,-58.7257,22,baja,Edenor,San Miguel,San Miguel,,,28,
 -34.3835,-58.8737,22,baja,Edenor,Pilar,Zelaya,,,14,
 -34.4799,-58.7358,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,2,
 -34.5789,-58.6142,22,baja,Edenor,3 De Febrero,Pablo Podesta,,,32,
 -34.6488,-58.6205,22,baja,Edenor,Moron,Moron,,,2,
--34.5675,-58.6231,22,baja,Edenor,3 De Febrero,Remedios De Escalada,,,8,
+-34.5675,-58.6231,22,baja,Edenor,3 De Febrero,Remedios De Escalada,,,48,
 -34.5737,-58.5947,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,4,
+-34.6256,-58.5897,22,baja,Edenor,Moron,El Palomar,,,12,
 -34.6046,-58.3945,21,baja,Edesur,Capital,Balvanera,,,19,
 -34.6048,-58.4045,21,baja,Edesur,Capital,Balvanera,,,10,
 -34.6489,-58.4275,21,baja,Edesur,Capital,Nueva Pompeya,,,7,
 -34.7318,-58.2701,21,baja,Edesur,Quilmes,Quilmes,,,83,
 -34.6539,-58.4709,21,baja,Edesur,Capital,Parque Avellaneda,,,13,
 -34.6136,-58.3951,21,baja,Edesur,Capital,Balvanera,,,15,
--34.6035,-58.4687,21,baja,Edesur,Capital,Capital,,,52,
--34.6803,-58.4719,21,baja,Edesur,Capital,Villa Lugano,,,23,
+-34.6035,-58.4687,21,baja,Edesur,Capital,Capital,,,57,
+-34.6803,-58.4719,21,baja,Edesur,Capital,Villa Lugano,,,22,
 -34.6265,-58.4725,21,baja,Edesur,Capital,Capital,,,16,
 -34.7067,-58.3143,21,baja,Edesur,Avellaneda,Wilde,,,26,
--34.6533,-58.5071,21,baja,Edesur,Capital,Capital,,,137,
+-34.6533,-58.5071,21,baja,Edesur,Capital,Mataderos,,,138,
 -34.6952,-58.3329,21,baja,Edesur,Avellaneda,Villa Dominico,,,2,
 -34.7894,-58.3694,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,15,
 -34.6452,-58.4191,21,baja,Edesur,Capital,Nueva Pompeya,,,6,
 -34.853,-58.5325,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,19,
 -34.818,-58.2049,21,baja,Edesur,Florencio Varela,Bosques,,,8,
--34.764,-58.2665,21,baja,Edesur,Quilmes,Ezpeleta,,,22,
+-34.764,-58.2665,21,baja,Edesur,Quilmes,Ezpeleta,,,23,
 -34.8552,-58.5534,21,baja,Edesur,Ezeiza,Barrio La Union,,,6,
 -34.8271,-58.2809,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,
 -34.8177,-58.4351,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,6,
 -34.6126,-58.3715,21,baja,Edesur,Capital,Monserrat,,,48,
--34.7428,-58.3552,21,baja,Edesur,Lomas De Zamora,Bandfield,,,4,
+-34.6067,-58.4963,21,baja,Edesur,Capital,Villa Del Parque,,,2,
