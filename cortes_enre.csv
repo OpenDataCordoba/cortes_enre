@@ -1,7 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.591637800,-58.379273786,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-17/025-1-17,38,Sin Datos
 -34.634542214,-58.503477945,11,media,Edesur,Capital Gp,Villa Luro,Luro,R:038-3-36/038-3-36,570,2023-01-21 12:08
--34.418475199,-58.971579405,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5473,1,2023-01-21 11:00
+-34.418475199,-58.971579405,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5473,1,2023-01-21 10:00
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-21 10:00
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-21 10:00
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-21 10:00
@@ -361,9 +361,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.530629395,-58.928041372,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,6,2023-01-21 11:00
 -34.541165300,-58.913015968,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,3,2023-01-21 11:00
 -34.594126286,-58.654011324,12,media,Edenor,S/D,S/D,S/D,R:Moron/67-Tr4/67-5532,95,2023-01-21 10:00
--34.608372441,-58.728565223,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,249,2023-01-21 10:00
+-34.608372441,-58.728565223,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,249,2023-01-21 11:00
+-34.413393911,-58.851092174,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5516,330,Sin Datos
+-34.419314917,-58.846647958,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5516,75,Sin Datos
+-34.411713551,-58.852435925,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5516,16,Sin Datos
+-34.412708467,-58.854821816,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5516,33,Sin Datos
 -34.664814416,-58.646322071,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,1,2023-01-21 11:00
--34.693683423,-58.508623455,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5525,511,2023-01-21 10:51
 -34.7122,-58.6686,22,baja,Edenor,Merlo,Libertad,,,1,
 -34.4665,-58.7225,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,7,
 -34.6522,-58.7327,22,baja,Edenor,Merlo,Merlo,,,4,
@@ -378,23 +381,24 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5976,-58.6312,22,baja,Edenor,Hurlingham,Hurlingham,,,12,
 -34.7484,-58.7952,22,baja,Edenor,Marcos Paz,Marcos Paz,,,4,
 -34.5521,-58.766,22,baja,Edenor,Jose C Paz,Jose C Paz,,,14,
--34.3928,-58.7506,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,24,
--34.4524,-58.6541,22,baja,Edenor,Tigre,General Pacheco,,,27,
 -34.6922,-58.5569,22,baja,Edenor,La Matanza,San Justo,,,4,
 -34.5067,-58.7878,22,baja,Edenor,Jose C Paz,Jose C Paz,,,29,
--34.3068,-58.7846,22,baja,Edenor,Escobar,Escobar,,,12,
 -34.5895,-58.846,22,baja,Edenor,Moreno,Francisco Alvarez,,,4,
+-34.476,-58.8566,22,baja,Edenor,Pilar,Pte Derqui,,,7,
 -34.3264,-58.6552,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,3,
 -34.7291,-58.5298,22,baja,Edenor,La Matanza,Ciudad Evita,,,8,
 -34.5912,-58.6349,22,baja,Edenor,Hurlingham,Hurlingham,,,10,
 -34.6293,-58.663,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,25,
 -34.4036,-58.7335,22,baja,Edenor,Tigre,Benavidez,,,5,
 -34.5976,-58.853,22,baja,Edenor,Moreno,Francisco Alvarez,,,13,
+-34.3499,-58.8077,22,baja,Edenor,Escobar,Escobar,,,7,
 -34.6319,-58.8145,22,baja,Edenor,Moreno,La Reja,,,11,
--34.6067,-58.6304,22,baja,Edenor,Hurlingham,Hurlingham,,,6,
+-34.6067,-58.6304,22,baja,Edenor,Hurlingham,Hurlingham,,,7,
 -34.3631,-58.5366,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
+-34.3785,-58.8839,22,baja,Edenor,Pilar,Zelaya,,,7,
 -34.4849,-58.8574,22,baja,Edenor,Pilar,Pte Derqui,,,13,
 -34.5344,-58.5593,22,baja,Edenor,Gral San Martin,Gral Eugenio Necochea,,,11,
+-34.4604,-58.7903,22,baja,Edenor,Pilar,Del Viso,,,5,
 -34.6046,-58.3945,21,baja,Edesur,Capital,Balvanera,,,16,
 -34.6288,-58.3887,21,baja,Edesur,Capital,Constitucion,,,7,
 -34.6048,-58.4045,21,baja,Edesur,Capital,Balvanera,,,9,
@@ -406,18 +410,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6373,-58.4978,21,baja,Edesur,Capital,Capital,,,7,
 -35.0301,-58.4302,21,baja,Edesur,San Vicente,San Vicente,,,7,
 -34.6265,-58.4725,21,baja,Edesur,Capital,Capital,,,18,
--34.7065,-58.314,21,baja,Edesur,Avellaneda,Wilde,,,20,
--34.6533,-58.5071,21,baja,Edesur,Capital,Capital,,,101,
+-34.7067,-58.3143,21,baja,Edesur,Avellaneda,Wilde,,,22,
+-34.6533,-58.5071,21,baja,Edesur,Capital,Mataderos,,,104,
 -34.6952,-58.3329,21,baja,Edesur,Avellaneda,Villa Dominico,,,2,
--34.7894,-58.3694,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,9,
+-34.7894,-58.3694,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,10,
 -34.6296,-58.471,21,baja,Edesur,Capital,Flores,,,36,
 -34.7501,-58.4452,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,3,
 -34.8814,-58.3469,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,9,
--34.931,-58.3942,21,baja,Edesur,Pte Peron,San Martin,,,7,
+-34.931,-58.3942,21,baja,Edesur,Pte Peron,San Martin,,,9,
 -34.7308,-58.4408,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,7,
--34.611,-58.4643,21,baja,Edesur,Capital,Villa General Mitre,,,13,
--34.764,-58.2665,21,baja,Edesur,Quilmes,Ezpeleta,,,17,
+-34.611,-58.4643,21,baja,Edesur,Capital,Villa General Mitre,,,14,
+-34.764,-58.2665,21,baja,Edesur,Quilmes,Ezpeleta,,,18,
 -34.7827,-58.3007,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,6,
--34.6126,-58.3715,21,baja,Edesur,Capital,Monserrat,,,10,
--34.6591,-58.4344,21,baja,Edesur,Capital,Villa Soldati,,,3,
+-34.6126,-58.3715,21,baja,Edesur,Capital,Monserrat,,,13,
+-34.6591,-58.4344,21,baja,Edesur,Capital,Villa Soldati,,,5,
 -34.5988,-58.418,21,baja,Edesur,Capital,Capital,,,1,
