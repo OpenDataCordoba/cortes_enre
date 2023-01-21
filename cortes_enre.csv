@@ -6,14 +6,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.006855421,-58.720314837,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,5,Sin Datos
 -35.006110306,-58.719490979,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,1,Sin Datos
 -35.002002048,-58.717114309,11,media,Edesur,Cañuelas,Los Campitos,Canuelas,R:271-2-26/271-2-26,1,Sin Datos
--34.719495781,-58.249607529,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,395,2023-01-21 22:52
--34.715838906,-58.249998670,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,351,2023-01-21 22:52
--34.722508084,-58.250213764,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,172,2023-01-21 22:52
--34.720421311,-58.252612147,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,326,2023-01-21 22:52
--34.724748578,-58.249393520,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,222,2023-01-21 22:52
--34.719358623,-58.253673600,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,28,2023-01-21 22:52
--34.723396629,-58.250916590,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,119,2023-01-21 22:52
--34.721986957,-58.251886842,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,24,2023-01-21 22:52
+-34.719495781,-58.249607529,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,395,Sin Datos
+-34.715838906,-58.249998670,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,351,Sin Datos
+-34.722508084,-58.250213764,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,172,Sin Datos
+-34.720421311,-58.252612147,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,326,Sin Datos
+-34.724748578,-58.249393520,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,222,Sin Datos
+-34.719358623,-58.253673600,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,28,Sin Datos
+-34.723396629,-58.250916590,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,119,Sin Datos
+-34.721986957,-58.251886842,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,24,Sin Datos
 -35.046056084,-58.427538020,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,15,2023-01-21 18:09
 -35.046777375,-58.428881314,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,114,2023-01-21 18:09
 -35.047306848,-58.422373991,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,4,2023-01-21 18:09
@@ -28,24 +28,20 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.048127974,-58.424713327,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,1,2023-01-21 18:09
 -35.038884518,-58.430206820,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,12,2023-01-21 18:09
 -35.037788556,-58.429102284,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-4-81/271-4-81,3,2023-01-21 18:09
--34.739431236,-58.426688505,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-22/076-2-22,174,2023-01-21 22:53
--34.739081212,-58.429990226,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-22/076-2-22,445,2023-01-21 22:53
--34.740826923,-58.427424555,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-22/076-2-22,57,2023-01-21 22:53
--34.742209221,-58.428432647,11,media,Edesur,Lomas De Zamora,Zona Rural,Heroes De Malvinas,R:076-2-22/076-2-22,2,2023-01-21 22:53
--34.920268336,-58.401708946,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,263,2023-01-21 20:33
--34.912237794,-58.397293087,11,media,Edesur,Pte Peron,Santa Magdalena,Glew,R:277-4-46/277-4-46,289,2023-01-21 20:33
--34.914234551,-58.395853617,11,media,Edesur,Pte Peron,Santa Magdalena,Glew,R:277-4-46/277-4-46,233,2023-01-21 20:33
--34.913491780,-58.405481984,11,media,Edesur,Pte Peron,San Roque,Glew,R:277-4-46/277-4-46,184,2023-01-21 20:33
--34.915669785,-58.409740030,11,media,Edesur,Pte Peron,San Roque,Glew,R:277-4-46/277-4-46,102,2023-01-21 20:33
--34.915265346,-58.405924675,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,82,2023-01-21 20:33
--34.920206200,-58.407387462,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,218,2023-01-21 20:33
--34.917777176,-58.409236611,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,216,2023-01-21 20:33
--34.912065558,-58.401606946,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-4-46/277-4-46,253,2023-01-21 20:33
--34.908254275,-58.392339377,11,media,Edesur,Pte Peron,Santa Magdalena,Glew,R:277-4-46/277-4-46,183,2023-01-21 20:33
--34.915688023,-58.407385360,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,189,2023-01-21 20:33
--34.919043455,-58.403396765,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,323,2023-01-21 20:33
--34.922301991,-58.401968685,11,media,Edesur,Pte Peron,Villa Numancia Sur,Glew,R:277-4-46/277-4-46,18,2023-01-21 20:33
--34.916613913,-58.405159411,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,72,2023-01-21 20:33
+-34.920268336,-58.401708946,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,263,2023-01-21 22:31
+-34.912237794,-58.397293087,11,media,Edesur,Pte Peron,Santa Magdalena,Glew,R:277-4-46/277-4-46,289,2023-01-21 22:31
+-34.914234551,-58.395853617,11,media,Edesur,Pte Peron,Santa Magdalena,Glew,R:277-4-46/277-4-46,233,2023-01-21 22:31
+-34.913491780,-58.405481984,11,media,Edesur,Pte Peron,San Roque,Glew,R:277-4-46/277-4-46,184,2023-01-21 22:31
+-34.915669785,-58.409740030,11,media,Edesur,Pte Peron,San Roque,Glew,R:277-4-46/277-4-46,102,2023-01-21 22:31
+-34.915265346,-58.405924675,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,82,2023-01-21 22:31
+-34.920206200,-58.407387462,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,218,2023-01-21 22:31
+-34.917777176,-58.409236611,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,216,2023-01-21 22:31
+-34.912065558,-58.401606946,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-4-46/277-4-46,253,2023-01-21 22:31
+-34.908254275,-58.392339377,11,media,Edesur,Pte Peron,Santa Magdalena,Glew,R:277-4-46/277-4-46,183,2023-01-21 22:31
+-34.915688023,-58.407385360,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,189,2023-01-21 22:31
+-34.919043455,-58.403396765,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,323,2023-01-21 22:31
+-34.922301991,-58.401968685,11,media,Edesur,Pte Peron,Villa Numancia Sur,Glew,R:277-4-46/277-4-46,18,2023-01-21 22:31
+-34.916613913,-58.405159411,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,72,2023-01-21 22:31
 -34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,5,2023-01-21 18:00
 -34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-21 18:00
 -34.220447720,-58.682906996,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-21 18:00
@@ -145,67 +141,71 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.265332606,-58.583355493,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-21 18:00
 -34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-21 18:00
 -34.257415223,-58.646784397,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,2,2023-01-21 18:00
--34.608372441,-58.728565223,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,249,2023-01-21 19:00
--34.597884833,-58.853754458,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,118,2023-01-21 18:00
--34.626318755,-58.807448296,12,media,Edenor,Moreno,La Reja,S/D,R:Catonas/256-Tr2/256-5535,240,2023-01-21 19:00
--34.545930052,-58.708309021,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,143,2023-01-21 18:00
--34.543972398,-58.710623564,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,5,2023-01-21 18:00
--34.545492804,-58.710268804,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,102,2023-01-21 18:00
--34.542262751,-58.710632963,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,74,2023-01-21 18:00
--34.543823033,-58.709997600,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,1,2023-01-21 18:00
--34.542171115,-58.710822329,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,336,2023-01-21 18:00
--34.543893909,-58.710882892,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,179,2023-01-21 18:00
--34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,25,2023-01-21 19:00
--34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,2,2023-01-21 19:00
--34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,2,2023-01-21 19:00
--34.360008826,-58.677282287,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,47,2023-01-21 19:00
--34.351333754,-58.682781151,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,30,2023-01-21 19:00
--34.336433840,-58.675489405,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,8,2023-01-21 19:00
--34.326331135,-58.672323649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,23,2023-01-21 19:00
--34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,20,2023-01-21 19:00
--34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,27,2023-01-21 19:00
--34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,6,2023-01-21 19:00
--34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,35,2023-01-21 19:00
+-34.608372441,-58.728565223,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,249,2023-01-21 18:00
+-34.597884833,-58.853754458,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,118,2023-01-21 19:00
+-34.626318755,-58.807448296,12,media,Edenor,Moreno,La Reja,S/D,R:Catonas/256-Tr2/256-5535,240,2023-01-21 18:00
+-34.545930052,-58.708309021,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,143,2023-01-21 19:00
+-34.543972398,-58.710623564,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,5,2023-01-21 19:00
+-34.545492804,-58.710268804,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,102,2023-01-21 19:00
+-34.542262751,-58.710632963,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,74,2023-01-21 19:00
+-34.543823033,-58.709997600,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,1,2023-01-21 19:00
+-34.542171115,-58.710822329,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,336,2023-01-21 19:00
+-34.543893909,-58.710882892,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr2/362-5525,179,2023-01-21 19:00
+-34.346468118,-58.679119612,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,25,2023-01-21 18:00
+-34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,2,2023-01-21 18:00
+-34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,2,2023-01-21 18:00
+-34.360008826,-58.677282287,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,47,2023-01-21 18:00
+-34.351333754,-58.682781151,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,30,2023-01-21 18:00
+-34.336433840,-58.675489405,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,8,2023-01-21 18:00
+-34.326331135,-58.672323649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,23,2023-01-21 18:00
+-34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,20,2023-01-21 18:00
+-34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,27,2023-01-21 18:00
+-34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,6,2023-01-21 18:00
+-34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,35,2023-01-21 18:00
 -34.6238,-58.6476,22,baja,Edenor,Hurlingham,Villa Tesei,,,4,
 -34.5912,-58.6349,22,baja,Edenor,Hurlingham,Hurlingham,,,19,
--34.6319,-58.8145,22,baja,Edenor,Moreno,La Reja,,,11,
 -34.4776,-58.7289,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,22,
 -34.5964,-58.6372,22,baja,Edenor,Hurlingham,Hurlingham,,,20,
 -34.5861,-58.7424,22,baja,Edenor,San Miguel,San Miguel,,,4,
 -34.4799,-58.7358,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,2,
 -34.696,-58.7369,22,baja,Edenor,Merlo,Merlo,,,35,
 -34.6488,-58.6205,22,baja,Edenor,Moron,Moron,,,6,
+-34.441,-58.7789,22,baja,Edenor,Pilar,Manuel Alberti,,,12,
 -34.6327,-58.6428,22,baja,Edenor,Hurlingham,Villa Tesei,,,30,
 -34.4089,-58.7843,22,baja,Edenor,Pilar,Luis Lagomarsino,,,22,
 -34.5694,-58.5968,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,16,
--34.4536,-58.6959,22,baja,Edenor,Tigre,Ricardo Rojas,,,20,
+-34.4536,-58.6959,22,baja,Edenor,Tigre,Ricardo Rojas,,,24,
 -34.6256,-58.5897,22,baja,Edenor,Moron,El Palomar,,,17,
 -34.5979,-58.8574,22,baja,Edenor,Moreno,Francisco Alvarez,,,15,
--34.6632,-58.7739,22,baja,Edenor,Moreno,Moreno,,,7,
+-34.6632,-58.7739,22,baja,Edenor,Moreno,Moreno,,,15,
+-34.491,-58.6387,22,baja,Edenor,Tigre,Don Torcuato,,,4,
 -34.6135,-58.8553,22,baja,Edenor,Moreno,Francisco Alvarez,,,3,
 -34.42,-58.5737,22,baja,Edenor,Tigre,Ciudad De Tigre,,,52,
+-34.3638,-58.6678,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,4,
+-34.4259,-58.5963,22,baja,Edenor,Tigre,Ciudad De Tigre,,,24,
+-34.6939,-58.5915,22,baja,Edenor,La Matanza,Isidro Casanova,,,83,
 -34.6046,-58.3945,21,baja,Edesur,Capital,Balvanera,,,20,
 -34.6048,-58.4045,21,baja,Edesur,Capital,Balvanera,,,9,
 -34.6489,-58.4275,21,baja,Edesur,Capital,Nueva Pompeya,,,7,
 -34.7318,-58.2701,21,baja,Edesur,Quilmes,Quilmes,,,79,
 -34.6539,-58.4709,21,baja,Edesur,Capital,Parque Avellaneda,,,13,
 -34.6136,-58.3951,21,baja,Edesur,Capital,Balvanera,,,16,
--34.6035,-58.4687,21,baja,Edesur,Capital,Capital,,,65,
+-34.6035,-58.4687,21,baja,Edesur,Capital,Capital,,,66,
 -34.6803,-58.4719,21,baja,Edesur,Capital,Villa Lugano,,,22,
 -34.8911,-58.5671,21,baja,Edesur,Ezeiza,Tristan Suarez,,,36,
 -34.6265,-58.4725,21,baja,Edesur,Capital,Capital,,,17,
 -34.7067,-58.3143,21,baja,Edesur,Avellaneda,Wilde,,,21,
 -34.6533,-58.5071,21,baja,Edesur,Capital,Mataderos,,,145,
--34.6452,-58.4191,21,baja,Edesur,Capital,Nueva Pompeya,,,5,
+-34.6452,-58.4191,21,baja,Edesur,Capital,Nueva Pompeya,,,6,
 -34.853,-58.5325,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,21,
--34.794,-58.2272,21,baja,Edesur,Berazategui,Berazategui,,,23,
+-34.794,-58.2272,21,baja,Edesur,Berazategui,Berazategui,,,22,
 -34.8271,-58.2809,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,
 -34.6167,-58.3919,21,baja,Edesur,Capital,Monserrat,,,14,
 -34.8177,-58.4351,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,8,
--34.6126,-58.3715,21,baja,Edesur,Capital,Monserrat,,,53,
+-34.6126,-58.3715,21,baja,Edesur,Capital,Monserrat,,,54,
 -34.6283,-58.3898,21,baja,Edesur,Capital,Constitucion,,,6,
 -34.6269,-58.386,21,baja,Edesur,Capital,Constitucion,,,15,
 -34.5924,-58.3853,21,baja,Edesur,Capital,Retiro,,,6,
+-34.8563,-58.3983,21,baja,Edesur,Almirante Brown,Longchamps,,,3,
 -34.6141,-58.4915,21,baja,Edesur,Capital,Villa Sta. Rita,,,18,
--34.656,-58.3759,21,baja,Edesur,Capital,Barracas,,,13,
 -34.6397,-58.3629,21,baja,Edesur,Capital,La Boca,,,3,
