@@ -19,7 +19,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.706789432,-58.280756647,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-1-11/077-1-11,165,2023-01-22 07:42
 -34.709739187,-58.281708714,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-1-11/077-1-11,12,2023-01-22 07:42
 -34.702877447,-58.286279875,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-1-11/077-1-11,280,2023-01-22 07:42
--34.699926564,-58.289216592,11,media,Edesur,Quilmes,Don Bosco,Don Bosco,R:077-1-11/077-1-11,236,2023-01-22 07:42
 -34.698959186,-58.293774539,11,media,Edesur,Quilmes,Don Bosco,Don Bosco,R:077-1-11/077-1-11,1,2023-01-22 07:42
 -34.220447720,-58.682906996,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-22 05:00
 -34.198964935,-58.542859084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-22 05:00
@@ -50,11 +49,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,27,Sin Datos
 -34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,6,Sin Datos
 -34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,N:Maschwitz/154-Tr4/154-5481/951-5522,35,Sin Datos
--34.698517453,-58.639054462,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr2/64-5521,259,Sin Datos
--34.701104343,-58.642795395,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr2/64-5521,405,Sin Datos
--34.697587190,-58.637126903,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr2/64-5521,492,Sin Datos
--34.698225791,-58.641868455,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr2/64-5521,178,Sin Datos
--34.703351825,-58.642254580,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr2/64-5521,359,Sin Datos
 -34.5861,-58.7424,22,baja,Edenor,San Miguel,San Miguel,,,4,
 -34.3848,-58.5792,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,8,
 -34.3638,-58.6678,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
@@ -68,7 +62,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6246,-58.5883,22,baja,Edenor,Moron,El Palomar,,,12,
 -34.5962,-58.6528,22,baja,Edenor,Hurlingham,Hurlingham,,,4,
 -34.4841,-58.8814,22,baja,Edenor,Pilar,Villa Astolfi,,,6,
--34.6096,-58.726,22,baja,Edenor,Moreno,Trujui,,,27,
 -34.8911,-58.5671,21,baja,Edesur,Ezeiza,Tristan Suarez,,,41,
 -34.7013,-58.3527,21,baja,Edesur,Avellaneda,Villa Dominico,,,2,
 -34.6167,-58.3919,21,baja,Edesur,Capital,Monserrat,,,18,
