@@ -1,9 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.668804654,-58.530820322,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr1/164-5511,39,2023-01-22 14:00
--34.416894687,-59.008891106,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,3,2023-01-22 15:00
--34.416543438,-59.007938844,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,2,2023-01-22 15:00
--34.415061928,-59.004825574,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,9,2023-01-22 15:00
--34.411237726,-59.008263830,12,media,Edenor,Pilar,Pilar,S/D,R:Parque/357-Tr4/357-5483,1,2023-01-22 15:00
+-34.416894687,-59.008891106,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,3,2023-01-22 14:00
+-34.416543438,-59.007938844,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,2,2023-01-22 14:00
+-34.415061928,-59.004825574,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5483,9,2023-01-22 14:00
+-34.411237726,-59.008263830,12,media,Edenor,Pilar,Pilar,S/D,R:Parque/357-Tr4/357-5483,1,2023-01-22 14:00
 -34.220447720,-58.682906996,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,2023-01-22 14:00
 -34.198964935,-58.542859084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,2023-01-22 14:00
 -34.192562902,-58.543511928,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-22 14:00
@@ -16,15 +16,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.248447537,-58.671546852,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,2023-01-22 14:00
 -34.188056178,-58.541000580,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-22 14:00
 -34.157158209,-58.541970014,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,1,2023-01-22 14:00
--34.792494969,-58.833188865,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2023-01-22 14:00
--34.433370371,-58.599473763,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Tigre/153-Tr2/153-5524,76,2023-01-22 14:00
--34.568143913,-58.457062249,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr1/114-5511,423,2023-01-22 14:00
+-34.792494969,-58.833188865,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,1,2023-01-22 15:00
+-34.433370371,-58.599473763,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Tigre/153-Tr2/153-5524,76,2023-01-22 15:00
 -34.3848,-58.5792,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,8,
 -34.8138,-58.636,22,baja,Edenor,La Matanza,Virrey Del Pino,,,64,
 -34.5572,-58.7482,22,baja,Edenor,San Miguel,San Miguel,,,34,
 -34.5882,-58.4189,22,baja,Edenor,Capital Federal,Palermo,,,17,
 -34.6434,-58.5634,22,baja,Edenor,La Matanza,Ramos Mejia,,,5,
 -34.6221,-58.9698,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,26,
+-34.6261,-58.661,22,baja,Edenor,Hurlingham,Villa Tesei,,,4,
 -34.8904,-58.5682,21,baja,Edesur,Ezeiza,Tristan Suarez,,,43,
 -34.6167,-58.3919,21,baja,Edesur,Capital,Monserrat,,,18,
 -34.9369,-58.3901,21,baja,Edesur,Pte Peron,Guernica,,,3,
@@ -34,8 +34,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6151,-58.3711,21,baja,Edesur,Capital,Monserrat,,,6,
 -34.694,-58.4226,21,baja,Edesur,Lanus,Lanus,,,5,
 -34.612,-58.4873,21,baja,Edesur,Capital,Villa Sta. Rita,,,9,
--34.6313,-58.4966,21,baja,Edesur,Capital,Velez Sarfield,,,11,
+-34.6313,-58.4966,21,baja,Edesur,Capital,Velez Sarfield,,,14,
 -34.776,-58.3632,21,baja,Edesur,Almirante Brown,Marmol,,,13,
+-34.6338,-58.4473,21,baja,Edesur,Capital,Parque Chacabuco,,,5,
 -34.7665,-58.4123,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,8,
 -34.7886,-58.4946,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,
 -34.8213,-58.5037,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,8,
