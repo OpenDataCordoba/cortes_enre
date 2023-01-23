@@ -19,11 +19,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.722225652,-58.283942377,11,media,Edesur,Quilmes,Quilmes Oeste,Don Bosco,R:077-1-16/077-1-16,1,2023-01-23 19:12
 -34.712193382,-58.284084954,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-1-16/077-1-16,294,2023-01-23 19:12
 -34.709204723,-58.283965239,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-1-16/077-1-16,1,2023-01-23 19:12
--34.475997862,-58.856579821,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,61,Sin Datos
--34.480688741,-58.858591756,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,66,Sin Datos
--34.484870545,-58.857428344,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,69,Sin Datos
--34.483699975,-58.867573133,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,30,Sin Datos
--34.482715506,-58.858080980,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,1,Sin Datos
+-34.475997862,-58.856579821,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,61,2023-01-23 18:00
+-34.480688741,-58.858591756,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,66,2023-01-23 18:00
+-34.484870545,-58.857428344,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,69,2023-01-23 18:00
+-34.483699975,-58.867573133,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,30,2023-01-23 18:00
+-34.482715506,-58.858080980,12,media,Edenor,Pilar,Pte Derqui,S/D,R:Derqui/260-Tr1/260-5512,1,2023-01-23 18:00
 -34.220447720,-58.682906996,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,3,Sin Datos
 -34.198964935,-58.542859084,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,6,Sin Datos
 -34.192562902,-58.543511928,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),S/D,S/D,4,Sin Datos
@@ -35,48 +35,65 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.216003680,-58.652915279,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-23 18:00
 -34.208792495,-58.655222311,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-23 18:00
 -34.215835213,-58.643792841,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-23 18:00
--34.814724616,-58.872912318,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,59,2023-01-23 19:00
--34.902804892,-58.824506716,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
--34.654383540,-58.628371005,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,374,Sin Datos
--34.656615048,-58.629675109,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,81,Sin Datos
--34.655823270,-58.627659755,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,243,Sin Datos
--34.655226701,-58.627270656,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,268,Sin Datos
--34.649167522,-58.622219893,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,319,Sin Datos
--34.655234355,-58.626077778,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,307,Sin Datos
--34.648409124,-58.620742700,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,304,Sin Datos
--34.648385437,-58.622302024,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,128,Sin Datos
--34.656588931,-58.628820903,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,94,Sin Datos
--34.650310733,-58.623940770,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,234,Sin Datos
--34.651168674,-58.623640806,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,107,Sin Datos
--34.654202675,-58.628248744,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,298,Sin Datos
--34.714655827,-58.653756259,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,223,Sin Datos
--34.716828880,-58.657969319,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,29,Sin Datos
--34.703807830,-58.650104283,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,235,Sin Datos
--34.706267545,-58.646863528,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,301,Sin Datos
--34.701727873,-58.652481860,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,374,Sin Datos
--34.709157605,-58.649512956,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,310,Sin Datos
--34.712047344,-58.646532130,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,210,Sin Datos
--34.716653517,-58.651073165,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,Sin Datos
--34.720163081,-58.648603753,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,Sin Datos
--34.717907595,-58.646125690,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,Sin Datos
--34.711051228,-58.651625488,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,76,Sin Datos
--34.704779780,-58.648807230,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,223,Sin Datos
--34.705037414,-58.645172660,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,206,Sin Datos
--34.703060798,-58.651091870,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,278,Sin Datos
+-34.814724616,-58.872912318,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5523,59,Sin Datos
+-34.902804892,-58.824506716,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-23 19:00
+-34.654383540,-58.628371005,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,374,2023-01-23 18:00
+-34.656615048,-58.629675109,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,81,2023-01-23 18:00
+-34.655823270,-58.627659755,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,243,2023-01-23 18:00
+-34.655226701,-58.627270656,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,268,2023-01-23 18:00
+-34.649167522,-58.622219893,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,319,2023-01-23 18:00
+-34.655234355,-58.626077778,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,307,2023-01-23 18:00
+-34.648409124,-58.620742700,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,304,2023-01-23 18:00
+-34.648385437,-58.622302024,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,128,2023-01-23 18:00
+-34.656588931,-58.628820903,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,94,2023-01-23 18:00
+-34.650310733,-58.623940770,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,234,2023-01-23 18:00
+-34.651168674,-58.623640806,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,107,2023-01-23 18:00
+-34.654202675,-58.628248744,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,298,2023-01-23 18:00
+-34.714655827,-58.653756259,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,223,2023-01-23 19:00
+-34.716828880,-58.657969319,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,29,2023-01-23 19:00
+-34.703807830,-58.650104283,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,235,2023-01-23 19:00
+-34.706267545,-58.646863528,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,301,2023-01-23 19:00
+-34.701727873,-58.652481860,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,374,2023-01-23 19:00
+-34.709157605,-58.649512956,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,310,2023-01-23 19:00
+-34.712047344,-58.646532130,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,210,2023-01-23 19:00
+-34.716653517,-58.651073165,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,2023-01-23 19:00
+-34.720163081,-58.648603753,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,2023-01-23 19:00
+-34.717907595,-58.646125690,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,1,2023-01-23 19:00
+-34.711051228,-58.651625488,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,76,2023-01-23 19:00
+-34.704779780,-58.648807230,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,223,2023-01-23 19:00
+-34.705037414,-58.645172660,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,206,2023-01-23 19:00
+-34.703060798,-58.651091870,12,media,Edenor,Merlo,Libertad,S/D,R:Pantanosa/365-Tr1/365-5517,278,2023-01-23 19:00
+-34.634830529,-58.656967979,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:Castelar/61-Tr1/61-5513,290,2023-01-23 21:00
+-34.636441172,-58.641492769,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,63,2023-01-23 21:00
+-34.638693804,-58.635625659,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,88,2023-01-23 21:00
+-34.637791449,-58.641935562,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,118,2023-01-23 21:00
+-34.635567953,-58.649918232,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,227,2023-01-23 21:00
+-34.636563292,-58.640104516,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,50,2023-01-23 21:00
+-34.637518028,-58.635495261,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,150,2023-01-23 21:00
+-34.637129146,-58.639225965,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,234,2023-01-23 21:00
+-34.638101584,-58.645715393,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,116,2023-01-23 21:00
+-34.635458486,-58.652600331,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,287,2023-01-23 21:00
+-34.640258943,-58.623460178,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,395,2023-01-23 21:00
+-34.638639485,-58.634358314,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,382,2023-01-23 21:00
+-34.634923491,-58.646840988,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,324,2023-01-23 21:00
+-34.636712247,-58.638688427,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,332,2023-01-23 21:00
+-34.636269052,-58.643637354,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,304,2023-01-23 21:00
+-34.637334461,-58.630858659,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,215,2023-01-23 21:00
+-34.637338098,-58.630271931,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,206,2023-01-23 21:00
+-34.636975369,-58.635651187,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,177,2023-01-23 21:00
+-34.637357581,-58.650173888,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,172,2023-01-23 21:00
+-34.638290008,-58.647269321,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr1/61-5513,160,2023-01-23 21:00
 -34.5465,-58.7098,22,baja,Edenor,San Miguel,San Miguel,,,6,
--34.5711,-58.5317,22,baja,Edenor,Gral San Martin,Villa Maipu,,,23,
+-34.6188,-58.9175,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,
 -34.5597,-58.4703,22,baja,Edenor,Capital Federal,Nu?Ez,,,9,
 -34.6884,-58.7257,22,baja,Edenor,Merlo,Merlo,,,8,
 -34.6547,-58.7124,22,baja,Edenor,Merlo,San Antonio De Padua,,,35,
--34.6906,-58.6939,22,baja,Edenor,Merlo,Libertad,,,4,
--34.6449,-58.5657,22,baja,Edenor,La Matanza,Ramos Mejia,,,5,
--34.6776,-58.5141,22,baja,Edenor,La Matanza,La Tablada,,,69,
+-34.6906,-58.6939,22,baja,Edenor,Merlo,Libertad,,,5,
+-34.6776,-58.5141,22,baja,Edenor,La Matanza,La Tablada,,,76,
 -34.5897,-58.4742,22,baja,Edenor,Capital Federal,Agronomia,,,5,
 -34.5116,-58.5182,22,baja,Edenor,Vicente Lopez,Olivos,,,33,
 -34.5135,-58.6748,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,42,
 -34.3739,-58.776,22,baja,Edenor,Escobar,Escobar,,,11,
--34.5765,-58.5342,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,16,
--34.4785,-58.7322,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,1,
 -34.6149,-58.945,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,20,
 -34.6625,-58.6214,22,baja,Edenor,Moron,Moron,,,64,
 -34.66,-58.6309,22,baja,Edenor,Moron,Moron,,,29,
@@ -84,7 +101,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6062,-58.5623,22,baja,Edenor,3 De Febrero,Caseros,,,33,
 -34.6641,-58.7706,22,baja,Edenor,Moreno,Paso Del Rey,,,50,
 -34.6758,-58.5055,22,baja,Edenor,La Matanza,La Tablada,,,8,
--34.6787,-58.5192,22,baja,Edenor,La Matanza,La Tablada,,,5,
+-34.6787,-58.5192,22,baja,Edenor,La Matanza,La Tablada,,,87,
 -34.6151,-58.3711,21,baja,Edesur,Capital,Monserrat,,,10,
 -34.7695,-58.2128,21,baja,Edesur,Berazategui,Berazategui,,,69,
 -34.6048,-58.4047,21,baja,Edesur,Capital,Balvanera,,,15,
@@ -94,11 +111,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7945,-58.3121,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,15,
 -34.7479,-58.3346,21,baja,Edesur,Quilmes,Bernal,,,6,
 -34.6274,-58.478,21,baja,Edesur,Capital,Floresta,,,1,
--34.6274,-58.3713,21,baja,Edesur,Capital,Barracas,,,10,
--34.766,-58.4002,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,29,
+-34.6274,-58.3713,21,baja,Edesur,Capital,Barracas,,,11,
+-34.766,-58.4002,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,30,
 -34.7432,-58.2589,21,baja,Edesur,Quilmes,Quilmes,,,7,
 -34.7381,-58.4008,21,baja,Edesur,Lomas De Zamora,Bandfield,,,11,
--34.7158,-58.4101,21,baja,Edesur,Lanus,Remedios De Escalada,,,53,
+-34.7158,-58.4101,21,baja,Edesur,Lanus,Remedios De Escalada,,,60,
 -34.762,-58.4453,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,22,
 -34.739,-58.4084,21,baja,Edesur,Lomas De Zamora,Bandfield,,,4,
 -34.7099,-58.375,21,baja,Edesur,Lanus,Lanus,,,9,
@@ -108,4 +125,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7117,-58.2861,21,baja,Edesur,Quilmes,Bernal,,,12,
 -34.8539,-58.5331,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,2,
 -34.6814,-58.4708,21,baja,Edesur,Capital,Villa Lugano,,,6,
--34.6183,-58.3734,21,baja,Edesur,Capital,San Telmo,,,14,
+-34.6183,-58.3734,21,baja,Edesur,Capital,San Telmo,,,31,
