@@ -1,5 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.764441702,-58.386086022,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-2-25/084-2-25,597,2023-01-23 18:12
+-34.764441702,-58.386086022,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-2-25/084-2-25,597,Sin Datos
 -34.708923237,-58.283123178,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-1-16/077-1-16,413,2023-01-23 19:12
 -34.711497053,-58.283861004,11,media,Edesur,Quilmes,Bernal,Don Bosco,R:077-1-16/077-1-16,132,2023-01-23 19:12
 -34.721541356,-58.284773704,11,media,Edesur,Quilmes,Quilmes Oeste,Don Bosco,R:077-1-16/077-1-16,908,2023-01-23 19:12
@@ -57,8 +57,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6188,-58.9175,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,
 -34.5597,-58.4703,22,baja,Edenor,Capital Federal,Nu?Ez,,,9,
 -34.6884,-58.7257,22,baja,Edenor,Merlo,Merlo,,,21,
--34.6906,-58.6939,22,baja,Edenor,Merlo,Libertad,,,5,
--34.6776,-58.5141,22,baja,Edenor,La Matanza,La Tablada,,,87,
+-34.6906,-58.6939,22,baja,Edenor,Merlo,Libertad,,,6,
+-34.6776,-58.5141,22,baja,Edenor,La Matanza,La Tablada,,,95,
 -34.5897,-58.4742,22,baja,Edenor,Capital Federal,Agronomia,,,5,
 -34.5116,-58.5182,22,baja,Edenor,Vicente Lopez,Olivos,,,33,
 -34.5135,-58.6748,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,42,
@@ -82,7 +82,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6274,-58.3713,21,baja,Edesur,Capital,Barracas,,,14,
 -34.766,-58.4002,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,32,
 -34.7432,-58.2589,21,baja,Edesur,Quilmes,Quilmes,,,7,
--34.7381,-58.4008,21,baja,Edesur,Lomas De Zamora,Bandfield,,,12,
+-34.7381,-58.4008,21,baja,Edesur,Lomas De Zamora,Bandfield,,,13,
 -34.7158,-58.4101,21,baja,Edesur,Lanus,Remedios De Escalada,,,60,
 -34.762,-58.4453,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,19,
 -34.739,-58.4084,21,baja,Edesur,Lomas De Zamora,Bandfield,,,4,
@@ -92,9 +92,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7388,-58.2454,21,baja,Edesur,Quilmes,Quilmes,,,3,
 -34.8539,-58.5331,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,2,
 -34.7258,-58.2866,21,baja,Edesur,Quilmes,Quilmes,,,1,
--34.7415,-58.4294,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,41,
+-34.7415,-58.4294,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,42,
 -34.5902,-58.3921,21,baja,Edesur,Capital,Recoleta,,,4,
--34.7395,-58.453,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,
+-34.7395,-58.453,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,6,
 -34.6183,-58.3734,21,baja,Edesur,Capital,San Telmo,,,62,
 -34.6327,-58.3899,21,baja,Edesur,Capital,Constitucion,,,9,
 -34.6814,-58.4708,21,baja,Edesur,Capital,Villa Lugano,,,7,
