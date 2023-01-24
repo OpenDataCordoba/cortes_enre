@@ -4,23 +4,22 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.674580566,-58.407730748,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,121,2023-01-24 13:52
 -34.671126603,-58.409073016,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,291,2023-01-24 13:52
 -34.638230444,-58.376245645,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-2-24/031-2-24,17,2023-01-24 14:48
+-34.748025178,-58.313237464,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-4-44/184-4-44,2,2023-01-24 16:00
+-34.749260797,-58.314476758,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-4-44/184-4-44,15,2023-01-24 16:00
 -34.716614965,-58.525643033,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,128,2023-01-24 13:00
 -34.717167610,-58.526698025,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr4/65-5542,27,2023-01-24 13:00
 -34.834346155,-58.622295215,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5517,132,2023-01-24 13:00
 -34.769323844,-58.618597891,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr2/168-5524,1,2023-01-24 13:00
 -34.617115005,-58.752213396,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5527,193,Sin Datos
--34.616276078,-58.754053045,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5527,303,2023-01-24 13:00
+-34.616276078,-58.754053045,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5527,303,2023-01-24 14:00
 -34.625142363,-58.735227053,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr1/256-5513,84,2023-01-24 13:00
 -34.626359251,-58.739524502,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr1/256-5513,40,2023-01-24 13:00
 -34.627269975,-58.731928225,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr1/256-5513,81,2023-01-24 13:00
 -34.625115587,-58.736464086,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr1/256-5513,13,2023-01-24 13:00
 -34.288598786,-58.783331949,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5513,33,Sin Datos
--34.385556840,-58.763290601,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,104,2023-01-24 14:00
--34.384293926,-58.761141692,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,47,2023-01-24 14:00
--34.386029908,-58.759752288,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr2/154-5525,17,2023-01-24 14:00
--34.522471999,-58.746566241,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5513,1,Sin Datos
--34.526245339,-58.746919340,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5513,384,Sin Datos
--34.523407824,-58.743823241,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5513,131,Sin Datos
+-34.522471999,-58.746566241,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5513,1,2023-01-24 13:00
+-34.526245339,-58.746919340,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5513,384,2023-01-24 13:00
+-34.523407824,-58.743823241,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:San Miguel/165-Tr1/165-5513,131,2023-01-24 13:00
 -34.6262,-58.7458,22,baja,Edenor,Moreno,Paso Del Rey,,,14,
 -34.7231,-58.5125,22,baja,Edenor,La Matanza,Aldo Bonzi,,,4,
 -34.5271,-58.88,22,baja,Edenor,Pilar,Pilar,,,5,
@@ -42,13 +41,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7774,-58.2634,21,baja,Edesur,Berazategui,Berazategui,,,7,
 -34.6347,-58.4147,21,baja,Edesur,Capital,Boedo,,,8,
 -34.8225,-58.2796,21,baja,Edesur,Florencio Varela,Florencio Varela,,,2,
--34.6287,-58.5158,21,baja,Edesur,Capital,Villa Luro,,,9,
+-34.6287,-58.5158,21,baja,Edesur,Capital,Villa Luro,,,10,
 -34.6096,-58.4198,21,baja,Edesur,Capital,Almagro,,,5,
 -34.8058,-58.4686,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,30,
 -34.7573,-58.3271,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,7,
 -34.6109,-58.4017,21,baja,Edesur,Capital,Balvanera,,,4,
 -34.603,-58.4996,21,baja,Edesur,Capital,Villa Del Parque,,,10,
--34.666,-58.4406,21,baja,Edesur,Capital,Villa Soldati,,,5,
+-34.666,-58.4406,21,baja,Edesur,Capital,Villa Soldati,,,6,
 -34.6152,-58.4302,21,baja,Edesur,Capital,Capital,,,43,
 -34.752,-58.3938,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,
 -34.6336,-58.3892,21,baja,Edesur,Capital,Constitucion,,,26,
