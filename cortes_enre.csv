@@ -4,17 +4,28 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.671126603,-58.409073016,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,291,2023-01-24 05:35
 -34.668160743,-58.411980480,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,3,2023-01-24 05:35
 -34.701214632,-58.395230355,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,521,2023-01-24 03:49
--34.704421140,-58.393586374,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-3-36/186-3-36,28,2023-01-24 03:49
 -34.779907201,-58.380016337,11,media,Edesur,Lomas De Zamora,Temperley,S/D,R:952-1-01/952-1-01,310,2023-01-24 03:49
--34.216003680,-58.652915279,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos
--34.208792495,-58.655222311,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos
--34.215835213,-58.643792841,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos
+-34.216003680,-58.652915279,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-24 01:00
+-34.208792495,-58.655222311,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-24 01:00
+-34.215835213,-58.643792841,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-24 01:00
+-34.777526973,-58.617761277,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,380,Sin Datos
+-34.782475825,-58.611705597,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,439,Sin Datos
+-34.775404647,-58.620447277,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,317,Sin Datos
+-34.779952146,-58.614893657,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,140,Sin Datos
+-34.780972826,-58.611099220,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,165,Sin Datos
+-34.783893198,-58.609979510,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,125,Sin Datos
+-34.775080198,-58.618537641,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,419,Sin Datos
+-34.771702797,-58.619704616,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,203,Sin Datos
+-34.767012935,-58.617641062,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,1,Sin Datos
+-34.763948472,-58.619000464,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,57,Sin Datos
+-34.763840735,-58.616747047,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5527,35,Sin Datos
 -34.656615048,-58.629675109,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,81,Sin Datos
 -34.656588931,-58.628820903,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,94,Sin Datos
 -34.654202675,-58.628248744,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,298,Sin Datos
--34.577475505,-58.421692327,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5517,159,2023-01-24 02:00
+-34.577475505,-58.421692327,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5517,159,Sin Datos
 -34.2217,-58.5345,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,4,
 -34.4188,-58.8674,22,baja,Edenor,Pilar,Villa Rosa,,,27,
+-34.7281,-58.5721,22,baja,Edenor,La Matanza,Isidro Casanova,,,9,
 -34.6262,-58.7458,22,baja,Edenor,Moreno,Paso Del Rey,,,14,
 -34.7016,-58.5244,22,baja,Edenor,La Matanza,La Tablada,,,19,
 -34.6467,-58.5709,22,baja,Edenor,La Matanza,Ramos Mejia,,,89,
@@ -28,12 +39,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.3865,-58.8114,22,baja,Edenor,Escobar,Matheu,,,23,
 -34.616,-58.9407,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,47,
 -34.7289,-58.5955,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
--34.4501,-58.7856,22,baja,Edenor,Pilar,Manuel Alberti,,,18,
--34.524,-58.775,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
+-34.524,-58.775,22,baja,Edenor,Jose C Paz,Jose C Paz,,,18,
 -34.4473,-58.5817,22,baja,Edenor,San Fernando,San Fernando,,,38,
 -34.4603,-58.9166,22,baja,Edenor,Pilar,Pilar,,,30,
 -34.7701,-58.6508,22,baja,Edenor,La Matanza,Gonzalez Catan,,,17,
 -34.6072,-58.8117,22,baja,Edenor,Moreno,Moreno,,,23,
+-34.5762,-58.5657,22,baja,Edenor,Gral San Martin,Juan M De Pueyrredon,,,6,
+-34.7365,-58.6071,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,29,
+-34.5101,-58.8128,22,baja,Edenor,Jose C Paz,Jose C Paz,,,43,
+-34.5552,-58.7257,22,baja,Edenor,San Miguel,San Miguel,,,28,
 -34.6151,-58.3711,21,baja,Edesur,Capital,Monserrat,,,10,
 -34.7695,-58.2128,21,baja,Edesur,Berazategui,Berazategui,,,71,
 -34.7479,-58.3346,21,baja,Edesur,Quilmes,Bernal,,,8,
@@ -50,7 +64,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6347,-58.4147,21,baja,Edesur,Capital,Boedo,,,4,
 -34.7423,-58.2596,21,baja,Edesur,Quilmes,Quilmes,,,2,
 -34.5904,-58.3919,21,baja,Edesur,Capital,Recoleta,,,3,
--34.6287,-58.5158,21,baja,Edesur,Capital,Villa Luro,,,6,
--34.723,-58.3088,21,baja,Edesur,Quilmes,Bernal,,,36,
+-34.6287,-58.5158,21,baja,Edesur,Capital,Villa Luro,,,7,
+-34.723,-58.3088,21,baja,Edesur,Quilmes,Bernal,,,37,
 -34.8058,-58.4686,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,19,
 -34.786,-58.2894,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
