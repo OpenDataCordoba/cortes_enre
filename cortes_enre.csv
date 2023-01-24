@@ -12,95 +12,43 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.780127190,-58.312628654,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-31/184-3-31,63,2023-01-24 21:16
 -34.762821543,-58.320587251,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-31/184-3-31,177,2023-01-24 21:16
 -34.764418753,-58.314847421,11,media,Edesur,Quilmes,San Francisco Solano (Q),Monte Chingolo,R:184-3-31/184-3-31,309,2023-01-24 21:16
--34.908597715,-58.508743314,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,4,2023-01-24 22:19
--34.937322037,-58.498408572,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,36,2023-01-24 22:19
--34.901562803,-58.493204188,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,437,2023-01-24 22:19
--34.920778974,-58.499031166,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,35,2023-01-24 22:19
--34.931095471,-58.487577946,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,17,2023-01-24 22:19
--34.933920664,-58.483937093,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,7,2023-01-24 22:19
--34.932362001,-58.495441189,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,51,2023-01-24 22:19
--34.932270839,-58.488077415,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,6,2023-01-24 22:19
--34.937939670,-58.483543574,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,242,2023-01-24 22:19
--34.937560347,-58.495114399,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,10,2023-01-24 22:19
--34.939435159,-58.488925418,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,9,2023-01-24 22:19
--34.934303175,-58.489455148,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,9,2023-01-24 22:19
--34.938606421,-58.502638672,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,17,2023-01-24 22:19
--34.939686042,-58.498884554,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,17,2023-01-24 22:19
--34.941990413,-58.499866086,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,78,2023-01-24 22:19
--34.943616343,-58.495870117,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,23,2023-01-24 22:19
--34.942972214,-58.493968128,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,14,2023-01-24 22:19
--34.945754618,-58.491867587,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,10,2023-01-24 22:19
--34.944230766,-58.491451887,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,14,2023-01-24 22:19
--34.942028112,-58.491732049,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-1-18/277-1-18,11,2023-01-24 22:19
--34.897113977,-58.484264049,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2023-01-24 22:19
--34.899162761,-58.508861683,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,17,2023-01-24 22:19
--34.900983835,-58.509101587,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,19,2023-01-24 22:19
--34.900967880,-58.506290574,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2023-01-24 22:19
--34.901733910,-58.505615679,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,1,2023-01-24 22:19
--34.902300753,-58.502564480,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2023-01-24 22:19
--34.902534654,-58.500846232,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,3,2023-01-24 22:19
--34.902796950,-58.499109259,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2023-01-24 22:19
--34.903369103,-58.498051378,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,1,2023-01-24 22:19
--34.903430715,-58.502733168,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2023-01-24 22:19
--34.902471362,-58.505958316,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,7,2023-01-24 22:19
--34.900154471,-58.486293095,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,22,2023-01-24 22:19
--34.901979208,-58.489452067,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,8,2023-01-24 22:19
--34.903594933,-58.488555732,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,6,2023-01-24 22:19
--34.900814573,-58.484480750,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,16,2023-01-24 22:19
--34.899592713,-58.482187826,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,12,2023-01-24 22:19
--34.908784571,-58.492415994,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,16,2023-01-24 22:19
--34.906505485,-58.492328335,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,31,2023-01-24 22:19
--34.910065375,-58.489937324,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,26,2023-01-24 22:19
--34.905752002,-58.495370406,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,23,2023-01-24 22:19
--34.908791713,-58.494643836,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,12,2023-01-24 22:19
--34.898954531,-58.508428955,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-1-18/277-1-18,2,2023-01-24 22:19
--34.929026531,-58.492634393,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,6,2023-01-24 22:19
--34.925031505,-58.498246794,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,64,2023-01-24 22:19
--34.923090297,-58.502415976,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-1-18/277-1-18,75,2023-01-24 22:19
--34.941775834,-58.510496174,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,168,2023-01-24 22:19
--34.940350753,-58.512694950,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,54,2023-01-24 22:19
--34.939559701,-58.514037031,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,82,2023-01-24 22:19
--34.938759033,-58.515398716,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,51,2023-01-24 22:19
--34.934332651,-58.504919746,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,140,2023-01-24 22:19
--34.931482515,-58.507243856,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,2023-01-24 22:19
--34.928360591,-58.507273430,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-1-18/277-1-18,2,2023-01-24 22:19
--34.796650697,-58.170721338,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,523,2023-01-24 20:34
--34.793230362,-58.180270782,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,382,2023-01-24 20:34
--34.800460598,-58.175378082,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,573,2023-01-24 20:34
--34.793601400,-58.167435907,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,646,2023-01-24 20:34
--34.796804859,-58.163641425,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,59,2023-01-24 20:34
--34.799450095,-58.166821105,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,55,2023-01-24 20:34
--34.792246195,-58.175556593,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,282,2023-01-24 20:34
--34.795370668,-58.177669554,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,394,2023-01-24 20:34
--34.797078671,-58.163949214,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,40,2023-01-24 20:34
--34.803004609,-58.178507240,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,345,2023-01-24 20:34
--34.801153270,-58.168419339,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,6,2023-01-24 20:34
--34.802111095,-58.167186788,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,105,2023-01-24 20:34
--34.792306371,-58.173207016,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,2,2023-01-24 20:34
--34.798936938,-58.176969509,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,2,2023-01-24 20:34
--34.800094915,-58.176412622,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,1,2023-01-24 20:34
--34.794976602,-58.172176119,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,299,2023-01-24 20:34
--34.796826175,-58.183826264,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,1,2023-01-24 20:34
--34.801433425,-58.171696315,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,1,2023-01-24 20:34
--34.801206781,-58.171424267,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,16,2023-01-24 20:34
--34.800336061,-58.170353268,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,18,2023-01-24 20:34
--34.799791347,-58.169690462,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,46,2023-01-24 20:34
--34.800345350,-58.169018869,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,16,2023-01-24 20:34
--34.799289365,-58.169081148,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,21,2023-01-24 20:34
--34.798670289,-58.168332860,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,16,2023-01-24 20:34
--34.799117168,-58.167130643,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,29,2023-01-24 20:34
--34.798152574,-58.167667695,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,19,2023-01-24 20:34
--34.797830195,-58.167220102,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,11,2023-01-24 20:34
--34.798503143,-58.166419188,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,27,2023-01-24 20:34
--34.797030810,-58.166323887,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,30,2023-01-24 20:34
--34.796669740,-58.165894020,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,18,2023-01-24 20:34
--34.796358977,-58.166161916,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,20,2023-01-24 20:34
--34.796273367,-58.165429907,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,15,2023-01-24 20:34
--34.795685771,-58.165671834,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,23,2023-01-24 20:34
--34.796124863,-58.165151573,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,21,2023-01-24 20:34
--34.802211639,-58.171222044,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,131,2023-01-24 20:34
--34.798321624,-58.166639863,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,6,2023-01-24 20:34
--34.796138873,-58.165265995,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,3,2023-01-24 20:34
+-34.796650697,-58.170721338,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,523,Sin Datos
+-34.793230362,-58.180270782,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,382,Sin Datos
+-34.800460598,-58.175378082,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,573,Sin Datos
+-34.793601400,-58.167435907,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,646,Sin Datos
+-34.796804859,-58.163641425,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,59,Sin Datos
+-34.799450095,-58.166821105,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,55,Sin Datos
+-34.792246195,-58.175556593,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,282,Sin Datos
+-34.795370668,-58.177669554,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,394,Sin Datos
+-34.797078671,-58.163949214,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,40,Sin Datos
+-34.803004609,-58.178507240,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,345,Sin Datos
+-34.801153270,-58.168419339,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,6,Sin Datos
+-34.802111095,-58.167186788,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,105,Sin Datos
+-34.792306371,-58.173207016,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,2,Sin Datos
+-34.798936938,-58.176969509,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,2,Sin Datos
+-34.800094915,-58.176412622,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,1,Sin Datos
+-34.794976602,-58.172176119,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,299,Sin Datos
+-34.796826175,-58.183826264,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,1,Sin Datos
+-34.801433425,-58.171696315,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,1,Sin Datos
+-34.801206781,-58.171424267,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,16,Sin Datos
+-34.800336061,-58.170353268,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,18,Sin Datos
+-34.799791347,-58.169690462,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,46,Sin Datos
+-34.800345350,-58.169018869,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,16,Sin Datos
+-34.799289365,-58.169081148,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,21,Sin Datos
+-34.798670289,-58.168332860,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,16,Sin Datos
+-34.799117168,-58.167130643,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,29,Sin Datos
+-34.798152574,-58.167667695,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,19,Sin Datos
+-34.797830195,-58.167220102,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,11,Sin Datos
+-34.798503143,-58.166419188,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,27,Sin Datos
+-34.797030810,-58.166323887,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,30,Sin Datos
+-34.796669740,-58.165894020,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,18,Sin Datos
+-34.796358977,-58.166161916,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,20,Sin Datos
+-34.796273367,-58.165429907,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,15,Sin Datos
+-34.795685771,-58.165671834,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,23,Sin Datos
+-34.796124863,-58.165151573,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,21,Sin Datos
+-34.802211639,-58.171222044,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,131,Sin Datos
+-34.798321624,-58.166639863,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,6,Sin Datos
+-34.796138873,-58.165265995,11,media,Edesur,Berazategui,Hudson,Gutierrez Ii,R:174-1-15/174-1-15,3,Sin Datos
 -34.637820633,-58.496692595,11,media,Edesur,Capital Gp,Villa Luro,Falcon,R:016-3-37/016-3-37,335,2023-01-25 00:02
 -34.637848458,-58.496687270,11,media,Edesur,Capital Gp,Villa Luro,Falcon,R:016-3-37/016-3-37,307,2023-01-25 00:02
 -34.636963719,-58.493859303,11,media,Edesur,Capital Gp,Villa Luro,Falcon,R:016-3-37/016-3-37,348,2023-01-25 00:02
@@ -111,23 +59,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.637327389,-58.502509241,11,media,Edesur,Capital Gp,Villa Luro,Falcon,R:016-3-37/016-3-37,100,2023-01-25 00:02
 -34.636356124,-58.500807766,11,media,Edesur,Capital Gp,Villa Luro,Falcon,R:016-3-37/016-3-37,69,2023-01-25 00:02
 -34.635995372,-58.505759814,11,media,Edesur,Capital Gp,Villa Luro,Falcon,R:016-3-37/016-3-37,2,2023-01-25 00:02
--34.550209756,-58.696664557,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,481,2023-01-25 00:00
--34.553880594,-58.696443426,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,197,2023-01-25 00:00
--34.552919901,-58.695563245,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,122,2023-01-25 00:00
--34.552582879,-58.690866554,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,336,2023-01-25 00:00
--34.549097226,-58.691279606,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,21,2023-01-25 00:00
--34.551283263,-58.703200568,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr2/265-5527,244,2023-01-25 00:00
--34.550050579,-58.690396624,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,108,2023-01-25 00:00
--34.553949684,-58.711661873,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,196,2023-01-25 00:00
--34.551747547,-58.691635239,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,106,2023-01-25 00:00
--34.549799699,-58.704054718,12,media,Edenor,San Miguel,San Miguel,S/D,R:Mu?Iz/265-Tr2/265-5527,60,2023-01-25 00:00
--34.550424132,-58.692943981,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,417,2023-01-25 00:00
--34.550843803,-58.706947504,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,1,2023-01-25 00:00
--34.548183288,-58.689235723,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,1,2023-01-25 00:00
--34.554403272,-58.691769308,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,78,2023-01-25 00:00
--34.554630250,-58.697235177,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,67,2023-01-25 00:00
--34.553637128,-58.698043714,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,355,2023-01-25 00:00
--34.554692109,-58.699908915,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,1,2023-01-25 00:00
+-34.550209756,-58.696664557,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,481,2023-01-24 21:00
+-34.552919901,-58.695563245,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,122,2023-01-24 21:00
+-34.552582879,-58.690866554,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,336,2023-01-24 21:00
+-34.549097226,-58.691279606,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,21,2023-01-24 21:00
+-34.550050579,-58.690396624,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,108,2023-01-24 21:00
+-34.551747547,-58.691635239,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,106,2023-01-24 21:00
+-34.550424132,-58.692943981,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Mu?Iz/265-Tr2/265-5527,417,2023-01-24 21:00
+-34.548183288,-58.689235723,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,1,2023-01-24 21:00
+-34.554403272,-58.691769308,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr2/265-5527,78,2023-01-24 21:00
 -34.6538,-58.7806,22,baja,Edenor,Moreno,Moreno,,,4,
 -34.5521,-58.4537,22,baja,Edenor,Capital Federal,Belgrano,,,12,
 -34.6135,-58.5671,22,baja,Edenor,3 De Febrero,Caseros,,,49,
@@ -138,7 +78,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5575,-58.7404,22,baja,Edenor,San Miguel,San Miguel,,,105,
 -34.4432,-58.9215,22,baja,Edenor,Pilar,Pilar,,,8,
 -34.6622,-58.5762,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,25,
--34.6546,-58.6038,22,baja,Edenor,Moron,Moron,,,32,
 -34.6208,-58.577,22,baja,Edenor,3 De Febrero,Caseros,,,84,
 -34.8463,-58.6394,22,baja,Edenor,La Matanza,Virrey Del Pino,,,17,
 -34.6252,-58.7841,22,baja,Edenor,Moreno,Moreno,,,27,
@@ -154,20 +93,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.645,-58.7635,22,baja,Edenor,Moreno,Moreno,,,68,
 -34.6529,-58.3952,21,baja,Edesur,Capital,Barracas,,,1,
 -34.6045,-58.375,21,baja,Edesur,Capital,San Nicolas,,,5,
--34.6289,-58.5156,21,baja,Edesur,Capital,Villa Luro,,,11,
--34.6253,-58.5229,21,baja,Edesur,Capital,Capital,,,36,
+-34.6102,-58.3879,21,baja,Edesur,Capital,Monserrat,,,6,
+-34.6287,-58.5158,21,baja,Edesur,Capital,Villa Luro,,,11,
+-34.6266,-58.5232,21,baja,Edesur,Capital,Capital,,,36,
 -34.6109,-58.4017,21,baja,Edesur,Capital,Balvanera,,,4,
 -34.6394,-58.3635,21,baja,Edesur,Capital,La Boca,,,12,
 -34.627,-58.4661,21,baja,Edesur,Capital,Capital,,,35,
 -34.6033,-58.395,21,baja,Edesur,Capital,Balvanera,,,12,
 -34.6151,-58.3749,21,baja,Edesur,Capital,Monserrat,,,13,
 -34.6899,-58.305,21,baja,Edesur,Avellaneda,Zona De Reserva,,,3,
--34.6375,-58.4991,21,baja,Edesur,Capital,Villa Luro,,,17,
+-34.6375,-58.4991,21,baja,Edesur,Capital,Villa Luro,,,20,
 -34.698,-58.3244,21,baja,Edesur,Avellaneda,Wilde,,,2,
 -34.6716,-58.3615,21,baja,Edesur,Avellaneda,Avellaneda,,,10,
 -34.7432,-58.2207,21,baja,Edesur,Quilmes,Ezpeleta,,,5,
 -34.7301,-58.2314,21,baja,Edesur,Quilmes,Quilmes,,,4,
 -34.6301,-58.4702,21,baja,Edesur,Capital,Flores,,,23,
+-34.8945,-58.508,21,baja,Edesur,Esteban Echeverria,Canning,,,10,
 -34.698,-58.2828,21,baja,Edesur,Quilmes,Bernal,,,1,
 -34.6888,-58.4778,21,baja,Edesur,Capital,Capital,,,2,
 -34.6964,-58.427,21,baja,Edesur,Lanus,Lanus,,,1,
+-34.6591,-58.4344,21,baja,Edesur,Capital,Villa Soldati,,,3,
