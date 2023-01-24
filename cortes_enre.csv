@@ -4,13 +4,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.674580566,-58.407730748,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,121,2023-01-24 05:35
 -34.671126603,-58.409073016,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,291,2023-01-24 05:35
 -34.779907201,-58.380016337,11,media,Edesur,Lomas De Zamora,Temperley,S/D,R:952-1-01/952-1-01,310,2023-01-24 03:49
--34.216003680,-58.652915279,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos
--34.208792495,-58.655222311,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos
--34.215835213,-58.643792841,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos
+-34.216003680,-58.652915279,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2023-01-24 03:00
+-34.208792495,-58.655222311,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-24 03:00
+-34.215835213,-58.643792841,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-01-24 03:00
 -34.656615048,-58.629675109,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,81,Sin Datos
 -34.656588931,-58.628820903,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,94,Sin Datos
 -34.654202675,-58.628248744,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5532,298,Sin Datos
--34.577475505,-58.421692327,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5517,159,2023-01-24 03:00
+-34.577475505,-58.421692327,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5517,159,2023-01-24 04:00
 -34.2217,-58.5345,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,4,
 -34.4188,-58.8674,22,baja,Edenor,Pilar,Villa Rosa,,,27,
 -34.7281,-58.5721,22,baja,Edenor,La Matanza,Isidro Casanova,,,9,
@@ -44,12 +44,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8281,-58.3893,21,baja,Edesur,Almirante Brown,Burzaco,,,31,
 -34.6368,-58.4477,21,baja,Edesur,Capital,Parque Chacabuco,,,2,
 -34.7381,-58.4008,21,baja,Edesur,Lomas De Zamora,Bandfield,,,21,
--34.7099,-58.375,21,baja,Edesur,Lanus,Lanus,,,7,
 -34.6373,-58.4979,21,baja,Edesur,Capital,Villa Luro,,,21,
--34.6544,-58.506,21,baja,Edesur,Capital,Mataderos,,,41,
+-34.6544,-58.506,21,baja,Edesur,Capital,Mataderos,,,42,
 -34.8539,-58.5331,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,2,
 -34.6327,-58.3899,21,baja,Edesur,Capital,Constitucion,,,29,
--34.6947,-58.4722,21,baja,Edesur,Capital,Villa Riachuelo,,,7,
 -34.6347,-58.4147,21,baja,Edesur,Capital,Boedo,,,5,
 -34.5904,-58.3919,21,baja,Edesur,Capital,Recoleta,,,3,
 -34.6287,-58.5158,21,baja,Edesur,Capital,Villa Luro,,,7,
