@@ -64,17 +64,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.631051016,-58.378351307,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-2-24/124-2-24,4,2023-01-25 09:12
 -34.630486751,-58.376813020,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-2-24/124-2-24,60,2023-01-25 09:12
 -34.631340672,-58.374398817,11,media,Edesur,Capital Rp,Barracas,Constitucion,R:124-2-24/124-2-24,65,2023-01-25 09:12
--34.734176431,-58.620225229,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,11,2023-01-25 04:00
--34.734933010,-58.619214369,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,10,2023-01-25 04:00
--34.734877241,-58.620004080,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,19,2023-01-25 04:00
--34.734329440,-58.619365749,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,37,2023-01-25 04:00
--34.733993390,-58.619177901,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,9,2023-01-25 04:00
--34.734512293,-58.618630541,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,22,2023-01-25 04:00
--34.735613659,-58.619167025,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,7,2023-01-25 04:00
--34.735017114,-58.618476348,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,24,2023-01-25 04:00
--34.734494760,-58.617867317,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,8,2023-01-25 04:00
--34.734063587,-58.617282391,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,41,2023-01-25 04:00
--34.733316574,-58.616514075,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,11,2023-01-25 04:00
+-34.734176431,-58.620225229,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,11,2023-01-25 05:00
+-34.734933010,-58.619214369,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,10,2023-01-25 05:00
+-34.734877241,-58.620004080,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,19,2023-01-25 05:00
+-34.734329440,-58.619365749,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,37,2023-01-25 05:00
+-34.733993390,-58.619177901,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,9,2023-01-25 05:00
+-34.734512293,-58.618630541,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Aeroclub/451-Tr1/451-5542,22,2023-01-25 05:00
+-34.735613659,-58.619167025,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,7,2023-01-25 05:00
+-34.735017114,-58.618476348,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,24,2023-01-25 05:00
+-34.734494760,-58.617867317,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,8,2023-01-25 05:00
+-34.734063587,-58.617282391,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,41,2023-01-25 05:00
+-34.733316574,-58.616514075,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5542,11,2023-01-25 05:00
 -34.6998,-58.6981,22,baja,Edenor,Merlo,Libertad,,,11,
 -34.7088,-58.536,22,baja,Edenor,La Matanza,Ciudad Evita,,,27,
 -34.4541,-59.0036,22,baja,Edenor,Pilar,Manzanares,,,34,
@@ -108,7 +108,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.687,-58.3565,21,baja,Edesur,Avellaneda,Sarandi,,,35,
 -34.7062,-58.3525,21,baja,Edesur,Avellaneda,Villa Dominico,,,22,
 -34.7899,-58.47,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,10,
--34.6591,-58.4344,21,baja,Edesur,Capital,Villa Soldati,,,3,
+-34.6591,-58.4344,21,baja,Edesur,Capital,Villa Soldati,,,4,
 -34.6849,-58.3984,21,baja,Edesur,Lanus,Gerli,,,4,
 -34.6799,-58.489,21,baja,Edesur,Capital,Villa Lugano,,,18,
 -34.6325,-58.5185,21,baja,Edesur,Capital,Capital,,,9,
@@ -119,3 +119,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7636,-58.4264,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,18,
 -34.6676,-58.3959,21,baja,Edesur,Avellaneda,Avellaneda,,,7,
 -34.6673,-58.3962,21,baja,Edesur,Avellaneda,Piñeyro,,,6,
+-34.632,-58.3857,21,baja,Edesur,Capital,Constitucion,,,1,
