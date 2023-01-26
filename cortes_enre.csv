@@ -1,9 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.624068730,-58.477594035,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-4-45/143-4-45,351,2023-01-26 15:13
--34.624895282,-58.478863930,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-4-45/143-4-45,317,2023-01-26 15:13
 -34.623142791,-58.480001814,11,media,Edesur,Capital Gp,Villa Sta. Rita,Santa Rita,R:143-4-45/143-4-45,554,2023-01-26 15:13
--34.623864747,-58.477512398,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-4-45/143-4-45,2,2023-01-26 15:13
--34.623747706,-58.476961777,11,media,Edesur,Capital Gp,Flores Gp,Santa Rita,R:143-4-45/143-4-45,181,2023-01-26 15:13
 -34.625231840,-58.477577206,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-4-45/143-4-45,70,2023-01-26 15:13
 -34.622185758,-58.477957259,11,media,Edesur,Capital Gp,Villa Sta. Rita,Santa Rita,R:143-4-45/143-4-45,1,2023-01-26 15:13
 -34.805534470,-58.305828155,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,245,2023-01-26 13:16
@@ -92,7 +88,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.693552018,-58.539965516,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5544,44,Sin Datos
 -34.709998468,-58.678569077,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5517,48,2023-01-26 13:00
 -34.671927940,-58.761656601,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr1/258-5542,353,2023-01-26 13:00
--34.724653367,-58.766357619,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Pontevedra/261-Tr1/261-5512,4,2023-01-26 13:00
 -34.722052738,-58.487895705,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,476,2023-01-26 13:00
 -34.720758418,-58.489458245,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,267,2023-01-26 13:00
 -34.724213838,-58.485066335,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,528,2023-01-26 13:00
@@ -107,18 +102,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4943,-58.5478,22,baja,Edenor,San Isidro,San Isidro,,,3,
 -34.6301,-58.6412,22,baja,Edenor,Hurlingham,Villa Tesei,,,22,
 -34.7413,-58.6184,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,19,
--34.4803,-58.8926,22,baja,Edenor,Pilar,Villa Rosa,,,1,
 -34.7174,-58.5965,22,baja,Edenor,La Matanza,Isidro Casanova,,,4,
 -34.5854,-58.7034,22,baja,Edenor,San Miguel,Bella Vista,,,13,
 -34.6553,-58.6232,22,baja,Edenor,Moron,Moron,,,1,
 -34.6178,-58.5462,22,baja,Edenor,3 De Febrero,Caseros,,,30,
 -34.5419,-58.5378,22,baja,Edenor,Vicente Lopez,Munro,,,18,
+-34.5129,-58.4947,22,baja,Edenor,Vicente Lopez,Olivos,,,4,
 -34.6334,-58.3693,21,baja,Edesur,Capital,La Boca,,,4,
 -34.6268,-58.3962,21,baja,Edesur,Capital,San Cristobal,,,13,
 -34.7333,-58.4975,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,3,
--34.7229,-58.3673,21,baja,Edesur,Lanus,Monte Chingolo,,,33,
--34.8012,-58.4312,21,baja,Edesur,Lomas De Zamora,Lavallol,,,119,
--34.6319,-58.4162,21,baja,Edesur,Capital,Boedo,,,16,
+-34.7229,-58.3673,21,baja,Edesur,Lanus,Monte Chingolo,,,32,
+-34.8012,-58.4312,21,baja,Edesur,Lomas De Zamora,Lavallol,,,120,
+-34.6324,-58.4162,21,baja,Edesur,Capital,Boedo,,,18,
 -34.616,-58.4642,21,baja,Edesur,Capital,Flores,,,9,
 -34.8358,-58.2873,21,baja,Edesur,Florencio Varela,Florencio Varela,,,18,
 -34.7567,-58.2457,21,baja,Edesur,Quilmes,Ezpeleta,,,4,
@@ -126,11 +121,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8213,-58.2108,21,baja,Edesur,Florencio Varela,Bosques,,,6,
 -34.8238,-58.445,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,
 -34.7311,-58.231,21,baja,Edesur,Quilmes,Quilmes,,,5,
--34.7432,-58.2207,21,baja,Edesur,Quilmes,Ezpeleta,,,3,
--34.9947,-58.3714,21,baja,Edesur,San Vicente,San Vicente,,,12,
+-34.7432,-58.2207,21,baja,Edesur,Quilmes,Ezpeleta,,,4,
 -34.6159,-58.4442,21,baja,Edesur,Capital,Capital,,,21,
--34.6297,-58.4686,21,baja,Edesur,Capital,Capital,,,22,
+-34.6297,-58.4686,21,baja,Edesur,Capital,Capital,,,25,
 -34.6262,-58.4366,21,baja,Edesur,Capital,Caballito,,,8,
--34.5976,-58.4422,21,baja,Edesur,Capital,Villa Crespo,,,15,
--34.6262,-58.4706,21,baja,Edesur,Capital,Capital,,,11,
+-34.5976,-58.4422,21,baja,Edesur,Capital,Villa Crespo,,,16,
+-34.6262,-58.4706,21,baja,Edesur,Capital,Capital,,,12,
 -34.7774,-58.3637,21,baja,Edesur,Almirante Brown,Marmol,,,1,
+-34.7516,-58.3994,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,4,
+-34.653,-58.4127,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
+-34.8358,-58.4916,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,1,
