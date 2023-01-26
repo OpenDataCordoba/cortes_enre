@@ -1,11 +1,10 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.683817205,-58.560109192,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5544,343,Sin Datos
--34.651188070,-58.622412071,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr1/61-5548,78,Sin Datos
--34.655830179,-58.621288256,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr1/61-5548,267,Sin Datos
--34.652384190,-58.622500347,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr1/61-5548,276,Sin Datos
--34.653458998,-58.623778037,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr1/61-5548,317,Sin Datos
+-34.683817205,-58.560109192,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5544,343,2023-01-26 01:00
+-34.651188070,-58.622412071,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr1/61-5548,78,2023-01-26 02:00
+-34.655830179,-58.621288256,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr1/61-5548,267,2023-01-26 02:00
+-34.652384190,-58.622500347,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr1/61-5548,276,2023-01-26 02:00
+-34.653458998,-58.623778037,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr1/61-5548,317,2023-01-26 02:00
 -34.6031,-58.9988,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,
--34.6488,-58.7072,22,baja,Edenor,Ituzaingo,Ituzaingo,,,4,
 -34.3344,-58.7604,22,baja,Edenor,Escobar,Escobar,,,46,
 -34.3585,-58.543,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
 -34.6462,-58.7082,22,baja,Edenor,Ituzaingo,Ituzaingo,,,1,
@@ -16,11 +15,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6921,-58.6128,22,baja,Edenor,La Matanza,Rafael Castillo,,,4,
 -34.4416,-58.7784,22,baja,Edenor,Pilar,Manuel Alberti,,,11,
 -34.5245,-58.7871,22,baja,Edenor,Jose C Paz,Jose C Paz,,,27,
--34.7816,-58.2827,21,baja,Edesur,Florencio Varela,Florencio Varela,,,24,
--34.6327,-58.3701,21,baja,Edesur,Capital,La Boca,,,30,
+-34.6183,-58.558,22,baja,Edenor,3 De Febrero,Caseros,,,39,
+-34.5564,-58.6095,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,4,
+-34.6327,-58.3701,21,baja,Edesur,Capital,La Boca,,,31,
 -34.743,-58.2204,21,baja,Edesur,Quilmes,Ezpeleta,,,9,
 -34.6268,-58.3962,21,baja,Edesur,Capital,San Cristobal,,,18,
--34.5977,-58.5155,21,baja,Edesur,Capital,Capital,,,26,
 -34.7229,-58.3673,21,baja,Edesur,Lanus,Monte Chingolo,,,29,
 -34.7974,-58.3053,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,
 -34.8237,-58.4451,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,5,
@@ -29,7 +28,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6142,-58.4601,21,baja,Edesur,Capital,Flores,,,24,
 -34.6317,-58.4162,21,baja,Edesur,Capital,Boedo,,,5,
 -34.7644,-58.4252,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,
--34.7404,-58.4584,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
 -34.6158,-58.4643,21,baja,Edesur,Capital,Flores,,,8,
 -34.7469,-58.3982,21,baja,Edesur,Lomas De Zamora,Bandfield,,,13,
 -34.8358,-58.2873,21,baja,Edesur,Florencio Varela,Florencio Varela,,,16,
+-34.7327,-58.4583,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,9,
