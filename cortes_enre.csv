@@ -1,256 +1,214 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.623142791,-58.480001814,11,media,Edesur,Capital Gp,Villa Sta. Rita,Santa Rita,R:143-4-45/143-4-45,554,2023-01-26 15:13
--34.625231840,-58.477577206,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-4-45/143-4-45,70,2023-01-26 15:13
--34.622185758,-58.477957259,11,media,Edesur,Capital Gp,Villa Sta. Rita,Santa Rita,R:143-4-45/143-4-45,1,2023-01-26 15:13
--34.805534470,-58.305828155,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,245,2023-01-26 13:16
--34.805394653,-58.317561723,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,17,2023-01-26 13:16
--34.806138286,-58.314109875,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,1,2023-01-26 13:16
--34.811292636,-58.317104990,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,12,2023-01-26 13:16
--34.811181216,-58.326132574,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,42,2023-01-26 13:16
--34.811556468,-58.317565060,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,6,2023-01-26 13:16
--34.811321406,-58.325239965,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,15,2023-01-26 13:16
--34.810405885,-58.323525162,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,31,2023-01-26 13:16
--34.811276878,-58.321913566,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,27,2023-01-26 13:16
--34.813487770,-58.322895803,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,23,2023-01-26 13:16
--34.814235174,-58.322277921,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,27,2023-01-26 13:16
--34.811709592,-58.321573915,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,30,2023-01-26 13:16
--34.812394207,-58.320979150,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,28,2023-01-26 13:16
--34.809462918,-58.321766262,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,28,2023-01-26 13:16
--34.808503119,-58.321044291,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,31,2023-01-26 13:16
--34.809291764,-58.320423140,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,15,2023-01-26 13:16
--34.807492384,-58.320133483,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,28,2023-01-26 13:16
--34.807008666,-58.319310012,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,37,2023-01-26 13:16
--34.808306587,-58.319481600,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,12,2023-01-26 13:16
--34.808589379,-58.319255259,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,18,2023-01-26 13:16
--34.807992091,-58.317976028,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,16,2023-01-26 13:16
--34.810260425,-58.321137598,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,35,2023-01-26 13:16
--34.807924898,-58.315892680,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,23,2023-01-26 13:16
--34.808501196,-58.315968192,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,39,2023-01-26 13:16
--34.809191712,-58.315374366,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,7,2023-01-26 13:16
--34.809635238,-58.314993138,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,13,2023-01-26 13:16
--34.809969710,-58.314705668,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,15,2023-01-26 13:16
--34.810217503,-58.319092688,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,13,2023-01-26 13:16
--34.810087627,-58.318862898,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,18,2023-01-26 13:16
--34.809633978,-58.318060270,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,23,2023-01-26 13:16
--34.809131014,-58.317168477,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,10,2023-01-26 13:16
--34.807992222,-58.315115922,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,2023-01-26 13:16
--34.807703615,-58.314599356,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,2023-01-26 13:16
--34.807357397,-58.313981929,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,13,2023-01-26 13:16
--34.806895921,-58.313143847,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,2023-01-26 13:16
--34.811253816,-58.319124935,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,24,2023-01-26 13:16
--34.810807712,-58.318336490,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,20,2023-01-26 13:16
--34.810353122,-58.317534005,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,20,2023-01-26 13:16
--34.809791423,-58.316540839,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,2023-01-26 13:16
--34.809629051,-58.316252866,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,39,2023-01-26 13:16
--34.808403482,-58.314083325,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,10,2023-01-26 13:16
--34.807937613,-58.313218331,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,3,2023-01-26 13:16
--34.807588441,-58.312602742,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,20,2023-01-26 13:16
--34.807249991,-58.311994830,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,11,2023-01-26 13:16
--34.812134909,-58.318595493,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,36,2023-01-26 13:16
--34.811676396,-58.317775483,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,31,2023-01-26 13:16
--34.811144815,-58.316836271,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,17,2023-01-26 13:16
--34.809190036,-58.313430779,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,15,2023-01-26 13:16
--34.808380206,-58.311813878,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,11,2023-01-26 13:16
--34.814997244,-58.321653281,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,56,2023-01-26 13:16
--34.813485751,-58.320060222,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,32,2023-01-26 13:16
--34.812573357,-58.319366656,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,18,2023-01-26 13:16
--34.811897299,-58.316257306,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,6,2023-01-26 13:16
--34.808588215,-58.317086492,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,32,2023-01-26 13:16
--34.810707604,-58.319802767,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,23,2023-01-26 13:16
--34.811261359,-58.319336442,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,14,2023-01-26 13:16
--34.811635476,-58.319800528,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,13,2023-01-26 13:16
--34.813522629,-58.322108677,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,30,2023-01-26 13:16
--34.811988563,-58.321320490,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,8,2023-01-26 13:16
--34.812547731,-58.317199112,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,37,2023-01-26 13:16
--34.812147290,-58.316485545,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,18,2023-01-26 13:16
--34.814043580,-58.317669826,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,42,2023-01-26 13:16
--34.815141322,-58.318667376,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,9,2023-01-26 13:16
--34.814017990,-58.319612287,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,32,2023-01-26 13:16
--34.810570787,-58.315834447,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,12,2023-01-26 13:16
--34.811629547,-58.325776590,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,21,2023-01-26 13:16
--34.809884828,-58.321426800,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,4,2023-01-26 13:16
--34.807337676,-58.312138095,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,11,2023-01-26 13:16
--34.808831416,-58.314826244,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,5,2023-01-26 13:16
--34.810962059,-58.324562321,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,2023-01-26 13:16
--34.812845023,-58.322725244,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,45,2023-01-26 13:16
--34.811460536,-58.325912498,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,4,2023-01-26 13:16
--34.813103229,-58.323213017,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,70,2023-01-26 13:16
--34.813734862,-58.319850570,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,10,2023-01-26 13:16
--34.814466569,-58.319234850,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,20,2023-01-26 13:16
--34.808976863,-58.322150343,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,8,2023-01-26 13:16
--34.814692767,-58.319044552,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,30,2023-01-26 13:16
--34.809360361,-58.317526588,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,10,2023-01-26 13:16
--34.813941735,-58.317752005,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,2,2023-01-26 13:16
--34.811934306,-58.325545641,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,2,2023-01-26 13:16
--34.806436329,-58.319161065,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,1,2023-01-26 13:16
--34.807284210,-58.315818124,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,3,2023-01-26 13:16
--34.805958640,-58.319498809,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,47,2023-01-26 13:16
--34.933530939,-58.721795134,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 16:04
--34.931525148,-58.721606921,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,41,2023-01-26 16:04
--34.942416358,-58.724841564,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,5,2023-01-26 16:04
--34.949009983,-58.727457585,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.936941482,-58.722675970,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 16:04
--34.929853398,-58.715070636,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,4,2023-01-26 16:04
--34.960657355,-58.689635414,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,3,2023-01-26 16:04
--34.963808071,-58.696914250,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,16,2023-01-26 16:04
--34.930157372,-58.704558612,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,26,2023-01-26 16:04
--34.929505949,-58.710815030,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,18,2023-01-26 16:04
--34.928148831,-58.717326590,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 16:04
--34.928166925,-58.721276176,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,13,2023-01-26 16:04
--34.925036563,-58.712714072,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,19,2023-01-26 16:04
--34.939337290,-58.703367047,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,10,2023-01-26 16:04
--34.969904733,-58.711637525,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 16:04
--34.934309377,-58.712173341,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 16:04
--34.936839083,-58.732423855,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-2-26/271-2-26,173,2023-01-26 16:04
--34.939614465,-58.733625439,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-2-26/271-2-26,172,2023-01-26 16:04
--34.936843319,-58.702080102,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,28,2023-01-26 16:04
--34.958174970,-58.726782028,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,89,2023-01-26 16:04
--34.922679006,-58.703948769,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,18,2023-01-26 16:04
--34.942811478,-58.728173036,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-2-26/271-2-26,125,2023-01-26 16:04
--34.932784622,-58.708367519,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,4,2023-01-26 16:04
--34.921523453,-58.708909489,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,15,2023-01-26 16:04
--34.924129637,-58.707465348,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,16,2023-01-26 16:04
--34.965684225,-58.717093770,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,10,2023-01-26 16:04
--34.954071751,-58.683838312,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.959319506,-58.692455858,11,media,Edesur,Cañuelas,Vissir,Canuelas,R:271-2-26/271-2-26,3,2023-01-26 16:04
--34.953590422,-58.694827513,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.937456722,-58.693822545,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.952329997,-58.680282545,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 16:04
--34.946120125,-58.719092557,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.925132717,-58.707901423,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 16:04
--34.961702202,-58.688005682,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.927397567,-58.713987982,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,13,2023-01-26 16:04
--34.954120177,-58.716615462,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.933511651,-58.692923086,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.928770603,-58.706547520,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.939666349,-58.727773766,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-2-26/271-2-26,101,2023-01-26 16:04
--34.926677433,-58.705552926,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,38,2023-01-26 16:04
--34.923074692,-58.710989922,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 16:04
--34.938307424,-58.703967261,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,9,2023-01-26 16:04
--34.931020053,-58.701044022,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,5,2023-01-26 16:04
--34.934350785,-58.707119763,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,6,2023-01-26 16:04
--34.924014576,-58.710215835,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.942394238,-58.704159804,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,16,2023-01-26 16:04
--34.962245822,-58.724623113,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,306,2023-01-26 16:04
--34.964492616,-58.727127847,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,270,2023-01-26 16:04
--34.928873378,-58.701232506,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.924828110,-58.708873471,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,5,2023-01-26 16:04
--34.934312938,-58.702754835,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,14,2023-01-26 16:04
--34.937140626,-58.717299264,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.925490587,-58.709218991,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.925251700,-58.709422706,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.925948536,-58.711139577,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 16:04
--34.931564625,-58.707113551,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,3,2023-01-26 16:04
--34.963854429,-58.721155011,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,106,2023-01-26 16:04
--34.952376533,-58.730867150,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,5,2023-01-26 16:04
--34.950727261,-58.731911279,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.949830078,-58.734036856,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 16:04
--34.948843380,-58.736437305,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,6,2023-01-26 16:04
--34.948065613,-58.735576669,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 16:04
--34.980047244,-58.698652410,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 16:04
--34.693552018,-58.539965516,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr4/65-5544,44,2023-01-26 14:00
--34.709998468,-58.678569077,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5517,48,2023-01-26 13:00
--34.671927940,-58.761656601,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr1/258-5542,353,2023-01-26 13:00
+-34.623142791,-58.480001814,11,media,Edesur,Capital Gp,Villa Sta. Rita,Santa Rita,R:143-4-45/143-4-45,554,2023-01-26 18:23
+-34.625231840,-58.477577206,11,media,Edesur,Capital Gp,Floresta,Santa Rita,R:143-4-45/143-4-45,70,2023-01-26 18:23
+-34.622185758,-58.477957259,11,media,Edesur,Capital Gp,Villa Sta. Rita,Santa Rita,R:143-4-45/143-4-45,1,2023-01-26 18:23
+-34.805534470,-58.305828155,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,245,Sin Datos
+-34.805394653,-58.317561723,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,17,Sin Datos
+-34.806138286,-58.314109875,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,1,Sin Datos
+-34.811292636,-58.317104990,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,12,Sin Datos
+-34.811181216,-58.326132574,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,42,Sin Datos
+-34.811556468,-58.317565060,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,6,Sin Datos
+-34.811321406,-58.325239965,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,15,Sin Datos
+-34.810405885,-58.323525162,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,31,Sin Datos
+-34.811276878,-58.321913566,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,27,Sin Datos
+-34.813487770,-58.322895803,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,23,Sin Datos
+-34.814235174,-58.322277921,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,27,Sin Datos
+-34.811709592,-58.321573915,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,30,Sin Datos
+-34.812394207,-58.320979150,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,28,Sin Datos
+-34.809462918,-58.321766262,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,28,Sin Datos
+-34.808503119,-58.321044291,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,31,Sin Datos
+-34.809291764,-58.320423140,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,15,Sin Datos
+-34.807492384,-58.320133483,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,28,Sin Datos
+-34.807008666,-58.319310012,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,37,Sin Datos
+-34.808306587,-58.319481600,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,12,Sin Datos
+-34.808589379,-58.319255259,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,18,Sin Datos
+-34.807992091,-58.317976028,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,16,Sin Datos
+-34.810260425,-58.321137598,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,35,Sin Datos
+-34.807924898,-58.315892680,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,23,Sin Datos
+-34.808501196,-58.315968192,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,39,Sin Datos
+-34.809191712,-58.315374366,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,7,Sin Datos
+-34.809635238,-58.314993138,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,13,Sin Datos
+-34.809969710,-58.314705668,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,15,Sin Datos
+-34.810217503,-58.319092688,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,13,Sin Datos
+-34.810087627,-58.318862898,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,18,Sin Datos
+-34.809633978,-58.318060270,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,23,Sin Datos
+-34.809131014,-58.317168477,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,10,Sin Datos
+-34.807992222,-58.315115922,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,Sin Datos
+-34.807703615,-58.314599356,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,Sin Datos
+-34.807357397,-58.313981929,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,13,Sin Datos
+-34.806895921,-58.313143847,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,Sin Datos
+-34.811253816,-58.319124935,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,24,Sin Datos
+-34.810807712,-58.318336490,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,20,Sin Datos
+-34.810353122,-58.317534005,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,20,Sin Datos
+-34.809791423,-58.316540839,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,Sin Datos
+-34.809629051,-58.316252866,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,39,Sin Datos
+-34.808403482,-58.314083325,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,10,Sin Datos
+-34.807937613,-58.313218331,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,3,Sin Datos
+-34.807588441,-58.312602742,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,20,Sin Datos
+-34.807249991,-58.311994830,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,11,Sin Datos
+-34.812134909,-58.318595493,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,36,Sin Datos
+-34.811676396,-58.317775483,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,31,Sin Datos
+-34.811144815,-58.316836271,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,17,Sin Datos
+-34.809190036,-58.313430779,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,15,Sin Datos
+-34.808380206,-58.311813878,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,11,Sin Datos
+-34.814997244,-58.321653281,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,56,Sin Datos
+-34.813485751,-58.320060222,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,32,Sin Datos
+-34.812573357,-58.319366656,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,18,Sin Datos
+-34.811897299,-58.316257306,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,6,Sin Datos
+-34.808588215,-58.317086492,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,32,Sin Datos
+-34.810707604,-58.319802767,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,23,Sin Datos
+-34.811261359,-58.319336442,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,14,Sin Datos
+-34.811635476,-58.319800528,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,13,Sin Datos
+-34.813522629,-58.322108677,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,30,Sin Datos
+-34.811988563,-58.321320490,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,8,Sin Datos
+-34.812547731,-58.317199112,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,37,Sin Datos
+-34.812147290,-58.316485545,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,18,Sin Datos
+-34.814043580,-58.317669826,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,42,Sin Datos
+-34.815141322,-58.318667376,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,9,Sin Datos
+-34.814017990,-58.319612287,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,32,Sin Datos
+-34.810570787,-58.315834447,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,12,Sin Datos
+-34.811629547,-58.325776590,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,21,Sin Datos
+-34.809884828,-58.321426800,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,4,Sin Datos
+-34.807337676,-58.312138095,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,11,Sin Datos
+-34.808831416,-58.314826244,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,5,Sin Datos
+-34.810962059,-58.324562321,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,22,Sin Datos
+-34.812845023,-58.322725244,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,45,Sin Datos
+-34.811460536,-58.325912498,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,4,Sin Datos
+-34.813103229,-58.323213017,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,70,Sin Datos
+-34.813734862,-58.319850570,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,10,Sin Datos
+-34.814466569,-58.319234850,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,20,Sin Datos
+-34.808976863,-58.322150343,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,8,Sin Datos
+-34.814692767,-58.319044552,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,30,Sin Datos
+-34.809360361,-58.317526588,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,10,Sin Datos
+-34.813941735,-58.317752005,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,2,Sin Datos
+-34.811934306,-58.325545641,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,2,Sin Datos
+-34.806436329,-58.319161065,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,1,Sin Datos
+-34.807284210,-58.315818124,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,3,Sin Datos
+-34.805958640,-58.319498809,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-25/183-2-25,47,Sin Datos
+-34.933530939,-58.721795134,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 18:23
+-34.931525148,-58.721606921,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,41,2023-01-26 18:23
+-34.942416358,-58.724841564,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,5,2023-01-26 18:23
+-34.949009983,-58.727457585,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.936941482,-58.722675970,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 18:23
+-34.929853398,-58.715070636,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,4,2023-01-26 18:23
+-34.960657355,-58.689635414,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,3,2023-01-26 18:23
+-34.963808071,-58.696914250,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,16,2023-01-26 18:23
+-34.930157372,-58.704558612,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,26,2023-01-26 18:23
+-34.929505949,-58.710815030,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,18,2023-01-26 18:23
+-34.928148831,-58.717326590,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 18:23
+-34.928166925,-58.721276176,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,13,2023-01-26 18:23
+-34.925036563,-58.712714072,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,19,2023-01-26 18:23
+-34.939337290,-58.703367047,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,10,2023-01-26 18:23
+-34.969904733,-58.711637525,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 18:23
+-34.934309377,-58.712173341,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 18:23
+-34.936839083,-58.732423855,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-2-26/271-2-26,173,2023-01-26 18:23
+-34.939614465,-58.733625439,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-2-26/271-2-26,172,2023-01-26 18:23
+-34.936843319,-58.702080102,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,28,2023-01-26 18:23
+-34.958174970,-58.726782028,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,89,2023-01-26 18:23
+-34.922679006,-58.703948769,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,18,2023-01-26 18:23
+-34.942811478,-58.728173036,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-2-26/271-2-26,125,2023-01-26 18:23
+-34.932784622,-58.708367519,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,4,2023-01-26 18:23
+-34.921523453,-58.708909489,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,15,2023-01-26 18:23
+-34.924129637,-58.707465348,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,16,2023-01-26 18:23
+-34.965684225,-58.717093770,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,10,2023-01-26 18:23
+-34.954071751,-58.683838312,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.959319506,-58.692455858,11,media,Edesur,Cañuelas,Vissir,Canuelas,R:271-2-26/271-2-26,3,2023-01-26 18:23
+-34.953590422,-58.694827513,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.937456722,-58.693822545,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.952329997,-58.680282545,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 18:23
+-34.946120125,-58.719092557,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.925132717,-58.707901423,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 18:23
+-34.961702202,-58.688005682,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.927397567,-58.713987982,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,13,2023-01-26 18:23
+-34.954120177,-58.716615462,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.933511651,-58.692923086,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.928770603,-58.706547520,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.939666349,-58.727773766,11,media,Edesur,Cañuelas,Los Pozos,Canuelas,R:271-2-26/271-2-26,101,2023-01-26 18:23
+-34.926677433,-58.705552926,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,38,2023-01-26 18:23
+-34.923074692,-58.710989922,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 18:23
+-34.938307424,-58.703967261,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,9,2023-01-26 18:23
+-34.931020053,-58.701044022,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,5,2023-01-26 18:23
+-34.934350785,-58.707119763,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,6,2023-01-26 18:23
+-34.924014576,-58.710215835,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.942394238,-58.704159804,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,16,2023-01-26 18:23
+-34.962245822,-58.724623113,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,306,2023-01-26 18:23
+-34.964492616,-58.727127847,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,270,2023-01-26 18:23
+-34.928873378,-58.701232506,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.924828110,-58.708873471,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,5,2023-01-26 18:23
+-34.934312938,-58.702754835,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,14,2023-01-26 18:23
+-34.937140626,-58.717299264,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.925490587,-58.709218991,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.925251700,-58.709422706,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.925948536,-58.711139577,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,8,2023-01-26 18:23
+-34.931564625,-58.707113551,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,R:271-2-26/271-2-26,3,2023-01-26 18:23
+-34.963854429,-58.721155011,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,106,2023-01-26 18:23
+-34.952376533,-58.730867150,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,5,2023-01-26 18:23
+-34.950727261,-58.731911279,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.949830078,-58.734036856,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 18:23
+-34.948843380,-58.736437305,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,6,2023-01-26 18:23
+-34.948065613,-58.735576669,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,R:271-2-26/271-2-26,2,2023-01-26 18:23
+-34.980047244,-58.698652410,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-2-26/271-2-26,1,2023-01-26 18:23
+-34.662520446,-58.429620897,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,R:039-3-31/039-3-31,116,2023-01-26 16:31
+-34.665285687,-58.431667769,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,R:039-3-31/039-3-31,78,2023-01-26 16:31
+-34.664724502,-58.430331549,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,R:039-3-31/039-3-31,126,2023-01-26 16:31
+-34.660889073,-58.435184633,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,R:039-3-31/039-3-31,476,2023-01-26 16:31
 -34.722052738,-58.487895705,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,476,2023-01-26 14:00
 -34.720758418,-58.489458245,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,267,2023-01-26 14:00
 -34.724213838,-58.485066335,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,528,2023-01-26 14:00
 -34.724837016,-58.484205763,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,433,2023-01-26 14:00
 -34.720175588,-58.485865238,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,214,2023-01-26 14:00
 -34.721989878,-58.490892866,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,276,2023-01-26 14:00
--34.770721001,-58.610986001,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr1/272-5514,409,2023-01-26 13:00
--34.773120898,-58.613826869,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr1/272-5514,317,2023-01-26 13:00
--34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-26 15:00
--34.255625159,-58.556817734,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-26 15:00
--34.259561235,-58.545352489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,13,2023-01-26 15:00
--34.252709480,-58.546727976,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.250822868,-58.550360025,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-26 15:00
--34.250195452,-58.554438553,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-26 15:00
--34.254996148,-58.545101693,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-26 15:00
--34.253850744,-58.548968955,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-01-26 15:00
--34.252909443,-58.552661466,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-26 15:00
--34.235435816,-58.561014566,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-01-26 15:00
--34.245423389,-58.563370030,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-26 15:00
--34.248064304,-58.563389645,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.249061848,-58.566482886,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-26 15:00
--34.250379126,-58.569526636,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-26 15:00
--34.253312571,-58.573894417,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,17,2023-01-26 15:00
--34.254315064,-58.581223155,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-01-26 15:00
--34.247066280,-58.587333368,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-01-26 15:00
--34.249423209,-58.590776252,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-26 15:00
--34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-26 15:00
--34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-26 15:00
--34.248429912,-58.581523965,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-26 15:00
--34.241574561,-58.538523844,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.248537114,-58.543595514,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,26,2023-01-26 15:00
--34.236811408,-58.539679852,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,22,2023-01-26 15:00
--34.223515310,-58.536080575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,20,2023-01-26 15:00
--34.208353968,-58.537746265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.201853067,-58.536318946,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-01-26 15:00
--34.266480126,-58.538918505,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-26 15:00
--34.257289017,-58.541427064,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,12,2023-01-26 15:00
--34.258707690,-58.530959871,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,20,2023-01-26 15:00
--34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-26 15:00
--34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,7,2023-01-26 15:00
--34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-26 15:00
--34.232176487,-58.510383400,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,7,2023-01-26 15:00
--34.230839382,-58.504108942,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.232264295,-58.498656278,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.241950387,-58.495328902,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,17,2023-01-26 15:00
--34.263844772,-58.540613134,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.250079489,-58.584003258,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,15,2023-01-26 15:00
--34.239670874,-58.488612824,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,22,2023-01-26 15:00
--34.229231658,-58.486799725,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,15,2023-01-26 15:00
--34.216760572,-58.498825190,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,11,2023-01-26 15:00
--34.196441140,-58.495289224,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-26 15:00
--34.250920781,-58.500706273,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,21,2023-01-26 15:00
--34.228589804,-58.560602853,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,2023-01-26 15:00
--34.252193833,-58.556646780,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,14,2023-01-26 15:00
--34.251575399,-58.560531813,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-26 15:00
--34.267179584,-58.532232710,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-26 15:00
--34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-26 15:00
--34.251838724,-58.558610163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-26 15:00
--34.226135275,-58.535166829,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-26 15:00
--34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-26 15:00
--34.238756220,-58.556535095,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-26 15:00
--34.267210145,-58.531445775,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-26 15:00
--34.250155302,-58.552423661,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.248172007,-58.540754109,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.243490261,-58.556284265,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-26 15:00
--34.251230489,-58.563473335,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.254366077,-58.562056502,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 15:00
--34.256223395,-58.561415163,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-26 15:00
+-34.770721001,-58.610986001,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr1/272-5514,409,Sin Datos
+-34.773120898,-58.613826869,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr1/272-5514,317,Sin Datos
+-34.254139565,-58.524002515,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-26 14:00
+-34.248683551,-58.523086679,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,7,2023-01-26 14:00
+-34.243067322,-58.519216662,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-26 14:00
+-34.232176487,-58.510383400,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,7,2023-01-26 14:00
+-34.230839382,-58.504108942,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 14:00
+-34.232264295,-58.498656278,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-26 14:00
+-34.241950387,-58.495328902,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,17,2023-01-26 14:00
+-34.239670874,-58.488612824,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,22,2023-01-26 14:00
+-34.229231658,-58.486799725,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,15,2023-01-26 14:00
+-34.216760572,-58.498825190,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,11,2023-01-26 14:00
+-34.196441140,-58.495289224,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-26 14:00
+-34.250920781,-58.500706273,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,21,2023-01-26 14:00
+-34.239561118,-58.495768483,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-26 14:00
+-34.235174671,-58.496579192,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-26 14:00
 -34.67,-58.5573,22,baja,Edenor,La Matanza,Ramos Mejia,,,12,
 -34.723,-58.5677,22,baja,Edenor,La Matanza,Ciudad Evita,,,10,
 -34.6431,-58.5634,22,baja,Edenor,La Matanza,Ramos Mejia,,,4,
 -34.6301,-58.6412,22,baja,Edenor,Hurlingham,Villa Tesei,,,22,
 -34.6327,-58.6428,22,baja,Edenor,Hurlingham,Villa Tesei,,,4,
--34.7413,-58.6184,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,19,
 -34.7174,-58.5965,22,baja,Edenor,La Matanza,Isidro Casanova,,,4,
 -34.5854,-58.7034,22,baja,Edenor,San Miguel,Bella Vista,,,13,
 -34.6553,-58.6232,22,baja,Edenor,Moron,Moron,,,1,
 -34.6178,-58.5462,22,baja,Edenor,3 De Febrero,Caseros,,,30,
+-34.5661,-58.6906,22,baja,Edenor,San Miguel,Bella Vista,,,4,
 -34.5419,-58.5378,22,baja,Edenor,Vicente Lopez,Munro,,,18,
--34.5129,-58.4947,22,baja,Edenor,Vicente Lopez,Olivos,,,35,
+-34.5573,-58.5451,22,baja,Edenor,Gral San Martin,Villa Ballester,,,4,
+-34.5141,-58.4926,22,baja,Edenor,Vicente Lopez,Olivos,,,10,
+-34.4654,-58.5666,22,baja,Edenor,San Fernando,Victoria,,,4,
+-34.8947,-58.508,21,baja,Edesur,Esteban Echeverria,Canning,,,2,
 -34.6334,-58.3693,21,baja,Edesur,Capital,La Boca,,,4,
 -34.6268,-58.3962,21,baja,Edesur,Capital,San Cristobal,,,13,
 -34.7333,-58.4975,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,3,
--34.7229,-58.3673,21,baja,Edesur,Lanus,Monte Chingolo,,,32,
--34.8012,-58.4312,21,baja,Edesur,Lomas De Zamora,Lavallol,,,120,
--34.6324,-58.4162,21,baja,Edesur,Capital,Boedo,,,17,
--34.616,-58.4642,21,baja,Edesur,Capital,Flores,,,9,
--34.8358,-58.2873,21,baja,Edesur,Florencio Varela,Florencio Varela,,,18,
+-34.6324,-58.4162,21,baja,Edesur,Capital,Boedo,,,15,
+-34.616,-58.4642,21,baja,Edesur,Capital,Flores,,,10,
 -34.7567,-58.2457,21,baja,Edesur,Quilmes,Ezpeleta,,,4,
 -34.6198,-58.4303,21,baja,Edesur,Capital,Capital,,,11,
--34.8213,-58.2108,21,baja,Edesur,Florencio Varela,Bosques,,,6,
+-34.8213,-58.2108,21,baja,Edesur,Florencio Varela,Bosques,,,8,
 -34.8238,-58.445,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,
 -34.7311,-58.231,21,baja,Edesur,Quilmes,Quilmes,,,5,
--34.7432,-58.2207,21,baja,Edesur,Quilmes,Ezpeleta,,,4,
+-34.7432,-58.2207,21,baja,Edesur,Quilmes,Ezpeleta,,,5,
 -34.6159,-58.4442,21,baja,Edesur,Capital,Capital,,,21,
--34.6297,-58.4686,21,baja,Edesur,Capital,Capital,,,25,
+-34.6297,-58.4686,21,baja,Edesur,Capital,Capital,,,29,
 -34.6262,-58.4366,21,baja,Edesur,Capital,Caballito,,,8,
 -34.5976,-58.4422,21,baja,Edesur,Capital,Villa Crespo,,,16,
--34.6262,-58.4706,21,baja,Edesur,Capital,Capital,,,12,
+-34.6262,-58.4706,21,baja,Edesur,Capital,Capital,,,13,
 -34.7774,-58.3637,21,baja,Edesur,Almirante Brown,Marmol,,,1,
--34.7516,-58.3994,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,4,
+-34.7313,-58.458,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,5,
+-34.7516,-58.3994,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,12,
 -34.653,-58.4127,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
 -34.8358,-58.4916,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,1,
+-34.6702,-58.3605,21,baja,Edesur,Avellaneda,Avellaneda,,,1,
+-34.7931,-58.4251,21,baja,Edesur,Lomas De Zamora,Lavallol,,,5,
