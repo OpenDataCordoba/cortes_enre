@@ -1,11 +1,26 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.683817205,-58.560109192,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5544,343,Sin Datos
--34.722052738,-58.487895705,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,476,Sin Datos
--34.720758418,-58.489458245,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,267,Sin Datos
--34.724213838,-58.485066335,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,528,Sin Datos
--34.724837016,-58.484205763,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,433,Sin Datos
--34.720175588,-58.485865238,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,214,Sin Datos
--34.721989878,-58.490892866,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,276,Sin Datos
+-34.683817205,-58.560109192,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5544,343,2023-01-26 06:00
+-34.722052738,-58.487895705,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,476,2023-01-26 06:00
+-34.720758418,-58.489458245,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,267,2023-01-26 06:00
+-34.724213838,-58.485066335,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,528,2023-01-26 06:00
+-34.724837016,-58.484205763,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,433,2023-01-26 06:00
+-34.720175588,-58.485865238,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,214,2023-01-26 06:00
+-34.721989878,-58.490892866,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,276,2023-01-26 06:00
+-34.537619744,-58.537981090,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,119,2023-01-26 09:00
+-34.546502066,-58.525987517,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,4,2023-01-26 09:00
+-34.537962723,-58.537778202,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,1,2023-01-26 09:00
+-34.535417725,-58.539772361,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,1,2023-01-26 09:00
+-34.532204066,-58.543453162,12,media,Edenor,Vicente Lopez,Villa Adelina (Vl),S/D,R:Munro/55-Tr2/55-5537,679,2023-01-26 09:00
+-34.538260973,-58.529222822,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,317,2023-01-26 09:00
+-34.535414395,-58.534632813,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,472,2023-01-26 09:00
+-34.537377314,-58.536371499,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,67,2023-01-26 09:00
+-34.537178760,-58.535133425,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,150,2023-01-26 09:00
+-34.541809100,-58.528851094,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,62,2023-01-26 09:00
+-34.541272878,-58.529226834,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,64,2023-01-26 09:00
+-34.538043265,-58.532025480,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,172,2023-01-26 09:00
+-34.537895276,-58.531041672,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,8,2023-01-26 09:00
+-34.532594480,-58.542916249,12,media,Edenor,Vicente Lopez,Carapachay,S/D,R:Munro/55-Tr2/55-5537,1,2023-01-26 09:00
+-34.535654819,-58.537726540,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,138,2023-01-26 09:00
 -34.4839,-58.6171,22,baja,Edenor,Tigre,Don Torcuato,,,4,
 -34.3344,-58.7604,22,baja,Edenor,Escobar,Escobar,,,46,
 -34.3585,-58.543,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
@@ -21,10 +36,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7974,-58.3053,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,
 -34.7471,-58.4045,21,baja,Edesur,Lomas De Zamora,Bandfield,,,21,
 -34.6142,-58.4601,21,baja,Edesur,Capital,Flores,,,24,
--34.6317,-58.4162,21,baja,Edesur,Capital,Boedo,,,29,
+-34.6317,-58.4162,21,baja,Edesur,Capital,Boedo,,,30,
 -34.616,-58.4642,21,baja,Edesur,Capital,Flores,,,1,
 -34.7469,-58.3982,21,baja,Edesur,Lomas De Zamora,Bandfield,,,14,
 -34.8358,-58.2873,21,baja,Edesur,Florencio Varela,Florencio Varela,,,16,
 -34.7327,-58.4583,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
--34.79,-58.3185,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,13,
 -34.9974,-58.3688,21,baja,Edesur,San Vicente,Alejandro Korn,,,1,
