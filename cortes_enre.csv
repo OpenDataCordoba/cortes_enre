@@ -1,4 +1,18 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
+-34.920268336,-58.401708946,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,263,2023-01-26 10:06
+-34.912237794,-58.397293087,11,media,Edesur,Pte Peron,Santa Magdalena,Glew,R:277-4-46/277-4-46,289,2023-01-26 10:06
+-34.914234551,-58.395853617,11,media,Edesur,Pte Peron,Santa Magdalena,Glew,R:277-4-46/277-4-46,233,2023-01-26 10:06
+-34.913491780,-58.405481984,11,media,Edesur,Pte Peron,San Roque,Glew,R:277-4-46/277-4-46,184,2023-01-26 10:06
+-34.915669785,-58.409740030,11,media,Edesur,Pte Peron,San Roque,Glew,R:277-4-46/277-4-46,102,2023-01-26 10:06
+-34.915265346,-58.405924675,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,82,2023-01-26 10:06
+-34.920206200,-58.407387462,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,219,2023-01-26 10:06
+-34.917777176,-58.409236611,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,216,2023-01-26 10:06
+-34.912065558,-58.401606946,11,media,Edesur,Esteban Echeverria,Zona Rural 1 Ee,Glew,R:277-4-46/277-4-46,253,2023-01-26 10:06
+-34.908254275,-58.392339377,11,media,Edesur,Pte Peron,Santa Magdalena,Glew,R:277-4-46/277-4-46,183,2023-01-26 10:06
+-34.915688023,-58.407385360,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,189,2023-01-26 10:06
+-34.919043455,-58.403396765,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,323,2023-01-26 10:06
+-34.922301991,-58.401968685,11,media,Edesur,Pte Peron,Villa Numancia Sur,Glew,R:277-4-46/277-4-46,18,2023-01-26 10:06
+-34.916613913,-58.405159411,11,media,Edesur,Pte Peron,Villa Numancia Norte,Glew,R:277-4-46/277-4-46,72,2023-01-26 10:06
 -34.683817205,-58.560109192,12,media,Edenor,La Matanza,San Justo,S/D,R:Matanza/65-Tr4/65-5544,343,2023-01-26 07:00
 -34.722052738,-58.487895705,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,476,Sin Datos
 -34.720758418,-58.489458245,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,267,Sin Datos
@@ -6,15 +20,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.724837016,-58.484205763,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,433,Sin Datos
 -34.720175588,-58.485865238,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,214,Sin Datos
 -34.721989878,-58.490892866,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,276,Sin Datos
--34.546502066,-58.525987517,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,4,2023-01-26 07:00
--34.538260973,-58.529222822,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,317,2023-01-26 07:00
--34.535414395,-58.534632813,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,472,2023-01-26 07:00
--34.537178760,-58.535133425,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,150,2023-01-26 07:00
--34.541809100,-58.528851094,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,62,2023-01-26 07:00
--34.541272878,-58.529226834,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,64,2023-01-26 07:00
--34.538043265,-58.532025480,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,172,2023-01-26 07:00
--34.537895276,-58.531041672,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,8,2023-01-26 07:00
--34.535654819,-58.537726540,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,138,2023-01-26 07:00
+-34.535414395,-58.534632813,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,472,Sin Datos
+-34.537178760,-58.535133425,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,150,Sin Datos
+-34.535654819,-58.537726540,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,138,Sin Datos
 -34.4839,-58.6171,22,baja,Edenor,Tigre,Don Torcuato,,,4,
 -34.3344,-58.7604,22,baja,Edenor,Escobar,Escobar,,,46,
 -34.3585,-58.543,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,7,
@@ -28,9 +36,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7974,-58.3053,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,2,
 -34.7471,-58.4045,21,baja,Edesur,Lomas De Zamora,Bandfield,,,21,
 -34.6142,-58.4601,21,baja,Edesur,Capital,Flores,,,24,
--34.6317,-58.4162,21,baja,Edesur,Capital,Boedo,,,32,
+-34.6317,-58.4162,21,baja,Edesur,Capital,Boedo,,,36,
 -34.616,-58.4642,21,baja,Edesur,Capital,Flores,,,1,
 -34.7469,-58.3982,21,baja,Edesur,Lomas De Zamora,Bandfield,,,14,
 -34.8358,-58.2873,21,baja,Edesur,Florencio Varela,Florencio Varela,,,16,
 -34.7327,-58.4583,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
--34.9974,-58.3688,21,baja,Edesur,San Vicente,Alejandro Korn,,,1,
+-34.8989,-58.3996,21,baja,Edesur,Almirante Brown,Glew,,,10,
