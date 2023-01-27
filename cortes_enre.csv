@@ -1,10 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604712125,-58.393040091,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-4-42/113-4-42,44,2023-01-27 02:46
--34.635989783,-58.484114689,11,media,Edesur,Capital Gp,Velez Sarfield,Perito Moreno,R:048-2-26/048-2-26,113,2023-01-27 02:42
--34.599708722,-58.386784149,11,media,Edesur,Capital Rp,San Nicolas,Parana,R:117-1-12/117-1-12,3,2023-01-27 03:53
--34.780913917,-58.599739820,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5532,6,2023-01-27 04:00
--34.782266071,-58.594806157,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5532,1,2023-01-27 04:00
--34.781040680,-58.596510714,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5532,2,2023-01-27 04:00
+-34.604712125,-58.393040091,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-4-42/113-4-42,44,Sin Datos
+-34.6482,-58.8248,22,baja,Edenor,Moreno,La Reja,,,9,
 -34.6294,-58.7601,22,baja,Edenor,Moreno,Paso Del Rey,,,33,
 -34.3428,-58.7859,22,baja,Edenor,Escobar,Escobar,,,33,
 -34.5553,-58.7576,22,baja,Edenor,San Miguel,San Miguel,,,6,
@@ -23,12 +19,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7343,-58.5885,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
 -34.4829,-58.7133,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,9,
 -34.6542,-58.5838,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,13,
--34.5564,-58.6095,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,9,
 -34.5557,-58.6116,22,baja,Edenor,3 De Febrero,El Libertador,,,7,
--34.5193,-58.5655,22,baja,Edenor,San Isidro,Boulogne,,,24,
 -34.5233,-58.7857,22,baja,Edenor,Jose C Paz,Jose C Paz,,,30,
--34.4821,-58.8343,22,baja,Edenor,Pilar,Pte Derqui,,,49,
--34.442,-58.5693,22,baja,Edenor,San Fernando,San Fernando,,,14,
 -34.5092,-58.6747,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,15,
 -34.6545,-58.6809,22,baja,Edenor,Ituzaingo,Ituzaingo,,,2,
 -34.7118,-58.5737,22,baja,Edenor,La Matanza,Isidro Casanova,,,15,
@@ -49,12 +41,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6143,-58.4918,21,baja,Edesur,Capital,Villa Sta. Rita,,,35,
 -34.7299,-58.2315,21,baja,Edesur,Quilmes,Quilmes,,,8,
 -34.6214,-58.3717,21,baja,Edesur,Capital,San Telmo,,,4,
--34.6358,-58.4777,21,baja,Edesur,Capital,Floresta,,,54,
 -34.7855,-58.3892,21,baja,Edesur,Lomas De Zamora,Temperley,,,31,
 -34.7257,-58.317,21,baja,Edesur,Quilmes,Bernal,,,8,
 -34.7479,-58.4249,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,24,
 -34.5976,-58.4422,21,baja,Edesur,Capital,Capital,,,14,
--34.6798,-58.489,21,baja,Edesur,Capital,Villa Lugano,,,18,
+-34.6798,-58.489,21,baja,Edesur,Capital,Villa Lugano,,,19,
 -34.6394,-58.3865,21,baja,Edesur,Capital,Barracas,,,1,
 -34.8139,-58.1815,21,baja,Edesur,Berazategui,Berazategui,,,6,
 -34.8578,-58.2734,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
