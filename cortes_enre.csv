@@ -274,8 +274,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.754422326,-58.453930568,11,media,Edesur,Lomas De Zamora,Zona Rural,Santa Catalina,R:182-1-16/182-1-16,439,2023-01-27 17:52
 -34.753624186,-58.450528719,11,media,Edesur,Lomas De Zamora,Zona Rural,Santa Catalina,R:182-1-16/182-1-16,329,2023-01-27 17:52
 -34.823271668,-58.407199089,11,media,Edesur,Almirante Brown,Burzaco,Almirante Brown,R:180-4-46/180-4-46,223,2023-01-27 22:33
--34.579659451,-58.979700157,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,4,2023-01-27 18:00
--34.510113746,-58.694340875,12,media,Edenor,Malvinas Argentinas,Malvinas Argentinas,S/D,R:Nogues/159-Tr2/159-5521,212,Sin Datos
+-34.510113746,-58.694340875,12,media,Edenor,Malvinas Argentinas,Malvinas Argentinas,S/D,R:Nogues/159-Tr2/159-5521,212,2023-01-27 18:00
 -34.998087164,-58.855935281,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5523,1,Sin Datos
 -34.955608279,-58.915497489,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5523,2,Sin Datos
 -34.947620969,-58.907333604,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5523,2,Sin Datos
@@ -303,23 +302,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.952269603,-58.919966045,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5523,1,Sin Datos
 -34.988434399,-58.853826573,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5523,2,Sin Datos
 -34.969101972,-58.882707180,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5523,1,Sin Datos
--34.865714369,-58.782709257,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
--34.931138364,-58.773655125,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
--34.937141930,-58.769577267,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,5,Sin Datos
--34.942682787,-58.769525431,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,4,Sin Datos
--34.955572952,-58.768734255,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,4,Sin Datos
--34.944664359,-58.771701653,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
--34.947108806,-58.774288792,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,6,Sin Datos
--34.930037487,-58.779130106,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
--34.944385421,-58.755539726,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
--34.940666191,-58.755505174,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,4,Sin Datos
--34.941128249,-58.751773089,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,5,Sin Datos
--34.837618368,-58.765730087,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
--34.931789998,-58.757377470,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
--34.902804892,-58.824506716,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
--34.846028057,-58.754821852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
--34.850384516,-58.752854930,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
--34.860312009,-58.763173389,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
+-34.865714369,-58.782709257,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-27 19:00
+-34.931138364,-58.773655125,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-27 19:00
+-34.937141930,-58.769577267,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,5,2023-01-27 19:00
+-34.942682787,-58.769525431,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,4,2023-01-27 19:00
+-34.955572952,-58.768734255,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,4,2023-01-27 19:00
+-34.944664359,-58.771701653,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-27 19:00
+-34.947108806,-58.774288792,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,6,2023-01-27 19:00
+-34.930037487,-58.779130106,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-27 19:00
+-34.944385421,-58.755539726,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-27 19:00
+-34.940666191,-58.755505174,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,4,2023-01-27 19:00
+-34.941128249,-58.751773089,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,5,2023-01-27 19:00
+-34.837618368,-58.765730087,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-27 19:00
+-34.931789998,-58.757377470,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-27 19:00
+-34.902804892,-58.824506716,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-27 19:00
+-34.846028057,-58.754821852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-27 19:00
+-34.850384516,-58.752854930,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-27 19:00
+-34.860312009,-58.763173389,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-27 19:00
 -34.848933681,-58.751309182,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-27 18:00
 -34.945769356,-58.757925320,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,7,2023-01-27 18:00
 -34.946240794,-58.759527835,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,20,2023-01-27 18:00
@@ -382,65 +381,58 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.921877453,-58.955199784,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472,25,2023-01-27 18:00
 -34.932551860,-58.980244112,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472,1,2023-01-27 18:00
 -34.925066063,-58.956183567,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472,210,Sin Datos
--34.524213052,-58.797245886,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,3,Sin Datos
--34.527247804,-58.794033600,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,144,Sin Datos
--34.527477007,-58.796977805,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,60,Sin Datos
--34.529459194,-58.788014877,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,427,Sin Datos
--34.528916471,-58.792231894,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,265,Sin Datos
--34.541956547,-58.700453825,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5513,147,2023-01-27 18:00
--34.542744508,-58.699492029,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5513,129,2023-01-27 18:00
--34.541549956,-58.701042549,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,137,2023-01-27 18:00
--34.538052688,-58.698485541,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,239,2023-01-27 18:00
--34.543340574,-58.698641355,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,81,2023-01-27 18:00
--34.539771257,-58.699067507,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,238,2023-01-27 18:00
--34.540703394,-58.702229085,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,258,2023-01-27 18:00
--34.536656034,-58.701945863,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,184,2023-01-27 18:00
--34.650626216,-58.730869815,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,397,Sin Datos
--34.652007776,-58.729809649,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,55,Sin Datos
--34.748526402,-58.574294690,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,509,2023-01-27 18:00
--34.560835579,-58.774052315,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5516,112,2023-01-27 18:00
--34.563752363,-58.769958204,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5516,229,2023-01-27 18:00
--34.564622856,-58.774319255,12,media,Edenor,Moreno,Trujui,S/D,R:San Miguel/165-Tr1/165-5516,273,2023-01-27 18:00
--34.783329181,-58.795903720,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,57,2023-01-27 18:00
--34.777208192,-58.807451195,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,2,2023-01-27 18:00
--34.774036510,-58.811490917,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,1,2023-01-27 18:00
--34.778272870,-58.806157132,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,5,2023-01-27 18:00
--34.780959187,-58.802763265,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,50,2023-01-27 18:00
--34.771994578,-58.822171116,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,132,2023-01-27 18:00
--34.773718039,-58.818822881,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,159,2023-01-27 18:00
--34.778410762,-58.815886689,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,56,2023-01-27 18:00
--34.781703038,-58.808981336,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,3,2023-01-27 18:00
--34.773841181,-58.799126141,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,62,2023-01-27 18:00
--34.778474914,-58.811179682,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,22,2023-01-27 18:00
--34.774925631,-58.816675259,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,29,2023-01-27 18:00
--34.777442867,-58.817106427,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,120,2023-01-27 18:00
--34.778902590,-58.797439703,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,54,2023-01-27 18:00
--34.776453306,-58.802203929,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,37,2023-01-27 18:00
--34.376745533,-58.747047801,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,75,2023-01-27 18:00
--34.370463402,-58.744148893,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,46,2023-01-27 18:00
--34.369045700,-58.742209084,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,51,2023-01-27 18:00
--34.635346582,-58.850435316,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,86,2023-01-27 18:00
--34.454962500,-58.616429464,12,media,Edenor,Tigre,General Pacheco,S/D,R:Tigre/153-Tr1/153-5511,211,2023-01-27 18:00
--34.503857385,-58.582501833,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1/56-5511,510,Sin Datos
--34.506672752,-58.577847565,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1/56-5511,298,Sin Datos
--34.507773961,-58.575985764,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1/56-5511,193,Sin Datos
--34.504657953,-58.580045704,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1/56-5511,115,Sin Datos
--34.505705984,-58.578827728,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1/56-5511,102,Sin Datos
--34.480059927,-58.626177436,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,1,2023-01-27 19:00
--34.484949180,-58.622420719,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,77,2023-01-27 19:00
--34.484593233,-58.627406883,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,37,2023-01-27 19:00
--34.482180449,-58.630256865,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,97,2023-01-27 19:00
--34.482812866,-58.628549623,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,60,2023-01-27 19:00
--34.482054309,-58.623897233,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,249,2023-01-27 19:00
+-34.524213052,-58.797245886,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,3,2023-01-27 19:00
+-34.527247804,-58.794033600,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,144,2023-01-27 19:00
+-34.527477007,-58.796977805,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,60,2023-01-27 19:00
+-34.529459194,-58.788014877,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,427,2023-01-27 19:00
+-34.528916471,-58.792231894,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr1/254-5541,265,2023-01-27 19:00
+-34.541956547,-58.700453825,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5513,147,Sin Datos
+-34.542744508,-58.699492029,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Ara San Juan/362-Tr1/362-5513,129,Sin Datos
+-34.541549956,-58.701042549,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,137,Sin Datos
+-34.538052688,-58.698485541,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,239,Sin Datos
+-34.543340574,-58.698641355,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,81,Sin Datos
+-34.539771257,-58.699067507,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,238,Sin Datos
+-34.540703394,-58.702229085,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,258,Sin Datos
+-34.536656034,-58.701945863,12,media,Edenor,San Miguel,San Miguel,S/D,R:Ara San Juan/362-Tr1/362-5513,184,Sin Datos
+-34.650626216,-58.730869815,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,397,2023-01-27 18:00
+-34.652007776,-58.729809649,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,55,2023-01-27 18:00
+-34.748526402,-58.574294690,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,509,Sin Datos
+-34.783329181,-58.795903720,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,57,2023-01-27 19:00
+-34.777208192,-58.807451195,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,2,2023-01-27 19:00
+-34.774036510,-58.811490917,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,1,2023-01-27 19:00
+-34.778272870,-58.806157132,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,5,2023-01-27 19:00
+-34.780959187,-58.802763265,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,50,2023-01-27 19:00
+-34.771994578,-58.822171116,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,132,2023-01-27 19:00
+-34.773718039,-58.818822881,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,159,2023-01-27 19:00
+-34.778410762,-58.815886689,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,56,2023-01-27 19:00
+-34.781703038,-58.808981336,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,3,2023-01-27 19:00
+-34.773841181,-58.799126141,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,62,2023-01-27 19:00
+-34.778474914,-58.811179682,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,22,2023-01-27 19:00
+-34.774925631,-58.816675259,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,29,2023-01-27 19:00
+-34.777442867,-58.817106427,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,120,2023-01-27 19:00
+-34.778902590,-58.797439703,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,54,2023-01-27 19:00
+-34.776453306,-58.802203929,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,37,2023-01-27 19:00
+-34.376745533,-58.747047801,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,75,2023-01-27 19:00
+-34.370463402,-58.744148893,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,46,2023-01-27 19:00
+-34.369045700,-58.742209084,12,media,Edenor,Escobar,Ingeniero Maschwitz,S/D,R:Maschwitz/154-Tr3/154-5473,51,2023-01-27 19:00
+-34.635346582,-58.850435316,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5522,86,2023-01-27 19:00
+-34.454962500,-58.616429464,12,media,Edenor,Tigre,General Pacheco,S/D,R:Tigre/153-Tr1/153-5511,211,2023-01-27 19:00
+-34.506672752,-58.577847565,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1/56-5511,298,2023-01-27 19:00
+-34.507773961,-58.575985764,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1/56-5511,193,2023-01-27 19:00
+-34.505705984,-58.578827728,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr1/56-5511,102,2023-01-27 19:00
+-34.484949180,-58.622420719,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,77,2023-01-27 18:00
+-34.484593233,-58.627406883,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,37,2023-01-27 18:00
+-34.482180449,-58.630256865,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,97,2023-01-27 18:00
+-34.482812866,-58.628549623,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,60,2023-01-27 18:00
+-34.482054309,-58.623897233,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5527,249,2023-01-27 18:00
 -34.614,-58.931,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,1,
 -34.4622,-58.8653,22,baja,Edenor,Pilar,Pilar,,,19,
--34.5937,-58.5011,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,15,
+-34.5937,-58.5011,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,18,
 -34.8997,-58.6959,22,baja,Edenor,La Matanza,Virrey Del Pino,,,14,
 -34.6953,-58.5448,22,baja,Edenor,La Matanza,La Tablada,,,15,
 -34.6797,-58.5027,22,baja,Edenor,La Matanza,La Tablada,,,19,
 -34.6822,-58.8225,22,baja,Edenor,Moreno,Moreno,,,11,
 -34.6447,-58.5432,22,baja,Edenor,3 De Febrero,Ciudadela,,,5,
--34.7012,-58.8463,22,baja,Edenor,Merlo,Mariano Acosta,,,18,
 -34.7281,-58.5721,22,baja,Edenor,La Matanza,Isidro Casanova,,,26,
 -34.4976,-58.8468,22,baja,Edenor,Pilar,Pte Derqui,,,70,
 -34.4954,-58.7265,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,35,
@@ -452,37 +444,35 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5808,-58.5373,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,7,
 -34.6297,-58.7668,22,baja,Edenor,Moreno,Paso Del Rey,,,70,
 -34.5864,-58.4144,22,baja,Edenor,Capital Federal,Palermo,,,19,
--34.5111,-58.7733,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
+-34.5111,-58.7733,22,baja,Edenor,Jose C Paz,Jose C Paz,,,19,
 -34.5105,-58.7943,22,baja,Edenor,Jose C Paz,Jose C Paz,,,3,
 -34.4232,-58.7327,22,baja,Edenor,Escobar,Garin,,,5,
 -34.3713,-58.6014,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,4,
 -34.4489,-58.7663,22,baja,Edenor,Pilar,Manuel Alberti,,,14,
 -34.6781,-58.6567,22,baja,Edenor,Moron,Castelar,,,1,
+-34.2742,-58.5931,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,8,
 -34.8095,-58.4454,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,
 -34.6036,-58.4041,21,baja,Edesur,Capital,Balvanera,,,20,
 -34.7495,-58.5009,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,9,
--34.6472,-58.4218,21,baja,Edesur,Capital,Nueva Pompeya,,,35,
+-34.6472,-58.4218,21,baja,Edesur,Capital,Nueva Pompeya,,,34,
 -34.637,-58.4045,21,baja,Edesur,Capital,Parque Patricios,,,15,
 -34.6367,-58.3566,21,baja,Edesur,Capital,La Boca,,,19,
--34.7299,-58.2315,21,baja,Edesur,Quilmes,Quilmes,,,11,
+-34.7299,-58.2315,21,baja,Edesur,Quilmes,Quilmes,,,12,
 -34.7617,-58.2118,21,baja,Edesur,Berazategui,Berazategui,,,3,
 -34.7257,-58.317,21,baja,Edesur,Quilmes,Bernal,,,10,
--34.7479,-58.4249,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,23,
+-34.7466,-58.4255,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,23,
 -34.5988,-58.5151,21,baja,Edesur,Capital,Villa Devoto,,,25,
 -34.5976,-58.4422,21,baja,Edesur,Capital,Capital,,,31,
 -34.7117,-58.4521,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,3,
--34.8578,-58.2734,21,baja,Edesur,Florencio Varela,Florencio Varela,,,14,
 -35.0154,-58.4152,21,baja,Edesur,San Vicente,San Vicente,,,18,
 -34.7371,-58.4637,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,6,
 -34.6334,-58.4523,21,baja,Edesur,Capital,Parque Chacabuco,,,7,
--34.8055,-58.1899,21,baja,Edesur,Berazategui,Berazategui,,,9,
 -34.8277,-58.4175,21,baja,Edesur,Almirante Brown,Burzaco,,,53,
 -34.7417,-58.4367,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,59,
 -34.8246,-58.4399,21,baja,Edesur,Almirante Brown,Burzaco,,,11,
 -34.7411,-58.3912,21,baja,Edesur,Lomas De Zamora,Bandfield,,,2,
 -34.6386,-58.4998,21,baja,Edesur,Capital,Villa Luro,,,6,
--34.933,-58.6226,21,baja,Edesur,Cañuelas,Maximo Paz,,,43,
--34.6471,-58.5076,21,baja,Edesur,Capital,Liniers,,,24,
+-34.6461,-58.5048,21,baja,Edesur,Capital,Liniers,,,24,
 -34.7513,-58.4451,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,2,
 -34.6296,-58.436,21,baja,Edesur,Capital,Parque Chacabuco,,,13,
 -34.7932,-58.2734,21,baja,Edesur,Florencio Varela,Florencio Varela,,,3,
@@ -491,8 +481,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7525,-58.4533,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,10,
 -34.772,-58.191,21,baja,Edesur,Berazategui,Berazategui,,,3,
 -34.6394,-58.5128,21,baja,Edesur,Capital,Liniers,,,2,
--34.7647,-58.1802,21,baja,Edesur,Berazategui,Berazategui,,,5,
--34.6362,-58.4776,21,baja,Edesur,Capital,Floresta,,,79,
+-34.6362,-58.4776,21,baja,Edesur,Capital,Floresta,,,80,
 -34.7388,-58.2317,21,baja,Edesur,Quilmes,Ezpeleta,,,4,
 -35.0428,-58.7388,21,baja,Edesur,Cañuelas,Cañuelas,,,6,
 -34.7204,-58.3668,21,baja,Edesur,Lanus,Lanus,,,14,
@@ -500,11 +489,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6395,-58.3745,21,baja,Edesur,Capital,Barracas,,,7,
 -34.685,-58.3986,21,baja,Edesur,Lanus,Gerli,,,4,
 -34.6263,-58.4655,21,baja,Edesur,Capital,Flores,,,1,
--34.8156,-58.3616,21,baja,Edesur,Almirante Brown,Claypole,,,25,
+-34.8156,-58.3616,21,baja,Edesur,Almirante Brown,Claypole,,,26,
 -34.6654,-58.3778,21,baja,Edesur,Avellaneda,Avellaneda,,,1,
 -34.6393,-58.4787,21,baja,Edesur,Capital,Capital,,,25,
 -34.6171,-58.4857,21,baja,Edesur,Capital,Villa Sta. Rita,,,6,
 -34.6406,-58.4807,21,baja,Edesur,Capital,Capital,,,14,
 -34.7024,-58.4416,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,1,
 -34.6255,-58.4294,21,baja,Edesur,Capital,Caballito,,,1,
--34.6226,-58.3913,21,baja,Edesur,Capital,Constitucion,,,10,
+-34.6226,-58.3913,21,baja,Edesur,Capital,Constitucion,,,18,
+-34.6224,-58.3887,21,baja,Edesur,Capital,Constitucion,,,2,
