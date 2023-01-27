@@ -1,8 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.604712125,-58.393040091,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-4-42/113-4-42,44,2023-01-27 02:46
--34.635390406,-58.483557581,11,media,Edesur,Capital Gp,Velez Sarfield,Perito Moreno,R:048-2-26/048-2-26,670,2023-01-27 02:42
 -34.635989783,-58.484114689,11,media,Edesur,Capital Gp,Velez Sarfield,Perito Moreno,R:048-2-26/048-2-26,113,2023-01-27 02:42
--34.636404474,-58.482803828,11,media,Edesur,Capital Gp,Velez Sarfield,Perito Moreno,R:048-2-26/048-2-26,61,2023-01-27 02:42
 -34.840082640,-58.506735578,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-2-24/083-2-24,74,2023-01-27 03:34
 -34.599562606,-58.386789801,11,media,Edesur,Capital Rp,San Nicolas,Parana,R:117-1-12/117-1-12,66,2023-01-27 03:53
 -34.599590750,-58.386788313,11,media,Edesur,Capital Rp,San Nicolas,Parana,R:117-1-12/117-1-12,199,2023-01-27 03:53
@@ -20,7 +18,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6178,-58.5462,22,baja,Edenor,3 De Febrero,Caseros,,,30,
 -34.6294,-58.7601,22,baja,Edenor,Moreno,Paso Del Rey,,,33,
 -34.3428,-58.7859,22,baja,Edenor,Escobar,Escobar,,,33,
--34.6142,-58.9309,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,14,
 -34.6283,-58.5506,22,baja,Edenor,3 De Febrero,Ciudadela,,,40,
 -34.5193,-58.5656,22,baja,Edenor,San Isidro,Boulogne,,,48,
 -34.5553,-58.7576,22,baja,Edenor,San Miguel,San Miguel,,,6,
@@ -30,7 +27,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4805,-58.6105,22,baja,Edenor,Tigre,Don Torcuato,,,10,
 -34.6443,-58.7341,22,baja,Edenor,Moreno,Paso Del Rey,,,19,
 -34.7555,-58.6181,22,baja,Edenor,La Matanza,Gonzalez Catan,,,7,
--34.4925,-58.7063,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,6,
+-34.4925,-58.7063,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,7,
 -34.4326,-58.7341,22,baja,Edenor,Escobar,Garin,,,46,
 -34.6625,-58.6757,22,baja,Edenor,Ituzaingo,Ituzaingo,,,20,
 -34.6475,-58.8177,22,baja,Edenor,Moreno,La Reja,,,64,
@@ -46,9 +43,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4821,-58.8343,22,baja,Edenor,Pilar,Pte Derqui,,,26,
 -34.4759,-58.5983,22,baja,Edenor,San Fernando,Virreyes,,,41,
 -34.442,-58.5693,22,baja,Edenor,San Fernando,San Fernando,,,14,
--34.6297,-58.7668,22,baja,Edenor,Moreno,Paso Del Rey,,,13,
 -34.5092,-58.6747,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,15,
--34.6115,-58.6357,22,baja,Edenor,Hurlingham,Villa Tesei,,,17,
 -34.6272,-58.7951,22,baja,Edenor,Moreno,Moreno,,,31,
 -34.6545,-58.6809,22,baja,Edenor,Ituzaingo,Ituzaingo,,,2,
 -34.7118,-58.5737,22,baja,Edenor,La Matanza,Isidro Casanova,,,15,
@@ -60,6 +55,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6765,-58.5592,22,baja,Edenor,La Matanza,San Justo,,,29,
 -34.645,-58.5691,22,baja,Edenor,La Matanza,Ramos Mejia,,,26,
 -34.6861,-58.6583,22,baja,Edenor,Moron,Castelar,,,28,
+-34.3834,-58.7478,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,19,
+-34.6115,-58.6356,22,baja,Edenor,Hurlingham,Villa Tesei,,,17,
 -34.9836,-58.3666,21,baja,Edesur,San Vicente,Alejandro Korn,,,6,
 -34.6556,-58.4964,21,baja,Edesur,Capital,Mataderos,,,4,
 -34.7495,-58.5009,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,5,
@@ -80,8 +77,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6368,-58.5017,21,baja,Edesur,Capital,Capital,,,19,
 -34.8578,-58.2734,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
 -34.7452,-58.4164,21,baja,Edesur,Lomas De Zamora,Bandfield,,,16,
+-34.6527,-58.5082,21,baja,Edesur,Capital,Mataderos,,,5,
 -34.7085,-58.4409,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,10,
 -34.7756,-58.4379,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,23,
 -34.8066,-58.1886,21,baja,Edesur,Berazategui,Berazategui,,,3,
 -34.8277,-58.4175,21,baja,Edesur,Almirante Brown,Burzaco,,,4,
--34.607,-58.4965,21,baja,Edesur,Capital,Villa Del Parque,,,13,
+-34.6058,-58.4967,21,baja,Edesur,Capital,Capital,,,13,
+-34.8542,-58.2729,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,
