@@ -65,35 +65,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.950252872,-58.267126991,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,19,2023-01-29 00:20
 -34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-29 00:20
 -34.690055408,-58.431095317,11,media,Edesur,Lanus,Lanus Oeste,Alsina,R:089-2-21/089-2-21,725,2023-01-29 00:20
--34.920885329,-58.771166653,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-28 20:00
--34.912663570,-58.782396796,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
--34.902462531,-58.765980404,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,3,Sin Datos
--34.928275259,-58.771253745,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,3,Sin Datos
--34.443400581,-58.570554818,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,211,2023-01-28 20:00
--34.551089844,-58.763233530,12,media,Edenor,San Miguel,San Miguel,S/D,R:San Miguel/165-Tr1/165-5516,346,2023-01-28 20:00
--34.605981788,-58.849298057,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,101,Sin Datos
--34.604405831,-58.848176696,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,143,Sin Datos
--34.607942591,-58.852109530,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,126,Sin Datos
+-34.920885329,-58.771166653,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-28 21:00
+-34.912663570,-58.782396796,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-28 21:00
+-34.902462531,-58.765980404,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,3,2023-01-28 21:00
+-34.928275259,-58.771253745,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,3,2023-01-28 21:00
+-34.443400581,-58.570554818,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,211,Sin Datos
+-34.605981788,-58.849298057,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,101,2023-01-28 21:00
+-34.604405831,-58.848176696,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,143,2023-01-28 21:00
+-34.607942591,-58.852109530,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5524,126,2023-01-28 21:00
 -34.586268778,-58.584635729,12,media,Edenor,3 De Febrero,Villa Bosch,S/D,R:Rotonda/262-Tr2/262-5534,947,2023-01-28 21:00
--34.7704,-58.8276,22,baja,Edenor,Marcos Paz,Marcos Paz,,,6,
+-34.7704,-58.8276,22,baja,Edenor,Marcos Paz,Marcos Paz,,,8,
 -34.4879,-58.8446,22,baja,Edenor,Pilar,Pte Derqui,,,4,
 -34.4626,-58.7753,22,baja,Edenor,Pilar,Manuel Alberti,,,18,
 -34.5805,-58.5409,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,43,
 -34.5218,-58.7516,22,baja,Edenor,Jose C Paz,Jose C Paz,,,12,
--34.6864,-58.4905,22,baja,Edenor,La Matanza,Villa Madero,,,4,
--34.5938,-58.7562,22,baja,Edenor,Moreno,Trujui,,,5,
+-34.5938,-58.7562,22,baja,Edenor,Moreno,Trujui,,,7,
 -34.4074,-58.8278,22,baja,Edenor,Pilar,Villa Rosa,,,8,
--34.5201,-58.7072,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,4,
+-34.5201,-58.7072,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,5,
 -34.4427,-58.88,22,baja,Edenor,Pilar,Villa Rosa,,,43,
 -34.4541,-59.0036,22,baja,Edenor,Pilar,Manzanares,,,8,
 -34.6479,-58.7194,22,baja,Edenor,Merlo,Merlo,,,25,
+-34.5199,-58.6927,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,19,
+-34.4511,-58.5546,22,baja,Edenor,San Fernando,Virreyes,,,4,
 -34.6461,-58.5048,21,baja,Edesur,Capital,Liniers,,,6,
 -34.6316,-58.4813,21,baja,Edesur,Capital,Floresta,,,72,
 -34.6321,-58.3892,21,baja,Edesur,Capital,Constitucion,,,8,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,11,
--34.6362,-58.4042,21,baja,Edesur,Capital,Parque Patricios,,,12,
 -34.6087,-58.4829,21,baja,Edesur,Capital,Capital,,,42,
--34.6429,-58.4266,21,baja,Edesur,Capital,Nueva Pompeya,,,13,
+-34.6429,-58.4266,21,baja,Edesur,Capital,Nueva Pompeya,,,12,
 -34.6325,-58.4008,21,baja,Edesur,Capital,Parque Patricios,,,11,
 -34.5932,-58.402,21,baja,Edesur,Capital,Recoleta,,,2,
 -34.666,-58.4873,21,baja,Edesur,Capital,Villa Lugano,,,23,
@@ -105,15 +104,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6229,-58.4394,21,baja,Edesur,Capital,Caballito,,,10,
 -34.934,-58.3908,21,baja,Edesur,Pte Peron,Parque Las Naciones,,,9,
 -34.6611,-58.4346,21,baja,Edesur,Capital,Villa Soldati,,,2,
--34.6073,-58.4009,21,baja,Edesur,Capital,Balvanera,,,49,
 -34.6047,-58.3928,21,baja,Edesur,Capital,Balvanera,,,3,
+-34.6905,-58.4027,21,baja,Edesur,Lanus,Lanus,,,2,
 -34.7506,-58.446,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,3,
 -34.6365,-58.4953,21,baja,Edesur,Capital,Villa Luro,,,8,
 -34.9622,-58.4429,21,baja,Edesur,Pte Peron,Guernica,,,33,
 -34.8684,-58.3809,21,baja,Edesur,Almirante Brown,Longchamps,,,1,
 -34.6357,-58.4788,21,baja,Edesur,Capital,Capital,,,3,
--34.8125,-58.4586,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,28,
+-34.813,-58.464,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,30,
+-34.7103,-58.317,21,baja,Edesur,Avellaneda,Wilde,,,5,
 -34.7616,-58.2629,21,baja,Edesur,Quilmes,Quilmes,,,2,
--34.8682,-58.3792,21,baja,Edesur,Almirante Brown,Longchamps,,,4,
+-34.8682,-58.3792,21,baja,Edesur,Almirante Brown,Longchamps,,,5,
 -34.8063,-58.1892,21,baja,Edesur,Berazategui,Berazategui,,,4,
--34.6373,-58.4602,21,baja,Edesur,Capital,Capital,,,1,
