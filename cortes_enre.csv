@@ -1,86 +1,42 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-29 18:02
--34.784087980,-58.188326858,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,192,2023-01-29 14:32
--34.781776622,-58.186026761,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,50,2023-01-29 14:32
--34.781250263,-58.187152967,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,14,2023-01-29 14:32
--34.783345967,-58.184642273,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,30,2023-01-29 14:32
--34.782355775,-58.186726679,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,12,2023-01-29 14:32
--34.782842444,-58.186173527,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,29,2023-01-29 14:32
--34.781763571,-58.187761631,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,9,2023-01-29 14:32
--34.783828860,-58.185238049,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,10,2023-01-29 14:32
--34.782640848,-58.187077945,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,5,2023-01-29 14:32
--34.782422082,-58.188209267,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,10,2023-01-29 14:32
--34.782686852,-58.187878128,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,15,2023-01-29 14:32
--34.784038835,-58.186219758,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,28,2023-01-29 14:32
--34.782386738,-58.188530043,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,12,2023-01-29 14:32
--34.783111379,-58.187656550,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,9,2023-01-29 14:32
--34.783553620,-58.187018321,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,21,2023-01-29 14:32
--34.782595724,-58.188788093,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,11,2023-01-29 14:32
--34.783308287,-58.187898427,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,19,2023-01-29 14:32
--34.784103086,-58.187614188,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,11,2023-01-29 14:32
--34.783753293,-58.187251953,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,10,2023-01-29 14:32
--34.784660491,-58.186925022,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,13,2023-01-29 14:32
--34.780053871,-58.191110571,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,20,2023-01-29 14:32
--34.780665946,-58.191838265,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,28,2023-01-29 14:32
--34.781284204,-58.192501371,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-1-15/080-1-15,22,2023-01-29 14:32
--34.779129422,-58.189237451,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,28,2023-01-29 14:32
--34.779322584,-58.189463217,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,11,2023-01-29 14:32
--34.779699723,-58.189892327,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,14,2023-01-29 14:32
--34.780056060,-58.190331543,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,13,2023-01-29 14:32
--34.780701520,-58.191126817,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,11,2023-01-29 14:32
--34.782099369,-58.192000645,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-1-15/080-1-15,16,2023-01-29 14:32
--34.782431451,-58.193054005,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-1-15/080-1-15,15,2023-01-29 14:32
--34.780719472,-58.190287674,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,16,2023-01-29 14:32
--34.781589990,-58.190701473,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,22,2023-01-29 14:32
--34.781101045,-58.189818806,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,15,2023-01-29 14:32
--34.780388271,-58.187766846,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,29,2023-01-29 14:32
--34.780579824,-58.188001839,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,12,2023-01-29 14:32
--34.780948416,-58.188428791,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,13,2023-01-29 14:32
--34.781130643,-58.188653212,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,10,2023-01-29 14:32
--34.781932458,-58.189635355,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,18,2023-01-29 14:32
--34.782480911,-58.190307178,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,35,2023-01-29 14:32
--34.781758405,-58.189062773,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,19,2023-01-29 14:32
--34.782810577,-58.194332089,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-1-15/080-1-15,54,2023-01-29 14:32
--34.783108522,-58.184363712,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,7,2023-01-29 14:32
--34.564492201,-58.616069662,12,media,Edenor,3 De Febrero,Churruca,S/D,R:Rotonda/262-Tr1/262-5512,46,2023-01-29 14:00
 -34.785876742,-58.609713081,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5535,235,2023-01-29 14:00
--34.784224220,-58.607758061,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5535,359,2023-01-29 13:00
--34.781293041,-58.604340680,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5535,623,2023-01-29 14:00
--34.627659480,-58.810196834,12,media,Edenor,Moreno,La Reja,S/D,R:Catonas/256-Tr2/256-5535,278,2023-01-29 13:00
--34.501699459,-58.642283342,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,17,2023-01-29 13:00
--34.502227795,-58.643059553,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,239,2023-01-29 13:00
--34.502790797,-58.643790816,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,174,2023-01-29 13:00
--34.501896350,-58.642651431,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,81,2023-01-29 13:00
--34.502097502,-58.644440676,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,10,2023-01-29 13:00
--34.942125215,-58.954885059,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,7,2023-01-29 13:00
--34.944038361,-58.956158060,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,6,2023-01-29 13:00
--34.949500672,-58.960352030,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,1,2023-01-29 13:00
--34.957078224,-58.966157447,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,3,2023-01-29 13:00
--34.964163393,-58.955404109,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,1,2023-01-29 13:00
--34.968998854,-58.974971633,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,6,2023-01-29 13:00
--34.972190362,-58.977364672,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,1,2023-01-29 13:00
--34.823624707,-59.102313962,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 13:00
--34.831460586,-59.111821555,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-01-29 13:00
--34.830155214,-59.124368219,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 13:00
--34.826718737,-59.129300781,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 13:00
--34.823709659,-59.133566926,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 13:00
--34.823890232,-59.138896977,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-01-29 13:00
--34.828160439,-59.127203458,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 13:00
--34.819301405,-59.120789129,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 13:00
--34.832024135,-59.121631245,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 13:00
--34.824969816,-59.137690445,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 13:00
--34.607843884,-58.943382256,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5561,406,2023-01-29 13:00
--34.650569962,-58.787842175,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,1,Sin Datos
--34.652016548,-58.785026504,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,161,Sin Datos
--34.649529220,-58.787543139,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,103,Sin Datos
--34.650175234,-58.782474473,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,2,Sin Datos
--34.645442829,-58.783600083,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,173,Sin Datos
--34.653353345,-58.781473717,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,204,Sin Datos
--34.649189402,-58.788452813,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,127,Sin Datos
+-34.784224220,-58.607758061,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5535,359,2023-01-29 14:00
+-34.781293041,-58.604340680,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Altos/272-Tr2/272-5535,623,2023-01-29 15:00
+-34.627659480,-58.810196834,12,media,Edenor,Moreno,La Reja,S/D,R:Catonas/256-Tr2/256-5535,278,2023-01-29 14:00
+-34.501699459,-58.642283342,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,17,2023-01-29 15:00
+-34.502227795,-58.643059553,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,239,2023-01-29 15:00
+-34.502790797,-58.643790816,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,174,2023-01-29 15:00
+-34.501896350,-58.642651431,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,81,2023-01-29 15:00
+-34.502097502,-58.644440676,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,10,2023-01-29 15:00
+-34.942125215,-58.954885059,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,7,2023-01-29 14:00
+-34.944038361,-58.956158060,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,6,2023-01-29 14:00
+-34.949500672,-58.960352030,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,1,2023-01-29 14:00
+-34.957078224,-58.966157447,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,3,2023-01-29 14:00
+-34.964163393,-58.955404109,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,1,2023-01-29 14:00
+-34.968998854,-58.974971633,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,6,2023-01-29 14:00
+-34.972190362,-58.977364672,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,1,2023-01-29 14:00
+-34.823624707,-59.102313962,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 14:00
+-34.831460586,-59.111821555,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-01-29 14:00
+-34.830155214,-59.124368219,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 14:00
+-34.826718737,-59.129300781,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 14:00
+-34.823709659,-59.133566926,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 14:00
+-34.823890232,-59.138896977,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-01-29 14:00
+-34.828160439,-59.127203458,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 14:00
+-34.819301405,-59.120789129,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 14:00
+-34.832024135,-59.121631245,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 14:00
+-34.824969816,-59.137690445,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-01-29 14:00
+-34.607843884,-58.943382256,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5561,406,Sin Datos
+-34.650569962,-58.787842175,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,1,2023-01-29 14:00
+-34.652016548,-58.785026504,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,161,2023-01-29 14:00
+-34.649529220,-58.787543139,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,103,2023-01-29 14:00
+-34.650175234,-58.782474473,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,2,2023-01-29 14:00
+-34.645442829,-58.783600083,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,173,2023-01-29 14:00
+-34.653353345,-58.781473717,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,204,2023-01-29 14:00
+-34.649189402,-58.788452813,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr1/163-5512/608-5514/608-5512,127,2023-01-29 14:00
 -34.4626,-58.7753,22,baja,Edenor,Pilar,Manuel Alberti,,,18,
--34.6915,-58.7563,22,baja,Edenor,Merlo,Merlo,,,7,
 -34.6001,-58.8134,22,baja,Edenor,Moreno,Cuartel V,,,33,
--34.6174,-58.7156,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,23,
+-34.6174,-58.7156,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,27,
 -34.6413,-58.5401,22,baja,Edenor,3 De Febrero,Ciudadela,,,6,
 -34.6294,-58.7601,22,baja,Edenor,Moreno,Paso Del Rey,,,33,
 -34.4587,-58.5648,22,baja,Edenor,San Fernando,Virreyes,,,60,
@@ -95,6 +51,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6047,-58.3928,21,baja,Edesur,Capital,Balvanera,,,3,
 -34.6401,-58.4835,21,baja,Edesur,Capital,Parque Avellaneda,,,5,
 -34.6251,-58.4764,21,baja,Edesur,Capital,Flores,,,5,
+-34.6104,-58.4134,21,baja,Edesur,Capital,Balvanera,,,6,
 -34.5983,-58.4198,21,baja,Edesur,Capital,Almagro,,,20,
 -34.6094,-58.4293,21,baja,Edesur,Capital,Almagro,,,46,
 -34.666,-58.488,21,baja,Edesur,Capital,Capital,,,14,
@@ -104,5 +61,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7723,-58.2134,21,baja,Edesur,Berazategui,Berazategui,,,9,
 -34.8057,-58.19,21,baja,Edesur,Berazategui,Berazategui,,,4,
 -34.6925,-58.3711,21,baja,Edesur,Avellaneda,Gerli,,,34,
--34.6081,-58.5175,21,baja,Edesur,Capital,Villa Devoto,,,5,
--34.6298,-58.4972,21,baja,Edesur,Capital,Capital,,,6,
+-34.6298,-58.4972,21,baja,Edesur,Capital,Capital,,,9,
+-34.6505,-58.3789,21,baja,Edesur,Capital,Barracas,,,6,
