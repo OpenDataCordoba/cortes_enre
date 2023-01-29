@@ -19,20 +19,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.835615922,-58.705061119,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,2023-01-29 18:00
 -34.838177917,-58.694830497,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-29 18:00
 -34.837108014,-58.701675901,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,4,2023-01-29 18:00
--34.557133779,-58.451341022,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,145,Sin Datos
--34.556216490,-58.450651439,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,150,Sin Datos
--34.557952495,-58.451860851,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,136,Sin Datos
--34.556830194,-58.451242882,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,1,Sin Datos
+-34.557133779,-58.451341022,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,145,2023-01-29 18:00
+-34.556216490,-58.450651439,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,150,2023-01-29 18:00
+-34.557952495,-58.451860851,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,136,2023-01-29 18:00
+-34.556830194,-58.451242882,12,media,Edenor,Capital Federal,Belgrano,S/D,R:J. Newbery/235-Tr1/235-5521,1,2023-01-29 18:00
 -34.645985784,-58.799031023,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,1,2023-01-29 20:00
--34.6001,-58.8134,22,baja,Edenor,Moreno,Cuartel V,,,33,
--34.4821,-58.7098,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,27,
 -34.6294,-58.7601,22,baja,Edenor,Moreno,Paso Del Rey,,,33,
 -34.4624,-58.7751,22,baja,Edenor,Pilar,Manuel Alberti,,,18,
 -34.6897,-58.5792,22,baja,Edenor,La Matanza,San Justo,,,4,
 -34.6311,-58.8804,22,baja,Edenor,Moreno,Francisco Alvarez,,,34,
--34.6087,-58.6474,22,baja,Edenor,Hurlingham,Hurlingham,,,0,
 -34.6084,-58.6479,22,baja,Edenor,Hurlingham,Hurlingham,,,20,
--34.6561,-58.376,21,baja,Edesur,Capital,Barracas,,,4,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,11,
 -34.6811,-58.4137,21,baja,Edesur,Lanus,Valentin Alsina,,,2,
 -34.6429,-58.4266,21,baja,Edesur,Capital,Nueva Pompeya,,,13,
@@ -54,5 +50,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7838,-58.1833,21,baja,Edesur,Berazategui,Berazategui,,,3,
 -34.8417,-58.2838,21,baja,Edesur,Florencio Varela,Florencio Varela,,,23,
 -34.8404,-58.2807,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,
+-34.6763,-58.3474,21,baja,Edesur,Avellaneda,Sarandi,,,5,
 -34.711,-58.4577,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,3,
--34.7924,-58.3271,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,8,
+-34.7924,-58.3271,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,9,
+-34.6429,-58.4325,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
