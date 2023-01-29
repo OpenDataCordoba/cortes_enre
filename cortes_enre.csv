@@ -17,16 +17,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.975438931,-58.283066413,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,1,2023-01-29 05:37
 -34.844437104,-58.244583592,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,2,2023-01-29 05:37
 -34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-29 05:37
--34.874882149,-58.408222785,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,293,2023-01-29 03:05
--34.876728353,-58.407486223,11,media,Edesur,Almirante Brown,Longchamps,Almirante Brown,R:180-4-44/180-4-44,293,2023-01-29 03:05
--34.920885329,-58.771166653,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
--34.912663570,-58.782396796,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-29 02:00
--34.928275259,-58.771253745,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,3,2023-01-29 02:00
--34.519851065,-58.692693441,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,96,Sin Datos
--34.589699889,-58.527760859,12,media,Edenor,Gral San Martin,Chacabuco,S/D,R:Migueletes/54-Tr2/54-5525,139,Sin Datos
+-34.920885329,-58.771166653,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-01-29 02:00
+-34.912663570,-58.782396796,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-29 01:00
+-34.928275259,-58.771253745,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,3,2023-01-29 01:00
+-34.589699889,-58.527760859,12,media,Edenor,Gral San Martin,Chacabuco,S/D,R:Migueletes/54-Tr2/54-5525,139,2023-01-29 01:00
 -34.653249968,-58.674815627,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr2/366-5524,127,2023-01-29 01:00
 -34.4879,-58.8446,22,baja,Edenor,Pilar,Pte Derqui,,,4,
 -34.4626,-58.7753,22,baja,Edenor,Pilar,Manuel Alberti,,,18,
+-34.4669,-58.78,22,baja,Edenor,Pilar,Manuel Alberti,,,6,
 -34.6035,-58.7997,22,baja,Edenor,Moreno,Moreno,,,4,
 -34.4041,-58.633,22,baja,Edenor,Tigre,Rincon De Milberg,,,22,
 -34.5218,-58.7516,22,baja,Edenor,Jose C Paz,Jose C Paz,,,12,
@@ -37,7 +35,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6297,-58.7668,22,baja,Edenor,Moreno,Paso Del Rey,,,15,
 -34.6413,-58.5401,22,baja,Edenor,3 De Febrero,Ciudadela,,,5,
 -34.6461,-58.5048,21,baja,Edesur,Capital,Liniers,,,6,
--34.6316,-58.4813,21,baja,Edesur,Capital,Floresta,,,68,
+-34.6316,-58.4813,21,baja,Edesur,Capital,Floresta,,,69,
 -34.6557,-58.3752,21,baja,Edesur,Capital,Barracas,,,2,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,11,
 -34.6087,-58.4829,21,baja,Edesur,Capital,Capital,,,58,
@@ -54,11 +52,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6611,-58.4346,21,baja,Edesur,Capital,Villa Soldati,,,2,
 -34.6047,-58.3928,21,baja,Edesur,Capital,Balvanera,,,3,
 -34.6905,-58.4027,21,baja,Edesur,Lanus,Lanus,,,2,
--34.6365,-58.4953,21,baja,Edesur,Capital,Villa Luro,,,8,
+-34.6365,-58.4953,21,baja,Edesur,Capital,Villa Luro,,,9,
 -34.9622,-58.4429,21,baja,Edesur,Pte Peron,Guernica,,,32,
 -34.7103,-58.317,21,baja,Edesur,Avellaneda,Wilde,,,12,
 -34.8063,-58.1892,21,baja,Edesur,Berazategui,Berazategui,,,10,
 -34.6741,-58.3912,21,baja,Edesur,Avellaneda,Piñeyro,,,4,
 -34.7429,-58.4356,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,1,
--34.6094,-58.4293,21,baja,Edesur,Capital,Almagro,,,10,
--34.6104,-58.4274,21,baja,Edesur,Capital,Almagro,,,6,
+-34.6094,-58.4293,21,baja,Edesur,Capital,Almagro,,,13,
+-34.6104,-58.4274,21,baja,Edesur,Capital,Almagro,,,9,
