@@ -55,8 +55,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.705315120,-58.448242266,11,media,Edesur,Lomas De Zamora,Villa Fiorito,Autodromo,R:042-2-22/042-2-22,39,2023-01-29 06:08
 -34.705289535,-58.449788405,11,media,Edesur,Lomas De Zamora,Villa Fiorito,Autodromo,R:042-2-22/042-2-22,2,2023-01-29 06:08
 -34.707093985,-58.460055528,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Autodromo,R:042-2-22/042-2-22,254,2023-01-29 06:08
--34.653249968,-58.674815627,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr2/366-5524,127,Sin Datos
--34.466190321,-58.734360550,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr2/252-5536,324,Sin Datos
+-34.653249968,-58.674815627,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr2/366-5524,127,2023-01-29 04:00
 -34.561103764,-58.445172087,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,153,2023-01-29 04:00
 -34.561717257,-58.445423222,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,399,2023-01-29 04:00
 -34.558802255,-58.443749570,12,media,Edenor,S/D,S/D,S/D,R:Libertador/41-Tr2/41-5524,349,2023-01-29 04:00
@@ -89,7 +88,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6365,-58.4953,21,baja,Edesur,Capital,Villa Luro,,,9,
 -34.9622,-58.4429,21,baja,Edesur,Pte Peron,Guernica,,,32,
 -35.0583,-58.7661,21,baja,Edesur,Cañuelas,Cañuelas,,,19,
--34.6401,-58.4835,21,baja,Edesur,Capital,Parque Avellaneda,,,3,
--34.7099,-58.3171,21,baja,Edesur,Avellaneda,Wilde,,,12,
+-34.6401,-58.4835,21,baja,Edesur,Capital,Parque Avellaneda,,,5,
+-34.7103,-58.317,21,baja,Edesur,Avellaneda,Wilde,,,12,
 -34.8063,-58.1892,21,baja,Edesur,Berazategui,Berazategui,,,10,
 -34.6094,-58.4293,21,baja,Edesur,Capital,Almagro,,,30,
+-34.643,-58.4736,21,baja,Edesur,Capital,Capital,,,25,
