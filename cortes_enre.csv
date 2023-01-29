@@ -1,27 +1,10 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--35.022242014,-58.327944416,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,2,Sin Datos
--35.044024986,-58.306877497,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,1,Sin Datos
--34.989763935,-58.299092219,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,2,Sin Datos
--34.994863331,-58.296976299,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,1,Sin Datos
--35.009820834,-58.339952732,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,2,Sin Datos
--35.016948534,-58.295018411,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,3,Sin Datos
--35.016973201,-58.303437440,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,1,Sin Datos
--35.057543028,-58.302657610,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,11,Sin Datos
--35.004219598,-58.315865634,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,3,Sin Datos
--35.034989819,-58.298380839,11,media,Edesur,San Vicente,Domselaar,Burzaco,N:082-3-981/082-3-981,1,Sin Datos
--34.968039842,-58.274626849,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,1,Sin Datos
--34.979363861,-58.287535665,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,1,Sin Datos
--34.982814454,-58.266760380,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,2,Sin Datos
--35.005277165,-58.278980601,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,1,Sin Datos
--34.976153812,-58.259124323,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,7,Sin Datos
--34.975438931,-58.283066413,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,1,Sin Datos
--34.844437104,-58.244583592,11,media,Edesur,Florencio Varela,Florencio Varela,Bosques,R:185-1-16/185-1-16,2,Sin Datos
--34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,Sin Datos
--34.501699459,-58.642283342,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,17,Sin Datos
--34.502227795,-58.643059553,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,239,Sin Datos
--34.502790797,-58.643790816,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,174,Sin Datos
--34.501896350,-58.642651431,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,81,Sin Datos
--34.502097502,-58.644440676,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,10,Sin Datos
+-34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-29 13:04
+-34.501699459,-58.642283342,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,17,2023-01-29 10:00
+-34.502227795,-58.643059553,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,239,2023-01-29 10:00
+-34.502790797,-58.643790816,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,174,2023-01-29 10:00
+-34.501896350,-58.642651431,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,81,2023-01-29 10:00
+-34.502097502,-58.644440676,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,10,2023-01-29 10:00
 -34.623926464,-58.770130573,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5524,333,2023-01-29 09:00
 -34.619280573,-58.765345005,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5524,300,2023-01-29 09:00
 -34.624120480,-58.774607787,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,104,2023-01-29 09:00
@@ -31,12 +14,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6035,-58.7997,22,baja,Edenor,Moreno,Moreno,,,4,
 -34.6579,-58.6907,22,baja,Edenor,Ituzaingo,Ituzaingo,,,4,
 -34.6461,-58.5048,21,baja,Edesur,Capital,Liniers,,,7,
--34.6557,-58.3752,21,baja,Edesur,Capital,Barracas,,,2,
+-34.6561,-58.376,21,baja,Edesur,Capital,Barracas,,,2,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,11,
 -34.6811,-58.4137,21,baja,Edesur,Lanus,Valentin Alsina,,,2,
 -34.6429,-58.4266,21,baja,Edesur,Capital,Nueva Pompeya,,,12,
 -34.6325,-58.4008,21,baja,Edesur,Capital,Parque Patricios,,,11,
--34.6362,-58.4115,21,baja,Edesur,Capital,Boedo,,,25,
+-34.6362,-58.4115,21,baja,Edesur,Capital,Boedo,,,26,
 -34.7718,-58.4226,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,4,
 -34.6229,-58.4394,21,baja,Edesur,Capital,Caballito,,,10,
 -34.6611,-58.4346,21,baja,Edesur,Capital,Villa Soldati,,,2,
@@ -47,4 +30,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -35.0583,-58.7661,21,baja,Edesur,Cañuelas,Cañuelas,,,19,
 -34.6401,-58.4835,21,baja,Edesur,Capital,Parque Avellaneda,,,5,
 -34.7103,-58.317,21,baja,Edesur,Avellaneda,Wilde,,,13,
--34.6094,-58.4293,21,baja,Edesur,Capital,Almagro,,,33,
+-34.6094,-58.4293,21,baja,Edesur,Capital,Almagro,,,34,
