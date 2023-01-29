@@ -55,28 +55,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.705315120,-58.448242266,11,media,Edesur,Lomas De Zamora,Villa Fiorito,Autodromo,R:042-2-22/042-2-22,39,2023-01-29 06:08
 -34.705289535,-58.449788405,11,media,Edesur,Lomas De Zamora,Villa Fiorito,Autodromo,R:042-2-22/042-2-22,2,2023-01-29 06:08
 -34.707093985,-58.460055528,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Autodromo,R:042-2-22/042-2-22,254,2023-01-29 06:08
--34.653249968,-58.674815627,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr2/366-5524,127,2023-01-29 03:00
--34.466190321,-58.734360550,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr2/252-5536,324,2023-01-29 05:00
--34.561551329,-58.447493095,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,276,2023-01-29 04:00
+-34.653249968,-58.674815627,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr2/366-5524,127,Sin Datos
+-34.466190321,-58.734360550,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr2/252-5536,324,Sin Datos
 -34.561103764,-58.445172087,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,153,2023-01-29 04:00
--34.558966229,-58.444274218,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,1,2023-01-29 04:00
 -34.561717257,-58.445423222,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,399,2023-01-29 04:00
--34.562103767,-58.444469339,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,102,2023-01-29 04:00
 -34.558802255,-58.443749570,12,media,Edenor,S/D,S/D,S/D,R:Libertador/41-Tr2/41-5524,349,2023-01-29 04:00
 -34.561841118,-58.445316626,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,173,2023-01-29 04:00
--34.4879,-58.8446,22,baja,Edenor,Pilar,Pte Derqui,,,4,
 -34.4626,-58.7753,22,baja,Edenor,Pilar,Manuel Alberti,,,18,
 -34.608,-58.7042,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,1,
 -34.4669,-58.78,22,baja,Edenor,Pilar,Manuel Alberti,,,6,
 -34.6035,-58.7997,22,baja,Edenor,Moreno,Moreno,,,4,
--34.4041,-58.633,22,baja,Edenor,Tigre,Rincon De Milberg,,,22,
 -34.5218,-58.7516,22,baja,Edenor,Jose C Paz,Jose C Paz,,,12,
 -34.4521,-58.7307,22,baja,Edenor,Escobar,Garin,,,28,
 -34.6579,-58.6907,22,baja,Edenor,Ituzaingo,Ituzaingo,,,4,
 -34.3266,-58.5706,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,6,
 -34.6297,-58.7668,22,baja,Edenor,Moreno,Paso Del Rey,,,17,
--34.6413,-58.5401,22,baja,Edenor,3 De Febrero,Ciudadela,,,5,
--34.4662,-58.7344,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,25,
 -34.6461,-58.5048,21,baja,Edesur,Capital,Liniers,,,6,
 -34.6557,-58.3752,21,baja,Edesur,Capital,Barracas,,,2,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,11,
@@ -96,6 +89,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6365,-58.4953,21,baja,Edesur,Capital,Villa Luro,,,9,
 -34.9622,-58.4429,21,baja,Edesur,Pte Peron,Guernica,,,32,
 -35.0583,-58.7661,21,baja,Edesur,Cañuelas,Cañuelas,,,19,
--34.7103,-58.317,21,baja,Edesur,Avellaneda,Wilde,,,12,
+-34.6401,-58.4835,21,baja,Edesur,Capital,Parque Avellaneda,,,3,
+-34.7099,-58.3171,21,baja,Edesur,Avellaneda,Wilde,,,12,
 -34.8063,-58.1892,21,baja,Edesur,Berazategui,Berazategui,,,10,
 -34.6094,-58.4293,21,baja,Edesur,Capital,Almagro,,,30,
