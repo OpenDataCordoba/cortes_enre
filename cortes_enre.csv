@@ -1,13 +1,13 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-29 13:04
--34.501699459,-58.642283342,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,17,2023-01-29 10:00
--34.502227795,-58.643059553,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,239,2023-01-29 10:00
--34.502790797,-58.643790816,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,174,2023-01-29 10:00
--34.501896350,-58.642651431,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,81,2023-01-29 10:00
--34.502097502,-58.644440676,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,10,2023-01-29 10:00
--34.623926464,-58.770130573,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5524,333,2023-01-29 09:00
--34.619280573,-58.765345005,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5524,300,2023-01-29 09:00
--34.624120480,-58.774607787,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,104,2023-01-29 09:00
+-34.501699459,-58.642283342,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,17,2023-01-29 09:00
+-34.502227795,-58.643059553,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,239,2023-01-29 09:00
+-34.502790797,-58.643790816,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,174,2023-01-29 09:00
+-34.501896350,-58.642651431,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,81,2023-01-29 09:00
+-34.502097502,-58.644440676,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5526,10,2023-01-29 09:00
+-34.623926464,-58.770130573,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5524,333,2023-01-29 10:00
+-34.619280573,-58.765345005,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5524,300,2023-01-29 10:00
+-34.624120480,-58.774607787,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5524,104,2023-01-29 10:00
 -34.4875,-58.905,22,baja,Edenor,Pilar,Pilar,,,11,
 -34.4626,-58.7753,22,baja,Edenor,Pilar,Manuel Alberti,,,18,
 -34.608,-58.7042,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,1,
@@ -27,7 +27,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6905,-58.4027,21,baja,Edesur,Lanus,Lanus,,,2,
 -34.6365,-58.4953,21,baja,Edesur,Capital,Villa Luro,,,9,
 -34.9622,-58.4429,21,baja,Edesur,Pte Peron,Guernica,,,32,
--35.0583,-58.7661,21,baja,Edesur,Cañuelas,Cañuelas,,,19,
+-35.0583,-58.7661,21,baja,Edesur,Cañuelas,Cañuelas,,,20,
 -34.6401,-58.4835,21,baja,Edesur,Capital,Parque Avellaneda,,,5,
--34.7103,-58.317,21,baja,Edesur,Avellaneda,Wilde,,,13,
+-34.7554,-58.4527,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,9,
+-34.7103,-58.317,21,baja,Edesur,Avellaneda,Wilde,,,15,
 -34.6094,-58.4293,21,baja,Edesur,Capital,Almagro,,,34,
