@@ -1,9 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,Sin Datos
+-34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-30 23:48
 -34.864058727,-58.396287367,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-3-33/277-3-33,179,2023-01-30 19:54
 -34.876440895,-58.396859858,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-3-33/277-3-33,171,2023-01-30 19:54
 -34.598302140,-58.524429915,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5513,132,Sin Datos
--34.808889739,-58.618389314,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,313,2023-01-30 20:00
+-34.808889739,-58.618389314,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,313,Sin Datos
 -34.415510797,-58.771228057,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Tortuguitas/252-Tr1/252-5546,168,2023-01-30 19:00
 -34.346565024,-58.767188705,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5526,15,2023-01-30 19:00
 -34.359817410,-58.762678122,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5526,101,2023-01-30 19:00
@@ -15,19 +15,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.364853817,-58.756644082,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5526,4,2023-01-30 19:00
 -34.359525928,-58.767382256,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5526,8,2023-01-30 19:00
 -34.630134983,-58.538832592,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr2/167-5523,631,2023-01-30 20:00
--34.650626216,-58.730869815,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,397,2023-01-30 19:00
--34.652007776,-58.729809649,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,55,2023-01-30 19:00
--34.653484028,-58.717953876,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,145,2023-01-30 19:00
--34.654746361,-58.716545468,12,media,Edenor,Merlo,Merlo,S/D,R:San Alberto/366-Tr1/366-5515,128,2023-01-30 19:00
--34.653669132,-58.614814291,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,151,Sin Datos
--34.653717048,-58.613360716,12,media,Edenor,S/D,S/D,S/D,R:Castelar/61-Tr2/61-5536,95,Sin Datos
--34.653106538,-58.616784468,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,153,Sin Datos
--34.645587008,-58.621010649,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,75,Sin Datos
--34.651772932,-58.615967794,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,271,Sin Datos
--34.653866137,-58.611851850,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,94,Sin Datos
--34.654133387,-58.611144788,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,443,Sin Datos
--34.653617207,-58.616466450,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,134,Sin Datos
--34.653564159,-58.617518909,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,166,Sin Datos
+-34.653669132,-58.614814291,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,151,2023-01-30 19:00
+-34.653717048,-58.613360716,12,media,Edenor,S/D,S/D,S/D,R:Castelar/61-Tr2/61-5536,95,2023-01-30 19:00
+-34.653106538,-58.616784468,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,153,2023-01-30 19:00
+-34.645587008,-58.621010649,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,75,2023-01-30 19:00
+-34.651772932,-58.615967794,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,271,2023-01-30 19:00
+-34.653866137,-58.611851850,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,94,2023-01-30 19:00
+-34.654133387,-58.611144788,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,443,2023-01-30 19:00
+-34.653617207,-58.616466450,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,134,2023-01-30 19:00
+-34.653564159,-58.617518909,12,media,Edenor,Moron,Moron,S/D,R:Castelar/61-Tr2/61-5536,166,2023-01-30 19:00
 -34.6623,-58.5284,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,4,
 -34.7573,-58.6066,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,17,
 -34.6943,-58.7254,22,baja,Edenor,Merlo,Merlo,,,31,
@@ -39,7 +35,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8311,-58.6511,22,baja,Edenor,La Matanza,Virrey Del Pino,,,17,
 -34.7332,-58.5841,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,17,
 -34.6483,-58.7488,22,baja,Edenor,Moreno,Paso Del Rey,,,39,
--34.4535,-58.6057,22,baja,Edenor,Tigre,Troncos Del Talar,,,9,
+-34.4535,-58.6057,22,baja,Edenor,Tigre,Troncos Del Talar,,,13,
 -34.442,-58.5693,22,baja,Edenor,San Fernando,San Fernando,,,25,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,13,
 -34.6362,-58.4115,21,baja,Edesur,Capital,Boedo,,,32,
@@ -47,11 +43,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6047,-58.3928,21,baja,Edesur,Capital,Balvanera,,,3,
 -34.6225,-58.3894,21,baja,Edesur,Capital,Constitucion,,,8,
 -34.6501,-58.3795,21,baja,Edesur,Capital,Barracas,,,31,
--34.8201,-58.1631,21,baja,Edesur,Berazategui,Gutierrez,,,12,
+-34.8201,-58.1631,21,baja,Edesur,Berazategui,Hudson,,,12,
 -34.8091,-58.2584,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,
 -34.6171,-58.5156,21,baja,Edesur,Capital,Capital,,,11,
 -34.653,-58.4127,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
 -34.6892,-58.4703,21,baja,Edesur,Capital,Capital,,,6,
 -34.7244,-58.2583,21,baja,Edesur,Quilmes,Quilmes,,,18,
--34.8166,-58.3613,21,baja,Edesur,Almirante Brown,Claypole,,,10,
--34.6013,-58.5095,21,baja,Edesur,Capital,Villa Devoto,,,24,
+-34.8059,-58.3838,21,baja,Edesur,Almirante Brown,Adrogue,,,18,
+-34.6012,-58.5102,21,baja,Edesur,Capital,Villa Devoto,,,28,
