@@ -1,9 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-30 23:48
+-34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-31 00:09
 -34.864058727,-58.396287367,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-3-33/277-3-33,179,2023-01-30 19:54
 -34.876440895,-58.396859858,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-3-33/277-3-33,171,2023-01-30 19:54
--34.598302140,-58.524429915,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5513,132,Sin Datos
--34.808889739,-58.618389314,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,313,Sin Datos
+-34.598302140,-58.524429915,12,media,Edenor,Gral San Martin,Villa Lynch,S/D,R:Migueletes/54-Tr1/54-5513,132,2023-01-30 20:00
+-34.808889739,-58.618389314,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Gonzalez Catan/168-Tr1/168-5511,313,2023-01-30 20:00
 -34.415510797,-58.771228057,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Tortuguitas/252-Tr1/252-5546,168,2023-01-30 19:00
 -34.346565024,-58.767188705,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5526,15,2023-01-30 19:00
 -34.359817410,-58.762678122,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5526,101,2023-01-30 19:00
@@ -35,9 +35,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8311,-58.6511,22,baja,Edenor,La Matanza,Virrey Del Pino,,,17,
 -34.7332,-58.5841,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,17,
 -34.6483,-58.7488,22,baja,Edenor,Moreno,Paso Del Rey,,,39,
--34.4535,-58.6057,22,baja,Edenor,Tigre,Troncos Del Talar,,,13,
+-34.4535,-58.6057,22,baja,Edenor,Tigre,Troncos Del Talar,,,14,
 -34.442,-58.5693,22,baja,Edenor,San Fernando,San Fernando,,,25,
--34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,13,
+-34.4295,-58.998,22,baja,Edenor,Pilar,Fatima,,,17,
+-34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,14,
 -34.6362,-58.4115,21,baja,Edesur,Capital,Boedo,,,32,
 -34.6229,-58.4394,21,baja,Edesur,Capital,Caballito,,,12,
 -34.6047,-58.3928,21,baja,Edesur,Capital,Balvanera,,,3,
@@ -47,7 +48,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8091,-58.2584,21,baja,Edesur,Florencio Varela,Florencio Varela,,,7,
 -34.6171,-58.5156,21,baja,Edesur,Capital,Capital,,,11,
 -34.653,-58.4127,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
--34.6892,-58.4703,21,baja,Edesur,Capital,Capital,,,6,
--34.7244,-58.2583,21,baja,Edesur,Quilmes,Quilmes,,,18,
--34.8059,-58.3838,21,baja,Edesur,Almirante Brown,Adrogue,,,18,
--34.6012,-58.5102,21,baja,Edesur,Capital,Villa Devoto,,,28,
+-34.7838,-58.1981,21,baja,Edesur,Berazategui,Ranelagh,,,5,
+-34.7244,-58.2583,21,baja,Edesur,Quilmes,Quilmes,,,20,
+-34.8059,-58.3838,21,baja,Edesur,Almirante Brown,Adrogue,,,22,
+-34.6012,-58.5102,21,baja,Edesur,Capital,Villa Devoto,,,31,
+-34.7466,-58.321,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,4,
+-34.7078,-58.2841,21,baja,Edesur,Quilmes,Don Bosco,,,5,
+-34.6788,-58.4808,21,baja,Edesur,Capital,Villa Lugano,,,3,
