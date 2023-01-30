@@ -1,5 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-30 09:41
+-34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-30 15:17
 -34.891448495,-58.434318703,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-44/277-4-44,21,2023-01-30 12:53
 -34.876563331,-58.445321005,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-44/277-4-44,2,2023-01-30 12:53
 -34.879833639,-58.454755692,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-44/277-4-44,1,2023-01-30 12:53
@@ -29,55 +29,48 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.331976472,-58.561379420,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2023-01-30 11:00
 -34.329937255,-58.562364929,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2023-01-30 11:00
 -34.737378111,-58.649875500,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Pantanosa/365-Tr1/365-5513,3,2023-01-30 11:00
--34.747596142,-58.684813150,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,6,2023-01-30 13:00
--34.675520584,-58.762757455,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr1/258-5542,560,Sin Datos
--34.594010746,-58.949700998,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,73,2023-01-30 10:00
+-34.747596142,-58.684813150,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5516,6,Sin Datos
+-34.675520584,-58.762757455,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr1/258-5542,560,2023-01-30 11:00
+-34.594010746,-58.949700998,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,73,2023-01-30 11:00
 -34.415510797,-58.771228057,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Tortuguitas/252-Tr1/252-5546,168,2023-01-30 11:00
 -34.461881580,-58.635750105,12,media,Edenor,Tigre,General Pacheco,S/D,R:Talar/58-Tr2/58-5521,250,2023-01-30 11:00
--34.874182873,-58.980988662,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
--34.865074064,-58.970671818,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
+-34.874182873,-58.980988662,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-01-30 11:00
+-34.865074064,-58.970671818,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-01-30 11:00
 -34.886118389,-58.983453655,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
 -34.881507580,-58.992513482,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
 -34.881287196,-59.001404606,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,N:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
 -34.443252678,-58.968777179,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr1/158-5513,21,Sin Datos
--34.486311083,-58.643149854,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,6,2023-01-30 11:00
--34.485091942,-58.636856963,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,74,2023-01-30 11:00
--34.484639902,-58.647393054,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Talar/58-Tr1/58-5512,102,2023-01-30 11:00
--34.487557981,-58.645525936,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,128,2023-01-30 11:00
--34.492917416,-58.632337141,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,210,2023-01-30 11:00
--34.486405880,-58.640508921,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,228,2023-01-30 11:00
--34.482926298,-58.646136595,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,6,2023-01-30 11:00
--34.483046911,-58.644013993,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,15,2023-01-30 11:00
--34.489816905,-58.634785573,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,290,2023-01-30 11:00
--34.487985423,-58.643669803,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,78,2023-01-30 11:00
--34.537619744,-58.537981090,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,119,2023-01-30 13:00
--34.546502066,-58.525987517,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,4,2023-01-30 13:00
--34.537962723,-58.537778202,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,1,2023-01-30 13:00
--34.535417725,-58.539772361,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,1,2023-01-30 13:00
--34.532204066,-58.543453162,12,media,Edenor,Vicente Lopez,Villa Adelina (Vl),S/D,R:Munro/55-Tr2/55-5537,679,2023-01-30 13:00
--34.538260973,-58.529222822,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,317,2023-01-30 13:00
--34.535414395,-58.534632813,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,472,2023-01-30 13:00
--34.537377314,-58.536371499,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,68,2023-01-30 13:00
--34.537178760,-58.535133425,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,150,2023-01-30 13:00
--34.541809100,-58.528851094,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,62,2023-01-30 13:00
--34.541272878,-58.529226834,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,64,2023-01-30 13:00
--34.538043265,-58.532025480,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,172,2023-01-30 13:00
--34.537895276,-58.531041672,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,8,2023-01-30 13:00
--34.532594480,-58.542916249,12,media,Edenor,Vicente Lopez,Carapachay,S/D,R:Munro/55-Tr2/55-5537,1,2023-01-30 13:00
--34.535654819,-58.537726540,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,138,2023-01-30 13:00
+-34.546502066,-58.525987517,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,4,2023-01-30 11:00
+-34.538260973,-58.529222822,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,317,2023-01-30 11:00
+-34.535414395,-58.534632813,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,472,2023-01-30 11:00
+-34.537178760,-58.535133425,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,150,2023-01-30 11:00
+-34.541809100,-58.528851094,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,62,2023-01-30 11:00
+-34.541272878,-58.529226834,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr2/55-5537,64,2023-01-30 11:00
+-34.538043265,-58.532025480,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,172,2023-01-30 11:00
+-34.537895276,-58.531041672,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,8,2023-01-30 11:00
+-34.535654819,-58.537726540,12,media,Edenor,Vicente Lopez,Munro,S/D,R:Munro/55-Tr2/55-5537,138,2023-01-30 11:00
 -34.5062,-58.6731,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,85,
--34.4282,-58.5924,22,baja,Edenor,Tigre,Ciudad De Tigre,,,6,
+-34.5859,-58.4438,22,baja,Edenor,Capital Federal,Palermo,,,6,
+-34.4282,-58.5924,22,baja,Edenor,Tigre,Ciudad De Tigre,,,15,
 -34.5055,-58.5741,22,baja,Edenor,San Isidro,Boulogne,,,32,
 -34.6943,-58.7254,22,baja,Edenor,Merlo,Merlo,,,13,
 -34.4795,-58.6731,22,baja,Edenor,Tigre,El Talar,,,13,
+-34.5832,-58.7524,22,baja,Edenor,Moreno,Trujui,,,1,
+-34.7084,-58.5167,22,baja,Edenor,La Matanza,Aldo Bonzi,,,4,
 -34.6361,-58.3822,21,baja,Edesur,Capital,Barracas,,,11,
 -34.6362,-58.4115,21,baja,Edesur,Capital,Boedo,,,32,
 -34.6229,-58.4394,21,baja,Edesur,Capital,Caballito,,,12,
 -34.6395,-58.3739,21,baja,Edesur,Capital,Barracas,,,8,
 -34.6047,-58.3928,21,baja,Edesur,Capital,Balvanera,,,3,
 -34.8124,-58.3175,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
--34.6501,-58.3795,21,baja,Edesur,Capital,Barracas,,,10,
+-34.6501,-58.3795,21,baja,Edesur,Capital,Barracas,,,11,
 -34.8691,-58.2001,21,baja,Edesur,Florencio Varela,Ing. Allan,,,2,
--34.6866,-58.3328,21,baja,Edesur,Avellaneda,Sarandi,,,15,
+-34.6738,-58.3455,21,baja,Edesur,Avellaneda,Sarandi,,,22,
+-34.6882,-58.3354,21,baja,Edesur,Avellaneda,Sarandi,,,17,
 -34.7314,-58.3843,21,baja,Edesur,Lanus,Remedios De Escalada,,,19,
+-34.7418,-58.3072,21,baja,Edesur,Quilmes,Quilmes,,,1,
 -34.5999,-58.5221,21,baja,Edesur,Capital,Villa Devoto,,,1,
+-34.629,-58.507,21,baja,Edesur,Capital,Villa Luro,,,6,
+-34.6249,-58.4766,21,baja,Edesur,Capital,Flores,,,5,
+-34.6873,-58.3299,21,baja,Edesur,Avellaneda,Sarandi,,,1,
+-34.9974,-58.3688,21,baja,Edesur,San Vicente,Alejandro Korn,,,1,
