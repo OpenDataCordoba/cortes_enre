@@ -1,5 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-31 15:13
+-34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,Sin Datos
 -34.887322310,-58.386801367,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-13/277-1-13,239,2023-01-31 14:26
 -34.886444751,-58.389599202,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-13/277-1-13,4,2023-01-31 14:26
 -34.885030042,-58.387290042,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-13/277-1-13,314,2023-01-31 14:26
@@ -23,10 +23,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.819893204,-58.235621737,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,481,2023-01-31 13:57
 -34.822215589,-58.236830089,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,191,2023-01-31 13:57
 -34.820701449,-58.233092741,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,138,2023-01-31 13:57
+-34.799019417,-58.393109315,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,750,2023-01-31 14:20
+-34.798041948,-58.393319981,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,185,2023-01-31 14:20
+-34.797488688,-58.391454889,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,284,2023-01-31 14:20
+-34.798282778,-58.394749567,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,186,2023-01-31 14:20
 -34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,25,2023-01-31 12:00
 -34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,2023-01-31 12:00
 -34.516744950,-58.507508822,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Vicente Lopez/50-Tr1/50-5513,365,2023-01-31 12:00
--34.583312823,-58.589586437,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr2/262-5526,665,2023-01-31 12:00
+-34.583312823,-58.589586437,12,media,Edenor,3 De Febrero,Martin Coronado,S/D,R:Rotonda/262-Tr2/262-5526,665,Sin Datos
 -34.304422054,-58.637337350,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,11,2023-01-31 12:00
 -34.297689176,-58.637733683,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,15,2023-01-31 12:00
 -34.284472016,-58.637226809,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,12,2023-01-31 12:00
@@ -35,30 +39,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.276996127,-58.639840258,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,2023-01-31 12:00
 -34.284205026,-58.635023662,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,13,2023-01-31 12:00
 -34.304034795,-58.635533712,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,21,2023-01-31 12:00
--34.724837016,-58.484205763,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr1/162-5522,433,2023-01-31 11:00
--34.751116944,-58.573635038,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,463,2023-01-31 12:00
--34.752768144,-58.578802548,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,350,2023-01-31 12:00
--34.748526402,-58.574294690,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,509,2023-01-31 12:00
--34.754821458,-58.575238193,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,344,2023-01-31 12:00
--34.754264349,-58.571946496,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,325,2023-01-31 12:00
--34.757844272,-58.572007600,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,2,2023-01-31 12:00
--34.748666826,-58.569914133,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,304,2023-01-31 12:00
--34.752005159,-58.579847543,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,231,2023-01-31 12:00
--34.756917566,-58.573276729,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,261,2023-01-31 12:00
--34.748139116,-58.567312334,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,1,2023-01-31 12:00
--34.752734568,-58.573968377,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,127,2023-01-31 12:00
--34.747401671,-58.568022625,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,69,2023-01-31 12:00
--34.756005234,-58.584022372,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,331,Sin Datos
+-34.724837016,-58.484205763,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr1/162-5522,433,2023-01-31 12:00
+-34.751116944,-58.573635038,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,463,Sin Datos
+-34.748526402,-58.574294690,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,509,Sin Datos
+-34.754821458,-58.575238193,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,344,Sin Datos
+-34.754264349,-58.571946496,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,325,Sin Datos
+-34.748666826,-58.569914133,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,304,Sin Datos
+-34.748139116,-58.567312334,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,1,Sin Datos
+-34.752734568,-58.573968377,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,127,Sin Datos
+-34.747401671,-58.568022625,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,69,Sin Datos
 -34.758494032,-58.587277756,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,419,Sin Datos
 -34.758480785,-58.581854591,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,361,Sin Datos
 -34.756283465,-58.582076130,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,256,Sin Datos
 -34.759821840,-58.585575571,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,65,Sin Datos
--34.754807877,-58.585595026,12,media,Edenor,S/D,S/D,S/D,R:Altos/272-Tr1/272-5518,317,Sin Datos
 -34.760581790,-58.589096288,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,262,Sin Datos
--34.843077545,-58.888502296,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,6,2023-01-31 11:00
--34.662792759,-58.646249537,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,172,2023-01-31 11:00
--34.661050142,-58.645530634,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,277,2023-01-31 12:00
--34.569462843,-58.457861755,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5521,770,2023-01-31 12:00
+-34.843077545,-58.888502296,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5517,6,2023-01-31 12:00
+-34.662792759,-58.646249537,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,172,2023-01-31 12:00
+-34.661050142,-58.645530634,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5526,277,Sin Datos
 -34.369171903,-58.592227751,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,4,2023-01-31 12:00
 -34.351431608,-58.593277735,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,3,2023-01-31 12:00
 -34.370378435,-58.594078512,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,24,2023-01-31 12:00
@@ -68,10 +65,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5165,-58.7915,22,baja,Edenor,Jose C Paz,Jose C Paz,,,13,
 -34.5644,-58.4596,22,baja,Edenor,Capital Federal,Belgrano,,,21,
 -34.3841,-58.8228,22,baja,Edenor,Pilar,Villa Rosa,,,11,
--34.406,-58.8371,22,baja,Edenor,Pilar,Villa Rosa,,,31,
+-34.6398,-58.5309,22,baja,Edenor,3 De Febrero,Ciudadela,,,25,
 -34.5825,-58.7498,22,baja,Edenor,Moreno,Trujui,,,74,
 -34.4428,-58.673,22,baja,Edenor,Tigre,General Pacheco,,,10,
--34.5832,-58.7524,22,baja,Edenor,Moreno,Trujui,,,1,
+-34.4781,-58.8941,22,baja,Edenor,Pilar,Pilar,,,27,
+-34.5798,-58.4722,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,2,
+-34.7549,-58.5836,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,1,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,14,
 -34.6047,-58.3928,21,baja,Edesur,Capital,Balvanera,,,3,
 -34.6255,-58.4313,21,baja,Edesur,Capital,Caballito,,,26,
