@@ -7,7 +7,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.613109058,-58.372491278,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-23/126-2-23,1,2023-01-31 23:19
 -34.611797400,-58.375552287,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-23/126-2-23,2,2023-01-31 23:19
 -34.611970690,-58.375702723,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-23/126-2-23,1,2023-01-31 23:19
--34.612044747,-58.371152192,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-23/126-2-23,1,2023-01-31 23:19
 -34.611709813,-58.374379590,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-23/126-2-23,7,2023-01-31 23:19
 -34.611492727,-58.370749256,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-23/126-2-23,40,2023-01-31 23:19
 -34.611141018,-58.372060149,11,media,Edesur,Capital Rp,Monserrat,Azopardo Ii,R:126-2-23/126-2-23,286,2023-01-31 23:19
@@ -49,18 +48,42 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.756283465,-58.582076130,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,256,Sin Datos
 -34.759821840,-58.585575571,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,65,Sin Datos
 -34.760581790,-58.589096288,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,262,Sin Datos
--34.406599268,-58.833215982,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,121,2023-01-31 19:00
--34.412216585,-58.831312987,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,63,2023-01-31 19:00
--34.400878273,-58.885460772,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,1,2023-01-31 19:16
+-34.406599268,-58.833215982,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,121,Sin Datos
+-34.412216585,-58.831312987,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,63,Sin Datos
+-34.258766689,-58.663768098,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,12,2023-01-31 21:00
+-34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-31 21:00
+-34.278388587,-58.576511430,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-31 21:00
+-34.272872274,-58.587379274,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-01-31 21:00
+-34.292215497,-58.549001162,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-01-31 21:00
+-34.266208026,-58.626333382,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-31 21:00
+-34.259172459,-58.649769855,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,17,2023-01-31 21:00
+-34.274449970,-58.592528997,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,23,2023-01-31 21:00
+-34.267959786,-58.615499517,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-31 21:00
+-34.265595942,-58.629927177,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,17,2023-01-31 21:00
+-34.265260269,-58.632205227,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,9,2023-01-31 21:00
+-34.264261095,-58.638759680,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,2023-01-31 21:00
+-34.262745043,-58.647497262,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-31 21:00
+-34.253122463,-58.581788750,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,7,2023-01-31 21:00
+-34.262998929,-58.580308788,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-01-31 21:00
+-34.270915252,-58.585156522,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,10,2023-01-31 21:00
+-34.274631823,-58.592021268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-31 21:00
+-34.266431607,-58.583493749,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-31 21:00
+-34.265805007,-58.549303381,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-01-31 21:00
+-34.267489039,-58.556566905,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-31 21:00
+-34.265675518,-58.546648179,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-01-31 21:00
+-34.265467429,-58.577350268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-01-31 21:00
+-34.265602935,-58.621147171,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-31 21:00
+-34.265204700,-58.623675719,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-31 21:00
+-34.265332606,-58.583355493,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-01-31 21:00
+-34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-01-31 21:00
+-34.864037172,-58.734952317,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2023-01-31 21:00
+-34.400878273,-58.885460772,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5525,1,Sin Datos
 -34.5644,-58.4596,22,baja,Edenor,Capital Federal,Belgrano,,,32,
 -34.7007,-58.5546,22,baja,Edenor,La Matanza,San Justo,,,63,
 -34.6903,-58.7272,22,baja,Edenor,Merlo,Merlo,,,5,
 -34.6261,-58.8163,22,baja,Edenor,Moreno,La Reja,,,32,
 -34.6734,-58.5144,22,baja,Edenor,La Matanza,La Tablada,,,40,
--34.6801,-58.5573,22,baja,Edenor,La Matanza,San Justo,,,8,
 -34.7189,-58.5884,22,baja,Edenor,La Matanza,Isidro Casanova,,,17,
--34.4974,-58.7302,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,12,
--34.2744,-58.5925,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,7,
 -34.5113,-58.5585,22,baja,Edenor,San Isidro,Boulogne,,,53,
 -34.684,-58.6593,22,baja,Edenor,Moron,Castelar,,,1,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,14,
@@ -68,21 +91,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6075,-58.4711,21,baja,Edesur,Capital,Villa General Mitre,,,5,
 -34.8183,-58.5029,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,5,
 -34.6001,-58.4277,21,baja,Edesur,Capital,Capital,,,5,
--34.6072,-58.5168,21,baja,Edesur,Capital,Villa Devoto,,,38,
+-34.6072,-58.5168,21,baja,Edesur,Capital,Villa Devoto,,,37,
 -34.65,-58.3782,21,baja,Edesur,Capital,Barracas,,,12,
 -34.7051,-58.3843,21,baja,Edesur,Lanus,Lanus,,,3,
--34.6524,-58.5047,21,baja,Edesur,Capital,Mataderos,,,11,
 -34.6656,-58.4411,21,baja,Edesur,Capital,Villa Soldati,,,4,
 -34.6551,-58.4319,21,baja,Edesur,Capital,Nueva Pompeya,,,10,
 -34.6373,-58.5001,21,baja,Edesur,Capital,Villa Luro,,,4,
 -34.6317,-58.3598,21,baja,Edesur,Capital,La Boca,,,7,
 -34.6166,-58.5159,21,baja,Edesur,Capital,Villa Devoto,,,24,
--34.6447,-58.5088,21,baja,Edesur,Capital,Liniers,,,92,
+-34.6447,-58.5088,21,baja,Edesur,Capital,Liniers,,,97,
 -34.7204,-58.3665,21,baja,Edesur,Lanus,Monte Chingolo,,,12,
--34.8494,-58.4424,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,3,
--34.723,-58.2579,21,baja,Edesur,Quilmes,Quilmes,,,7,
+-34.723,-58.2579,21,baja,Edesur,Quilmes,Quilmes,,,8,
 -34.7675,-58.4249,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,8,
 -34.6485,-58.3777,21,baja,Edesur,Capital,Barracas,,,3,
 -34.7459,-58.4145,21,baja,Edesur,Lomas De Zamora,Bandfield,,,13,
 -34.6343,-58.3919,21,baja,Edesur,Capital,Parque Patricios,,,1,
+-34.6991,-58.317,21,baja,Edesur,Avellaneda,Wilde,,,3,
+-34.7368,-58.3599,21,baja,Edesur,Lanus,Monte Chingolo,,,2,
 -34.7204,-58.2572,21,baja,Edesur,Quilmes,Quilmes,,,1,
+-34.7212,-58.402,21,baja,Edesur,Lanus,Remedios De Escalada,,,3,
+-34.7396,-58.3539,21,baja,Edesur,Lanus,Monte Chingolo,,,3,
