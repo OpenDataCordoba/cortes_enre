@@ -49,9 +49,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.756283465,-58.582076130,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,256,Sin Datos
 -34.759821840,-58.585575571,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,65,Sin Datos
 -34.760581790,-58.589096288,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr1/272-5518,262,Sin Datos
--34.406599268,-58.833215982,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,121,2023-01-31 20:00
--34.412216585,-58.831312987,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,63,2023-01-31 20:00
--34.757168641,-58.604641934,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,263,Sin Datos
+-34.406599268,-58.833215982,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,121,2023-01-31 19:00
+-34.412216585,-58.831312987,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5514,63,2023-01-31 19:00
+-34.757168641,-58.604641934,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,263,2023-01-31 19:00
 -34.5644,-58.4596,22,baja,Edenor,Capital Federal,Belgrano,,,32,
 -34.7007,-58.5546,22,baja,Edenor,La Matanza,San Justo,,,63,
 -34.6903,-58.7272,22,baja,Edenor,Merlo,Merlo,,,4,
@@ -63,26 +63,28 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4974,-58.7302,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,12,
 -34.2744,-58.5925,22,baja,Edenor,San Fernando,Delta 2Da Seccion (Sf),,,5,
 -34.5113,-58.5585,22,baja,Edenor,San Isidro,Boulogne,,,53,
+-34.684,-58.6593,22,baja,Edenor,Moron,Castelar,,,1,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,14,
 -34.6013,-58.5095,21,baja,Edesur,Capital,Villa Devoto,,,63,
 -34.6075,-58.4711,21,baja,Edesur,Capital,Villa General Mitre,,,5,
--34.6041,-58.4261,21,baja,Edesur,Capital,Almagro,,,32,
+-34.6041,-58.4261,21,baja,Edesur,Capital,Almagro,,,33,
 -34.8183,-58.5029,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,5,
--34.6001,-58.4277,21,baja,Edesur,Capital,Capital,,,6,
+-34.6001,-58.4277,21,baja,Edesur,Capital,Capital,,,5,
 -34.6072,-58.5168,21,baja,Edesur,Capital,Villa Devoto,,,40,
 -34.6242,-58.4574,21,baja,Edesur,Capital,Flores,,,20,
 -34.65,-58.3782,21,baja,Edesur,Capital,Barracas,,,12,
 -34.7051,-58.3843,21,baja,Edesur,Lanus,Lanus,,,3,
 -34.6524,-58.5047,21,baja,Edesur,Capital,Mataderos,,,11,
 -34.6656,-58.4411,21,baja,Edesur,Capital,Villa Soldati,,,4,
+-34.6551,-58.4319,21,baja,Edesur,Capital,Nueva Pompeya,,,10,
 -34.6373,-58.5001,21,baja,Edesur,Capital,Villa Luro,,,4,
--34.6317,-58.3598,21,baja,Edesur,Capital,La Boca,,,8,
--34.6166,-58.5159,21,baja,Edesur,Capital,Villa Devoto,,,22,
--34.6447,-58.5088,21,baja,Edesur,Capital,Liniers,,,90,
--34.7204,-58.3665,21,baja,Edesur,Lanus,Monte Chingolo,,,11,
+-34.6317,-58.3598,21,baja,Edesur,Capital,La Boca,,,7,
+-34.6166,-58.5159,21,baja,Edesur,Capital,Villa Devoto,,,23,
+-34.6447,-58.5088,21,baja,Edesur,Capital,Liniers,,,91,
+-34.7204,-58.3665,21,baja,Edesur,Lanus,Monte Chingolo,,,12,
 -34.8494,-58.4424,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,3,
 -34.723,-58.2579,21,baja,Edesur,Quilmes,Quilmes,,,7,
--34.7675,-58.4249,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,6,
+-34.7675,-58.4249,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,
 -34.6485,-58.3777,21,baja,Edesur,Capital,Barracas,,,3,
 -34.7459,-58.4145,21,baja,Edesur,Lomas De Zamora,Bandfield,,,12,
 -34.6343,-58.3919,21,baja,Edesur,Capital,Parque Patricios,,,1,
