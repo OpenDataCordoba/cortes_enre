@@ -1,14 +1,19 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-01-31 09:41
--34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,25,Sin Datos
--34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,Sin Datos
--34.516744950,-58.507508822,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Vicente Lopez/50-Tr1/50-5513,365,2023-01-31 16:01
--34.569462843,-58.457861755,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5521,770,Sin Datos
+-34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,25,2023-01-31 10:00
+-34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,2023-01-31 10:00
+-34.516744950,-58.507508822,12,media,Edenor,Vicente Lopez,Olivos,S/D,R:Vicente Lopez/50-Tr1/50-5513,365,2023-01-31 09:00
+-34.650295708,-58.818997946,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr1/163-5513,8,2023-01-31 13:10
+-34.569462843,-58.457861755,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5521,770,2023-01-31 09:00
 -34.6483,-58.7488,22,baja,Edenor,Moreno,Paso Del Rey,,,39,
+-34.5644,-58.4596,22,baja,Edenor,Capital Federal,Belgrano,,,21,
+-34.3841,-58.8228,22,baja,Edenor,Pilar,Villa Rosa,,,11,
+-34.3704,-58.5941,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,4,
+-34.406,-58.8371,22,baja,Edenor,Pilar,Villa Rosa,,,11,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,14,
 -34.6047,-58.3928,21,baja,Edesur,Capital,Balvanera,,,3,
 -34.6255,-58.4313,21,baja,Edesur,Capital,Caballito,,,25,
--34.6012,-58.5102,21,baja,Edesur,Capital,Villa Devoto,,,74,
+-34.6012,-58.5102,21,baja,Edesur,Capital,Villa Devoto,,,71,
 -34.7418,-58.3072,21,baja,Edesur,Quilmes,Quilmes,,,6,
 -34.7466,-58.321,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,4,
 -34.7827,-58.3498,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,19,
@@ -16,3 +21,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7228,-58.3026,21,baja,Edesur,Quilmes,Bernal,,,3,
 -34.6791,-58.4827,21,baja,Edesur,Capital,Villa Lugano,,,49,
 -34.7747,-58.3559,21,baja,Edesur,Almirante Brown,Marmol,,,5,
+-34.8183,-58.5029,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,5,
