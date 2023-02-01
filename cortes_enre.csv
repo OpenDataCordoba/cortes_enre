@@ -1,9 +1,9 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,2023-02-01 06:59
--34.761464851,-58.400987128,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,S/D,R:952-1-05/952-1-05,163,2023-02-01 06:59
--34.758625911,-58.400468137,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,S/D,R:952-1-05/952-1-05,105,2023-02-01 06:59
--34.759936445,-58.400735420,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,S/D,R:952-1-05/952-1-05,160,2023-02-01 06:59
--34.759156487,-58.401113615,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,S/D,R:952-1-05/952-1-05,130,2023-02-01 06:59
+-34.604631490,-58.372520564,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-1-08/022-1-08,13,Sin Datos
+-34.761464851,-58.400987128,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,S/D,R:952-1-05/952-1-05,163,Sin Datos
+-34.758625911,-58.400468137,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,S/D,R:952-1-05/952-1-05,105,Sin Datos
+-34.759936445,-58.400735420,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,S/D,R:952-1-05/952-1-05,160,Sin Datos
+-34.759156487,-58.401113615,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,S/D,R:952-1-05/952-1-05,130,Sin Datos
 -34.293246718,-58.545040357,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-01 08:00
 -34.278388587,-58.576511430,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-02-01 08:00
 -34.272872274,-58.587379274,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-02-01 08:00
@@ -20,13 +20,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.265467429,-58.577350268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-02-01 08:00
 -34.265332606,-58.583355493,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-02-01 08:00
 -34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-02-01 08:00
--34.409262089,-58.683802278,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,72,2023-02-01 07:00
--34.410222597,-58.682343192,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,1,2023-02-01 07:00
--34.410058968,-58.683734983,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,282,2023-02-01 07:00
--34.411770494,-58.683928941,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,219,2023-02-01 07:00
--34.564291131,-58.603956850,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr1/262-5512,178,2023-02-01 07:00
--34.564464045,-58.607930270,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr1/262-5512,279,2023-02-01 07:00
--34.565723079,-58.609358984,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr1/262-5512,455,2023-02-01 07:00
+-34.409262089,-58.683802278,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,72,Sin Datos
+-34.410222597,-58.682343192,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,1,Sin Datos
+-34.410058968,-58.683734983,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,282,Sin Datos
+-34.411770494,-58.683928941,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,219,Sin Datos
+-34.564291131,-58.603956850,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr1/262-5512,178,2023-02-01 08:00
+-34.564464045,-58.607930270,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr1/262-5512,279,2023-02-01 08:00
 -34.6352,-58.7918,22,baja,Edenor,Moreno,Moreno,,,6,
 -34.6261,-58.8163,22,baja,Edenor,Moreno,La Reja,,,32,
 -34.3356,-58.527,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,2,
@@ -35,16 +34,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.43,-58.7071,22,baja,Edenor,Tigre,Benavidez,,,20,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,14,
 -34.8183,-58.5029,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,5,
--34.6656,-58.4411,21,baja,Edesur,Capital,Villa Soldati,,,4,
+-34.6571,-58.4292,21,baja,Edesur,Capital,Nueva Pompeya,,,12,
 -34.6209,-58.5292,21,baja,Edesur,Capital,Villa Real,,,7,
 -34.7484,-58.4256,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,17,
 -34.7368,-58.3599,21,baja,Edesur,Lanus,Monte Chingolo,,,2,
 -34.7212,-58.402,21,baja,Edesur,Lanus,Remedios De Escalada,,,4,
 -34.7396,-58.3539,21,baja,Edesur,Lanus,Monte Chingolo,,,5,
--34.6238,-58.4996,21,baja,Edesur,Capital,Capital,,,20,
+-34.6238,-58.4996,21,baja,Edesur,Capital,Capital,,,22,
 -34.6547,-58.4325,21,baja,Edesur,Capital,Nueva Pompeya,,,11,
--34.7673,-58.2288,21,baja,Edesur,Berazategui,Berazategui,,,27,
--34.7677,-58.3806,21,baja,Edesur,Lomas De Zamora,Temperley,,,14,
+-34.7673,-58.2288,21,baja,Edesur,Berazategui,Berazategui,,,28,
+-34.7677,-58.3806,21,baja,Edesur,Lomas De Zamora,Temperley,,,15,
 -34.6457,-58.4944,21,baja,Edesur,Capital,Mataderos,,,10,
--34.6255,-58.4652,21,baja,Edesur,Capital,Flores,,,41,
+-34.6255,-58.4652,21,baja,Edesur,Capital,Flores,,,43,
 -34.6801,-58.4731,21,baja,Edesur,Capital,Capital,,,5,
