@@ -20,19 +20,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.265467429,-58.577350268,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-02-01 07:00
 -34.265332606,-58.583355493,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-02-01 07:00
 -34.274893597,-58.591090796,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-02-01 07:00
--34.413598199,-58.689314935,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,80,2023-02-01 07:00
--34.416726973,-58.690425292,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,195,2023-02-01 07:00
--34.417599792,-58.696932271,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,157,2023-02-01 07:00
--34.413122726,-58.698496627,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,233,2023-02-01 07:00
 -34.409262089,-58.683802278,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,72,2023-02-01 07:00
--34.415982058,-58.699307888,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,115,2023-02-01 07:00
--34.413240702,-58.691709006,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,158,2023-02-01 07:00
--34.412747242,-58.687733037,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,539,2023-02-01 07:00
 -34.410222597,-58.682343192,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,1,2023-02-01 07:00
 -34.410058968,-58.683734983,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,282,2023-02-01 07:00
--34.415812406,-58.693238648,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,299,2023-02-01 07:00
--34.409963210,-58.691234551,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,433,2023-02-01 07:00
--34.417397749,-58.694953664,12,media,Edenor,S/D,S/D,S/D,R:Benavidez/59-Tr4/59-5544,214,2023-02-01 07:00
 -34.411770494,-58.683928941,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr4/59-5544,219,2023-02-01 07:00
 -34.6352,-58.7918,22,baja,Edenor,Moreno,Moreno,,,6,
 -34.6261,-58.8163,22,baja,Edenor,Moreno,La Reja,,,32,
@@ -40,17 +30,19 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.3356,-58.527,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,2,
 -34.7391,-58.5913,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,13,
 -34.5538,-58.4427,22,baja,Edenor,Capital Federal,Belgrano,,,8,
--34.7361,-58.6186,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,48,
 -34.43,-58.7071,22,baja,Edenor,Tigre,Benavidez,,,20,
 -34.6364,-58.3821,21,baja,Edesur,Capital,Barracas,,,14,
 -34.8183,-58.5029,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,5,
 -34.6656,-58.4411,21,baja,Edesur,Capital,Villa Soldati,,,4,
 -34.6209,-58.5292,21,baja,Edesur,Capital,Villa Real,,,7,
--34.6955,-58.3385,21,baja,Edesur,Avellaneda,Villa Dominico,,,25,
 -34.7484,-58.4256,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,16,
 -34.7368,-58.3599,21,baja,Edesur,Lanus,Monte Chingolo,,,2,
 -34.7212,-58.402,21,baja,Edesur,Lanus,Remedios De Escalada,,,4,
 -34.7396,-58.3539,21,baja,Edesur,Lanus,Monte Chingolo,,,5,
+-34.6238,-58.4996,21,baja,Edesur,Capital,Capital,,,19,
 -34.6547,-58.4325,21,baja,Edesur,Capital,Nueva Pompeya,,,9,
 -34.7673,-58.2288,21,baja,Edesur,Berazategui,Berazategui,,,27,
 -34.7677,-58.3806,21,baja,Edesur,Lomas De Zamora,Temperley,,,14,
+-34.6457,-58.4944,21,baja,Edesur,Capital,Mataderos,,,8,
+-34.6255,-58.4652,21,baja,Edesur,Capital,Flores,,,40,
+-34.68,-58.473,21,baja,Edesur,Capital,Villa Lugano,,,4,
