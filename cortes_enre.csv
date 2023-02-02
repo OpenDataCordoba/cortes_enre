@@ -1,15 +1,12 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.831867104,-58.478744265,11,media,Edesur,Esteban Echeverria,El Jaguel,Echeverria,R:083-3-36/083-3-36,18,2023-02-02 01:32
 -34.563261781,-58.416756018,12,media,Edenor,Capital Federal,Palermo,S/D,R:Aguas/129-Tr1/129-5511,1,Sin Datos
--34.402581423,-58.895433889,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,4,2023-02-01 23:00
--34.489480641,-58.655706226,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,81,2023-02-01 23:00
--34.488533747,-58.656466365,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,141,2023-02-01 23:00
--34.445400052,-58.989241745,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr1/158-5513,34,2023-02-01 23:00
+-34.489480641,-58.655706226,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,81,2023-02-02 00:00
+-34.488533747,-58.656466365,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,141,2023-02-02 00:00
 -34.4092,-58.8783,22,baja,Edenor,Pilar,Villa Rosa,,,4,
 -34.4472,-58.5456,22,baja,Edenor,San Fernando,San Fernando,,,11,
 -34.6261,-58.8163,22,baja,Edenor,Moreno,La Reja,,,25,
 -34.4774,-58.6226,22,baja,Edenor,Tigre,Don Torcuato,,,24,
--34.6913,-58.9621,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,4,
 -34.6493,-58.6182,22,baja,Edenor,Moron,Moron,,,6,
 -34.6433,-58.6499,22,baja,Edenor,Moron,Castelar,,,98,
 -34.7212,-58.402,21,baja,Edesur,Lanus,Remedios De Escalada,,,4,
@@ -22,5 +19,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6207,-58.521,21,baja,Edesur,Capital,Villa Real,,,39,
 -34.6398,-58.3632,21,baja,Edesur,Capital,La Boca,,,11,
 -34.6809,-58.4053,21,baja,Edesur,Lanus,Lanus,,,10,
--34.8464,-58.4851,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,
--34.6093,-58.4293,21,baja,Edesur,Capital,Almagro,,,21,
+-34.6093,-58.4293,21,baja,Edesur,Capital,Almagro,,,26,
+-34.7905,-58.3184,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,12,
+-34.6209,-58.4691,21,baja,Edesur,Capital,Flores,,,1,
