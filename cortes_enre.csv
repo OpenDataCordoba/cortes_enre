@@ -1,21 +1,32 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.616513019,-58.528945994,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-3-32/038-3-32,272,2023-02-02 20:46
--34.835931070,-58.458535979,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-1-13/180-1-13,202,2023-02-02 21:36
--34.833758690,-58.454547651,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-1-13/180-1-13,168,2023-02-02 21:36
--34.835527173,-58.452138984,11,media,Edesur,Esteban Echeverria,Monte Grande,Almirante Brown,R:180-1-13/180-1-13,521,2023-02-02 21:36
--34.464007258,-59.008889921,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,10,2023-02-02 23:00
--34.468732947,-59.008140241,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2023-02-02 23:00
+-34.464007258,-59.008889921,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,10,2023-02-02 20:00
+-34.468732947,-59.008140241,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2023-02-02 20:00
 -34.422995735,-58.886179501,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,161,2023-02-02 20:00
 -34.416322810,-58.891219884,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,7,2023-02-02 20:00
 -34.426855628,-58.883312025,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,133,2023-02-02 20:00
+-34.614231233,-58.737184202,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,63,2023-02-02 23:00
+-34.610680231,-58.727147656,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,237,2023-02-02 23:00
+-34.613834236,-58.727489778,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,263,2023-02-02 23:00
+-34.615572449,-58.729506600,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,279,2023-02-02 23:00
+-34.611551770,-58.725728021,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,190,2023-02-02 23:00
+-34.617281851,-58.733031620,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5536,2,2023-02-02 23:00
+-34.619723113,-58.736115285,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,10,2023-02-02 23:00
+-34.612258610,-58.728924215,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,119,2023-02-02 23:00
+-34.618121681,-58.734963114,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,1,2023-02-02 23:00
+-34.613540803,-58.730460752,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,327,2023-02-02 23:00
+-34.613138421,-58.735133006,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,384,2023-02-02 23:00
+-34.609571676,-58.726078049,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,243,2023-02-02 23:00
+-34.608372441,-58.728565223,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,250,2023-02-02 23:00
+-34.617899219,-58.731967422,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5536,16,2023-02-02 23:00
 -34.71,-58.5481,22,baja,Edenor,La Matanza,Ciudad Evita,,,14,
--34.5083,-58.5164,22,baja,Edenor,Vicente Lopez,Olivos,,,78,
--34.5319,-58.5317,22,baja,Edenor,Vicente Lopez,Munro,,,5,
+-34.5319,-58.5317,22,baja,Edenor,Vicente Lopez,Munro,,,32,
+-34.6441,-58.8515,22,baja,Edenor,Moreno,Francisco Alvarez,,,30,
 -34.6271,-58.3958,21,baja,Edesur,Capital,San Cristobal,,,1,
 -34.6563,-58.4289,21,baja,Edesur,Capital,Nueva Pompeya,,,24,
 -34.6702,-58.3625,21,baja,Edesur,Avellaneda,Avellaneda,,,9,
--34.6906,-58.3358,21,baja,Edesur,Avellaneda,Villa Dominico,,,20,
--34.6167,-58.5269,21,baja,Edesur,Capital,Capital,,,15,
+-34.6906,-58.3358,21,baja,Edesur,Avellaneda,Villa Dominico,,,21,
+-34.6167,-58.5269,21,baja,Edesur,Capital,Capital,,,16,
 -34.6164,-58.5137,21,baja,Edesur,Capital,Capital,,,11,
 -34.6176,-58.4209,21,baja,Edesur,Capital,Almagro,,,21,
 -34.637,-58.4055,21,baja,Edesur,Capital,Parque Patricios,,,8,
