@@ -1,34 +1,56 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.670894705,-58.414735408,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,430,Sin Datos
--34.675014939,-58.418460221,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,443,Sin Datos
 -34.670201771,-58.418540558,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,7,Sin Datos
 -34.669713278,-58.416384379,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,249,Sin Datos
--34.675045358,-58.414148459,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,213,Sin Datos
 -34.606257279,-58.374289517,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-24/022-3-24,1,2023-02-02 19:15
 -34.606286310,-58.374293969,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-24/022-3-24,2,2023-02-02 19:15
 -34.606522754,-58.374272557,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-24/022-3-24,19,2023-02-02 19:15
 -34.606587365,-58.374275095,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-24/022-3-24,10,2023-02-02 19:15
 -34.497328738,-58.909070287,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2023-02-02 16:00
--34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,8,Sin Datos
+-34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,8,2023-02-02 16:00
 -34.685351429,-58.519560868,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5521,118,2023-02-02 16:00
--34.5655,-58.4382,22,baja,Edenor,Capital Federal,Palermo,,,5,
--34.5083,-58.5164,22,baja,Edenor,Vicente Lopez,Olivos,,,78,
+-34.422995735,-58.886179501,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,161,2023-02-02 17:00
+-34.395467441,-58.898741925,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,133,2023-02-02 17:00
+-34.402581423,-58.895433889,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,4,2023-02-02 17:00
+-34.404910198,-58.900028157,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,2,2023-02-02 17:00
+-34.407402781,-58.898145120,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,2,2023-02-02 17:00
+-34.403242519,-58.898457050,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,5,2023-02-02 17:00
+-34.392376901,-58.900976707,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,133,2023-02-02 17:00
+-34.416322810,-58.891219884,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,7,2023-02-02 17:00
+-34.401348103,-58.902654577,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,61,2023-02-02 17:00
+-34.426855628,-58.883312025,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,133,2023-02-02 17:00
+-34.398440045,-58.904768712,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,32,2023-02-02 17:00
+-34.630740872,-58.865223529,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,363,2023-02-02 16:00
+-34.614850106,-58.934401637,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,284,2023-02-02 16:00
+-34.611836814,-58.945320156,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,294,2023-02-02 16:00
+-34.619776468,-58.912113639,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,22,2023-02-02 16:00
+-34.616142441,-58.928764085,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,74,2023-02-02 16:00
+-34.617959571,-58.921061039,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,267,2023-02-02 16:00
+-34.619533734,-58.914433743,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,116,2023-02-02 16:00
+-34.623316728,-58.886367989,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,293,2023-02-02 16:00
+-34.618812066,-58.917487325,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,49,2023-02-02 16:00
+-34.620775583,-58.891520246,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,78,2023-02-02 16:00
+-34.620128103,-58.894099377,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,219,2023-02-02 16:00
+-34.616401661,-58.889791142,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,53,2023-02-02 16:00
+-34.616022475,-58.891511029,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,214,2023-02-02 16:00
+-34.617225393,-58.884572614,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,147,2023-02-02 16:00
+-34.616956259,-58.925320658,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,84,2023-02-02 16:00
+-34.5655,-58.4382,22,baja,Edenor,Capital Federal,Palermo,,,6,
 -34.4486,-58.5475,22,baja,Edenor,San Fernando,San Fernando,,,11,
 -34.6855,-58.5391,22,baja,Edenor,La Matanza,La Tablada,,,1,
 -34.6355,-58.7456,22,baja,Edenor,Moreno,Paso Del Rey,,,6,
 -34.6847,-58.7603,22,baja,Edenor,Merlo,Merlo,,,6,
 -34.4603,-59.0052,22,baja,Edenor,Pilar,Manzanares,,,3,
 -34.4821,-58.8343,22,baja,Edenor,Pilar,Pte Derqui,,,26,
--34.6238,-58.8122,22,baja,Edenor,Moreno,La Reja,,,3,
+-34.6238,-58.8122,22,baja,Edenor,Moreno,La Reja,,,19,
 -34.597,-58.6204,22,baja,Edenor,Hurlingham,Hurlingham,,,43,
 -34.4474,-58.7437,22,baja,Edenor,Escobar,Garin,,,7,
+-34.71,-58.5481,22,baja,Edenor,La Matanza,Ciudad Evita,,,14,
 -34.6271,-58.3958,21,baja,Edesur,Capital,San Cristobal,,,1,
 -34.6563,-58.4289,21,baja,Edesur,Capital,Nueva Pompeya,,,24,
--34.6093,-58.4293,21,baja,Edesur,Capital,Almagro,,,32,
--34.7316,-58.383,21,baja,Edesur,Lanus,Remedios De Escalada,,,16,
--34.6229,-58.5013,21,baja,Edesur,Capital,Capital,,,6,
+-34.6093,-58.4293,21,baja,Edesur,Capital,Almagro,,,33,
+-34.6229,-58.5013,21,baja,Edesur,Capital,Capital,,,10,
 -34.6164,-58.5137,21,baja,Edesur,Capital,Capital,,,3,
 -34.8539,-58.533,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,1,
 -34.6591,-58.3379,21,baja,Edesur,Avellaneda,Dock Sud,,,1,
--34.6047,-58.4083,21,baja,Edesur,Capital,Balvanera,,,16,
--34.732,-58.2907,21,baja,Edesur,Quilmes,Quilmes,,,4,
+-34.6176,-58.4209,21,baja,Edesur,Capital,Almagro,,,13,
+-34.6047,-58.4083,21,baja,Edesur,Capital,Balvanera,,,25,
