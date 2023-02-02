@@ -1,24 +1,13 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.670201771,-58.418540558,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,7,Sin Datos
--34.669713278,-58.416384379,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-2-21/186-2-21,249,Sin Datos
 -34.606257279,-58.374289517,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-24/022-3-24,1,2023-02-02 19:15
 -34.606286310,-58.374293969,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-24/022-3-24,2,2023-02-02 19:15
 -34.606522754,-58.374272557,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-24/022-3-24,19,2023-02-02 19:15
 -34.606587365,-58.374275095,11,media,Edesur,Capital Rp,San Nicolas,Rivadavia,R:022-3-24/022-3-24,10,2023-02-02 19:15
 -34.497328738,-58.909070287,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2023-02-02 16:00
--34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,8,2023-02-02 16:00
--34.685351429,-58.519560868,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5521,118,2023-02-02 16:00
--34.422995735,-58.886179501,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,161,2023-02-02 17:00
--34.395467441,-58.898741925,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,133,2023-02-02 17:00
--34.402581423,-58.895433889,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,4,2023-02-02 17:00
--34.404910198,-58.900028157,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,2,2023-02-02 17:00
--34.407402781,-58.898145120,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,2,2023-02-02 17:00
--34.403242519,-58.898457050,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,5,2023-02-02 17:00
--34.392376901,-58.900976707,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,133,2023-02-02 17:00
--34.416322810,-58.891219884,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,7,2023-02-02 17:00
--34.401348103,-58.902654577,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,61,2023-02-02 17:00
--34.426855628,-58.883312025,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,133,2023-02-02 17:00
--34.398440045,-58.904768712,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,32,2023-02-02 17:00
+-34.685351429,-58.519560868,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5521,118,2023-02-02 17:00
+-34.422995735,-58.886179501,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,161,Sin Datos
+-34.416322810,-58.891219884,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,7,Sin Datos
+-34.426855628,-58.883312025,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr1/260-5511,133,Sin Datos
 -34.630740872,-58.865223529,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5514,363,2023-02-02 16:00
 -34.614850106,-58.934401637,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,284,2023-02-02 16:00
 -34.611836814,-58.945320156,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5514,294,2023-02-02 16:00
@@ -52,5 +41,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6164,-58.5137,21,baja,Edesur,Capital,Capital,,,3,
 -34.8539,-58.533,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,1,
 -34.6591,-58.3379,21,baja,Edesur,Avellaneda,Dock Sud,,,1,
--34.6176,-58.4209,21,baja,Edesur,Capital,Almagro,,,13,
+-34.6176,-58.4209,21,baja,Edesur,Capital,Almagro,,,14,
 -34.6047,-58.4083,21,baja,Edesur,Capital,Balvanera,,,25,
