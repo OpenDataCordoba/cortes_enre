@@ -1,8 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.691192017,-58.375125609,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,936,2023-02-03 12:21
--34.695355592,-58.379406580,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,426,2023-02-03 12:21
--34.754295350,-58.244608694,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-1-16/175-1-16,463,2023-02-03 12:47
--34.749697846,-58.245329902,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-1-16/175-1-16,384,2023-02-03 12:47
 -34.753790698,-58.241790020,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-1-16/175-1-16,381,2023-02-03 12:47
 -34.751718067,-58.243272906,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-1-16/175-1-16,426,2023-02-03 12:47
 -34.754580786,-58.252614974,11,media,Edesur,Quilmes,Ezpeleta,Sobral,R:175-1-16/175-1-16,90,2023-02-03 12:47
@@ -50,25 +46,27 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.781758405,-58.189062773,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,19,2023-02-03 11:56
 -34.782810577,-58.194332089,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-1-15/080-1-15,54,2023-02-03 11:56
 -34.783108522,-58.184363712,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,7,2023-02-03 11:56
--34.468732947,-59.008140241,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2023-02-03 10:00
--34.153016970,-58.538491869,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,Sin Datos
--34.159201301,-58.525672956,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos
+-34.468732947,-59.008140241,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2023-02-03 09:00
+-34.524043878,-58.558471942,12,media,Edenor,San Isidro,Villa Adelina (Si),S/D,R:J. L. Suarez/266-Tr1/266-5541,243,2023-02-03 12:00
+-34.633252334,-58.947006719,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5471,6,Sin Datos
+-34.153016970,-58.538491869,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,4,2023-02-03 10:00
+-34.159201301,-58.525672956,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2023-02-03 10:00
 -34.6441,-58.8515,22,baja,Edenor,Moreno,Francisco Alvarez,,,30,
 -34.5802,-58.4722,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,17,
 -34.5654,-58.4399,22,baja,Edenor,Capital Federal,Palermo,,,55,
--34.4609,-58.5694,22,baja,Edenor,San Fernando,Virreyes,,,7,
+-34.4609,-58.5694,22,baja,Edenor,San Fernando,Virreyes,,,62,
 -34.6702,-58.3625,21,baja,Edesur,Avellaneda,Avellaneda,,,14,
 -34.6906,-58.3358,21,baja,Edesur,Avellaneda,Villa Dominico,,,34,
 -34.6176,-58.4209,21,baja,Edesur,Capital,Almagro,,,32,
--34.6752,-58.3932,21,baja,Edesur,Avellaneda,Piñeyro,,,32,
--34.6262,-58.4373,21,baja,Edesur,Capital,Caballito,,,4,
+-34.6752,-58.3932,21,baja,Edesur,Avellaneda,Piñeyro,,,33,
+-34.6262,-58.4373,21,baja,Edesur,Capital,Caballito,,,5,
 -34.8808,-58.1793,21,baja,Edesur,Berazategui,El Pato,,,5,
--34.6157,-58.4639,21,baja,Edesur,Capital,Flores,,,24,
+-34.6157,-58.4639,21,baja,Edesur,Capital,Flores,,,25,
 -34.8692,-58.5117,21,baja,Edesur,Ezeiza,Canning,,,10,
--34.7297,-58.4134,21,baja,Edesur,Lanus,Remedios De Escalada,,,24,
--34.6454,-58.4377,21,baja,Edesur,Capital,Parque Chacabuco,,,9,
+-34.7298,-58.4142,21,baja,Edesur,Lanus,Remedios De Escalada,,,19,
+-34.6454,-58.4377,21,baja,Edesur,Capital,Parque Chacabuco,,,10,
 -34.7061,-58.3931,21,baja,Edesur,Lanus,Lanus,,,2,
--34.7315,-58.3832,21,baja,Edesur,Lanus,Remedios De Escalada,,,10,
+-34.7315,-58.3832,21,baja,Edesur,Lanus,Remedios De Escalada,,,14,
 -34.8348,-58.266,21,baja,Edesur,Florencio Varela,Florencio Varela,,,2,
--34.6877,-58.4177,21,baja,Edesur,Lanus,Lanus,,,6,
--34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,2,
+-34.6877,-58.4177,21,baja,Edesur,Lanus,Lanus,,,11,
+-34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,3,
