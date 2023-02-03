@@ -53,18 +53,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.721475194,-58.353599800,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,48,2023-02-03 18:28
 -34.720981171,-58.347760687,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,72,2023-02-03 18:28
 -34.468732947,-59.008140241,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2023-02-03 17:00
--34.720850971,-58.913414725,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2023-02-03 17:00
--34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,23,Sin Datos
--34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,Sin Datos
+-34.720850971,-58.913414725,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2023-02-03 18:00
+-34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,23,2023-02-03 18:00
+-34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,2023-02-03 18:00
 -34.574355377,-58.529004493,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Tecnopolis/352-Tr1/352-5515,130,2023-02-03 17:00
--34.506262056,-58.673096144,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Ara San Juan/362-Tr1/362-5546,426,2023-02-03 16:26
--34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-02-03 17:00
--34.253265147,-58.644300798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-03 17:00
--34.249497110,-58.642324026,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-02-03 17:00
--34.225662036,-58.632141668,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-02-03 17:00
--34.240046705,-58.636487721,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-02-03 17:00
--34.243343814,-58.639169079,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-02-03 17:00
--34.5802,-58.4722,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,17,
+-34.506262056,-58.673096144,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Ara San Juan/362-Tr1/362-5546,426,2023-02-03 17:00
+-34.232721515,-58.634534575,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos
+-34.253265147,-58.644300798,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos
+-34.249497110,-58.642324026,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos
+-34.225662036,-58.632141668,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos
+-34.240046705,-58.636487721,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos
+-34.243343814,-58.639169079,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,Sin Datos
 -34.7219,-58.5662,22,baja,Edenor,La Matanza,Ciudad Evita,,,10,
 -34.7372,-58.5317,22,baja,Edenor,La Matanza,Ciudad Evita,,,7,
 -34.4008,-58.7476,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,5,
@@ -75,7 +74,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8808,-58.1793,21,baja,Edesur,Berazategui,El Pato,,,6,
 -34.847,-58.2284,21,baja,Edesur,Florencio Varela,Bosques,,,8,
 -34.6024,-58.5104,21,baja,Edesur,Capital,Villa Devoto,,,19,
--34.6187,-58.4397,21,baja,Edesur,Capital,Caballito,,,37,
+-34.6187,-58.4397,21,baja,Edesur,Capital,Caballito,,,38,
 -34.6163,-58.4002,21,baja,Edesur,Capital,Balvanera,,,16,
 -34.6877,-58.4177,21,baja,Edesur,Lanus,Lanus,,,31,
 -34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,5,
@@ -83,10 +82,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6065,-58.515,21,baja,Edesur,Capital,Villa Devoto,,,18,
 -34.626,-58.511,21,baja,Edesur,Capital,Villa Luro,,,9,
 -34.7922,-58.2312,21,baja,Edesur,Berazategui,Berazategui,,,4,
--34.6157,-58.4639,21,baja,Edesur,Capital,Flores,,,24,
--34.6367,-58.4041,21,baja,Edesur,Capital,Parque Patricios,,,6,
+-34.6157,-58.4639,21,baja,Edesur,Capital,Flores,,,25,
+-34.6367,-58.4041,21,baja,Edesur,Capital,Parque Patricios,,,8,
 -34.5973,-58.3958,21,baja,Edesur,Capital,Recoleta,,,16,
--34.7901,-58.2295,21,baja,Edesur,Berazategui,Berazategui,,,7,
+-34.7901,-58.2295,21,baja,Edesur,Berazategui,Berazategui,,,8,
 -34.597,-58.4394,21,baja,Edesur,Capital,Villa Crespo,,,8,
--34.8599,-58.4484,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,26,
+-34.8599,-58.4484,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,28,
 -34.6093,-58.4293,21,baja,Edesur,Capital,Almagro,,,8,
