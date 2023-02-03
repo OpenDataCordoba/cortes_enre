@@ -50,9 +50,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.783108522,-58.184363712,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,7,2023-02-03 14:26
 -34.468732947,-59.008140241,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2023-02-03 14:00
 -34.720850971,-58.913414725,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2023-02-03 15:00
--34.581397907,-58.491249293,12,media,Edenor,Capital Federal,Villa Urquiza,S/D,R:Urquiza/136-Tr1/136-5514,192,Sin Datos
--34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,23,Sin Datos
--34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,Sin Datos
+-34.581397907,-58.491249293,12,media,Edenor,Capital Federal,Villa Urquiza,S/D,R:Urquiza/136-Tr1/136-5514,192,2023-02-03 14:00
+-34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,23,2023-02-03 14:00
+-34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,2023-02-03 14:00
 -34.396604419,-58.984638548,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5482,7,2023-02-03 15:00
 -34.392805493,-58.983235974,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5482,1,2023-02-03 15:00
 -34.392936942,-58.988248194,12,media,Edenor,Pilar,Fatima,S/D,R:Parque/357-Tr4/357-5482,1,2023-02-03 15:00
@@ -67,7 +67,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7372,-58.5317,22,baja,Edenor,La Matanza,Ciudad Evita,,,7,
 -34.3131,-58.7101,22,baja,Edenor,Escobar,Delta 1Ra Seccion (Es),,,4,
 -34.4008,-58.7476,22,baja,Edenor,Escobar,Ingeniero Maschwitz,,,5,
--34.6441,-58.8515,22,baja,Edenor,Moreno,Francisco Alvarez,,,6,
+-34.6441,-58.8515,22,baja,Edenor,Moreno,Francisco Alvarez,,,3,
 -34.4472,-58.5456,22,baja,Edenor,San Fernando,San Fernando,,,11,
 -34.5895,-58.4491,22,baja,Edenor,Capital Federal,Chacarita,,,9,
 -34.6268,-58.6639,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,1,
@@ -81,8 +81,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7298,-58.4142,21,baja,Edesur,Lanus,Remedios De Escalada,,,17,
 -34.6024,-58.5104,21,baja,Edesur,Capital,Villa Devoto,,,15,
 -34.7716,-58.2442,21,baja,Edesur,Berazategui,Berazategui,,,5,
--34.7061,-58.3931,21,baja,Edesur,Lanus,Lanus,,,17,
--34.6187,-58.4397,21,baja,Edesur,Capital,Caballito,,,28,
+-34.7061,-58.3931,21,baja,Edesur,Lanus,Lanus,,,22,
+-34.6187,-58.4397,21,baja,Edesur,Capital,Caballito,,,29,
 -34.6877,-58.4177,21,baja,Edesur,Lanus,Lanus,,,25,
 -34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,4,
 -34.6065,-58.515,21,baja,Edesur,Capital,Villa Devoto,,,9,
