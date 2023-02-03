@@ -45,10 +45,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.781758405,-58.189062773,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,19,Sin Datos
 -34.782810577,-58.194332089,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-1-15/080-1-15,54,Sin Datos
 -34.783108522,-58.184363712,11,media,Edesur,Berazategui,Platanos,Ezpeleta,R:080-1-15/080-1-15,7,Sin Datos
--34.468732947,-59.008140241,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2023-02-03 15:00
--34.720850971,-58.913414725,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,2023-02-03 16:00
--34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,23,2023-02-03 15:00
--34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,2023-02-03 15:00
+-34.716631766,-58.355284713,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,161,2023-02-03 18:28
+-34.722905658,-58.352571707,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,43,2023-02-03 18:28
+-34.720794542,-58.350154809,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,98,2023-02-03 18:28
+-34.720763671,-58.348848434,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,14,2023-02-03 18:28
+-34.722289780,-58.348302447,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,41,2023-02-03 18:28
+-34.723473470,-58.347829737,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,98,2023-02-03 18:28
+-34.723217163,-58.352529797,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,23,2023-02-03 18:28
+-34.720750356,-58.352801107,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,52,2023-02-03 18:28
+-34.721060645,-58.353144836,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,49,2023-02-03 18:28
+-34.721475194,-58.353599800,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,48,2023-02-03 18:28
+-34.720981171,-58.347760687,11,media,Edesur,Lanus,Monte Chingolo,Corina,R:075-2-26/075-2-26,72,2023-02-03 18:28
+-34.468732947,-59.008140241,12,media,Edenor,Pilar,Manzanares,S/D,R:Manzone/257-Tr2/257-5522,1,2023-02-03 17:00
+-34.720850971,-58.913414725,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5525,1,Sin Datos
+-34.906245205,-58.720076553,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,23,2023-02-03 16:00
+-34.910486411,-58.716012918,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,126,2023-02-03 16:00
 -34.574355377,-58.529004493,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Tecnopolis/352-Tr1/352-5515,130,2023-02-03 16:00
 -34.5802,-58.4722,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,17,
 -34.5654,-58.4399,22,baja,Edenor,Capital Federal,Palermo,,,55,
@@ -64,12 +75,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8808,-58.1793,21,baja,Edesur,Berazategui,El Pato,,,6,
 -34.847,-58.2284,21,baja,Edesur,Florencio Varela,Bosques,,,8,
 -34.6024,-58.5104,21,baja,Edesur,Capital,Villa Devoto,,,18,
--34.6187,-58.4397,21,baja,Edesur,Capital,Caballito,,,34,
--34.6877,-58.4177,21,baja,Edesur,Lanus,Lanus,,,26,
+-34.6187,-58.4397,21,baja,Edesur,Capital,Caballito,,,35,
+-34.6877,-58.4177,21,baja,Edesur,Lanus,Lanus,,,27,
 -34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,4,
--34.6065,-58.515,21,baja,Edesur,Capital,Villa Devoto,,,9,
+-34.6065,-58.515,21,baja,Edesur,Capital,Villa Devoto,,,16,
+-34.626,-58.511,21,baja,Edesur,Capital,Villa Luro,,,10,
 -34.7922,-58.2312,21,baja,Edesur,Berazategui,Berazategui,,,4,
--34.6157,-58.4639,21,baja,Edesur,Capital,Flores,,,15,
--34.5973,-58.3958,21,baja,Edesur,Capital,Recoleta,,,14,
+-34.6157,-58.4639,21,baja,Edesur,Capital,Flores,,,16,
+-34.5973,-58.3958,21,baja,Edesur,Capital,Recoleta,,,15,
+-34.7901,-58.2295,21,baja,Edesur,Berazategui,Berazategui,,,6,
 -34.597,-58.4394,21,baja,Edesur,Capital,Villa Crespo,,,8,
--34.8599,-58.4484,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,17,
+-34.8599,-58.4484,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,25,
