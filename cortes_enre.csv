@@ -1,12 +1,12 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.709132815,-58.391519214,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,145,2023-02-04 18:39
--34.710856791,-58.393213056,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,576,2023-02-04 18:39
--34.708477630,-58.392188441,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,529,2023-02-04 18:39
--34.708480802,-58.392159931,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,38,2023-02-04 18:39
--34.712085949,-58.392178744,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,111,2023-02-04 18:39
--34.708499587,-58.394389730,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,18,2023-02-04 18:39
--34.707800836,-58.393655022,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,414,2023-02-04 18:39
--34.709289020,-58.392659828,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,2,2023-02-04 18:39
+-34.709132815,-58.391519214,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,145,Sin Datos
+-34.710856791,-58.393213056,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,576,Sin Datos
+-34.708477630,-58.392188441,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,529,Sin Datos
+-34.708480802,-58.392159931,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,38,Sin Datos
+-34.712085949,-58.392178744,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,111,Sin Datos
+-34.708499587,-58.394389730,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,18,Sin Datos
+-34.707800836,-58.393655022,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,414,Sin Datos
+-34.709289020,-58.392659828,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,2,Sin Datos
 -34.619762818,-58.436374536,11,media,Edesur,Capital Rp,Caballito Rp,Caballito,R:122-3-33/122-3-33,265,2023-02-04 20:27
 -34.628519620,-58.465862245,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-28/218-2-28,101,2023-02-04 22:00
 -34.628759589,-58.466541966,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-28/218-2-28,16,2023-02-04 22:00
@@ -33,20 +33,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.633334341,-58.476770645,11,media,Edesur,Capital Gp,Floresta,Alberdi,R:218-2-28/218-2-28,1,2023-02-04 22:00
 -34.630892855,-58.466927467,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-28/218-2-28,58,2023-02-04 22:00
 -34.632815353,-58.469165446,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-2-28/218-2-28,74,2023-02-04 22:00
--34.428627101,-58.591092185,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,79,2023-02-04 19:00
--34.428344330,-58.588230796,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,166,2023-02-04 19:00
 -34.4695,-58.7895,22,baja,Edenor,Pilar,Del Viso,,,18,
--34.5432,-58.7902,22,baja,Edenor,Jose C Paz,Jose C Paz,,,14,
+-34.5812,-58.4802,22,baja,Edenor,Capital Federal,Villa Urquiza,,,6,
+-34.5432,-58.7902,22,baja,Edenor,Jose C Paz,Jose C Paz,,,16,
 -34.4472,-58.5456,22,baja,Edenor,San Fernando,San Fernando,,,11,
 -34.5549,-58.4859,22,baja,Edenor,Capital Federal,Saavedra,,,4,
--34.5812,-58.4802,22,baja,Edenor,Capital Federal,Villa Urquiza,,,6,
 -34.6674,-58.4765,21,baja,Edesur,Capital,Capital,,,11,
 -34.6789,-58.4188,21,baja,Edesur,Lanus,Valentin Alsina,,,28,
 -34.6717,-58.3892,21,baja,Edesur,Avellaneda,Avellaneda,,,10,
 -34.5913,-58.3906,21,baja,Edesur,Capital,Recoleta,,,25,
 -34.6181,-58.5299,21,baja,Edesur,Capital,Villa Real,,,9,
 -34.8327,-58.4695,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,
--34.6287,-58.413,21,baja,Edesur,Capital,Boedo,,,10,
--34.6324,-58.4162,21,baja,Edesur,Capital,Boedo,,,40,
--34.7302,-58.4465,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,1,
--34.6339,-58.4669,21,baja,Edesur,Capital,Flores,,,2,
+-34.6287,-58.413,21,baja,Edesur,Capital,Boedo,,,8,
+-34.7614,-58.2623,21,baja,Edesur,Quilmes,Ezpeleta,,,2,
+-34.6324,-58.4162,21,baja,Edesur,Capital,Boedo,,,34,
