@@ -16,15 +16,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.862613808,-58.445565583,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,417,2023-02-04 17:10
 -34.865611612,-58.443376934,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,1,2023-02-04 17:10
 -34.876291825,-58.431021287,11,media,Edesur,Esteban Echeverria,Monte Grande,Glew,R:277-4-41/277-4-41,1,2023-02-04 17:10
--34.799369237,-58.395845743,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,358,2023-02-04 19:57
--34.807662916,-58.397039849,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,575,2023-02-04 19:57
--34.797872282,-58.401221236,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,575,2023-02-04 19:57
--34.799019417,-58.393109315,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,751,2023-02-04 19:57
--34.803659182,-58.395435982,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,402,2023-02-04 19:57
--34.798041948,-58.393319981,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,185,2023-02-04 19:57
--34.798282778,-58.394749567,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,186,2023-02-04 19:57
--34.801736363,-58.394634405,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,91,2023-02-04 19:57
--34.809636522,-58.399818185,11,media,Edesur,Almirante Brown,Adrogue,Almirante Brown,R:180-1-16/180-1-16,119,2023-02-04 19:57
 -34.709132815,-58.391519214,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,145,2023-02-04 18:39
 -34.710856791,-58.393213056,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,576,2023-02-04 18:39
 -34.708477630,-58.392188441,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,529,2023-02-04 18:39
@@ -46,17 +37,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.748421251,-58.795218987,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5516,102,2023-02-04 17:00
 -34.747605154,-58.752982377,12,media,Edenor,Merlo,Pontevedra,S/D,R:Marcos Paz/363-Tr2/363-5516,2,2023-02-04 17:00
 -34.749781395,-58.755507047,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Marcos Paz/363-Tr2/363-5516,25,2023-02-04 17:00
--34.175544570,-58.696381722,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,1,2023-02-04 16:00
--34.431303202,-58.593401923,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,235,2023-02-04 16:00
--34.432206743,-58.590304996,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,96,2023-02-04 16:00
--34.426435350,-58.588666505,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,213,2023-02-04 16:00
--34.428627101,-58.591092185,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,79,2023-02-04 16:00
--34.429972525,-58.588803737,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,144,2023-02-04 16:00
--34.426716330,-58.591448048,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,80,2023-02-04 16:00
--34.423186546,-58.585336149,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,335,2023-02-04 16:00
--34.428344330,-58.588230796,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,166,2023-02-04 16:00
--34.432390967,-58.591299958,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,129,2023-02-04 16:00
--34.430335915,-58.594661815,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,132,2023-02-04 16:00
+-34.426435350,-58.588666505,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,213,Sin Datos
+-34.428627101,-58.591092185,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,79,Sin Datos
+-34.429972525,-58.588803737,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,144,Sin Datos
+-34.426716330,-58.591448048,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,80,Sin Datos
+-34.423186546,-58.585336149,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,335,Sin Datos
+-34.428344330,-58.588230796,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5528,166,Sin Datos
 -34.7461,-58.7928,22,baja,Edenor,Merlo,Mariano Acosta,,,8,
 -34.4695,-58.7895,22,baja,Edenor,Pilar,Del Viso,,,18,
 -34.5517,-58.7689,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
@@ -64,9 +50,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5432,-58.7902,22,baja,Edenor,Jose C Paz,Jose C Paz,,,7,
 -34.6262,-58.4373,21,baja,Edesur,Capital,Caballito,,,13,
 -34.7008,-58.436,21,baja,Edesur,Lanus,Valentin Alsina,,,20,
--34.6674,-58.4766,21,baja,Edesur,Capital,Capital,,,7,
+-34.6674,-58.4766,21,baja,Edesur,Capital,Capital,,,8,
 -34.5919,-58.4014,21,baja,Edesur,Capital,Recoleta,,,26,
 -34.6789,-58.4188,21,baja,Edesur,Lanus,Valentin Alsina,,,24,
 -34.5907,-58.3908,21,baja,Edesur,Capital,Recoleta,,,27,
--34.8157,-58.2548,21,baja,Edesur,Florencio Varela,Florencio Varela,,,14,
+-34.8157,-58.2548,21,baja,Edesur,Florencio Varela,Florencio Varela,,,15,
 -34.8052,-58.2209,21,baja,Edesur,Berazategui,Sourigues,,,6,
