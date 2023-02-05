@@ -14,53 +14,63 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.628473163,-58.410744956,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,465,2023-02-05 22:16
 -34.623485740,-58.407410890,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,783,2023-02-05 22:16
 -34.621660808,-58.404239362,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-2-21/020-2-21,44,2023-02-05 22:16
--34.716230997,-58.279815125,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,689,2023-02-05 22:44
--34.718693761,-58.278955258,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-35/073-3-35,666,2023-02-05 22:44
--34.727201608,-58.263031446,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-35/073-3-35,5,2023-02-05 22:44
--34.709775621,-58.286584141,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,270,2023-02-05 22:44
--34.709762206,-58.286614135,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,319,2023-02-05 22:44
--34.710667212,-58.280999188,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,351,2023-02-05 22:44
--34.715407814,-58.281150920,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,26,2023-02-05 22:44
--34.717245179,-58.277289263,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,1,2023-02-05 22:44
--34.710881167,-58.284222073,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,377,2023-02-05 22:44
--34.370535260,-58.675900447,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,163,2023-02-05 23:00
--34.386337903,-58.681357200,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,179,2023-02-05 23:00
--34.375859443,-58.680505765,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,102,2023-02-05 23:00
--34.374832856,-58.658547671,12,media,Edenor,Tigre,Benavidez,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,76,2023-02-05 23:00
--34.364279026,-58.687330564,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,97,2023-02-05 23:00
--34.372355823,-58.681043587,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,145,2023-02-05 23:00
--34.382339580,-58.676415231,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,57,2023-02-05 23:00
--34.367488057,-58.689560777,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,1,2023-02-05 23:00
--34.362004372,-58.682970232,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,2,2023-02-05 23:00
--34.365354318,-58.685753542,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,72,2023-02-05 23:00
--34.379639614,-58.684352396,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,103,2023-02-05 23:00
--34.370533374,-58.670104654,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,44,2023-02-05 23:00
--34.376518055,-58.671929823,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,188,2023-02-05 23:00
--34.375240154,-58.675124984,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,42,2023-02-05 23:00
--34.375321263,-58.689673443,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,99,2023-02-05 23:00
--34.372708073,-58.688840144,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,87,2023-02-05 23:00
--34.373024017,-58.673914546,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,1,2023-02-05 23:00
--34.374416853,-58.687573041,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,22,2023-02-05 23:00
--34.356108378,-58.692637237,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,184,2023-02-05 23:00
--34.369148648,-58.682779732,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,54,2023-02-05 23:00
--34.363577951,-58.686146611,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,201,2023-02-05 23:00
--34.359399674,-58.685132724,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,169,2023-02-05 23:00
--34.374558670,-58.672778749,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,12,2023-02-05 23:00
--34.366636951,-58.687791366,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,191,2023-02-05 23:00
--34.372770326,-58.681774310,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,1,2023-02-05 23:00
--34.372221098,-58.666516385,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,50,2023-02-05 23:00
--34.367874840,-58.672418435,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,42,2023-02-05 23:00
--34.352813775,-58.695727338,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,139,2023-02-05 23:00
--34.378825187,-58.669457477,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,18,2023-02-05 23:00
--34.358389712,-58.691160166,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,150,2023-02-05 23:00
--34.361104987,-58.689243308,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,57,2023-02-05 23:00
--34.353168973,-58.688113588,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,5,2023-02-05 23:00
--34.370577145,-58.684304636,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,136,2023-02-05 23:00
+-34.716230997,-58.279815125,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,689,2023-02-06 00:15
+-34.718693761,-58.278955258,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-35/073-3-35,666,2023-02-06 00:15
+-34.709775621,-58.286584141,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,270,2023-02-06 00:15
+-34.709762206,-58.286614135,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,319,2023-02-06 00:15
+-34.710667212,-58.280999188,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,351,2023-02-06 00:15
+-34.715407814,-58.281150920,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,26,2023-02-06 00:15
+-34.717245179,-58.277289263,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,1,2023-02-06 00:15
+-34.710881167,-58.284222073,11,media,Edesur,Quilmes,Bernal,Quilmes,R:073-3-35/073-3-35,377,2023-02-06 00:15
+-34.727023510,-58.564910188,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5515,301,Sin Datos
+-34.724681998,-58.557871445,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5515,232,Sin Datos
+-34.722299379,-58.556727146,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5515,249,Sin Datos
+-34.726650549,-58.559982595,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5515,283,Sin Datos
+-34.723362604,-58.565930646,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5515,265,Sin Datos
+-34.723499877,-58.560935095,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5515,217,Sin Datos
+-34.722371927,-58.564884920,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5515,51,Sin Datos
+-34.726755537,-58.561897060,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5515,227,Sin Datos
+-34.722652451,-58.569333187,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Casanova/63-Tr1/63-5515,251,Sin Datos
+-34.370535260,-58.675900447,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,163,2023-02-05 21:00
+-34.386337903,-58.681357200,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,179,2023-02-05 21:00
+-34.375859443,-58.680505765,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,102,2023-02-05 21:00
+-34.374832856,-58.658547671,12,media,Edenor,Tigre,Benavidez,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,76,2023-02-05 21:00
+-34.364279026,-58.687330564,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,97,2023-02-05 21:00
+-34.372355823,-58.681043587,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,145,2023-02-05 21:00
+-34.382339580,-58.676415231,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,57,2023-02-05 21:00
+-34.367488057,-58.689560777,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,1,2023-02-05 21:00
+-34.362004372,-58.682970232,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,2,2023-02-05 21:00
+-34.365354318,-58.685753542,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,72,2023-02-05 21:00
+-34.379639614,-58.684352396,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,103,2023-02-05 21:00
+-34.370533374,-58.670104654,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,44,2023-02-05 21:00
+-34.376518055,-58.671929823,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,188,2023-02-05 21:00
+-34.375240154,-58.675124984,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,42,2023-02-05 21:00
+-34.375321263,-58.689673443,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,99,2023-02-05 21:00
+-34.372708073,-58.688840144,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,87,2023-02-05 21:00
+-34.373024017,-58.673914546,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,1,2023-02-05 21:00
+-34.374416853,-58.687573041,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,22,2023-02-05 21:00
+-34.356108378,-58.692637237,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,184,2023-02-05 21:00
+-34.369148648,-58.682779732,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,54,2023-02-05 21:00
+-34.363577951,-58.686146611,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,201,2023-02-05 21:00
+-34.359399674,-58.685132724,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,169,2023-02-05 21:00
+-34.374558670,-58.672778749,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,12,2023-02-05 21:00
+-34.366636951,-58.687791366,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,191,2023-02-05 21:00
+-34.372770326,-58.681774310,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,1,2023-02-05 21:00
+-34.372221098,-58.666516385,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,50,2023-02-05 21:00
+-34.367874840,-58.672418435,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,42,2023-02-05 21:00
+-34.352813775,-58.695727338,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,139,2023-02-05 21:00
+-34.378825187,-58.669457477,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,18,2023-02-05 21:00
+-34.358389712,-58.691160166,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,150,2023-02-05 21:00
+-34.361104987,-58.689243308,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,57,2023-02-05 21:00
+-34.353168973,-58.688113588,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,5,2023-02-05 21:00
+-34.370577145,-58.684304636,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5513,136,2023-02-05 21:00
 -34.6328,-58.5868,22,baja,Edenor,Moron,El Palomar,,,6,
 -34.5021,-58.6614,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,20,
 -34.6625,-58.5309,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,4,
+-34.6042,-58.502,21,baja,Edesur,Capital,Capital,,,4,
 -34.6007,-58.3936,21,baja,Edesur,Capital,Balvanera,,,1,
--34.6174,-58.3982,21,baja,Edesur,Capital,Balvanera,,,26,
+-34.6174,-58.3982,21,baja,Edesur,Capital,Balvanera,,,27,
 -34.6287,-58.413,21,baja,Edesur,Capital,Boedo,,,6,
 -34.6466,-58.4071,21,baja,Edesur,Capital,Parque Patricios,,,7,
+-34.6151,-58.4779,21,baja,Edesur,Capital,Villa Sta. Rita,,,5,
 -34.6363,-58.3748,21,baja,Edesur,Capital,Barracas,,,3,
