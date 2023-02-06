@@ -307,19 +307,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.733704585,-58.346411364,11,media,Edesur,Lanus,Monte Chingolo,Don Bosco,R:077-2-27/077-2-27,342,2023-02-06 20:13
 -34.736914650,-58.346462956,11,media,Edesur,Lanus,Monte Chingolo,Don Bosco,R:077-2-27/077-2-27,248,2023-02-06 20:13
 -34.736955337,-58.350880507,11,media,Edesur,Lanus,Monte Chingolo,Don Bosco,R:077-2-27/077-2-27,304,2023-02-06 20:13
--34.728981606,-58.354066056,11,media,Edesur,Lanus,Monte Chingolo,Don Bosco,R:077-2-27/077-2-27,499,2023-02-06 20:13
 -34.738284107,-58.348387621,11,media,Edesur,Lanus,Monte Chingolo,Don Bosco,R:077-2-27/077-2-27,1,2023-02-06 20:13
 -34.888400395,-58.679317552,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,172,2023-02-06 16:00
 -34.886997711,-58.680709723,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,23,2023-02-06 16:00
 -34.895863630,-58.678031423,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,122,2023-02-06 16:00
 -34.893625340,-58.675434559,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,83,2023-02-06 16:00
 -34.891158267,-58.678548002,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,240,2023-02-06 16:00
--34.856070563,-59.056698991,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-02-06 17:00
--34.852371508,-59.054182995,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,4,2023-02-06 17:00
--34.852415823,-59.065564001,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-02-06 17:00
--34.849547414,-59.051010617,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,6,2023-02-06 17:00
--34.855989194,-59.060949648,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-02-06 17:00
--34.851037663,-59.057834926,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,5,2023-02-06 17:00
+-34.856070563,-59.056698991,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-02-06 16:00
+-34.852371508,-59.054182995,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,4,2023-02-06 16:00
+-34.852415823,-59.065564001,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-02-06 16:00
+-34.849547414,-59.051010617,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,6,2023-02-06 16:00
+-34.855989194,-59.060949648,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-02-06 16:00
+-34.851037663,-59.057834926,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,5,2023-02-06 16:00
 -34.693842353,-58.581710826,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr1/63-5517,1,Sin Datos
 -34.736549037,-58.607095994,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5541,384,2023-02-06 17:00
 -34.731237024,-58.607590603,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5541,371,2023-02-06 17:00
@@ -334,15 +333,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6969,-58.5341,22,baja,Edenor,La Matanza,La Tablada,,,24,
 -34.6967,-58.4863,22,baja,Edenor,La Matanza,Villa Madero,,,31,
 -34.6154,-58.9427,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,62,
--34.5023,-58.7407,22,baja,Edenor,Merlo,Merlo,,,34,
+-34.5023,-58.7407,22,baja,Edenor,Merlo,Merlo,,,43,
 -34.6793,-58.6599,22,baja,Edenor,Moron,Castelar,,,1,
 -34.646,-58.5482,22,baja,Edenor,La Matanza,Ramos Mejia,,,28,
--34.5952,-58.4106,22,baja,Edenor,Capital Federal,Recoleta,,,7,
+-34.5952,-58.4106,22,baja,Edenor,Capital Federal,Recoleta,,,47,
 -34.6272,-58.7047,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,1,
+-34.496,-58.5282,22,baja,Edenor,San Isidro,Martinez,,,35,
 -34.6287,-58.413,21,baja,Edesur,Capital,Boedo,,,11,
 -34.6466,-58.4071,21,baja,Edesur,Capital,Parque Patricios,,,7,
 -34.6218,-58.3834,21,baja,Edesur,Capital,Constitucion,,,9,
--34.6959,-58.3705,21,baja,Edesur,Lanus,Lanus,,,17,
+-34.6959,-58.3705,21,baja,Edesur,Lanus,Lanus,,,22,
 -34.6342,-58.4097,21,baja,Edesur,Capital,Parque Patricios,,,5,
 -34.8115,-58.4216,21,baja,Edesur,Lomas De Zamora,Lavallol,,,1,
 -34.6397,-58.3629,21,baja,Edesur,Capital,La Boca,,,4,
@@ -351,8 +351,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6309,-58.4587,21,baja,Edesur,Capital,Capital,,,1,
 -34.747,-58.2861,21,baja,Edesur,Quilmes,Quilmes,,,7,
 -34.7846,-58.1659,21,baja,Edesur,Berazategui,Platanos,,,1,
--34.689,-58.4689,21,baja,Edesur,Capital,Capital,,,12,
+-34.689,-58.4689,21,baja,Edesur,Capital,Capital,,,14,
 -34.5997,-58.3912,21,baja,Edesur,Capital,San Nicolas,,,1,
--34.7075,-58.3241,21,baja,Edesur,Avellaneda,Wilde,,,10,
--34.6296,-58.4271,21,baja,Edesur,Capital,Parque Chacabuco,,,8,
--34.7655,-58.3999,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,
+-34.7075,-58.3241,21,baja,Edesur,Avellaneda,Wilde,,,11,
+-34.6296,-58.4271,21,baja,Edesur,Capital,Parque Chacabuco,,,10,
+-34.7655,-58.3999,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,3,
