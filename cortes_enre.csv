@@ -5,24 +5,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.987750010,-58.379361447,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,412,Sin Datos
 -34.992698087,-58.380216312,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,190,Sin Datos
 -34.988631660,-58.381552512,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,1,Sin Datos
--34.710604723,-58.324116582,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-4-44/077-4-44,116,2023-02-07 08:34
--34.702086808,-58.339787588,11,media,Edesur,Avellaneda,Villa Dominico,Don Bosco,R:077-4-44/077-4-44,552,2023-02-07 08:34
--34.702752351,-58.339805227,11,media,Edesur,Avellaneda,Villa Dominico,Don Bosco,R:077-4-44/077-4-44,287,2023-02-07 08:34
 -34.715352615,-58.325856939,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-4-44/077-4-44,731,2023-02-07 08:34
 -34.716751836,-58.330515984,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-4-44/077-4-44,608,2023-02-07 08:34
--34.702624782,-58.338735884,11,media,Edesur,Avellaneda,Villa Dominico,Don Bosco,R:077-4-44/077-4-44,518,2023-02-07 08:34
--34.716521699,-58.322680585,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-4-44/077-4-44,45,2023-02-07 08:34
--34.640589977,-58.536408070,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5546,258,2023-02-07 05:00
+-34.640589977,-58.536408070,12,media,Edenor,3 De Febrero,Ciudadela,S/D,R:Ciudadela/167-Tr1/167-5546,258,2023-02-07 06:00
 -34.712808150,-58.726847349,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5526,514,2023-02-07 06:00
--34.6583,-58.6208,22,baja,Edenor,Moron,Moron,,,4,
 -34.5739,-58.7771,22,baja,Edenor,Moreno,Trujui,,,15,
 -34.4149,-58.7721,22,baja,Edenor,Pilar,Luis Lagomarsino,,,75,
 -34.5585,-58.714,22,baja,Edenor,San Miguel,Muñiz,,,27,
 -34.5595,-58.6208,22,baja,Edenor,3 De Febrero,El Libertador,,,11,
 -34.6604,-58.6897,22,baja,Edenor,Ituzaingo,Ituzaingo,,,24,
 -34.4423,-58.9152,22,baja,Edenor,Pilar,Pilar,,,20,
--34.4098,-58.8366,22,baja,Edenor,Pilar,Villa Rosa,,,1,
--34.579,-58.5329,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,6,
 -34.6658,-58.6215,22,baja,Edenor,Moron,Moron,,,17,
 -34.4255,-58.7494,22,baja,Edenor,Escobar,Garin,,,21,
 -34.5103,-58.8073,22,baja,Edenor,Jose C Paz,Jose C Paz,,,22,
@@ -31,7 +23,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4116,-58.7707,22,baja,Edenor,Escobar,Maquinista Savio,,,28,
 -34.4848,-58.8332,22,baja,Edenor,Pilar,Pte Derqui,,,22,
 -34.6156,-58.635,22,baja,Edenor,Hurlingham,Villa Tesei,,,33,
--34.4096,-58.7183,22,baja,Edenor,Tigre,Benavidez,,,0,
 -34.481,-58.749,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,1,
 -34.6112,-58.3938,21,baja,Edesur,Capital,Balvanera,,,21,
 -34.6394,-58.362,21,baja,Edesur,Capital,La Boca,,,5,
@@ -39,6 +30,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7846,-58.1659,21,baja,Edesur,Berazategui,Platanos,,,1,
 -34.6295,-58.4269,21,baja,Edesur,Capital,Parque Chacabuco,,,11,
 -34.6572,-58.4718,21,baja,Edesur,Capital,Parque Avellaneda,,,13,
+-34.6827,-58.3494,21,baja,Edesur,Avellaneda,Sarandi,,,72,
 -34.8331,-58.4658,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,
 -34.7609,-58.267,21,baja,Edesur,Quilmes,Quilmes,,,2,
 -34.7424,-58.3795,21,baja,Edesur,Lomas De Zamora,Bandfield,,,10,
