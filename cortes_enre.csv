@@ -59,15 +59,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.529097731,-58.861928581,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,3,2023-02-07 13:00
 -34.525004207,-58.868121320,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,2,2023-02-07 13:00
 -34.526739893,-58.866888709,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5518,1,2023-02-07 13:00
--34.595643804,-58.966254297,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,40,2023-02-07 13:00
--34.594418760,-58.961518931,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,98,2023-02-07 13:00
--34.591173882,-58.970023652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,152,2023-02-07 13:00
--34.588280060,-58.981653905,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,2,2023-02-07 13:00
--34.586639286,-58.983366768,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,5,2023-02-07 13:00
--34.598151414,-58.969005758,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,240,2023-02-07 13:00
--34.598450864,-58.963602358,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,422,2023-02-07 13:00
--34.586726765,-58.984154965,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,1,2023-02-07 13:00
+-34.595643804,-58.966254297,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,40,2023-02-07 14:00
+-34.594418760,-58.961518931,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,98,2023-02-07 14:00
+-34.591173882,-58.970023652,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,152,2023-02-07 14:00
+-34.588280060,-58.981653905,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,2,2023-02-07 14:00
+-34.586639286,-58.983366768,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,5,2023-02-07 14:00
+-34.598151414,-58.969005758,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,240,2023-02-07 14:00
+-34.598450864,-58.963602358,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,422,2023-02-07 14:00
+-34.586726765,-58.984154965,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr1/169-5533,1,2023-02-07 14:00
 -34.5772,-58.4777,22,baja,Edenor,Capital Federal,Villa Urquiza,,,57,
+-34.6262,-58.5966,22,baja,Edenor,Moron,El Palomar,,,29,
 -34.5595,-58.6208,22,baja,Edenor,3 De Febrero,El Libertador,,,11,
 -34.6147,-58.6325,22,baja,Edenor,Hurlingham,Villa Tesei,,,46,
 -34.5134,-58.8105,22,baja,Edenor,Jose C Paz,Jose C Paz,,,26,
@@ -77,24 +78,27 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6577,-58.5326,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,20,
 -34.6622,-58.5762,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,23,
 -34.5285,-58.8103,22,baja,Edenor,Moreno,Cuartel V,,,14,
--34.6585,-58.7372,22,baja,Edenor,Merlo,Merlo,,,6,
--34.573,-58.6423,22,baja,Edenor,Hurlingham,Hurlingham,,,26,
+-34.6585,-58.7372,22,baja,Edenor,Merlo,Merlo,,,16,
+-34.4206,-58.585,22,baja,Edenor,Tigre,Ciudad De Tigre,,,127,
+-34.573,-58.6423,22,baja,Edenor,Hurlingham,Hurlingham,,,57,
+-34.4625,-58.9112,22,baja,Edenor,Pilar,Pilar,,,40,
 -34.6116,-58.3939,21,baja,Edesur,Capital,Balvanera,,,17,
 -34.6397,-58.3629,21,baja,Edesur,Capital,La Boca,,,9,
 -34.747,-58.2861,21,baja,Edesur,Quilmes,Quilmes,,,30,
 -34.7846,-58.1659,21,baja,Edesur,Berazategui,Platanos,,,1,
 -34.6295,-58.4269,21,baja,Edesur,Capital,Parque Chacabuco,,,10,
 -34.65,-58.3824,21,baja,Edesur,Capital,Barracas,,,7,
--34.7609,-58.267,21,baja,Edesur,Quilmes,Quilmes,,,41,
+-34.7609,-58.267,21,baja,Edesur,Quilmes,Quilmes,,,40,
 -34.7445,-58.4553,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,10,
 -34.6617,-58.4432,21,baja,Edesur,Capital,Villa Soldati,,,2,
+-34.6132,-58.5254,21,baja,Edesur,Capital,Villa Devoto,,,30,
 -34.8222,-58.4058,21,baja,Edesur,Almirante Brown,Burzaco,,,14,
 -34.6282,-58.3613,21,baja,Edesur,Capital,La Boca,,,27,
 -34.6838,-58.3225,21,baja,Edesur,Avellaneda,Villa Dominico,,,23,
--34.6067,-58.4845,21,baja,Edesur,Capital,Villa Del Parque,,,50,
+-34.6067,-58.4845,21,baja,Edesur,Capital,Villa Del Parque,,,54,
 -34.7498,-58.3236,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,7,
 -34.7284,-58.3505,21,baja,Edesur,Lanus,Monte Chingolo,,,19,
--34.6775,-58.495,21,baja,Edesur,Capital,Villa Lugano,,,24,
+-34.6775,-58.495,21,baja,Edesur,Capital,Villa Lugano,,,27,
 -34.6215,-58.4603,21,baja,Edesur,Capital,Flores,,,5,
 -34.7828,-58.3818,21,baja,Edesur,Lomas De Zamora,Temperley,,,8,
 -34.593,-58.4019,21,baja,Edesur,Capital,Recoleta,,,5,
