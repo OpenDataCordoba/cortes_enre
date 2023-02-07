@@ -1,15 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.979565377,-58.490772294,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,15,Sin Datos
--34.972011460,-58.502032632,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,2,Sin Datos
--34.978754029,-58.494866555,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,10,Sin Datos
--34.974779729,-58.500063921,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,28,Sin Datos
--34.978405812,-58.499738614,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,7,Sin Datos
--34.980109131,-58.497575854,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,8,Sin Datos
--34.974162900,-58.516142114,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,Sin Datos
--34.957660098,-58.534726965,11,media,Edesur,Ezeiza,Tristan Suarez,Glew,R:277-2-27/277-2-27,3,Sin Datos
--34.977477143,-58.512065751,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,9,Sin Datos
--34.969997726,-58.500231092,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,Sin Datos
--34.974993423,-58.515156693,11,media,Edesur,San Vicente,San Vicente,Glew,R:277-2-27/277-2-27,1,Sin Datos
 -34.990444358,-58.373845699,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,78,Sin Datos
 -34.986700930,-58.376497088,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,118,Sin Datos
 -34.989209453,-58.374516151,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,207,Sin Datos
@@ -35,7 +24,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6132,-58.6409,22,baja,Edenor,Hurlingham,Villa Tesei,,,4,
 -34.6604,-58.6897,22,baja,Edenor,Ituzaingo,Ituzaingo,,,24,
 -34.4423,-58.9152,22,baja,Edenor,Pilar,Pilar,,,20,
--34.7128,-58.7268,22,baja,Edenor,Merlo,Pontevedra,,,25,
 -34.4098,-58.8366,22,baja,Edenor,Pilar,Villa Rosa,,,1,
 -34.579,-58.5329,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,6,
 -34.6658,-58.6215,22,baja,Edenor,Moron,Moron,,,17,
@@ -52,16 +40,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6156,-58.635,22,baja,Edenor,Hurlingham,Villa Tesei,,,33,
 -34.6106,-58.3948,21,baja,Edesur,Capital,Balvanera,,,21,
 -34.6394,-58.362,21,baja,Edesur,Capital,La Boca,,,5,
--34.7471,-58.2865,21,baja,Edesur,Quilmes,Quilmes,,,32,
+-34.7471,-58.2865,21,baja,Edesur,Quilmes,Quilmes,,,33,
 -34.7846,-58.1659,21,baja,Edesur,Berazategui,Platanos,,,1,
 -34.6295,-58.4269,21,baja,Edesur,Capital,Parque Chacabuco,,,11,
 -34.6557,-58.473,21,baja,Edesur,Capital,Capital,,,12,
 -34.8331,-58.4658,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,
 -34.7609,-58.267,21,baja,Edesur,Quilmes,Quilmes,,,2,
 -34.7986,-58.403,21,baja,Edesur,Almirante Brown,Adrogue,,,7,
+-34.6911,-58.3617,21,baja,Edesur,Avellaneda,Gerli,,,2,
 -34.6547,-58.5241,21,baja,Edesur,Capital,Capital,,,31,
 -34.7002,-58.3843,21,baja,Edesur,Lanus,Lanus,,,2,
 -34.804,-58.2486,21,baja,Edesur,Florencio Varela,Florencio Varela,,,14,
 -34.6282,-58.361,21,baja,Edesur,Capital,La Boca,,,26,
--34.6785,-58.3741,21,baja,Edesur,Avellaneda,Gerli,,,15,
+-34.6785,-58.3741,21,baja,Edesur,Avellaneda,Gerli,,,16,
+-34.6838,-58.3225,21,baja,Edesur,Avellaneda,Villa Dominico,,,6,
 -34.7397,-58.305,21,baja,Edesur,Quilmes,Quilmes,,,5,
