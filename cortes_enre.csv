@@ -3,15 +3,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.800094915,-58.176412622,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,1,Sin Datos
 -34.796826175,-58.183826264,11,media,Edesur,Berazategui,Platanos,Gutierrez Ii,R:174-1-15/174-1-15,1,Sin Datos
 -34.739620052,-58.345321656,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-4-41/184-4-41,134,2023-02-08 20:00
--34.712370709,-58.397622846,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,717,2023-02-08 18:44
--34.714344602,-58.396766059,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,468,2023-02-08 18:44
--34.713256544,-58.396591505,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,1,2023-02-08 18:44
--34.605200704,-58.380073816,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,136,2023-02-08 22:15
--34.604528660,-58.377511508,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,40,2023-02-08 22:15
--34.604964607,-58.377505593,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,17,2023-02-08 22:15
--34.604534868,-58.377192690,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,26,2023-02-08 22:15
--34.605008965,-58.378209501,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,77,2023-02-08 22:15
--34.604557069,-58.377966551,11,media,Edesur,Capital Rp,San Nicolas,Blanco,R:115-2-24/115-2-24,26,2023-02-08 22:15
+-34.712370709,-58.397622846,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,717,Sin Datos
+-34.714344602,-58.396766059,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,468,Sin Datos
+-34.713256544,-58.396591505,11,media,Edesur,Lanus,Lanus Oeste,Escalada,R:087-1-07/087-1-07,1,Sin Datos
 -34.860814176,-58.184186132,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,17,2023-02-08 22:04
 -34.860126485,-58.184587935,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,37,2023-02-08 22:04
 -34.860931797,-58.184273917,11,media,Edesur,Florencio Varela,Ing. Allan,Gutierrez Ii,R:174-2-26/174-2-26,28,2023-02-08 22:04
@@ -36,71 +30,88 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.765823362,-58.403415386,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Temperley,R:084-1-13/084-1-13,2,2023-02-08 21:05
 -34.765630455,-58.403400684,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-1-13/084-1-13,13,2023-02-08 21:05
 -34.765296151,-58.402879107,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-1-13/084-1-13,1,2023-02-08 21:05
--34.775756414,-58.372998460,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,459,2023-02-08 21:06
--34.777584595,-58.376409758,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,309,2023-02-08 21:06
--34.770269289,-58.360585396,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,593,2023-02-08 21:06
--34.775112987,-58.368898919,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,386,2023-02-08 21:06
--34.772024148,-58.362892870,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,239,2023-02-08 21:06
--34.777576198,-58.371626750,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,214,2023-02-08 21:06
--34.769359176,-58.355941576,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,530,2023-02-08 21:06
--34.779545641,-58.356177781,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,397,2023-02-08 21:06
--34.765324597,-58.350675227,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,659,2023-02-08 21:06
--34.782199292,-58.360672745,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,588,2023-02-08 21:06
--34.766980429,-58.353948963,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,620,2023-02-08 21:06
--34.768443339,-58.356794361,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,403,2023-02-08 21:06
--34.772475412,-58.354176186,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,314,2023-02-08 21:06
--34.773918525,-58.357065623,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-2-22/189-2-22,335,2023-02-08 21:06
--34.766085094,-58.352169569,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,356,2023-02-08 21:06
--34.767292891,-58.355487874,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,92,2023-02-08 21:06
--34.775980987,-58.349040675,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,384,2023-02-08 21:06
--34.767582562,-58.349372143,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,86,2023-02-08 21:06
--34.770713247,-58.350777999,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,371,2023-02-08 21:06
--34.764081552,-58.394954022,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Rafael Calzada,R:189-2-22/189-2-22,1,2023-02-08 21:06
--34.777481805,-58.352869407,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,491,2023-02-08 21:06
--34.779961048,-58.354018697,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,342,2023-02-08 21:06
--34.780621883,-58.358075738,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,254,2023-02-08 21:06
--34.486405880,-58.640508921,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,222,2023-02-08 19:00
--34.475469617,-58.742518988,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,388,2023-02-08 20:00
--34.6327,-58.8173,22,baja,Edenor,Moreno,La Reja,,,19,
+-34.775756414,-58.372998460,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,459,2023-02-08 23:52
+-34.777584595,-58.376409758,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,309,2023-02-08 23:52
+-34.770269289,-58.360585396,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,593,2023-02-08 23:52
+-34.775112987,-58.368898919,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,386,2023-02-08 23:52
+-34.772024148,-58.362892870,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,239,2023-02-08 23:52
+-34.777576198,-58.371626750,11,media,Edesur,Lomas De Zamora,Temperley,Rafael Calzada,R:189-2-22/189-2-22,214,2023-02-08 23:52
+-34.769359176,-58.355941576,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,530,2023-02-08 23:52
+-34.779545641,-58.356177781,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,397,2023-02-08 23:52
+-34.765324597,-58.350675227,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,659,2023-02-08 23:52
+-34.782199292,-58.360672745,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,588,2023-02-08 23:52
+-34.766980429,-58.353948963,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,620,2023-02-08 23:52
+-34.768443339,-58.356794361,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,403,2023-02-08 23:52
+-34.772475412,-58.354176186,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,314,2023-02-08 23:52
+-34.773918525,-58.357065623,11,media,Edesur,Almirante Brown,Marmol,Rafael Calzada,R:189-2-22/189-2-22,335,2023-02-08 23:52
+-34.766085094,-58.352169569,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,356,2023-02-08 23:52
+-34.767292891,-58.355487874,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,92,2023-02-08 23:52
+-34.775980987,-58.349040675,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,384,2023-02-08 23:52
+-34.767582562,-58.349372143,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,86,2023-02-08 23:52
+-34.770713247,-58.350777999,11,media,Edesur,Almirante Brown,San Jose,Rafael Calzada,R:189-2-22/189-2-22,371,2023-02-08 23:52
+-34.764081552,-58.394954022,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Rafael Calzada,R:189-2-22/189-2-22,1,2023-02-08 23:52
+-34.777481805,-58.352869407,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,491,2023-02-08 23:52
+-34.779961048,-58.354018697,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,342,2023-02-08 23:52
+-34.780621883,-58.358075738,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,254,2023-02-08 23:52
+-34.486405880,-58.640508921,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr1/58-5512,222,Sin Datos
+-34.475469617,-58.742518988,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,388,Sin Datos
+-34.650460964,-58.790463179,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,160,2023-02-08 20:00
+-34.651247365,-58.789931320,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,73,2023-02-08 20:00
+-34.642744245,-58.794491413,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,2,2023-02-08 20:00
+-34.645957792,-58.795776539,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,358,2023-02-08 20:00
+-34.649014435,-58.798043623,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,65,2023-02-08 20:00
+-34.641815437,-58.826616979,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr2/163-5528,115,2023-02-08 20:00
+-34.644356003,-58.801284427,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,151,2023-02-08 20:00
+-34.643707964,-58.794661203,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,1,2023-02-08 20:00
+-34.646791434,-58.799101516,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,33,2023-02-08 20:00
+-34.648824460,-58.799915922,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,199,2023-02-08 20:00
+-34.649801349,-58.797366460,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,1,2023-02-08 20:00
+-34.645985784,-58.799031023,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,1,2023-02-08 20:00
+-34.648341628,-58.796775554,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,196,2023-02-08 20:00
+-34.645592751,-58.800507939,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,150,2023-02-08 20:00
+-34.645139290,-58.802014823,12,media,Edenor,Moreno,Moreno,S/D,R:La Reja/163-Tr2/163-5528,85,2023-02-08 20:00
+-34.4556,-58.9313,22,baja,Edenor,Pilar,Pilar,,,24,
 -34.6843,-58.5214,22,baja,Edenor,La Matanza,La Tablada,,,40,
--34.502,-58.6613,22,baja,Edenor,San Miguel,San Miguel,,,52,
+-34.502,-58.6613,22,baja,Edenor,San Miguel,San Miguel,,,63,
 -34.5103,-58.8073,22,baja,Edenor,Jose C Paz,Jose C Paz,,,22,
 -34.6043,-58.5318,22,baja,Edenor,3 De Febrero,Saenz Pe?A,,,27,
 -34.734,-58.7385,22,baja,Edenor,Merlo,Mariano Acosta,,,18,
 -34.6241,-58.7746,22,baja,Edenor,Moreno,Moreno,,,11,
 -34.5583,-58.4638,22,baja,Edenor,Capital Federal,Belgrano,,,6,
+-34.6429,-58.5483,22,baja,Edenor,3 De Febrero,Ciudadela,,,41,
 -34.6856,-58.5961,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,20,
 -34.4878,-58.6679,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,83,
 -34.5085,-58.7115,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,12,
 -34.5602,-58.7386,22,baja,Edenor,San Miguel,San Miguel,,,40,
 -34.2895,-58.7915,22,baja,Edenor,Escobar,Escobar,,,1,
+-34.5366,-58.5904,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,1,
 -34.5895,-58.391,21,baja,Edesur,Capital,Recoleta,,,11,
--34.7086,-58.4392,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,20,
 -34.6631,-58.4462,21,baja,Edesur,Capital,Villa Soldati,,,27,
--34.8086,-58.3194,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,
 -34.8011,-58.4511,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,
 -34.6105,-58.4543,21,baja,Edesur,Capital,Capital,,,2,
 -34.7496,-58.2075,21,baja,Edesur,Berazategui,Berazategui,,,49,
 -34.606,-58.4878,21,baja,Edesur,Capital,Capital,,,38,
 -34.7483,-58.4365,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,12,
--34.6087,-58.4829,21,baja,Edesur,Capital,Capital,,,45,
--34.6893,-58.3691,21,baja,Edesur,Avellaneda,Sarandi,,,31,
+-34.6087,-58.4829,21,baja,Edesur,Capital,Capital,,,70,
+-34.6898,-58.3696,21,baja,Edesur,Avellaneda,Gerli,,,38,
 -34.8136,-58.465,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,5,
 -34.5933,-58.5159,21,baja,Edesur,Capital,Villa Devoto,,,11,
--34.7552,-58.2646,21,baja,Edesur,Quilmes,Quilmes,,,6,
+-34.6322,-58.4659,21,baja,Edesur,Capital,Flores,,,18,
+-34.7552,-58.2646,21,baja,Edesur,Quilmes,Quilmes,,,7,
 -34.6007,-58.4388,21,baja,Edesur,Capital,Villa Crespo,,,11,
 -34.6008,-58.3941,21,baja,Edesur,Capital,Balvanera,,,1,
 -34.786,-58.4706,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,1,
 -34.7757,-58.438,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,
--34.6127,-58.4086,21,baja,Edesur,Capital,Balvanera,,,8,
+-34.6127,-58.4086,21,baja,Edesur,Capital,Balvanera,,,9,
 -34.7139,-58.3974,21,baja,Edesur,Lanus,Lanus,,,7,
 -34.8183,-58.3636,21,baja,Edesur,Almirante Brown,Claypole,,,7,
 -34.7742,-58.273,21,baja,Edesur,Florencio Varela,Florencio Varela,,,8,
--34.6745,-58.3959,21,baja,Edesur,Avellaneda,Piñeyro,,,6,
--34.6391,-58.3736,21,baja,Edesur,Capital,Barracas,,,15,
+-34.6745,-58.3959,21,baja,Edesur,Avellaneda,Piñeyro,,,7,
+-34.6391,-58.3736,21,baja,Edesur,Capital,Barracas,,,16,
 -34.6399,-58.362,21,baja,Edesur,Capital,La Boca,,,6,
--34.624,-58.4621,21,baja,Edesur,Capital,Capital,,,22,
+-34.624,-58.4621,21,baja,Edesur,Capital,Capital,,,25,
 -34.6056,-58.4166,21,baja,Edesur,Capital,Almagro,,,9,
--34.7652,-58.4021,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,31,
+-34.7652,-58.4021,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,35,
 -34.7647,-58.4019,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,8,
--34.6107,-58.4391,21,baja,Edesur,Capital,Caballito,,,21,
+-34.6107,-58.4391,21,baja,Edesur,Capital,Caballito,,,28,
+-34.6316,-58.471,21,baja,Edesur,Capital,Capital,,,1,
