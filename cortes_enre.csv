@@ -16,8 +16,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.475469617,-58.742518988,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,388,2023-02-08 21:00
 -34.389784495,-58.824458023,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr2/51-5523,315,2023-02-08 21:00
 -34.563578350,-58.675934954,12,media,Edenor,San Miguel,Bella Vista,S/D,S/D,733,2023-02-08 22:00
--34.641815437,-58.826616979,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr2/163-5528,115,Sin Datos
--34.4556,-58.9313,22,baja,Edenor,Pilar,Pilar,,,24,
+-34.641815437,-58.826616979,12,media,Edenor,Moreno,La Reja,S/D,R:La Reja/163-Tr2/163-5528,115,2023-02-08 21:00
 -34.502,-58.6613,22,baja,Edenor,San Miguel,San Miguel,,,74,
 -34.5103,-58.8073,22,baja,Edenor,Jose C Paz,Jose C Paz,,,22,
 -34.734,-58.7385,22,baja,Edenor,Merlo,Mariano Acosta,,,18,
@@ -28,7 +27,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5085,-58.7115,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,12,
 -34.2895,-58.7915,22,baja,Edenor,Escobar,Escobar,,,1,
 -34.5366,-58.5904,22,baja,Edenor,Gral San Martin,C Jardin El Libertador,,,1,
--34.7297,-58.575,22,baja,Edenor,La Matanza,Isidro Casanova,,,0,
 -34.7289,-58.5752,22,baja,Edenor,La Matanza,Isidro Casanova,,,40,
 -34.6832,-58.7293,22,baja,Edenor,Merlo,Merlo,,,22,
 -34.5895,-58.391,21,baja,Edesur,Capital,Recoleta,,,12,
@@ -45,6 +43,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5933,-58.5159,21,baja,Edesur,Capital,Villa Devoto,,,11,
 -34.6322,-58.4659,21,baja,Edesur,Capital,Flores,,,20,
 -34.7552,-58.2646,21,baja,Edesur,Quilmes,Quilmes,,,7,
+-34.6321,-58.3682,21,baja,Edesur,Capital,La Boca,,,17,
 -34.6008,-58.3941,21,baja,Edesur,Capital,Balvanera,,,1,
 -34.7757,-58.438,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,
 -34.6127,-58.4086,21,baja,Edesur,Capital,Balvanera,,,9,
@@ -55,4 +54,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6745,-58.3959,21,baja,Edesur,Avellaneda,Piñeyro,,,7,
 -34.6007,-58.4399,21,baja,Edesur,Capital,Capital,,,45,
 -34.6391,-58.3736,21,baja,Edesur,Capital,Barracas,,,16,
--34.6246,-58.4629,21,baja,Edesur,Capital,Flores,,,28,
+-34.6399,-58.362,21,baja,Edesur,Capital,La Boca,,,6,
+-34.624,-58.4621,21,baja,Edesur,Capital,Capital,,,29,
+-34.6056,-58.4166,21,baja,Edesur,Capital,Almagro,,,9,
+-34.6107,-58.4391,21,baja,Edesur,Capital,Caballito,,,34,
+-34.6571,-58.5149,21,baja,Edesur,Capital,Mataderos,,,3,
+-34.6316,-58.471,21,baja,Edesur,Capital,Capital,,,1,
