@@ -57,20 +57,19 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.623862266,-58.463014881,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-4-41/218-4-41,2,2023-02-08 18:33
 -34.625195827,-58.464667966,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-4-41/218-4-41,427,2023-02-08 18:33
 -34.623103390,-58.463422289,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-4-41/218-4-41,1,2023-02-08 18:33
--34.615979631,-58.776505874,12,media,Edenor,Moreno,Moreno,S/D,R:Catonas/256-Tr2/256-5532,283,2023-02-08 17:00
 -34.621084891,-58.644723776,12,media,Edenor,Hurlingham,Villa Tesei,S/D,R:Hurlingham/166-Tr3/166-5535,106,2023-02-08 17:00
 -34.580363040,-58.784978638,12,media,Edenor,Moreno,Trujui,S/D,R:Catonas/256-Tr2/256-5525,8,2023-02-08 16:00
 -34.835615922,-58.705061119,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,3,2023-02-08 16:00
--34.536679242,-58.554781234,12,media,Edenor,Gral San Martin,Gregoria Matorras,S/D,R:J. L. Suarez/266-Tr2/266-5521,448,2023-02-08 16:00
+-34.536679242,-58.554781234,12,media,Edenor,Gral San Martin,Gregoria Matorras,S/D,R:J. L. Suarez/266-Tr2/266-5521,448,2023-02-08 17:00
 -34.475469617,-58.742518988,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,388,2023-02-08 16:00
--34.561631273,-58.696853101,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,95,2023-02-08 16:00
--34.564986635,-58.688813634,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,91,2023-02-08 16:00
--34.557742275,-58.708866503,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Moron/67-Tr4/67-5524,239,2023-02-08 16:00
--34.559549882,-58.699637394,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,255,2023-02-08 16:00
--34.563197372,-58.701500826,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,363,2023-02-08 16:00
--34.564838868,-58.698160899,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,133,2023-02-08 16:00
+-34.561631273,-58.696853101,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,95,2023-02-08 17:00
+-34.564986635,-58.688813634,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,91,2023-02-08 17:00
+-34.557742275,-58.708866503,12,media,Edenor,San Miguel,Mu?Iz,S/D,R:Moron/67-Tr4/67-5524,239,2023-02-08 17:00
+-34.559549882,-58.699637394,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,255,2023-02-08 17:00
+-34.563197372,-58.701500826,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,363,2023-02-08 17:00
+-34.564838868,-58.698160899,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5524,133,2023-02-08 17:00
 -34.5041,-58.7531,22,baja,Edenor,Jose C Paz,Jose C Paz,,,7,
--34.5355,-58.7567,22,baja,Edenor,Jose C Paz,Jose C Paz,,,44,
+-34.5355,-58.7567,22,baja,Edenor,Jose C Paz,Jose C Paz,,,47,
 -34.5575,-58.7404,22,baja,Edenor,San Miguel,San Miguel,,,40,
 -34.6487,-58.8772,22,baja,Edenor,Moreno,Francisco Alvarez,,,32,
 -34.6319,-58.8145,22,baja,Edenor,Moreno,La Reja,,,11,
@@ -81,37 +80,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5335,-58.4688,22,baja,Edenor,Vicente Lopez,Vicente Lopez,,,7,
 -34.4206,-58.585,22,baja,Edenor,Tigre,Ciudad De Tigre,,,127,
 -34.5859,-58.4934,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,3,
--34.533,-58.5249,22,baja,Edenor,Vicente Lopez,Munro,,,32,
 -34.5136,-58.8126,22,baja,Edenor,Jose C Paz,Jose C Paz,,,1,
 -34.6076,-58.7498,22,baja,Edenor,Moreno,Trujui,,,16,
 -34.6327,-58.8173,22,baja,Edenor,Moreno,La Reja,,,19,
 -34.6843,-58.5214,22,baja,Edenor,La Matanza,La Tablada,,,27,
 -34.4575,-58.664,22,baja,Edenor,Tigre,Ricardo Rojas,,,33,
--34.502,-58.6613,22,baja,Edenor,San Miguel,San Miguel,,,25,
+-34.502,-58.6613,22,baja,Edenor,San Miguel,San Miguel,,,28,
 -34.6546,-58.597,22,baja,Edenor,Moron,Haedo,,,24,
 -34.6733,-58.5725,22,baja,Edenor,La Matanza,San Justo,,,39,
 -34.6983,-58.7618,22,baja,Edenor,Merlo,Merlo,,,48,
 -34.6534,-58.7581,22,baja,Edenor,Moreno,Paso Del Rey,,,26,
--34.8019,-58.1765,21,baja,Edesur,Berazategui,Berazategui,,,130,
--34.7247,-58.4077,21,baja,Edesur,Lanus,Remedios De Escalada,,,86,
+-34.5592,-58.4799,22,baja,Edenor,Capital Federal,Coghlan,,,7,
+-34.516,-58.58,22,baja,Edenor,Gral San Martin,Gral Eugenio Necochea,,,35,
+-34.6213,-58.6376,22,baja,Edenor,Hurlingham,Villa Tesei,,,5,
+-34.8016,-58.1759,21,baja,Edesur,Berazategui,Hudson,,,130,
+-34.7233,-58.4032,21,baja,Edesur,Lanus,Remedios De Escalada,,,86,
 -34.7526,-58.4569,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,12,
 -34.5895,-58.391,21,baja,Edesur,Capital,Recoleta,,,7,
--34.7086,-58.4392,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,21,
+-34.7086,-58.4392,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,20,
 -34.6631,-58.4462,21,baja,Edesur,Capital,Villa Soldati,,,28,
 -34.8086,-58.3194,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
 -34.8011,-58.4511,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,
 -34.6105,-58.4543,21,baja,Edesur,Capital,Capital,,,2,
--34.7496,-58.2075,21,baja,Edesur,Berazategui,Berazategui,,,37,
+-34.7496,-58.2075,21,baja,Edesur,Berazategui,Berazategui,,,38,
+-34.606,-58.4878,21,baja,Edesur,Capital,Capital,,,36,
 -34.6163,-58.4462,21,baja,Edesur,Capital,Caballito,,,26,
 -34.7483,-58.4365,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,12,
 -34.606,-58.4525,21,baja,Edesur,Capital,Capital,,,4,
--34.6864,-58.4717,21,baja,Edesur,Capital,Capital,,,10,
 -34.6898,-58.3696,21,baja,Edesur,Avellaneda,Gerli,,,9,
 -34.8136,-58.465,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,6,
--34.5933,-58.5159,21,baja,Edesur,Capital,Villa Devoto,,,7,
+-34.5933,-58.5159,21,baja,Edesur,Capital,Villa Devoto,,,8,
 -34.6312,-58.4649,21,baja,Edesur,Capital,Flores,,,22,
--34.8619,-58.1836,21,baja,Edesur,Florencio Varela,Ing. Allan,,,37,
--34.6007,-58.4387,21,baja,Edesur,Capital,Villa Crespo,,,5,
+-34.6007,-58.4387,21,baja,Edesur,Capital,Villa Crespo,,,6,
 -34.751,-58.4123,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,6,
 -34.7466,-58.2853,21,baja,Edesur,Quilmes,Quilmes,,,5,
 -34.7515,-58.2096,21,baja,Edesur,Berazategui,Berazategui,,,8,
@@ -126,5 +126,3 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6745,-58.3959,21,baja,Edesur,Avellaneda,Piñeyro,,,4,
 -34.8018,-58.1978,21,baja,Edesur,Berazategui,Ranelagh,,,1,
 -34.6399,-58.362,21,baja,Edesur,Capital,La Boca,,,4,
--34.6009,-58.4305,21,baja,Edesur,Capital,Capital,,,3,
--34.6049,-58.4849,21,baja,Edesur,Capital,Villa Del Parque,,,2,
