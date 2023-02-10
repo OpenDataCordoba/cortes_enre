@@ -3,8 +3,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.763932075,-58.418764359,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-1-11/084-1-11,265,2023-02-10 07:15
 -34.766288990,-58.410194837,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-1-11/084-1-11,490,2023-02-10 07:15
 -34.771531563,-58.412010283,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-1-11/084-1-11,201,2023-02-10 07:15
--34.757168641,-58.604641934,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,263,2023-02-10 05:00
--34.5962,-58.4071,22,baja,Edenor,Capital Federal,Recoleta,,,15,
+-34.423195819,-58.666185941,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,94,Sin Datos
+-34.757168641,-58.604641934,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,263,Sin Datos
 -34.6828,-58.8222,22,baja,Edenor,Moreno,Moreno,,,6,
 -34.4766,-58.5393,22,baja,Edenor,San Isidro,San Isidro,,,38,
 -34.5031,-58.6615,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,13,
@@ -19,21 +19,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.3509,-58.7873,22,baja,Edenor,Escobar,Escobar,,,20,
 -34.6043,-58.6463,22,baja,Edenor,Hurlingham,Hurlingham,,,46,
 -34.6641,-58.7706,22,baja,Edenor,Moreno,Paso Del Rey,,,32,
--34.6291,-58.5363,22,baja,Edenor,3 De Febrero,Ciudadela,,,31,
--34.4232,-58.6662,22,baja,Edenor,Tigre,Nordelta,,,21,
 -34.4602,-58.669,22,baja,Edenor,Tigre,Ricardo Rojas,,,60,
 -34.5652,-58.4782,22,baja,Edenor,Capital Federal,Coghlan,,,20,
 -34.4897,-58.6413,22,baja,Edenor,Tigre,Don Torcuato,,,34,
 -34.4433,-58.5893,22,baja,Edenor,Tigre,Ciudad De Tigre,,,10,
 -34.5789,-58.7523,22,baja,Edenor,San Miguel,San Miguel,,,28,
 -34.6014,-58.5922,22,baja,Edenor,3 De Febrero,C J Lomas Del Palomar,,,5,
--34.4793,-58.6111,22,baja,Edenor,Tigre,Don Torcuato,,,73,
--34.4878,-58.6679,22,baja,Edenor,Malvinas Argentinas,Villa De Mayo,,,24,
 -34.7018,-58.6111,22,baja,Edenor,La Matanza,Rafael Castillo,,,21,
 -34.5855,-58.4359,22,baja,Edenor,Capital Federal,Palermo,,,18,
 -34.6976,-58.492,22,baja,Edenor,La Matanza,Villa Madero,,,7,
 -34.5661,-58.545,22,baja,Edenor,Gral San Martin,San Andres,,,11,
 -34.583,-58.6367,22,baja,Edenor,Hurlingham,Hurlingham,,,25,
+-34.6939,-58.4881,22,baja,Edenor,La Matanza,Villa Madero,,,4,
 -34.4821,-58.8343,22,baja,Edenor,Pilar,Pte Derqui,,,26,
 -34.6168,-58.516,21,baja,Edesur,Capital,Villa Devoto,,,24,
 -34.6007,-58.4399,21,baja,Edesur,Capital,Capital,,,111,
@@ -63,5 +60,5 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8391,-58.4889,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,9,
 -34.81,-58.4047,21,baja,Edesur,Almirante Brown,Adrogue,,,3,
 -34.7312,-58.3821,21,baja,Edesur,Lanus,Remedios De Escalada,,,26,
--34.6185,-58.4733,21,baja,Edesur,Capital,Villa Sta. Rita,,,18,
+-34.6185,-58.4733,21,baja,Edesur,Capital,Villa Sta. Rita,,,17,
 -34.7269,-58.3051,21,baja,Edesur,Quilmes,Bernal,,,2,
