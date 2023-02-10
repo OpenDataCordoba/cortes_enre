@@ -3,8 +3,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.763932075,-58.418764359,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-1-11/084-1-11,265,2023-02-10 07:15
 -34.766288990,-58.410194837,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-1-11/084-1-11,490,2023-02-10 07:15
 -34.771531563,-58.412010283,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-1-11/084-1-11,201,2023-02-10 07:15
--34.423195819,-58.666185941,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,94,Sin Datos
--34.757168641,-58.604641934,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,263,Sin Datos
+-34.423195819,-58.666185941,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr1/156-5512,94,2023-02-10 06:00
+-34.757168641,-58.604641934,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,263,2023-02-10 06:00
 -34.6828,-58.8222,22,baja,Edenor,Moreno,Moreno,,,6,
 -34.4766,-58.5393,22,baja,Edenor,San Isidro,San Isidro,,,38,
 -34.5031,-58.6615,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,13,
@@ -30,7 +30,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6976,-58.492,22,baja,Edenor,La Matanza,Villa Madero,,,7,
 -34.5661,-58.545,22,baja,Edenor,Gral San Martin,San Andres,,,11,
 -34.583,-58.6367,22,baja,Edenor,Hurlingham,Hurlingham,,,25,
--34.6939,-58.4881,22,baja,Edenor,La Matanza,Villa Madero,,,4,
+-34.6939,-58.4881,22,baja,Edenor,La Matanza,Villa Madero,,,5,
+-34.5772,-58.4777,22,baja,Edenor,Capital Federal,Villa Urquiza,,,10,
 -34.4821,-58.8343,22,baja,Edenor,Pilar,Pte Derqui,,,26,
 -34.6168,-58.516,21,baja,Edesur,Capital,Villa Devoto,,,24,
 -34.6007,-58.4399,21,baja,Edesur,Capital,Capital,,,111,
@@ -58,6 +59,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7628,-58.3794,21,baja,Edesur,Lomas De Zamora,Temperley,,,6,
 -34.6324,-58.5157,21,baja,Edesur,Capital,Versalles,,,7,
 -34.8391,-58.4889,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,9,
+-34.7897,-58.4941,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,
 -34.81,-58.4047,21,baja,Edesur,Almirante Brown,Adrogue,,,3,
 -34.7312,-58.3821,21,baja,Edesur,Lanus,Remedios De Escalada,,,26,
 -34.6185,-58.4733,21,baja,Edesur,Capital,Villa Sta. Rita,,,17,
