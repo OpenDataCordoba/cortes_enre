@@ -68,7 +68,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.693769849,-58.372107617,11,media,Edesur,Lanus,Gerli L,Corina,R:075-2-21/075-2-21,4,2023-02-11 21:51
 -34.600340723,-58.510612124,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-01/027-1-01,51,2023-02-11 19:25
 -34.599808426,-58.510412813,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-01/027-1-01,279,2023-02-11 19:25
--34.602396826,-58.511461728,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-01/027-1-01,127,2023-02-11 19:25
 -34.782700770,-58.314057214,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-2-24/085-2-24,324,2023-02-11 20:10
 -34.768838171,-58.281588104,11,media,Edesur,Quilmes,Quilmes Oeste,Calchaqui,R:085-2-24/085-2-24,475,2023-02-11 20:10
 -34.777491802,-58.307021037,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-2-24/085-2-24,283,2023-02-11 20:10
@@ -103,13 +102,37 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.905003668,-58.533006834,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,1,2023-02-11 20:40
 -34.919149514,-58.539678552,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,1,2023-02-11 20:40
 -34.911235446,-58.557481265,11,media,Edesur,Ezeiza,Tristan Suarez,Spegazzini,R:270-2-24/270-2-24,84,2023-02-11 20:40
--34.565381491,-58.682501310,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5543/8-5507/8-5505,1,2023-02-11 18:00
--34.538628417,-58.591361279,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr1/266-5511,454,2023-02-11 19:00
--34.693449157,-58.780006892,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr2/258-5533,453,2023-02-11 19:00
+-34.794257921,-58.258228090,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,161,2023-02-11 20:50
+-34.797536172,-58.259739206,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,4,2023-02-11 20:50
+-34.796943762,-58.258589829,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,15,2023-02-11 20:50
+-34.787241067,-58.249069509,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,5,2023-02-11 20:50
+-34.788978208,-58.247024942,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,168,2023-02-11 20:50
+-34.791320003,-58.249168110,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,253,2023-02-11 20:50
+-34.786681630,-58.238205081,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,418,2023-02-11 20:50
+-34.789463095,-58.243361114,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,106,2023-02-11 20:50
+-34.796132873,-58.241207809,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,400,2023-02-11 20:50
+-34.788923534,-58.251025324,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,572,2023-02-11 20:50
+-34.794432859,-58.246016270,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,38,2023-02-11 20:50
+-34.787900542,-58.240379285,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,319,2023-02-11 20:50
+-34.792849141,-58.236753488,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,906,2023-02-11 20:50
+-34.787859703,-58.253723976,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,1,2023-02-11 20:50
+-34.792080097,-58.247293069,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,106,2023-02-11 20:50
+-34.787132119,-58.252470363,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,10,2023-02-11 20:50
+-34.784295262,-58.233774147,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,89,2023-02-11 20:50
+-34.794173774,-58.242592377,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,389,2023-02-11 20:50
+-34.785451615,-58.236017922,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,7,2023-02-11 20:50
+-34.790643364,-58.243946030,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,4,2023-02-11 20:50
+-34.791015346,-58.251606029,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,1,2023-02-11 20:50
+-34.785910650,-58.243529996,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,335,2023-02-11 20:50
+-34.794917091,-58.254741607,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,302,2023-02-11 20:50
+-34.790403931,-58.259057342,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,273,2023-02-11 20:50
+-34.790382582,-58.261529312,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-21/080-2-21,2,2023-02-11 20:50
+-34.565381491,-58.682501310,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5543/8-5507/8-5505,1,Sin Datos
+-34.538628417,-58.591361279,12,media,Edenor,Gral San Martin,C Jardin El Libertador,S/D,R:J. L. Suarez/266-Tr1/266-5511,454,2023-02-11 18:00
+-34.693449157,-58.780006892,12,media,Edenor,Merlo,Merlo,S/D,R:Paso Del Rey/258-Tr2/258-5533,453,Sin Datos
 -34.548042548,-58.501541684,12,media,Edenor,Vicente Lopez,Villa Martelli,S/D,S/D,453,2023-02-11 18:00
--34.513698492,-58.669642241,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Ara San Juan/362-Tr1/362-5547,315,2023-02-11 18:00
--34.566519167,-58.564330393,12,media,Edenor,Gral San Martin,Juan M De Pueyrredon,S/D,R:Malaver/68-Tr4/68-5517,404,2023-02-11 19:00
--34.573473231,-58.938811635,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,3,Sin Datos
+-34.513698492,-58.669642241,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Ara San Juan/362-Tr1/362-5547,315,2023-02-11 19:00
+-34.573473231,-58.938811635,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,3,2023-02-11 18:00
 -34.4788,-58.7277,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,24,
 -34.6936,-58.4836,22,baja,Edenor,La Matanza,Villa Madero,,,70,
 -34.4895,-58.9834,22,baja,Edenor,Pilar,Pilar,,,20,
