@@ -3,20 +3,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.782229725,-58.484637392,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-2-25/182-2-25,76,Sin Datos
 -34.787102586,-58.501862231,11,media,Edesur,Esteban Echeverria,9 De Abril,Santa Catalina,R:182-2-25/182-2-25,1,Sin Datos
 -34.779575278,-58.477113811,11,media,Edesur,Esteban Echeverria,9 De Abril,Santa Catalina,R:182-2-25/182-2-25,224,Sin Datos
--34.793527647,-58.457612954,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-2-25/182-2-25,56,Sin Datos
--34.788951675,-58.468925388,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-2-25/182-2-25,91,Sin Datos
 -34.591942124,-58.380087053,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-31/025-3-31,143,Sin Datos
 -34.595779908,-58.374941768,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-32/025-3-32,257,Sin Datos
 -34.596651513,-58.374908097,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-3-32/025-3-32,68,Sin Datos
 -34.619868883,-58.499693968,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-2-22/038-2-22,285,Sin Datos
--34.609579274,-58.443748017,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,622,Sin Datos
 -34.610561881,-58.452875495,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,634,Sin Datos
--34.609556807,-58.443626318,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,179,Sin Datos
--34.608233443,-58.444464473,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,67,Sin Datos
 -34.612419851,-58.455021323,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,851,Sin Datos
 -34.611974822,-58.455563385,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,46,Sin Datos
 -34.612636424,-58.454980298,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,381,Sin Datos
--34.610095512,-58.443369033,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,34,Sin Datos
 -34.609824315,-58.455197679,11,media,Edesur,Capital Gp,Caballito Gp,Parque Centenario,R:049-2-23/049-2-23,3,Sin Datos
 -34.610621620,-58.450551616,11,media,Edesur,Capital Gp,Caballito Gp,Villa Crespo,R:147-1-18/147-1-18,438,Sin Datos
 -34.608833758,-58.447127580,11,media,Edesur,Capital Gp,Caballito Gp,Villa Crespo,R:147-1-18/147-1-18,658,Sin Datos
@@ -34,9 +28,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.677762193,-58.484507247,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,1,Sin Datos
 -34.678073208,-58.488329675,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,314,Sin Datos
 -34.680171340,-58.488115538,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,1,Sin Datos
--34.573055414,-58.520856188,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr2/54-5533,305,2023-02-11 12:00
--34.403021754,-58.974539209,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5473,1,2023-02-11 09:00
--34.565381491,-58.682501310,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5543/8-5507/8-5505,1,2023-02-11 09:00
+-34.573055414,-58.520856188,12,media,Edenor,Gral San Martin,Villa Maipu,S/D,R:Migueletes/54-Tr2/54-5533,305,2023-02-11 09:00
+-34.403021754,-58.974539209,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr3/158-5473,1,2023-02-11 10:00
+-34.565381491,-58.682501310,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr5/67-5543/8-5507/8-5505,1,2023-02-11 10:00
 -34.6951,-58.6158,22,baja,Edenor,La Matanza,Rafael Castillo,,,5,
 -34.6317,-58.6382,22,baja,Edenor,Hurlingham,Villa Tesei,,,5,
 -34.6449,-58.5657,22,baja,Edenor,La Matanza,Ramos Mejia,,,6,
@@ -81,7 +75,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6633,-58.5663,22,baja,Edenor,La Matanza,Ramos Mejia,,,29,
 -34.6231,-58.7184,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,19,
 -34.3756,-58.6972,22,baja,Edenor,Tigre,Dique Lujan,,,28,
--34.6988,-58.4804,22,baja,Edenor,La Matanza,Villa Madero,,,9,
+-34.6988,-58.4804,22,baja,Edenor,La Matanza,Villa Madero,,,10,
 -34.5,-58.9412,22,baja,Edenor,Pilar,Pilar,,,1,
 -34.6037,-58.4834,21,baja,Edesur,Capital,Capital,,,20,
 -34.6174,-58.487,21,baja,Edesur,Capital,Villa Sta. Rita,,,48,
