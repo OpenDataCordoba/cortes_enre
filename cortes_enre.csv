@@ -13,7 +13,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.609729757,-58.448347467,11,media,Edesur,Capital Gp,Caballito Gp,Villa Crespo,R:147-1-18/147-1-18,1,Sin Datos
 -34.608303654,-58.449926101,11,media,Edesur,Capital Gp,Caballito Gp,Villa Crespo,R:147-1-18/147-1-18,60,Sin Datos
 -34.680171340,-58.488115538,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-2-17/035-2-17,1,Sin Datos
--34.667838898,-58.365363652,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-2-26/279-2-26,38,Sin Datos
 -34.608908255,-58.522818175,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-14/038-1-14,484,Sin Datos
 -34.645843864,-58.507603785,11,media,Edesur,Capital Gp,Liniers,S/D,R:953-1-05/953-1-05,278,Sin Datos
 -34.879224633,-58.543666267,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-03/955-1-03,187,Sin Datos
@@ -47,16 +46,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.594613893,-58.381438910,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-14/025-1-14/025-2-22,47,2023-02-12 10:03
 -34.594558279,-58.381430174,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-14/025-1-14/025-2-22,37,2023-02-12 10:03
 -34.593653196,-58.380067509,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-14/025-1-14/025-2-22,380,2023-02-12 10:03
--34.375321263,-58.689673443,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,99,Sin Datos
--34.646162859,-58.657484142,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5538,76,2023-02-12 07:00
--34.525035774,-58.484762049,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,367,2023-02-12 10:00
--34.534402295,-58.478924230,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,585,2023-02-12 10:00
--34.525477706,-58.486431564,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,340,2023-02-12 10:00
--34.530784701,-58.482075544,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,401,2023-02-12 10:00
--34.529584512,-58.464776992,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,124,2023-02-12 10:00
--34.528156095,-58.483327611,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,363,2023-02-12 10:00
--34.533062180,-58.470157544,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,98,2023-02-12 10:00
--34.531606388,-58.466367912,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,1,2023-02-12 10:00
+-34.375321263,-58.689673443,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,99,2023-02-12 07:00
+-34.646162859,-58.657484142,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5538,76,2023-02-12 08:00
+-34.525035774,-58.484762049,12,media,Edenor,Vicente Lopez,Vicente Lopez,S/D,R:Aniversario/52-Tr1/52-5544,367,2023-02-12 07:00
+-34.525477706,-58.486431564,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,340,2023-02-12 07:00
+-34.530784701,-58.482075544,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,401,2023-02-12 07:00
+-34.528156095,-58.483327611,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,363,2023-02-12 07:00
 -34.6004,-58.9072,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,14,
 -34.4999,-58.6112,22,baja,Edenor,Tigre,Don Torcuato,,,30,
 -34.6739,-58.5506,22,baja,Edenor,La Matanza,San Justo,,,11,
@@ -105,21 +100,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6868,-58.607,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,4,
 -34.5996,-58.7607,22,baja,Edenor,Moreno,Trujui,,,14,
 -34.7267,-58.5937,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
--34.4587,-58.5668,22,baja,Edenor,San Fernando,Virreyes,,,48,
+-34.4587,-58.5668,22,baja,Edenor,San Fernando,Virreyes,,,49,
 -34.6243,-58.5727,22,baja,Edenor,3 De Febrero,Caseros,,,14,
 -34.463,-58.5196,22,baja,Edenor,San Isidro,Beccar,,,25,
--34.5671,-58.5462,22,baja,Edenor,Gral San Martin,San Andres,,,40,
 -34.5782,-58.6014,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,23,
--34.5284,-58.555,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,14,
+-34.5284,-58.555,22,baja,Edenor,San Isidro,Villa Adelina (Si),,,15,
 -34.6873,-58.4997,22,baja,Edenor,La Matanza,Villa Madero,,,4,
 -34.5614,-58.7672,22,baja,Edenor,San Miguel,San Miguel,,,6,
--34.442,-58.5693,22,baja,Edenor,San Fernando,San Fernando,,,10,
+-34.442,-58.5693,22,baja,Edenor,San Fernando,San Fernando,,,11,
 -34.5888,-58.6013,22,baja,Edenor,3 De Febrero,Martin Coronado,,,34,
 -34.6288,-58.5408,22,baja,Edenor,3 De Febrero,Ciudadela,,,80,
+-34.7643,-58.5889,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
 -34.7355,-58.4702,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,18,
 -34.6265,-58.4426,21,baja,Edesur,Capital,Caballito,,,56,
 -34.7798,-58.2306,21,baja,Edesur,Berazategui,Berazategui,,,46,
--34.6073,-58.5196,21,baja,Edesur,Capital,Villa Devoto,,,160,
+-34.6081,-58.5212,21,baja,Edesur,Capital,Villa Devoto,,,160,
 -34.6754,-58.395,21,baja,Edesur,Avellaneda,Avellaneda,,,33,
 -34.6338,-58.467,21,baja,Edesur,Capital,Capital,,,80,
 -34.7861,-58.2164,21,baja,Edesur,Berazategui,Berazategui,,,11,
@@ -143,7 +138,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6196,-58.3984,21,baja,Edesur,Capital,San Cristobal,,,32,
 -34.6186,-58.3782,21,baja,Edesur,Capital,Constitucion,,,17,
 -34.6386,-58.4997,21,baja,Edesur,Capital,Capital,,,10,
--34.7239,-58.308,21,baja,Edesur,Quilmes,Bernal,,,164,
+-34.7241,-58.3053,21,baja,Edesur,Quilmes,Bernal,,,164,
 -34.6114,-58.4703,21,baja,Edesur,Capital,Villa General Mitre,,,12,
 -34.7688,-58.4289,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,24,
 -34.6298,-58.5169,21,baja,Edesur,Capital,Versalles,,,38,
