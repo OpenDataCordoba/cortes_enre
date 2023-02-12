@@ -59,14 +59,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.599424475,-58.501976791,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-3-34/038-3-34,100,2023-02-12 03:05
 -34.600523795,-58.502572488,11,media,Edesur,Capital Gp,Villa Del Parque,Luro,R:038-3-34/038-3-34,1,2023-02-12 03:05
 -34.597108773,-58.499092681,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-3-34/038-3-34,1,2023-02-12 03:05
--34.968831804,-58.373105208,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,108,2023-02-12 07:13
--34.974992153,-58.368523502,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,162,2023-02-12 07:13
--34.975746452,-58.371998941,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,298,2023-02-12 07:13
--34.974943092,-58.377607273,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,130,2023-02-12 07:13
--34.973511628,-58.374209180,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,87,2023-02-12 07:13
--34.979204482,-58.371700035,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,109,2023-02-12 07:13
--34.968372848,-58.375452590,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,8,2023-02-12 07:13
--34.972486901,-58.372458848,11,media,Edesur,San Vicente,Alejandro Korn,Burzaco,R:082-4-983/082-4-983,139,2023-02-12 07:13
 -34.611045349,-58.516694429,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-24/038-2-24,122,2023-02-12 04:07
 -34.611727090,-58.518046738,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-24/038-2-24,82,2023-02-12 04:07
 -34.611496405,-58.517884339,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-24/038-2-24,400,2023-02-12 04:07
@@ -105,31 +97,30 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.754866913,-58.267695852,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-24/073-2-24,595,2023-02-12 06:52
 -34.742517581,-58.273968639,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-2-24/073-2-24,2,2023-02-12 06:52
 -34.375321263,-58.689673443,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,99,2023-02-12 04:00
--34.646162859,-58.657484142,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5538,76,Sin Datos
--34.686027892,-58.641525482,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,209,2023-02-12 03:00
--34.681174618,-58.637716539,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,286,2023-02-12 03:00
--34.689276821,-58.639933832,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,443,2023-02-12 03:00
--34.683261860,-58.638681416,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,414,2023-02-12 03:00
--34.686111354,-58.639086185,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,451,2023-02-12 03:00
--34.780072145,-58.736770998,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,87,2023-02-12 04:00
--34.777744538,-58.733825275,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,81,2023-02-12 04:00
--34.773028909,-58.728364862,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,146,2023-02-12 04:00
--34.780196977,-58.732419085,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,91,2023-02-12 04:00
--34.779944336,-58.727944348,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,92,2023-02-12 04:00
--34.775872928,-58.722930004,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,213,2023-02-12 04:00
--34.770291765,-58.723045364,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,104,2023-02-12 04:00
--34.782314782,-58.738744264,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,80,2023-02-12 04:00
--34.785598804,-58.733200640,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,57,2023-02-12 04:00
--34.777388890,-58.716675363,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,87,2023-02-12 04:00
--34.775212825,-58.716289736,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,52,2023-02-12 04:00
--34.780305514,-58.717412966,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,17,2023-02-12 04:00
--34.775436194,-58.713387053,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,47,2023-02-12 04:00
--34.765941799,-58.719861044,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5522,89,2023-02-12 04:00
+-34.646162859,-58.657484142,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5538,76,2023-02-12 04:00
+-34.686027892,-58.641525482,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,209,2023-02-12 04:00
+-34.681174618,-58.637716539,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,286,2023-02-12 04:00
+-34.689276821,-58.639933832,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,443,2023-02-12 04:00
+-34.683261860,-58.638681416,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,414,2023-02-12 04:00
+-34.686111354,-58.639086185,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,451,2023-02-12 04:00
+-34.780072145,-58.736770998,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,87,2023-02-12 03:00
+-34.777744538,-58.733825275,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,81,2023-02-12 03:00
+-34.773028909,-58.728364862,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,146,2023-02-12 03:00
+-34.780196977,-58.732419085,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,91,2023-02-12 03:00
+-34.779944336,-58.727944348,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,92,2023-02-12 03:00
+-34.775872928,-58.722930004,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,213,2023-02-12 03:00
+-34.770291765,-58.723045364,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,104,2023-02-12 03:00
+-34.782314782,-58.738744264,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,80,2023-02-12 03:00
+-34.785598804,-58.733200640,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,57,2023-02-12 03:00
+-34.777388890,-58.716675363,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,87,2023-02-12 03:00
+-34.775212825,-58.716289736,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,52,2023-02-12 03:00
+-34.780305514,-58.717412966,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,17,2023-02-12 03:00
+-34.775436194,-58.713387053,12,media,Edenor,La Matanza,20 De Junio,S/D,R:Pontevedra/261-Tr2/261-5522,47,2023-02-12 03:00
+-34.765941799,-58.719861044,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr2/261-5522,89,2023-02-12 03:00
 -34.6949,-58.4807,22,baja,Edenor,La Matanza,Villa Madero,,,57,
 -34.6004,-58.9072,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,14,
 -34.5361,-58.4954,22,baja,Edenor,Vicente Lopez,Florida,,,47,
 -34.4999,-58.6112,22,baja,Edenor,Tigre,Don Torcuato,,,30,
--34.5768,-58.8451,22,baja,Edenor,Moreno,Francisco Alvarez,,,5,
 -34.6739,-58.5506,22,baja,Edenor,La Matanza,San Justo,,,11,
 -34.7052,-58.6234,22,baja,Edenor,La Matanza,Rafael Castillo,,,27,
 -34.6901,-58.5535,22,baja,Edenor,La Matanza,San Justo,,,9,
@@ -150,7 +141,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5106,-58.485,22,baja,Edenor,Vicente Lopez,Olivos,,,19,
 -34.5039,-58.5077,22,baja,Edenor,San Isidro,Martinez,,,35,
 -34.6527,-58.587,22,baja,Edenor,Moron,Haedo,,,30,
--34.4492,-59.0168,22,baja,Edenor,Pilar,Manzanares,,,20,
 -34.6619,-58.685,22,baja,Edenor,Ituzaingo,Ituzaingo,,,38,
 -34.6608,-58.5407,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,4,
 -34.4755,-58.5515,22,baja,Edenor,San Isidro,Beccar,,,41,
@@ -193,7 +183,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5406,-58.4967,22,baja,Edenor,Vicente Lopez,Florida,,,51,
 -34.5996,-58.7607,22,baja,Edenor,Moreno,Trujui,,,4,
 -34.7267,-58.5937,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
--34.4275,-58.88,22,baja,Edenor,Pilar,Villa Rosa,,,0,
 -34.4587,-58.5668,22,baja,Edenor,San Fernando,Virreyes,,,27,
 -34.5348,-58.4831,22,baja,Edenor,Vicente Lopez,Florida,,,7,
 -34.447,-58.5833,22,baja,Edenor,Tigre,Ciudad De Tigre,,,31,
@@ -216,9 +205,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6337,-58.5176,21,baja,Edesur,Capital,Capital,,,3,
 -34.7458,-58.4033,21,baja,Edesur,Lomas De Zamora,Bandfield,,,28,
 -34.7478,-58.4255,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,18,
--34.6139,-58.493,21,baja,Edesur,Capital,Capital,,,99,
--34.7472,-58.2555,21,baja,Edesur,Quilmes,Quilmes,,,25,
--34.6262,-58.4224,21,baja,Edesur,Capital,Boedo,,,51,
+-34.6139,-58.493,21,baja,Edesur,Capital,Capital,,,101,
+-34.7479,-58.2554,21,baja,Edesur,Quilmes,Quilmes,,,25,
+-34.6256,-58.4234,21,baja,Edesur,Capital,Boedo,,,51,
 -34.6164,-58.5137,21,baja,Edesur,Capital,Capital,,,24,
 -34.8479,-58.4677,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,
 -34.7793,-58.4749,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,4,
@@ -226,10 +215,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6821,-58.4829,21,baja,Edesur,Capital,Villa Lugano,,,118,
 -34.6656,-58.4911,21,baja,Edesur,Capital,Villa Lugano,,,3,
 -34.6196,-58.3984,21,baja,Edesur,Capital,San Cristobal,,,32,
--34.6169,-58.4962,21,baja,Edesur,Capital,Capital,,,4,
+-34.6169,-58.4962,21,baja,Edesur,Capital,Capital,,,5,
 -34.6157,-58.391,21,baja,Edesur,Capital,Monserrat,,,32,
 -34.6386,-58.4997,21,baja,Edesur,Capital,Capital,,,10,
--34.7251,-58.3059,21,baja,Edesur,Quilmes,Bernal,,,155,
+-34.7241,-58.3053,21,baja,Edesur,Quilmes,Bernal,,,157,
 -34.6114,-58.4703,21,baja,Edesur,Capital,Villa General Mitre,,,12,
 -34.6364,-58.4981,21,baja,Edesur,Capital,Villa Luro,,,18,
 -34.7688,-58.4289,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,24,
@@ -240,17 +229,18 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6233,-58.4277,21,baja,Edesur,Capital,Boedo,,,5,
 -34.624,-58.4238,21,baja,Edesur,Capital,Boedo,,,4,
 -34.6276,-58.4243,21,baja,Edesur,Capital,Boedo,,,3,
--34.6032,-58.4073,21,baja,Edesur,Capital,Balvanera,,,17,
+-34.6032,-58.4073,21,baja,Edesur,Capital,Balvanera,,,19,
 -34.7016,-58.2788,21,baja,Edesur,Quilmes,Bernal,,,1,
 -34.6034,-58.4496,21,baja,Edesur,Capital,Capital,,,24,
 -34.7195,-58.4359,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,3,
 -34.7348,-58.4013,21,baja,Edesur,Lomas De Zamora,Bandfield,,,5,
--34.8199,-58.2709,21,baja,Edesur,Florencio Varela,Florencio Varela,,,10,
+-34.8199,-58.2709,21,baja,Edesur,Florencio Varela,Florencio Varela,,,11,
 -34.7639,-58.267,21,baja,Edesur,Quilmes,Quilmes,,,2,
 -34.6863,-58.3922,21,baja,Edesur,Lanus,Gerli,,,11,
 -34.8063,-58.4349,21,baja,Edesur,Lomas De Zamora,Lavallol,,,4,
 -34.6003,-58.5231,21,baja,Edesur,Capital,Villa Devoto,,,1,
--34.8084,-58.4348,21,baja,Edesur,Lomas De Zamora,Lavallol,,,12,
+-34.8075,-58.4354,21,baja,Edesur,Lomas De Zamora,Lavallol,,,1,
 -34.7712,-58.2937,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,
+-34.7659,-58.2916,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,7,
 -34.7717,-58.3615,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,
 -34.7474,-58.3991,21,baja,Edesur,Lomas De Zamora,Bandfield,,,1,
