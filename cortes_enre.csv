@@ -20,7 +20,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.883159256,-58.548578265,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-03/955-1-03,295,Sin Datos
 -34.886432412,-58.546040767,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-03/955-1-03,83,Sin Datos
 -34.601194510,-58.502484060,11,media,Edesur,Capital Gp,Villa Del Parque,Luro,R:038-3-34/038-3-34,237,Sin Datos
--34.617605945,-58.496593600,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-1-18/038-1-18,145,2023-02-12 08:19
+-34.617605945,-58.496593600,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-1-18/038-1-18,145,Sin Datos
 -34.609269792,-58.416569982,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,57,2023-02-12 11:28
 -34.610028073,-58.417508653,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,715,2023-02-12 11:28
 -34.609292496,-58.416887126,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,164,2023-02-12 11:28
@@ -35,8 +35,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.594613893,-58.381438910,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-14/025-1-14/025-2-22,47,2023-02-12 10:03
 -34.594558279,-58.381430174,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-14/025-1-14/025-2-22,37,2023-02-12 10:03
 -34.593653196,-58.380067509,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-1-14/025-1-14/025-2-22,380,2023-02-12 10:03
--34.375321263,-58.689673443,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,99,2023-02-12 09:00
--34.431934799,-58.787241576,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Del Viso/251-Tr2/251-5535,28,2023-02-12 09:00
+-34.457261968,-58.705375164,12,media,Edenor,Malvinas Argentinas,El Triangulo,S/D,R:Ford/151-Tr2/151-5521,1,Sin Datos
+-34.431934799,-58.787241576,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Del Viso/251-Tr2/251-5535,28,Sin Datos
 -34.646162859,-58.657484142,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5538,76,2023-02-12 09:00
 -34.530784701,-58.482075544,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,401,2023-02-12 09:00
 -34.528156095,-58.483327611,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Aniversario/52-Tr1/52-5544,363,2023-02-12 09:00
@@ -46,14 +46,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7052,-58.6234,22,baja,Edenor,La Matanza,Rafael Castillo,,,27,
 -34.6901,-58.5535,22,baja,Edenor,La Matanza,San Justo,,,9,
 -34.6379,-58.7394,22,baja,Edenor,Moreno,Paso Del Rey,,,43,
--34.6443,-58.8605,22,baja,Edenor,Moreno,Francisco Alvarez,,,32,
--34.6244,-58.6323,22,baja,Edenor,Hurlingham,Villa Tesei,,,5,
 -34.5008,-58.7052,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,8,
 -34.6531,-58.7937,22,baja,Edenor,Moreno,Moreno,,,6,
 -34.5152,-58.7929,22,baja,Edenor,Jose C Paz,Jose C Paz,,,13,
 -34.402,-58.8426,22,baja,Edenor,Pilar,Villa Rosa,,,2,
 -34.5413,-58.7057,22,baja,Edenor,San Miguel,San Miguel,,,8,
--34.6527,-58.587,22,baja,Edenor,Moron,Haedo,,,30,
 -34.6436,-58.8676,22,baja,Edenor,Moreno,Francisco Alvarez,,,21,
 -34.4204,-58.7293,22,baja,Edenor,Escobar,Garin,,,5,
 -34.6357,-58.881,22,baja,Edenor,Moreno,Francisco Alvarez,,,21,
@@ -68,14 +65,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4799,-58.4966,22,baja,Edenor,San Isidro,Acassuso,,,14,
 -34.4525,-58.5595,22,baja,Edenor,San Fernando,San Fernando,,,48,
 -34.5809,-58.6903,22,baja,Edenor,San Miguel,Bella Vista,,,23,
--34.4619,-58.6843,22,baja,Edenor,Tigre,Ricardo Rojas,,,32,
 -34.6966,-58.6229,22,baja,Edenor,La Matanza,Rafael Castillo,,,4,
 -34.494,-58.5843,22,baja,Edenor,San Isidro,Boulogne,,,6,
--34.5542,-58.7323,22,baja,Edenor,San Miguel,San Miguel,,,24,
 -34.4468,-58.5812,22,baja,Edenor,Tigre,Ciudad De Tigre,,,46,
 -34.5008,-58.4896,22,baja,Edenor,Vicente Lopez,La Lucila,,,25,
 -34.7145,-58.5407,22,baja,Edenor,La Matanza,Ciudad Evita,,,18,
--34.4583,-58.5388,22,baja,Edenor,San Fernando,Victoria,,,71,
 -34.4797,-58.536,22,baja,Edenor,San Isidro,San Isidro,,,54,
 -34.6583,-58.694,22,baja,Edenor,Ituzaingo,Ituzaingo,,,55,
 -34.6868,-58.607,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,4,
