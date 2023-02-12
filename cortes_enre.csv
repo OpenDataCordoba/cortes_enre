@@ -19,11 +19,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.599808426,-58.510412813,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-01/027-1-01,279,Sin Datos
 -34.773155648,-58.291318645,11,media,Edesur,Quilmes,San Francisco Solano (Q),Calchaqui,R:085-2-24/085-2-24,395,Sin Datos
 -34.645843864,-58.507603785,11,media,Edesur,Capital Gp,Liniers,S/D,R:953-1-05/953-1-05,278,Sin Datos
--34.879224633,-58.543666267,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-03/955-1-03,187,2023-02-12 04:31
--34.883159256,-58.548578265,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-03/955-1-03,295,2023-02-12 04:31
--34.886432412,-58.546040767,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-03/955-1-03,83,2023-02-12 04:31
+-34.879224633,-58.543666267,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-03/955-1-03,187,Sin Datos
+-34.883159256,-58.548578265,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-03/955-1-03,295,Sin Datos
+-34.886432412,-58.546040767,11,media,Edesur,Ezeiza,Barrio La Union,S/D,R:955-1-03/955-1-03,83,Sin Datos
 -34.601194510,-58.502484060,11,media,Edesur,Capital Gp,Villa Del Parque,Luro,R:038-3-34/038-3-34,237,Sin Datos
--34.609759300,-58.525495196,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-24/038-2-24,517,2023-02-12 07:58
 -34.612698376,-58.523701691,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-24/038-2-24,72,2023-02-12 07:58
 -34.614342658,-58.528854613,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-2-24/038-2-24,552,2023-02-12 07:58
 -34.611290474,-58.527905637,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-2-24/038-2-24,476,2023-02-12 07:58
@@ -35,19 +34,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.642590664,-58.373341220,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-1-15/031-1-15,645,2023-02-12 06:42
 -34.646151781,-58.372990852,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-1-15/031-1-15,365,2023-02-12 06:42
 -34.643205849,-58.374304373,11,media,Edesur,Capital Rp,Barracas,Hernandarias,R:031-1-15/031-1-15,134,2023-02-12 06:42
--34.611543890,-58.485438291,11,media,Edesur,Capital Gp,Villa Sta. Rita,Luro,R:038-1-18/038-1-18,449,2023-02-12 08:19
 -34.617605945,-58.496593600,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-1-18/038-1-18,145,2023-02-12 08:19
--34.614500063,-58.492912760,11,media,Edesur,Capital Gp,Villa Sta. Rita,Luro,R:038-1-18/038-1-18,681,2023-02-12 08:19
 -34.615006004,-58.493722130,11,media,Edesur,Capital Gp,Villa Sta. Rita,Luro,R:038-1-18/038-1-18,357,2023-02-12 08:19
--34.612280530,-58.494550917,11,media,Edesur,Capital Gp,Villa Del Parque,Luro,R:038-1-18/038-1-18,353,2023-02-12 08:19
--34.612673526,-58.494211203,11,media,Edesur,Capital Gp,Villa Del Parque,Luro,R:038-1-18/038-1-18,843,2023-02-12 08:19
--34.612529461,-58.492424860,11,media,Edesur,Capital Gp,Villa Del Parque,Luro,R:038-1-18/038-1-18,1,2023-02-12 08:19
--34.612575072,-58.494283654,11,media,Edesur,Capital Gp,Villa Del Parque,Luro,R:038-1-18/038-1-18,88,2023-02-12 08:19
--34.613142568,-58.489093516,11,media,Edesur,Capital Gp,Villa Sta. Rita,Luro,R:038-1-18/038-1-18,397,2023-02-12 08:19
+-34.609269792,-58.416569982,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,57,2023-02-12 08:22
+-34.607124095,-58.418754396,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,757,2023-02-12 08:22
+-34.605918447,-58.416199613,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,748,2023-02-12 08:22
+-34.610028073,-58.417508653,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,715,2023-02-12 08:22
+-34.607872982,-58.415514312,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,578,2023-02-12 08:22
+-34.609292496,-58.416887126,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,164,2023-02-12 08:22
+-34.608280945,-58.418264951,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,679,2023-02-12 08:22
+-34.614895012,-58.413587453,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,724,2023-02-12 08:22
+-34.606771978,-58.416317199,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,47,2023-02-12 08:22
+-34.611922374,-58.414650599,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,139,2023-02-12 08:22
+-34.607581874,-58.415512284,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,1,2023-02-12 08:22
+-34.611179803,-58.417023697,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,36,2023-02-12 08:22
+-34.604673670,-58.421382437,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,36,2023-02-12 08:22
 -34.375321263,-58.689673443,12,media,Edenor,Tigre,Dique Lujan,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,99,2023-02-12 05:00
--34.646162859,-58.657484142,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5538,76,2023-02-12 06:00
+-34.646162859,-58.657484142,12,media,Edenor,Moron,Castelar,S/D,R:Castelar/61-Tr2/61-5538,76,2023-02-12 05:00
 -34.683261860,-58.638681416,12,media,Edenor,Moron,Castelar,S/D,R:Luzuriaga/64-Tr1/64-5511,414,2023-02-12 05:00
--34.6949,-58.4807,22,baja,Edenor,La Matanza,Villa Madero,,,57,
+-34.459589920,-58.910099949,12,media,Edenor,Pilar,Pilar,S/D,R:Matheu/51-Tr4/51-5481,267,2023-02-12 08:00
 -34.6004,-58.9072,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,14,
 -34.4999,-58.6112,22,baja,Edenor,Tigre,Don Torcuato,,,30,
 -34.6739,-58.5506,22,baja,Edenor,La Matanza,San Justo,,,11,
@@ -93,20 +98,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7145,-58.5407,22,baja,Edenor,La Matanza,Ciudad Evita,,,18,
 -34.4583,-58.5388,22,baja,Edenor,San Fernando,Victoria,,,17,
 -34.4797,-58.536,22,baja,Edenor,San Isidro,San Isidro,,,43,
--34.6583,-58.694,22,baja,Edenor,Ituzaingo,Ituzaingo,,,41,
+-34.6583,-58.694,22,baja,Edenor,Ituzaingo,Ituzaingo,,,43,
 -34.7116,-58.593,22,baja,Edenor,La Matanza,Isidro Casanova,,,31,
 -34.5406,-58.4967,22,baja,Edenor,Vicente Lopez,Florida,,,51,
 -34.5996,-58.7607,22,baja,Edenor,Moreno,Trujui,,,5,
 -34.7267,-58.5937,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
--34.4587,-58.5668,22,baja,Edenor,San Fernando,Virreyes,,,43,
--34.5348,-58.4831,22,baja,Edenor,Vicente Lopez,Florida,,,10,
--34.6243,-58.5727,22,baja,Edenor,3 De Febrero,Caseros,,,13,
+-34.4587,-58.5668,22,baja,Edenor,San Fernando,Virreyes,,,46,
+-34.6243,-58.5727,22,baja,Edenor,3 De Febrero,Caseros,,,14,
 -34.463,-58.5196,22,baja,Edenor,San Isidro,Beccar,,,25,
 -34.5671,-58.5462,22,baja,Edenor,Gral San Martin,San Andres,,,40,
 -34.5782,-58.6014,22,baja,Edenor,3 De Febrero,Loma Hermosa,,,23,
 -34.5885,-58.6039,22,baja,Edenor,3 De Febrero,Martin Coronado,,,34,
--34.4596,-58.9101,22,baja,Edenor,Pilar,Pilar,,,5,
--34.4532,-58.9339,22,baja,Edenor,Pilar,Pilar,,,4,
+-34.4596,-58.9101,22,baja,Edenor,Pilar,Pilar,,,6,
+-34.5614,-58.7672,22,baja,Edenor,San Miguel,San Miguel,,,4,
+-34.442,-58.5693,22,baja,Edenor,San Fernando,San Fernando,,,4,
+-34.4532,-58.9339,22,baja,Edenor,Pilar,Pilar,,,24,
 -34.7355,-58.4702,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,17,
 -34.6265,-58.4426,21,baja,Edesur,Capital,Caballito,,,56,
 -34.7798,-58.2306,21,baja,Edesur,Berazategui,Berazategui,,,46,
@@ -124,25 +130,25 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6337,-58.5176,21,baja,Edesur,Capital,Capital,,,3,
 -34.7458,-58.4033,21,baja,Edesur,Lomas De Zamora,Bandfield,,,28,
 -34.7478,-58.4255,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,18,
--34.6148,-58.4953,21,baja,Edesur,Capital,Capital,,,102,
+-34.6148,-58.4953,21,baja,Edesur,Capital,Capital,,,103,
 -34.7479,-58.2554,21,baja,Edesur,Quilmes,Quilmes,,,25,
 -34.6256,-58.4234,21,baja,Edesur,Capital,Boedo,,,54,
 -34.6164,-58.5137,21,baja,Edesur,Capital,Capital,,,24,
 -34.8479,-58.4677,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,
--34.7793,-58.4749,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,4,
--34.7655,-58.3992,21,baja,Edesur,Lomas De Zamora,Lavallol,,,17,
--34.6785,-58.4833,21,baja,Edesur,Capital,Villa Lugano,,,118,
+-34.7786,-58.4734,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,
+-34.7655,-58.3999,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,17,
+-34.6821,-58.4829,21,baja,Edesur,Capital,Villa Lugano,,,118,
 -34.6196,-58.3984,21,baja,Edesur,Capital,San Cristobal,,,32,
--34.6186,-58.3782,21,baja,Edesur,Capital,Constitucion,,,16,
+-34.6186,-58.3782,21,baja,Edesur,Capital,Constitucion,,,17,
 -34.6169,-58.4962,21,baja,Edesur,Capital,Capital,,,6,
 -34.6386,-58.4997,21,baja,Edesur,Capital,Capital,,,10,
--34.7241,-58.3053,21,baja,Edesur,Quilmes,Bernal,,,162,
+-34.7268,-58.3067,21,baja,Edesur,Quilmes,Bernal,,,163,
 -34.6114,-58.4703,21,baja,Edesur,Capital,Villa General Mitre,,,12,
 -34.6364,-58.4981,21,baja,Edesur,Capital,Villa Luro,,,19,
 -34.7688,-58.4289,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,24,
 -34.6298,-58.5169,21,baja,Edesur,Capital,Versalles,,,38,
 -34.7769,-58.3926,21,baja,Edesur,Lomas De Zamora,Temperley,,,7,
--34.9439,-58.3917,21,baja,Edesur,Pte Peron,Guernica,,,4,
+-34.9439,-58.3917,21,baja,Edesur,Pte Peron,Guernica,,,5,
 -34.8194,-58.2415,21,baja,Edesur,Florencio Varela,Florencio Varela,,,5,
 -34.7306,-58.4417,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,16,
 -34.6233,-58.4277,21,baja,Edesur,Capital,Boedo,,,7,
@@ -153,12 +159,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6034,-58.4496,21,baja,Edesur,Capital,Capital,,,25,
 -34.7195,-58.4359,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,3,
 -34.8199,-58.2709,21,baja,Edesur,Florencio Varela,Florencio Varela,,,14,
--34.6863,-58.3922,21,baja,Edesur,Lanus,Gerli,,,12,
+-34.6863,-58.3922,21,baja,Edesur,Lanus,Gerli,,,13,
 -34.8063,-58.4349,21,baja,Edesur,Lomas De Zamora,Lavallol,,,4,
 -34.6003,-58.5231,21,baja,Edesur,Capital,Villa Devoto,,,1,
 -34.8075,-58.4354,21,baja,Edesur,Lomas De Zamora,Lavallol,,,4,
 -34.7712,-58.2937,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,
 -34.7659,-58.2916,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,9,
 -34.7717,-58.3615,21,baja,Edesur,Lomas De Zamora,Temperley,,,1,
--34.8519,-58.5291,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,6,
--34.7979,-58.4746,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,2,
+-34.853,-58.5313,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,6,
