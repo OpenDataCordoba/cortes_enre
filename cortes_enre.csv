@@ -134,10 +134,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.596180272,-58.383389078,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-3-37/117-3-37,143,Sin Datos
 -34.596365558,-58.385771497,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-3-37/117-3-37,483,Sin Datos
 -34.596007619,-58.383393815,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-3-37/117-3-37,79,Sin Datos
--34.518617060,-58.909456976,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr2/257-5523,5,Sin Datos
--34.581443340,-58.699107606,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5525,368,Sin Datos
--34.579884740,-58.462586223,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Vidal/114-Tr1/114-5515,502,2023-02-14 06:00
--34.579253901,-58.462065053,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Vidal/114-Tr1/114-5515,385,2023-02-14 06:00
+-34.581443340,-58.699107606,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr4/67-5525,368,2023-02-14 07:00
+-34.579884740,-58.462586223,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Vidal/114-Tr1/114-5515,502,2023-02-14 07:00
+-34.579253901,-58.462065053,12,media,Edenor,Capital Federal,Villa Ortuzar,S/D,R:Vidal/114-Tr1/114-5515,385,2023-02-14 07:00
+-34.463488953,-58.736443998,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5543,1,2023-02-14 09:00
+-34.462205821,-58.735204562,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5543,1,2023-02-14 09:00
+-34.463061948,-58.734990441,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5543,1,2023-02-14 09:00
+-34.464004271,-58.736304703,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5543,1,2023-02-14 09:00
+-34.461545837,-58.735702598,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5543,5,2023-02-14 09:00
+-34.459811337,-58.737068948,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5543,9,2023-02-14 09:00
+-34.460971129,-58.736762641,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5543,1,2023-02-14 09:00
 -34.6738,-58.5172,22,baja,Edenor,La Matanza,La Tablada,,,5,
 -34.5726,-58.7905,22,baja,Edenor,Moreno,Cuartel V,,,10,
 -34.7054,-58.5397,22,baja,Edenor,La Matanza,Ciudad Evita,,,30,
@@ -158,27 +164,28 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6895,-58.5791,22,baja,Edenor,La Matanza,San Justo,,,15,
 -34.852,-58.6573,22,baja,Edenor,La Matanza,Virrey Del Pino,,,17,
 -34.6793,-58.7005,22,baja,Edenor,Merlo,San Antonio De Padua,,,18,
--34.5193,-58.7676,22,baja,Edenor,Jose C Paz,Jose C Paz,,,11,
+-34.5193,-58.7676,22,baja,Edenor,Jose C Paz,Jose C Paz,,,12,
 -34.4619,-58.6843,22,baja,Edenor,Tigre,Ricardo Rojas,,,31,
 -34.4522,-58.7306,22,baja,Edenor,Escobar,Garin,,,8,
 -34.5602,-58.7386,22,baja,Edenor,San Miguel,San Miguel,,,40,
 -34.6579,-58.5658,22,baja,Edenor,La Matanza,Ramos Mejia,,,25,
 -34.5856,-58.5865,22,baja,Edenor,3 De Febrero,Martin Coronado,,,4,
 -34.4948,-58.8403,22,baja,Edenor,Pilar,Pte Derqui,,,6,
+-34.5688,-58.6971,22,baja,Edenor,San Miguel,Bella Vista,,,1,
 -34.8047,-58.433,21,baja,Edesur,Lomas De Zamora,Lavallol,,,19,
 -34.6191,-58.4884,21,baja,Edesur,Capital,Capital,,,10,
--34.6193,-58.479,21,baja,Edesur,Capital,Capital,,,14,
+-34.6196,-58.4787,21,baja,Edesur,Capital,Villa Sta. Rita,,,14,
 -34.6187,-58.382,21,baja,Edesur,Capital,Constitucion,,,54,
 -34.617,-58.4071,21,baja,Edesur,Capital,Balvanera,,,4,
 -34.7774,-58.2629,21,baja,Edesur,Berazategui,Berazategui,,,39,
 -34.748,-58.4515,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,41,
 -34.7623,-58.2086,21,baja,Edesur,Berazategui,Berazategui,,,19,
 -34.7669,-58.2781,21,baja,Edesur,Quilmes,Quilmes,,,53,
--34.8178,-58.2686,21,baja,Edesur,Florencio Varela,Florencio Varela,,,63,
+-34.8194,-58.2687,21,baja,Edesur,Florencio Varela,Florencio Varela,,,63,
 -34.7448,-58.3898,21,baja,Edesur,Lomas De Zamora,Bandfield,,,28,
--34.6347,-58.409,21,baja,Edesur,Capital,Parque Patricios,,,68,
--34.6165,-58.512,21,baja,Edesur,Capital,Monte Castro,,,104,
--34.6298,-58.363,21,baja,Edesur,Capital,La Boca,,,25,
+-34.6348,-58.4093,21,baja,Edesur,Capital,Parque Patricios,,,68,
+-34.615,-58.5108,21,baja,Edesur,Capital,Villa Devoto,,,104,
+-34.6304,-58.3631,21,baja,Edesur,Capital,La Boca,,,25,
 -34.5867,-58.3867,21,baja,Edesur,Capital,Recoleta,,,20,
 -34.8175,-58.4706,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,
 -34.7126,-58.4033,21,baja,Edesur,Lanus,Lanus,,,68,
@@ -225,7 +232,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6669,-58.3437,21,baja,Edesur,Avellaneda,Sarandi,,,11,
 -34.6316,-58.4842,21,baja,Edesur,Capital,Floresta,,,49,
 -34.6258,-58.5235,21,baja,Edesur,Capital,Versalles,,,52,
--34.7139,-58.2888,21,baja,Edesur,Quilmes,Bernal,,,21,
+-34.7139,-58.2888,21,baja,Edesur,Quilmes,Bernal,,,22,
 -34.6255,-58.4208,21,baja,Edesur,Capital,Boedo,,,3,
 -34.7472,-58.2487,21,baja,Edesur,Quilmes,Ezpeleta,,,5,
 -34.6402,-58.4623,21,baja,Edesur,Capital,Flores,,,23,
