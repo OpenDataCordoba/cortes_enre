@@ -5,7 +5,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.668658806,-58.469997304,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-1-16/035-1-16,583,2023-02-15 17:54
 -34.668807465,-58.472260557,11,media,Edesur,Capital Gp,Villa Lugano,Lugano,R:035-1-16/035-1-16,252,2023-02-15 17:54
 -34.664546487,-58.468550447,11,media,Edesur,Capital Gp,Villa Soldati Gp,Lugano,R:035-1-16/035-1-16,396,2023-02-15 17:54
--34.654351715,-58.469997808,11,media,Edesur,Capital Gp,Parque Avellaneda,Lugano,R:035-1-16/035-1-16,107,2023-02-15 17:54
 -34.651342612,-58.472192605,11,media,Edesur,Capital Gp,Parque Avellaneda,Lugano,R:035-1-16/035-1-16,593,2023-02-15 17:54
 -34.661388973,-58.469329062,11,media,Edesur,Capital Gp,Parque Avellaneda,Lugano,R:035-1-16/035-1-16,430,2023-02-15 17:54
 -34.662785763,-58.471336493,11,media,Edesur,Capital Gp,Parque Avellaneda,Lugano,R:035-1-16/035-1-16,498,2023-02-15 17:54
@@ -27,8 +26,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.653637096,-58.475046334,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,427,2023-02-15 17:54
 -34.656209552,-58.474871808,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,88,2023-02-15 17:54
 -34.651366668,-58.477424943,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,239,2023-02-15 17:54
--34.673054605,-58.405548822,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-53/079-5-53,422,Sin Datos
+-34.673054605,-58.405548822,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-53/079-5-53,422,2023-02-15 18:11
+-34.735198556,-58.365094311,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,439,2023-02-15 12:49
 -34.737800499,-58.361696134,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,518,2023-02-15 12:49
+-34.730625577,-58.372640841,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-44/087-4-44,702,2023-02-15 12:49
+-34.738033438,-58.366688329,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,403,2023-02-15 12:49
+-34.735775288,-58.368284761,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,660,2023-02-15 12:49
+-34.733823659,-58.361992888,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,367,2023-02-15 12:49
+-34.729666468,-58.369176393,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,521,2023-02-15 12:49
 -34.739077903,-58.360697119,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,407,2023-02-15 12:49
 -34.740046299,-58.358021175,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,207,2023-02-15 12:49
 -34.777349106,-58.250881400,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,N:080-1-13/080-1-13,457,Sin Datos
@@ -47,6 +52,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.731276504,-58.398430659,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,117,2023-02-15 15:17
 -34.733252745,-58.396767829,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,163,2023-02-15 15:17
 -34.732798355,-58.399262755,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,1,2023-02-15 15:17
+-34.735198556,-58.365094311,11,media,Edesur,Lanus,Monte Chingolo,Escalada,N:087-1-0304/087-1-0304,439,2023-02-15 16:46
+-34.738033438,-58.366688329,11,media,Edesur,Lanus,Monte Chingolo,Escalada,N:087-1-0304/087-1-0304,403,2023-02-15 16:46
+-34.735775288,-58.368284761,11,media,Edesur,Lanus,Monte Chingolo,Escalada,N:087-1-0304/087-1-0304,660,2023-02-15 16:46
+-34.733823659,-58.361992888,11,media,Edesur,Lanus,Monte Chingolo,Escalada,N:087-1-0304/087-1-0304,367,2023-02-15 16:46
+-34.729666468,-58.369176393,11,media,Edesur,Lanus,Monte Chingolo,Escalada,N:087-1-0304/087-1-0304,521,2023-02-15 16:46
 -34.668198876,-58.487810987,11,media,Edesur,Capital Gp,Villa Lugano,Liniers,R:043-1-15/043-1-15,358,2023-02-15 15:41
 -34.667618562,-58.490118170,11,media,Edesur,Capital Gp,Villa Lugano,Liniers,R:043-1-15/043-1-15,68,2023-02-15 15:41
 -34.668425573,-58.490677665,11,media,Edesur,Capital Gp,Villa Lugano,Liniers,R:043-1-15/043-1-15,7,2023-02-15 15:41
@@ -74,8 +84,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.657013710,-58.549693691,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,148,2023-02-15 14:00
 -34.631769705,-58.711306780,12,media,Edenor,Ituzaingo,Ituzaingo,S/D,R:San Alberto/366-Tr1/366-5513,205,2023-02-15 14:00
 -34.5483,-58.4691,22,baja,Edenor,Capital Federal,Nu?Ez,,,23,
--34.7622,-58.5919,22,baja,Edenor,La Matanza,Ramos Mejia,,,130,
--34.544,-58.4737,22,baja,Edenor,Capital Federal,Nu?Ez,,,3,
+-34.7622,-58.5919,22,baja,Edenor,La Matanza,Ramos Mejia,,,135,
+-34.544,-58.4737,22,baja,Edenor,Capital Federal,Nu?Ez,,,5,
 -34.7521,-58.5854,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,25,
 -34.6318,-58.8144,22,baja,Edenor,Moreno,La Reja,,,11,
 -34.5811,-58.5384,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,12,
