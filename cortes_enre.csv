@@ -25,11 +25,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.778928535,-58.262774380,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,3,Sin Datos
 -34.778596466,-58.263014314,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,9,Sin Datos
 -34.777578115,-58.265572172,11,media,Edesur,Florencio Varela,Florencio Varela,Calchaqui,R:085-1-15/085-1-15,156,Sin Datos
--34.737676409,-58.401123508,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-4-48/087-4-48/087-2-1516,148,Sin Datos
--34.730035024,-58.399951122,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,470,Sin Datos
--34.731276504,-58.398430659,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,117,Sin Datos
--34.733252745,-58.396767829,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,163,Sin Datos
--34.732798355,-58.399262755,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,1,Sin Datos
+-34.737676409,-58.401123508,11,media,Edesur,Lomas De Zamora,Zona Rural,Escalada,R:087-4-48/087-4-48/087-2-1516,148,2023-02-15 23:10
+-34.730035024,-58.399951122,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,470,2023-02-15 23:10
+-34.731276504,-58.398430659,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,117,2023-02-15 23:10
+-34.733252745,-58.396767829,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,163,2023-02-15 23:10
+-34.732798355,-58.399262755,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-48/087-4-48/087-2-1516,1,2023-02-15 23:10
 -34.736437710,-58.374189626,11,media,Edesur,Lanus,Monte Chingolo,Escalada,N:087-1-0304/087-1-0304,806,2023-02-15 22:46
 -34.735198556,-58.365094311,11,media,Edesur,Lanus,Monte Chingolo,Escalada,N:087-1-0304/087-1-0304,439,2023-02-15 22:46
 -34.733823659,-58.361992888,11,media,Edesur,Lanus,Monte Chingolo,Escalada,N:087-1-0304/087-1-0304,367,2023-02-15 22:46
@@ -58,29 +58,28 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.647752674,-58.415705793,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-26/039-2-26,215,2023-02-15 20:16
 -34.648039712,-58.416851543,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-26/039-2-26,208,2023-02-15 20:16
 -34.649080284,-58.416213043,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-2-26/039-2-26,1,2023-02-15 20:16
--34.635173869,-58.412056911,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,38,2023-02-15 20:16
--34.640070467,-58.417465447,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,391,2023-02-15 20:16
--34.637472945,-58.416032739,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,420,2023-02-15 20:16
--34.639145336,-58.415748248,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,574,2023-02-15 20:16
--34.638255525,-58.413956777,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,275,2023-02-15 20:16
--34.640534453,-58.415625270,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,7,2023-02-15 20:16
--34.639349524,-58.413041991,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,16,2023-02-15 20:16
--34.634592233,-58.412230442,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,10,2023-02-15 20:16
--34.638612339,-58.415841781,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,304,2023-02-15 20:16
--34.639333970,-58.416785942,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,1,2023-02-15 20:16
--34.639172721,-58.415938882,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,6,2023-02-15 20:16
--34.639165151,-58.415896241,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,5,2023-02-15 20:16
--34.641601808,-58.415328780,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,14,2023-02-15 20:16
--34.638835987,-58.413748052,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,55,2023-02-15 20:16
--34.639813341,-58.445066063,11,media,Edesur,Capital Rp,Parque Chacabuco,Perito Moreno,R:048-3-37/048-3-37,658,Sin Datos
--34.639914846,-58.448732544,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-37/048-3-37,377,Sin Datos
--34.640704599,-58.450741483,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-37/048-3-37,405,Sin Datos
--34.642514659,-58.451783433,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,223,Sin Datos
--34.643427078,-58.463640703,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,327,Sin Datos
--34.644950623,-58.464391731,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,202,Sin Datos
--34.640485898,-58.446801122,11,media,Edesur,Capital Rp,Parque Chacabuco,Perito Moreno,R:048-3-37/048-3-37,230,Sin Datos
--34.643742502,-58.464312214,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,249,Sin Datos
--34.641492513,-58.451806014,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,445,Sin Datos
+-34.635173869,-58.412056911,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,38,2023-02-15 22:14
+-34.640070467,-58.417465447,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,391,2023-02-15 22:14
+-34.637472945,-58.416032739,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,420,2023-02-15 22:14
+-34.639145336,-58.415748248,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,574,2023-02-15 22:14
+-34.638255525,-58.413956777,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,275,2023-02-15 22:14
+-34.640534453,-58.415625270,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,7,2023-02-15 22:14
+-34.639349524,-58.413041991,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,16,2023-02-15 22:14
+-34.634592233,-58.412230442,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,10,2023-02-15 22:14
+-34.638612339,-58.415841781,11,media,Edesur,Capital Rp,Boedo,Pompeya,R:039-3-36/039-3-36,304,2023-02-15 22:14
+-34.639333970,-58.416785942,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,1,2023-02-15 22:14
+-34.639172721,-58.415938882,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,6,2023-02-15 22:14
+-34.639165151,-58.415896241,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,5,2023-02-15 22:14
+-34.641601808,-58.415328780,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,14,2023-02-15 22:14
+-34.638835987,-58.413748052,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-3-36/039-3-36,55,2023-02-15 22:14
+-34.639813341,-58.445066063,11,media,Edesur,Capital Rp,Parque Chacabuco,Perito Moreno,R:048-3-37/048-3-37,658,2023-02-15 22:21
+-34.639914846,-58.448732544,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-37/048-3-37,377,2023-02-15 22:21
+-34.640704599,-58.450741483,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-37/048-3-37,405,2023-02-15 22:21
+-34.642514659,-58.451783433,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,223,2023-02-15 22:21
+-34.644950623,-58.464391731,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,202,2023-02-15 22:21
+-34.640485898,-58.446801122,11,media,Edesur,Capital Rp,Parque Chacabuco,Perito Moreno,R:048-3-37/048-3-37,230,2023-02-15 22:21
+-34.643742502,-58.464312214,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,249,2023-02-15 22:21
+-34.641492513,-58.451806014,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,R:048-3-37/048-3-37,445,2023-02-15 22:21
 -34.422787603,-58.869484237,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,231,2023-02-15 18:00
 -34.393403347,-58.638303919,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5515,1,2023-02-15 19:00
 -34.5483,-58.4691,22,baja,Edenor,Capital Federal,Nu?Ez,,,23,
@@ -89,7 +88,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4043,-58.6357,22,baja,Edenor,Tigre,Rincon De Milberg,,,5,
 -34.5653,-58.4575,22,baja,Edenor,Capital Federal,Belgrano,,,3,
 -34.4669,-58.7389,22,baja,Edenor,Malvinas Argentinas,Tortuguitas,,,43,
--34.446,-58.5479,22,baja,Edenor,San Fernando,San Fernando,,,48,
 -34.4304,-58.5742,22,baja,Edenor,Tigre,Ciudad De Tigre,,,32,
 -34.6241,-58.7954,22,baja,Edenor,Moreno,Moreno,,,33,
 -34.6938,-58.4831,22,baja,Edenor,La Matanza,Villa Madero,,,32,
@@ -113,12 +111,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.733,-58.4129,21,baja,Edesur,Lomas De Zamora,Bandfield,,,59,
 -34.6323,-58.4235,21,baja,Edesur,Capital,Boedo,,,13,
 -34.9393,-58.6179,21,baja,Edesur,Cañuelas,Maximo Paz,,,8,
--34.6428,-58.4342,21,baja,Edesur,Capital,Parque Chacabuco,,,15,
+-34.6428,-58.4342,21,baja,Edesur,Capital,Parque Chacabuco,,,13,
 -34.748,-58.397,21,baja,Edesur,Lomas De Zamora,Bandfield,,,32,
 -34.6492,-58.3774,21,baja,Edesur,Capital,Barracas,,,9,
 -34.661,-58.4403,21,baja,Edesur,Capital,Villa Soldati,,,43,
 -34.7986,-58.4559,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,29,
--34.7697,-58.4229,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,32,
+-34.7697,-58.4229,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,33,
 -34.7718,-58.212,21,baja,Edesur,Berazategui,Berazategui,,,21,
 -34.6062,-58.4413,21,baja,Edesur,Capital,Caballito,,,25,
 -34.6011,-58.4414,21,baja,Edesur,Capital,Villa Crespo,,,29,
@@ -132,10 +130,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6,-58.4384,21,baja,Edesur,Capital,Capital,,,1,
 -34.7209,-58.4054,21,baja,Edesur,Lanus,Remedios De Escalada,,,2,
 -34.7963,-58.39,21,baja,Edesur,Almirante Brown,Adrogue,,,7,
--34.6337,-58.3744,21,baja,Edesur,Capital,Barracas,,,10,
+-34.6374,-58.4488,21,baja,Edesur,Capital,Parque Chacabuco,,,4,
+-34.6655,-58.4789,21,baja,Edesur,Capital,Villa Lugano,,,14,
+-34.6337,-58.3744,21,baja,Edesur,Capital,Barracas,,,11,
 -34.6576,-58.4691,21,baja,Edesur,Capital,Capital,,,8,
 -34.6123,-58.5282,21,baja,Edesur,Capital,Villa Real,,,2,
--34.787,-58.266,21,baja,Edesur,Florencio Varela,Florencio Varela,,,11,
+-34.787,-58.266,21,baja,Edesur,Florencio Varela,Florencio Varela,,,12,
 -34.7467,-58.2403,21,baja,Edesur,Quilmes,Ezpeleta,,,3,
 -34.6107,-58.439,21,baja,Edesur,Capital,Capital,,,6,
 -34.7538,-58.3043,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,25,
