@@ -41,19 +41,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.623514824,-58.383537374,11,media,Edesur,Capital Rp,Constitucion,Constitucion,R:124-2-27/124-2-27,4,Sin Datos
 -34.613748585,-58.405441287,11,media,Edesur,Capital Rp,Balvanera Rp,Independencia,R:020-2-22/020-2-22,600,Sin Datos
 -34.673054605,-58.405548822,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-53/079-5-53,422,2023-02-15 06:11
--34.675079809,-58.405391471,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-53/079-5-53,251,2023-02-15 06:11
--34.626838835,-58.459046823,11,media,Edesur,Capital Rp,Flores Rp,Alberdi,R:218-3-37/218-3-37,156,Sin Datos
 -34.629094077,-58.460675841,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-37/218-3-37,115,Sin Datos
--34.675688599,-58.483586933,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,404,2023-02-15 04:16
--34.676867452,-58.480966938,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,1,2023-02-15 04:16
--34.670956063,-58.481124571,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,173,2023-02-15 04:16
--34.671508276,-58.479263711,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,406,2023-02-15 04:16
--34.674406889,-58.484999657,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,235,2023-02-15 04:16
--34.670252908,-58.479272292,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,155,2023-02-15 04:16
--34.676921268,-58.488630194,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,1,2023-02-15 04:16
--34.671614524,-58.482599030,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,26,2023-02-15 04:16
--34.677833487,-58.481119881,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,1,2023-02-15 04:16
--34.670973981,-58.480041810,11,media,Edesur,Capital Gp,Villa Lugano,S/D,R:,1,2023-02-15 04:16
 -34.735198556,-58.365094311,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,439,2023-02-15 06:49
 -34.737800499,-58.361696134,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,518,2023-02-15 06:49
 -34.738033438,-58.366688329,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,403,2023-02-15 06:49
@@ -65,15 +53,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.706744342,-58.441074296,11,media,Edesur,Lomas De Zamora,Zona Rural,Alsina,R:089-1-18/089-1-18,281,2023-02-15 05:41
 -34.422787603,-58.869484237,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,231,Sin Datos
 -34.812100820,-58.754597197,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr2/363-5527,2,2023-02-15 04:00
--34.911243907,-58.950703162,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos
--34.522662881,-58.699988166,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,8,2023-02-15 05:00
--34.519851065,-58.692693441,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,97,2023-02-15 05:00
--34.521965363,-58.695054966,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,17,2023-02-15 05:00
--34.524956192,-58.697201661,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,21,2023-02-15 05:00
--34.524107183,-58.693226291,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,2,2023-02-15 05:00
--34.545789708,-58.450569286,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr1/41-5517,1,2023-02-15 05:00
--34.820050237,-58.651179058,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,304,Sin Datos
--34.822421521,-58.648387015,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,147,Sin Datos
+-34.911243907,-58.950703162,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-02-15 04:00
+-34.522662881,-58.699988166,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,8,2023-02-15 04:00
+-34.519851065,-58.692693441,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,97,2023-02-15 04:00
+-34.521965363,-58.695054966,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,17,2023-02-15 04:00
+-34.524956192,-58.697201661,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,21,2023-02-15 04:00
+-34.524107183,-58.693226291,12,media,Edenor,Malvinas Argentinas,Los Polvorines,S/D,R:Ara San Juan/362-Tr2/362-5533,2,2023-02-15 04:00
+-34.545789708,-58.450569286,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr1/41-5517,1,2023-02-15 04:00
+-34.820050237,-58.651179058,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,304,2023-02-15 04:00
+-34.822421521,-58.648387015,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5562,147,2023-02-15 04:00
 -34.653808875,-58.553770279,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,181,2023-02-15 04:00
 -34.653168107,-58.552097916,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,246,2023-02-15 04:00
 -34.656312596,-58.551302888,12,media,Edenor,La Matanza,Ramos Mejia,S/D,R:Ramos Mejia/66-Tr1/66-5516,323,2023-02-15 04:00
@@ -111,7 +99,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6274,-58.4341,21,baja,Edesur,Capital,Caballito,,,39,
 -34.6134,-58.5092,21,baja,Edesur,Capital,Capital,,,80,
 -34.6242,-58.4782,21,baja,Edesur,Capital,Floresta,,,31,
--34.9146,-58.3898,21,baja,Edesur,Pte Peron,Santa Elena,,,17,
+-34.9146,-58.3898,21,baja,Edesur,Pte Peron,Santa Elena,,,18,
 -34.7236,-58.2748,21,baja,Edesur,Quilmes,Quilmes,,,54,
 -34.618,-58.5043,21,baja,Edesur,Capital,Monte Castro,,,40,
 -34.6265,-58.4426,21,baja,Edesur,Capital,Caballito,,,5,
@@ -127,11 +115,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7313,-58.4212,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,10,
 -34.8275,-58.4543,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,28,
 -34.6255,-58.4294,21,baja,Edesur,Capital,Caballito,,,10,
--34.8098,-58.4215,21,baja,Edesur,Lomas De Zamora,Lavallol,,,16,
--34.6289,-58.428,21,baja,Edesur,Capital,Parque Chacabuco,,,1,
+-34.8098,-58.4215,21,baja,Edesur,Lomas De Zamora,Lavallol,,,17,
 -34.6119,-58.439,21,baja,Edesur,Capital,Caballito,,,38,
 -34.7267,-58.3796,21,baja,Edesur,Lanus,Remedios De Escalada,,,10,
 -34.6385,-58.4985,21,baja,Edesur,Capital,Villa Luro,,,17,
 -34.771,-58.3146,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,4,
--34.782,-58.3122,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,
 -34.8086,-58.4204,21,baja,Edesur,Lomas De Zamora,Lavallol,,,4,
