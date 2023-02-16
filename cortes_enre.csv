@@ -1,7 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.627056400,-58.457008143,11,media,Edesur,Capital Rp,Flores Rp,Alberdi,R:218-3-36/218-3-36,103,2023-02-16 05:54
 -34.630279898,-58.459238251,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-36/218-3-36,80,2023-02-16 05:54
--34.710201154,-58.318766248,11,media,Edesur,Avellaneda,Wilde,Don Bosco,R:077-2-26/077-2-26,307,2023-02-16 05:54
 -34.653754145,-58.478537783,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,260,2023-02-16 05:54
 -34.651366668,-58.477424943,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,239,2023-02-16 05:54
 -34.735198556,-58.365094311,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,439,2023-02-16 05:15
@@ -13,8 +12,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.729666468,-58.369176393,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,521,2023-02-16 05:15
 -34.739077903,-58.360697119,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,407,2023-02-16 05:15
 -34.740046299,-58.358021175,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,207,2023-02-16 05:15
--34.776534736,-58.244324170,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,407,Sin Datos
--34.778079818,-58.247325536,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,456,Sin Datos
+-34.776534736,-58.244324170,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,407,2023-02-16 08:27
+-34.778079818,-58.247325536,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,456,2023-02-16 08:27
 -34.774274203,-58.263296076,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,401,Sin Datos
 -34.780240809,-58.260504566,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,3,Sin Datos
 -34.778605207,-58.259112042,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,509,Sin Datos
@@ -62,29 +61,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.597940134,-58.364705706,11,media,Edesur,Capital Rp,Retiro,Charcas,R:025-4-47/025-4-47,1,2023-02-16 08:15
 -34.609006350,-58.402630697,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,41,2023-02-16 07:20
 -34.609034468,-58.402628612,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,439,2023-02-16 07:20
--34.608997459,-58.403555107,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,94,2023-02-16 07:20
--34.609739000,-58.405390536,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,504,2023-02-16 07:20
--34.611502264,-58.405204581,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,1,2023-02-16 07:20
--34.608907028,-58.403178818,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,20,2023-02-16 07:20
--34.609677438,-58.404142287,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,237,2023-02-16 07:20
--34.612166209,-58.405120678,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,489,2023-02-16 07:20
--34.610245946,-58.404001680,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,357,2023-02-16 07:20
--34.610917366,-58.405270879,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,194,2023-02-16 07:20
--34.608439126,-58.403252759,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,117,2023-02-16 07:20
--34.611708156,-58.404005412,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,353,2023-02-16 07:20
--34.610517616,-58.406149336,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,141,2023-02-16 07:20
 -34.660748208,-58.487786725,11,media,Edesur,Capital Gp,Mataderos,Perito Moreno,R:048-3-34/048-3-34,789,2023-02-16 08:15
 -34.657895312,-58.479450640,11,media,Edesur,Capital Gp,Mataderos,Perito Moreno,R:048-3-34/048-3-34,220,2023-02-16 08:15
 -34.422787603,-58.869484237,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,231,2023-02-16 04:00
--34.599487138,-58.535154936,12,media,Edenor,3 De Febrero,Saenz Pe?A,S/D,R:Migueletes/54-Tr1/54-5515,727,2023-02-16 04:00
--34.630077823,-59.078580840,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,Sin Datos
--34.638905439,-59.095016837,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,Sin Datos
+-34.630077823,-59.078580840,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,1,2023-02-16 04:00
+-34.638905439,-59.095016837,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5521,4,2023-02-16 04:00
 -34.7147,-58.56,22,baja,Edenor,La Matanza,Ciudad Evita,,,4,
 -34.676,-58.829,22,baja,Edenor,Moreno,Moreno,,,13,
 -34.5793,-58.6629,22,baja,Edenor,Hurlingham,William Morris,,,4,
--34.5565,-58.4854,22,baja,Edenor,Capital Federal,Saavedra,,,7,
 -34.5557,-58.6116,22,baja,Edenor,3 De Febrero,El Libertador,,,7,
--34.4265,-58.7445,22,baja,Edenor,Escobar,Garin,,,23,
 -34.5989,-58.5711,22,baja,Edenor,3 De Febrero,Caseros,,,4,
 -34.5958,-58.4019,21,baja,Edesur,Capital,Recoleta,,,29,
 -34.6067,-58.5134,21,baja,Edesur,Capital,Capital,,,27,
@@ -115,7 +100,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6266,-58.4206,21,baja,Edesur,Capital,Boedo,,,5,
 -34.6123,-58.5282,21,baja,Edesur,Capital,Villa Real,,,2,
 -34.7467,-58.2403,21,baja,Edesur,Quilmes,Ezpeleta,,,3,
--34.6172,-58.413,21,baja,Edesur,Capital,Capital,,,24,
 -34.7597,-58.355,21,baja,Edesur,Lomas De Zamora,Temperley,,,6,
 -34.8264,-58.4553,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,17,
 -34.7225,-58.3214,21,baja,Edesur,Quilmes,Bernal,,,6,
@@ -126,3 +110,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7212,-58.3824,21,baja,Edesur,Lanus,Remedios De Escalada,,,8,
 -34.6073,-58.3976,21,baja,Edesur,Capital,Balvanera,,,1,
 -34.6343,-58.3633,21,baja,Edesur,Capital,La Boca,,,9,
+-34.6609,-58.437,21,baja,Edesur,Capital,Villa Soldati,,,1,
