@@ -1,8 +1,8 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.627056400,-58.457008143,11,media,Edesur,Capital Rp,Flores Rp,Alberdi,R:218-3-36/218-3-36,103,Sin Datos
--34.630279898,-58.459238251,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-36/218-3-36,80,Sin Datos
--34.653754145,-58.478537783,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,260,Sin Datos
--34.651366668,-58.477424943,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,239,Sin Datos
+-34.627056400,-58.457008143,11,media,Edesur,Capital Rp,Flores Rp,Alberdi,R:218-3-36/218-3-36,103,2023-02-16 11:54
+-34.630279898,-58.459238251,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-36/218-3-36,80,2023-02-16 11:54
+-34.653754145,-58.478537783,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,260,2023-02-16 11:54
+-34.651366668,-58.477424943,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,239,2023-02-16 11:54
 -34.735198556,-58.365094311,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,439,2023-02-16 11:15
 -34.737800499,-58.361696134,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,518,2023-02-16 11:15
 -34.730625577,-58.372640841,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-44/087-4-44,702,2023-02-16 11:15
@@ -65,6 +65,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6585,-58.442,21,baja,Edesur,Capital,Villa Soldati,,,48,
 -34.7718,-58.212,21,baja,Edesur,Berazategui,Berazategui,,,23,
 -34.6337,-58.5003,21,baja,Edesur,Capital,Villa Luro,,,16,
+-34.5871,-58.3867,21,baja,Edesur,Capital,Recoleta,,,30,
 -34.7459,-58.3387,21,baja,Edesur,Quilmes,Bernal,,,28,
 -34.596,-58.3816,21,baja,Edesur,Capital,Retiro,,,9,
 -34.6132,-58.4542,21,baja,Edesur,Capital,Caballito,,,5,
@@ -76,12 +77,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5964,-58.3888,21,baja,Edesur,Capital,Recoleta,,,5,
 -34.6337,-58.3744,21,baja,Edesur,Capital,Barracas,,,21,
 -34.658,-58.3378,21,baja,Edesur,Avellaneda,Dock Sud,,,2,
--34.6266,-58.4206,21,baja,Edesur,Capital,Boedo,,,5,
 -34.6123,-58.5282,21,baja,Edesur,Capital,Villa Real,,,2,
+-34.7666,-58.4027,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,17,
 -34.7597,-58.355,21,baja,Edesur,Lomas De Zamora,Temperley,,,6,
+-34.7728,-58.3935,21,baja,Edesur,Lomas De Zamora,Temperley,,,11,
 -34.7225,-58.3214,21,baja,Edesur,Quilmes,Bernal,,,6,
--34.6371,-58.4504,21,baja,Edesur,Capital,Parque Chacabuco,,,47,
+-34.6371,-58.4504,21,baja,Edesur,Capital,Parque Chacabuco,,,48,
 -34.633,-58.419,21,baja,Edesur,Capital,Boedo,,,3,
+-34.7621,-58.3515,21,baja,Edesur,Almirante Brown,San Jose,,,13,
 -34.6669,-58.415,21,baja,Edesur,Lanus,Valentin Alsina,,,3,
 -34.647,-58.5254,21,baja,Edesur,Capital,Capital,,,4,
 -34.7212,-58.3824,21,baja,Edesur,Lanus,Remedios De Escalada,,,8,
