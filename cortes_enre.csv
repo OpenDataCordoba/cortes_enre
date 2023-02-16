@@ -3,15 +3,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.630279898,-58.459238251,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-3-36/218-3-36,80,2023-02-16 05:54
 -34.653754145,-58.478537783,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,260,2023-02-16 05:54
 -34.651366668,-58.477424943,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-3-32/048-3-32,239,2023-02-16 05:54
--34.735198556,-58.365094311,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,439,Sin Datos
--34.737800499,-58.361696134,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,518,Sin Datos
--34.730625577,-58.372640841,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-44/087-4-44,702,Sin Datos
--34.738033438,-58.366688329,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,403,Sin Datos
--34.735775288,-58.368284761,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,660,Sin Datos
--34.733823659,-58.361992888,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,367,Sin Datos
--34.729666468,-58.369176393,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,521,Sin Datos
--34.739077903,-58.360697119,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,407,Sin Datos
--34.740046299,-58.358021175,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,207,Sin Datos
+-34.735198556,-58.365094311,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,439,2023-02-16 11:15
+-34.737800499,-58.361696134,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,518,2023-02-16 11:15
+-34.730625577,-58.372640841,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-4-44/087-4-44,702,2023-02-16 11:15
+-34.738033438,-58.366688329,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,403,2023-02-16 11:15
+-34.735775288,-58.368284761,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,660,2023-02-16 11:15
+-34.733823659,-58.361992888,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,367,2023-02-16 11:15
+-34.729666468,-58.369176393,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,521,2023-02-16 11:15
+-34.739077903,-58.360697119,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,407,2023-02-16 11:15
+-34.740046299,-58.358021175,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-44/087-4-44,207,2023-02-16 11:15
 -34.776534736,-58.244324170,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,407,2023-02-16 08:27
 -34.778079818,-58.247325536,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,456,2023-02-16 08:27
 -34.774274203,-58.263296076,11,media,Edesur,Berazategui,Berazategui Centro,Calchaqui,R:085-1-15/085-1-15,401,Sin Datos
@@ -54,7 +54,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.694240827,-58.339460707,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-21/172-2-21/172-2-27,548,2023-02-16 10:33
 -34.696017779,-58.341941004,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-21/172-2-21/172-2-27,663,2023-02-16 10:33
 -34.698019270,-58.340486879,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-21/172-2-21/172-2-27,1,2023-02-16 10:33
--34.422787603,-58.869484237,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,231,2023-02-16 06:00
+-34.422787603,-58.869484237,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Derqui/260-Tr2/260-5531,231,2023-02-16 07:00
 -34.676,-58.829,22,baja,Edenor,Moreno,Moreno,,,13,
 -34.5793,-58.6629,22,baja,Edenor,Hurlingham,William Morris,,,4,
 -34.5565,-58.4854,22,baja,Edenor,Capital Federal,Saavedra,,,1,
@@ -72,7 +72,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7459,-58.3387,21,baja,Edesur,Quilmes,Bernal,,,28,
 -34.596,-58.3816,21,baja,Edesur,Capital,Retiro,,,9,
 -34.6132,-58.4542,21,baja,Edesur,Capital,Caballito,,,5,
--34.7862,-58.3891,21,baja,Edesur,Lomas De Zamora,Temperley,,,26,
 -34.8888,-58.3789,21,baja,Edesur,Almirante Brown,Glew,,,44,
 -34.7209,-58.4054,21,baja,Edesur,Lanus,Remedios De Escalada,,,2,
 -34.7963,-58.39,21,baja,Edesur,Almirante Brown,Adrogue,,,14,
