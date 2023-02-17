@@ -1,61 +1,100 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.603193117,-58.502188611,11,media,Edesur,Capital Gp,Villa Del Parque,Luro,R:038-3-34/038-3-34,582,2023-02-17 21:18
--34.603325546,-58.504974723,11,media,Edesur,Capital Gp,Villa Del Parque,Luro,R:038-3-34/038-3-34,185,2023-02-17 21:18
--34.404381339,-58.535494571,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
--34.406209141,-58.543449668,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,Sin Datos
--34.406194158,-58.545247532,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
--34.426186515,-58.554265076,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
--34.412756014,-58.537245213,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
--34.423217544,-58.559164608,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,Sin Datos
--34.407243326,-58.535835321,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
--34.417052517,-58.559372360,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,51,Sin Datos
--34.426669802,-58.552769810,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,Sin Datos
--34.427044574,-58.553779337,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
--34.416396936,-58.556885254,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,16,2023-02-17 20:00
--34.404017535,-58.544899352,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2023-02-17 20:00
--34.404213271,-58.548847607,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2023-02-17 20:00
--34.399674444,-58.534929245,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-02-17 20:00
--34.424994630,-58.557368941,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-02-17 20:00
--34.408127663,-58.542924325,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-02-17 20:00
--34.401136394,-58.534877130,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-02-17 20:00
--34.422414580,-58.555475273,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,21,2023-02-17 20:00
--34.430668532,-58.540740254,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-02-17 20:00
--34.420081707,-58.562707639,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-02-17 20:00
--34.424910729,-58.548540031,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,27,2023-02-17 20:00
--34.422475044,-58.552996192,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,36,2023-02-17 20:00
--34.416583142,-58.565081779,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,8,2023-02-17 20:00
--34.411398159,-58.540716242,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2023-02-17 20:00
--34.409062362,-58.538789111,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,16,2023-02-17 20:00
--34.603805238,-58.883338572,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,197,2023-02-17 20:00
--34.606516606,-58.881913889,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,202,2023-02-17 20:00
--34.608300195,-58.879372891,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,122,2023-02-17 20:00
--34.607089822,-58.876311797,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,118,2023-02-17 20:00
--34.604055364,-58.877012280,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,146,2023-02-17 20:00
--34.608838300,-58.881070642,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,2,2023-02-17 20:00
--34.328897698,-58.758815754,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,253,2023-02-17 23:00
--34.328472494,-58.764919536,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,7,2023-02-17 23:00
--34.334712456,-58.760253450,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,362,2023-02-17 23:00
--34.320581415,-58.743878248,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,2023-02-17 23:00
--34.331423774,-58.762763647,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,82,2023-02-17 23:00
--34.350763446,-58.732831633,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,269,2023-02-17 23:00
--34.347358589,-58.728418093,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,39,2023-02-17 23:00
--34.340892270,-58.731291222,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,77,2023-02-17 23:00
--34.341422655,-58.730157677,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,165,2023-02-17 23:00
--34.339464989,-58.715839067,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,69,2023-02-17 23:00
--34.340682780,-58.715395709,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,256,2023-02-17 23:00
--34.345023332,-58.718406771,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,51,2023-02-17 23:00
--34.337522158,-58.711492908,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,5,2023-02-17 23:00
--34.323344323,-58.748116959,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,5,2023-02-17 23:00
--34.352653901,-58.730838798,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,2,2023-02-17 23:00
--34.346080310,-58.726689912,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,50,2023-02-17 23:00
--34.351576744,-58.728488046,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,111,2023-02-17 23:00
--34.346957394,-58.723015231,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,117,2023-02-17 23:00
--34.332942296,-58.735798126,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,147,2023-02-17 23:00
--34.340048395,-58.719391994,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,85,2023-02-17 23:00
--34.335887036,-58.717432264,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,45,2023-02-17 23:00
--34.333417139,-58.736827235,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,76,2023-02-17 23:00
+-34.675882642,-58.374368350,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,273,2023-02-17 23:41
+-34.681371093,-58.375298756,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,465,2023-02-17 23:41
+-34.650287447,-58.356925695,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,270,2023-02-17 23:41
+-34.657790672,-58.359978340,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,180,2023-02-17 23:41
+-34.662388371,-58.368233351,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,880,2023-02-17 23:41
+-34.657163156,-58.364440388,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,44,2023-02-17 23:41
+-34.658927527,-58.368691626,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,348,2023-02-17 23:41
+-34.662051422,-58.369359577,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,191,2023-02-17 23:41
+-34.654455785,-58.358484082,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,293,2023-02-17 23:41
+-34.667003546,-58.357479802,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,1,2023-02-17 23:41
+-34.652465112,-58.363208569,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,14,2023-02-17 23:41
+-34.681053114,-58.378135959,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,477,2023-02-17 23:41
+-34.664147306,-58.356357868,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,64,2023-02-17 23:41
+-34.664168379,-58.356393590,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,7,2023-02-17 23:41
+-34.661929097,-58.370773718,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,234,2023-02-17 23:41
+-34.656526215,-58.362076548,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,187,2023-02-17 23:41
+-34.658711990,-58.364340200,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,628,2023-02-17 23:41
+-34.677678754,-58.371156445,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,532,2023-02-17 23:41
+-34.667173890,-58.359397461,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,253,2023-02-17 23:41
+-34.664846207,-58.357508533,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,465,2023-02-17 23:41
+-34.653790422,-58.364897695,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,237,2023-02-17 23:41
+-34.666087251,-58.360183155,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,497,2023-02-17 23:41
+-34.678037566,-58.369509055,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,5,2023-02-17 23:41
+-34.666187467,-58.358661243,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,148,2023-02-17 23:41
+-34.659179519,-58.367786048,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,5,2023-02-17 23:41
+-34.674908213,-58.370364066,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,130,2023-02-17 23:41
+-34.674621674,-58.364014170,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,1,2023-02-17 23:41
+-34.652623062,-58.363126297,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,5,2023-02-17 23:41
+-34.651872719,-58.359927395,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,5,2023-02-17 23:41
+-34.653621954,-58.358881483,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,1,2023-02-17 23:41
+-34.653559713,-58.357036813,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,76,2023-02-17 23:41
+-34.659685590,-58.376437216,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,2,2023-02-17 23:41
+-34.649446211,-58.362563327,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,7,2023-02-17 23:41
+-34.664908799,-58.359316835,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,1,2023-02-17 23:41
+-34.657253641,-58.358033344,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,423,2023-02-17 23:41
+-34.645260469,-58.351363248,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,62,2023-02-17 23:41
+-34.665733568,-58.367529259,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,2,2023-02-17 23:41
+-34.644877682,-58.356100983,11,media,Edesur,Avellaneda,Dock Sud,S/D,R:,1,2023-02-17 23:41
+-34.661970214,-58.369157610,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,6,2023-02-17 23:41
+-34.685626653,-58.377073907,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,1056,2023-02-17 23:42
+-34.670537372,-58.369825680,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,108,2023-02-17 23:42
+-34.687222221,-58.372658392,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,596,2023-02-17 23:42
+-34.673717823,-58.363877518,11,media,Edesur,Avellaneda,Sarandi,S/D,R:,1023,2023-02-17 23:42
+-34.667612762,-58.372881980,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,731,2023-02-17 23:42
+-34.662940636,-58.364998376,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,372,2023-02-17 23:42
+-34.660729605,-58.363776264,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,517,2023-02-17 23:42
+-34.671053818,-58.374343193,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,2,2023-02-17 23:42
+-34.683674134,-58.373896202,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,729,2023-02-17 23:42
+-34.660464977,-58.366350205,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,173,2023-02-17 23:42
+-34.656450074,-58.371625163,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,49,2023-02-17 23:42
+-34.657896336,-58.367551332,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,11,2023-02-17 23:42
+-34.682544658,-58.372524741,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,274,2023-02-17 23:42
+-34.661287956,-58.366004099,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,300,2023-02-17 23:42
+-34.665550094,-58.361929781,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,364,2023-02-17 23:42
+-34.666439494,-58.368968363,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,200,2023-02-17 23:42
+-34.662720781,-58.361284486,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,887,2023-02-17 23:42
+-34.662737333,-58.361307743,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,71,2023-02-17 23:42
+-34.661428167,-58.367225803,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,379,2023-02-17 23:42
+-34.664530222,-58.365488082,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,490,2023-02-17 23:42
+-34.663939791,-58.366414727,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,461,2023-02-17 23:42
+-34.662282626,-58.363216740,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,511,2023-02-17 23:42
+-34.660308220,-58.367301536,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,304,2023-02-17 23:42
+-34.671083578,-58.377825806,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,302,2023-02-17 23:42
+-34.664694766,-58.362356555,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,911,2023-02-17 23:42
+-34.659633465,-58.369826080,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,439,2023-02-17 23:42
+-34.666464458,-58.369022881,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,340,2023-02-17 23:42
+-34.663637135,-58.364255491,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,164,2023-02-17 23:42
+-34.663656988,-58.364288843,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,47,2023-02-17 23:42
+-34.663840024,-58.372134335,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,358,2023-02-17 23:42
+-34.660245052,-58.371325715,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,144,2023-02-17 23:42
+-34.669468711,-58.365259273,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,7,2023-02-17 23:42
+-34.658685034,-58.362699750,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,263,2023-02-17 23:42
+-34.659152988,-58.365535750,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,93,2023-02-17 23:42
+-34.655240302,-58.368448813,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,44,2023-02-17 23:42
+-34.667838898,-58.365363652,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,38,2023-02-17 23:42
+-34.666118299,-58.361860216,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,147,2023-02-17 23:42
+-34.665801097,-58.362936251,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,131,2023-02-17 23:42
+-34.665639600,-58.363702010,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,105,2023-02-17 23:42
+-34.661489993,-58.361014278,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,97,2023-02-17 23:42
+-34.686482069,-58.370553768,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,310,2023-02-17 23:42
+-34.687943265,-58.375743697,11,media,Edesur,Avellaneda,Gerli A,S/D,R:,237,2023-02-17 23:42
+-34.667133000,-58.361779220,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,1,2023-02-17 23:42
+-34.663728609,-58.366462572,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,1,2023-02-17 23:42
+-34.667090344,-58.362645422,11,media,Edesur,Avellaneda,Avellaneda,S/D,R:,30,2023-02-17 23:42
+-34.701176645,-58.380018336,11,media,Edesur,Lanus,Lanus Este,S/D,R:,433,2023-02-17 23:42
+-34.698020680,-58.378503878,11,media,Edesur,Lanus,Gerli L,S/D,R:,789,2023-02-17 23:42
+-34.702113495,-58.383755563,11,media,Edesur,Lanus,Lanus Este,S/D,R:,1,2023-02-17 23:42
+-34.702553606,-58.383911298,11,media,Edesur,Lanus,Lanus Este,S/D,R:,276,2023-02-17 23:42
+-34.702641174,-58.381984985,11,media,Edesur,Lanus,Lanus Este,S/D,R:,1,2023-02-17 23:42
+-34.667988850,-58.742804398,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5552,1,2023-02-17 21:00
+-34.667988850,-58.742804398,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5552,1,Sin Datos
+-34.603805238,-58.883338572,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,197,2023-02-17 21:00
+-34.607089822,-58.876311797,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,118,2023-02-17 21:00
+-34.604055364,-58.877012280,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,146,2023-02-17 21:00
 -34.456,-58.6069,22,baja,Edenor,Tigre,Troncos Del Talar,,,1,
--34.6709,-58.603,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,26,
+-34.6709,-58.603,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,29,
 -34.6058,-58.7763,22,baja,Edenor,Moreno,Moreno,,,15,
 -34.7623,-58.5917,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,26,
 -34.6442,-58.6388,22,baja,Edenor,Moron,Castelar,,,15,
@@ -63,27 +102,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6835,-58.5592,22,baja,Edenor,La Matanza,San Justo,,,4,
 -34.5602,-58.7428,22,baja,Edenor,San Miguel,San Miguel,,,14,
 -34.7606,-58.6212,22,baja,Edenor,La Matanza,Gonzalez Catan,,,14,
--34.7924,-58.6387,22,baja,Edenor,La Matanza,Gonzalez Catan,,,28,
--34.6025,-58.6895,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,15,
+-34.7606,-58.5823,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
 -34.6995,-58.6206,22,baja,Edenor,La Matanza,Rafael Castillo,,,5,
 -34.7017,-58.5629,22,baja,Edenor,La Matanza,San Justo,,,29,
 -34.604,-58.6257,22,baja,Edenor,Hurlingham,Hurlingham,,,16,
 -34.3263,-58.645,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,17,
+-34.321,-58.6062,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,20,
 -34.3993,-58.6518,22,baja,Edenor,Tigre,Benavidez,,,10,
+-34.7119,-58.5737,22,baja,Edenor,La Matanza,Isidro Casanova,,,4,
 -34.593,-58.4435,21,baja,Edesur,Capital,Capital,,,13,
--34.6112,-58.4033,21,baja,Edesur,Capital,Balvanera,,,18,
--34.6054,-58.4414,21,baja,Edesur,Capital,Villa Crespo,,,6,
--34.6443,-58.4274,21,baja,Edesur,Capital,Nueva Pompeya,,,7,
 -34.622,-58.3791,21,baja,Edesur,Capital,Constitucion,,,15,
 -34.637,-58.3919,21,baja,Edesur,Capital,Parque Patricios,,,5,
--34.6233,-58.4243,21,baja,Edesur,Capital,Boedo,,,8,
+-34.6233,-58.4243,21,baja,Edesur,Capital,Boedo,,,9,
 -34.6529,-58.4258,21,baja,Edesur,Capital,Nueva Pompeya,,,6,
 -34.7932,-58.1794,21,baja,Edesur,Berazategui,Platanos,,,9,
 -34.6376,-58.4479,21,baja,Edesur,Capital,Parque Chacabuco,,,5,
--34.6891,-58.3781,21,baja,Edesur,Lanus,Gerli,,,48,
--34.7411,-58.3789,21,baja,Edesur,Lomas De Zamora,Bandfield,,,8,
+-34.6215,-58.4108,21,baja,Edesur,Capital,San Cristobal,,,3,
+-34.6891,-58.3781,21,baja,Edesur,Lanus,Gerli,,,49,
+-34.6098,-58.4162,21,baja,Edesur,Capital,Almagro,,,12,
+-34.6656,-58.4,21,baja,Edesur,Avellaneda,Piñeyro,,,9,
 -34.6003,-58.4855,21,baja,Edesur,Capital,Capital,,,16,
 -34.5974,-58.5158,21,baja,Edesur,Capital,Villa Devoto,,,2,
--34.7438,-58.2217,21,baja,Edesur,Quilmes,Ezpeleta,,,12,
+-34.7438,-58.2217,21,baja,Edesur,Quilmes,Ezpeleta,,,13,
 -34.7396,-58.355,21,baja,Edesur,Lanus,Monte Chingolo,,,5,
+-34.6379,-58.5077,21,baja,Edesur,Capital,Villa Luro,,,13,
 -34.9052,-58.3958,21,baja,Edesur,Almirante Brown,Glew,,,1,
+-34.6731,-58.3895,21,baja,Edesur,Avellaneda,Avellaneda,,,19,
+-34.695,-58.4224,21,baja,Edesur,Lanus,Lanus,,,8,
+-34.668,-58.3915,21,baja,Edesur,Avellaneda,Avellaneda,,,7,
+-34.6992,-58.4274,21,baja,Edesur,Lanus,Lanus,,,13,
+-34.6728,-58.4063,21,baja,Edesur,Lanus,Valentin Alsina,,,19,
+-34.6697,-58.3542,21,baja,Edesur,Avellaneda,Avellaneda,,,2,
