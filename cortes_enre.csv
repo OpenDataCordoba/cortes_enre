@@ -24,22 +24,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.871557485,-58.512218077,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-3-33/083-3-33,78,2023-02-17 07:48
 -34.871927962,-58.512978057,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-3-33/083-3-33,50,2023-02-17 07:48
 -34.872077565,-58.514111737,11,media,Edesur,Ezeiza,Canning Ez,Echeverria,R:083-3-33/083-3-33,9,2023-02-17 07:48
--34.700010616,-58.358588937,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,24,2023-02-17 06:32
--34.701597720,-58.358238289,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,7,2023-02-17 06:32
--34.702314559,-58.358117071,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,4,2023-02-17 06:32
--34.702646161,-58.358010892,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,4,2023-02-17 06:32
--34.702631760,-58.357736429,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,26,2023-02-17 06:32
--34.700383849,-58.358128826,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,1,2023-02-17 06:32
--34.700899538,-58.357451401,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,10,2023-02-17 06:32
--34.701219564,-58.357030998,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,41,2023-02-17 06:32
--34.700757705,-58.358450029,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,6,2023-02-17 06:32
--34.701053321,-58.357232169,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,20,2023-02-17 06:32
--34.871346931,-58.543996355,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,115,2023-02-17 09:16
--34.876204455,-58.546937960,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,123,2023-02-17 09:16
--34.867632706,-58.540818570,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,4,2023-02-17 09:16
--34.867167912,-58.540227411,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,3,2023-02-17 09:16
--34.878399686,-58.552744752,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,2,2023-02-17 09:16
--34.863925898,-58.536110005,11,media,Edesur,Ezeiza,Barrio La Union,Echeverria,R:083-2-25/083-2-25,13,2023-02-17 09:16
+-34.700010616,-58.358588937,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,24,Sin Datos
+-34.701597720,-58.358238289,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,7,Sin Datos
+-34.702314559,-58.358117071,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,4,Sin Datos
+-34.702646161,-58.358010892,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,4,Sin Datos
+-34.702631760,-58.357736429,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,26,Sin Datos
+-34.700383849,-58.358128826,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,1,Sin Datos
+-34.700899538,-58.357451401,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,10,Sin Datos
+-34.701219564,-58.357030998,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,41,Sin Datos
+-34.700757705,-58.358450029,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,6,Sin Datos
+-34.701053321,-58.357232169,11,media,Edesur,Avellaneda,Sarandi,Corina,R:075-1-17/075-1-17,20,Sin Datos
 -34.162171201,-58.525932076,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2023-02-17 08:00
 -34.166970866,-58.523329165,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2023-02-17 08:00
 -34.218782637,-58.451473109,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2023-02-17 08:00
@@ -411,5 +405,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7076,-58.2847,21,baja,Edesur,Quilmes,Don Bosco,,,8,
 -34.6891,-58.3781,21,baja,Edesur,Lanus,Gerli,,,10,
 -34.6951,-58.3843,21,baja,Edesur,Lanus,Gerli,,,12,
+-34.6255,-58.5224,21,baja,Edesur,Capital,Versalles,,,18,
 -34.6892,-58.377,21,baja,Edesur,Avellaneda,Gerli,,,3,
 -34.6098,-58.4278,21,baja,Edesur,Capital,Almagro,,,6,
