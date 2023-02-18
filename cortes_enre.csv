@@ -1,14 +1,14 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.456740591,-58.923815783,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr1/158-5517,254,2023-02-18 05:00
--34.454485187,-58.925008795,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr1/158-5517,41,2023-02-18 05:00
--34.455332303,-58.924142732,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr1/158-5517,130,2023-02-18 05:00
--34.413688244,-58.960060399,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr1/158-5526,1,Sin Datos
+-34.696986508,-58.600508899,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Casanova/63-Tr2/63-5523,609,Sin Datos
+-34.456740591,-58.923815783,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr1/158-5517,254,2023-02-18 06:00
+-34.454485187,-58.925008795,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr1/158-5517,41,2023-02-18 06:00
+-34.455332303,-58.924142732,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr1/158-5517,130,2023-02-18 06:00
+-34.413688244,-58.960060399,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr1/158-5526,1,2023-02-18 06:00
 -34.6672,-58.7297,22,baja,Edenor,Merlo,Merlo,,,33,
 -34.6835,-58.5592,22,baja,Edenor,La Matanza,San Justo,,,4,
 -34.7606,-58.5823,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
 -34.6995,-58.6206,22,baja,Edenor,La Matanza,Rafael Castillo,,,5,
 -34.604,-58.6257,22,baja,Edenor,Hurlingham,Hurlingham,,,16,
--34.697,-58.6005,22,baja,Edenor,La Matanza,Isidro Casanova,,,68,
 -34.321,-58.6062,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,20,
 -34.7119,-58.5737,22,baja,Edenor,La Matanza,Isidro Casanova,,,19,
 -34.6539,-58.8361,22,baja,Edenor,Moreno,La Reja,,,5,
@@ -30,3 +30,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5973,-58.5159,21,baja,Edesur,Capital,Villa Devoto,,,3,
 -34.8448,-58.3738,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,4,
 -34.6256,-58.5223,21,baja,Edesur,Capital,Capital,,,10,
+-34.6261,-58.497,21,baja,Edesur,Capital,Capital,,,1,
