@@ -1,42 +1,97 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.667988850,-58.742804398,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5552,1,2023-02-17 21:00
--34.667988850,-58.742804398,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr1/62-5552,1,Sin Datos
--34.603805238,-58.883338572,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,197,Sin Datos
--34.607089822,-58.876311797,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,118,Sin Datos
--34.604055364,-58.877012280,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,146,Sin Datos
+-34.728930977,-58.319514952,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,9,2023-02-18 01:39
+-34.726536785,-58.316640423,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,15,2023-02-18 01:39
+-34.726885879,-58.317054094,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,9,2023-02-18 01:39
+-34.725893434,-58.317097853,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,15,2023-02-18 01:39
+-34.725892020,-58.318064769,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,31,2023-02-18 01:39
+-34.725494683,-58.317557183,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,23,2023-02-18 01:39
+-34.724974979,-58.318227219,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,25,2023-02-18 01:39
+-34.724579936,-58.317637422,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,23,2023-02-18 01:39
+-34.724726785,-58.318530593,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,13,2023-02-18 01:39
+-34.723761485,-58.318566126,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,21,2023-02-18 01:39
+-34.724222029,-58.319114622,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,29,2023-02-18 01:39
+-34.724634005,-58.319630766,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,39,2023-02-18 01:39
+-34.725120068,-58.319214348,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,17,2023-02-18 01:39
+-34.725415484,-58.318855190,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,14,2023-02-18 01:39
+-34.727235108,-58.318903624,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,2,2023-02-18 01:39
+-34.726879988,-58.319335534,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,14,2023-02-18 01:39
+-34.726554266,-58.319731175,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,10,2023-02-18 01:39
+-34.726038324,-58.319373837,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,27,2023-02-18 01:39
+-34.728622914,-58.320069655,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,16,2023-02-18 01:39
+-34.728521203,-58.321119766,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,43,2023-02-18 01:39
+-34.727985039,-58.320507758,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,14,2023-02-18 01:39
+-34.727661359,-58.321276999,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,25,2023-02-18 01:39
+-34.726880336,-58.322299839,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,9,2023-02-18 01:39
+-34.726041532,-58.323410604,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,12,2023-02-18 01:39
+-34.725930821,-58.323553635,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,17,2023-02-18 01:39
+-34.725775189,-58.323754700,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,9,2023-02-18 01:39
+-34.727239972,-58.320682933,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,15,2023-02-18 01:39
+-34.726345022,-58.321831483,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,15,2023-02-18 01:39
+-34.725792785,-58.322568271,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,6,2023-02-18 01:39
+-34.726854620,-58.320521644,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,14,2023-02-18 01:39
+-34.726179578,-58.321078885,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,17,2023-02-18 01:39
+-34.725985964,-58.321616379,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,22,2023-02-18 01:39
+-34.725085043,-58.322799536,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,73,2023-02-18 01:39
+-34.725789061,-58.321762849,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,15,2023-02-18 01:39
+-34.726011377,-58.321083117,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,5,2023-02-18 01:39
+-34.725135186,-58.322234115,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,36,2023-02-18 01:39
+-34.725028653,-58.320919945,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,25,2023-02-18 01:39
+-34.727210911,-58.318284023,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,4,2023-02-18 01:39
+-34.724868152,-58.319520307,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,12,2023-02-18 01:39
+-34.723932358,-58.318769787,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,1,2023-02-18 01:39
+-34.725522275,-58.322902897,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,40,2023-02-18 01:39
+-34.725757843,-58.321416527,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,10,2023-02-18 01:39
+-34.726375458,-58.322979191,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,29,2023-02-18 01:39
+-34.725196148,-58.317201965,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,17,2023-02-18 01:39
+-34.724750380,-58.317848246,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,8,2023-02-18 01:39
+-34.725247243,-58.321143662,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-3-34/184-3-34,11,2023-02-18 01:39
+-34.848933681,-58.751309182,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-02-17 23:00
+-34.837618368,-58.765730087,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,2,2023-02-17 23:00
+-34.838524321,-58.774603900,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,2023-02-17 23:00
+-34.846028057,-58.754821852,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,2023-02-17 23:00
+-34.850384516,-58.752854930,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5517,1,2023-02-17 23:00
+-34.561573543,-58.462674963,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5536,361,2023-02-17 23:00
+-34.561974882,-58.461934173,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5536,643,2023-02-17 23:00
+-34.565017096,-58.461757605,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5536,96,2023-02-17 23:00
+-34.561393437,-58.463794230,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5536,655,2023-02-17 23:00
+-34.451380198,-58.919057215,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5511,118,Sin Datos
+-34.456740591,-58.923815783,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5511,254,Sin Datos
+-34.454485187,-58.925008795,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5511,41,Sin Datos
+-34.454779084,-58.917474046,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5511,258,Sin Datos
+-34.453543415,-58.916421439,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5511,153,Sin Datos
+-34.455332303,-58.924142732,12,media,Edenor,Pilar,Pilar,S/D,R:Manzone/257-Tr1/257-5511,130,Sin Datos
 -34.456,-58.6069,22,baja,Edenor,Tigre,Troncos Del Talar,,,1,
--34.6709,-58.603,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,29,
--34.6058,-58.7763,22,baja,Edenor,Moreno,Moreno,,,15,
 -34.7623,-58.5917,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,26,
--34.6442,-58.6388,22,baja,Edenor,Moron,Castelar,,,15,
 -34.6672,-58.7297,22,baja,Edenor,Merlo,Merlo,,,33,
 -34.6835,-58.5592,22,baja,Edenor,La Matanza,San Justo,,,4,
--34.5602,-58.7428,22,baja,Edenor,San Miguel,San Miguel,,,14,
--34.7606,-58.6212,22,baja,Edenor,La Matanza,Gonzalez Catan,,,14,
 -34.7606,-58.5823,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
 -34.6995,-58.6206,22,baja,Edenor,La Matanza,Rafael Castillo,,,5,
--34.7017,-58.5629,22,baja,Edenor,La Matanza,San Justo,,,29,
 -34.604,-58.6257,22,baja,Edenor,Hurlingham,Hurlingham,,,16,
--34.3263,-58.645,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,17,
+-34.697,-58.6005,22,baja,Edenor,La Matanza,Isidro Casanova,,,58,
 -34.321,-58.6062,22,baja,Edenor,Tigre,Delta 1Ra Seccion (Ti),,,20,
 -34.3993,-58.6518,22,baja,Edenor,Tigre,Benavidez,,,10,
--34.7119,-58.5737,22,baja,Edenor,La Matanza,Isidro Casanova,,,10,
--34.593,-58.4435,21,baja,Edesur,Capital,Capital,,,13,
--34.622,-58.3791,21,baja,Edesur,Capital,Constitucion,,,15,
--34.6233,-58.4243,21,baja,Edesur,Capital,Boedo,,,9,
+-34.7119,-58.5737,22,baja,Edenor,La Matanza,Isidro Casanova,,,17,
+-34.6539,-58.8361,22,baja,Edenor,Moreno,La Reja,,,5,
+-34.4584,-58.8025,22,baja,Edenor,Pilar,Del Viso,,,17,
+-34.4715,-58.8997,22,baja,Edenor,Pilar,Pilar,,,25,
+-34.7615,-58.5831,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,13,
+-34.4581,-59.0201,22,baja,Edenor,Pilar,Manzanares,,,0,
+-34.7017,-58.5629,22,baja,Edenor,La Matanza,San Justo,,,20,
+-34.4522,-58.9147,22,baja,Edenor,Pilar,Pilar,,,0,
+-34.6226,-58.4333,21,baja,Edesur,Capital,Capital,,,8,
 -34.7932,-58.1794,21,baja,Edesur,Berazategui,Platanos,,,9,
 -34.6376,-58.4479,21,baja,Edesur,Capital,Parque Chacabuco,,,5,
 -34.6215,-58.4108,21,baja,Edesur,Capital,San Cristobal,,,5,
 -34.6041,-58.4245,21,baja,Edesur,Capital,Almagro,,,12,
--34.597,-58.3745,21,baja,Edesur,Capital,Retiro,,,6,
--34.6627,-58.4058,21,baja,Edesur,Lanus,Valentin Alsina,,,45,
--34.6098,-58.4162,21,baja,Edesur,Capital,Almagro,,,12,
+-34.6662,-58.5119,21,baja,Edesur,Capital,Mataderos,,,3,
+-34.5969,-58.3745,21,baja,Edesur,Capital,Retiro,,,6,
+-34.6452,-58.4705,21,baja,Edesur,Capital,Parque Avellaneda,,,9,
+-34.6066,-58.5137,21,baja,Edesur,Capital,Capital,,,48,
+-34.6098,-58.4162,21,baja,Edesur,Capital,Almagro,,,13,
 -34.6019,-58.4954,21,baja,Edesur,Capital,Capital,,,5,
--34.6003,-58.4855,21,baja,Edesur,Capital,Capital,,,16,
+-34.6003,-58.4855,21,baja,Edesur,Capital,Capital,,,17,
 -34.5974,-58.5158,21,baja,Edesur,Capital,Villa Devoto,,,2,
--34.6379,-58.5077,21,baja,Edesur,Capital,Villa Luro,,,18,
--34.7409,-58.3786,21,baja,Edesur,Lomas De Zamora,Bandfield,,,4,
--34.6744,-58.4171,21,baja,Edesur,Lanus,Valentin Alsina,,,527,
--34.702,-58.3803,21,baja,Edesur,Lanus,Lanus,,,1,
--34.6804,-58.4187,21,baja,Edesur,Lanus,Valentin Alsina,,,1,
+-34.8448,-58.3738,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,3,
 -34.8275,-58.4646,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,
+-34.8688,-58.2006,21,baja,Edesur,Florencio Varela,Ing. Allan,,,1,
+-35.061,-58.748,21,baja,Edesur,Cañuelas,Cañuelas,,,3,
