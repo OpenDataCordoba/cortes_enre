@@ -1,52 +1,40 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.809706269,-58.419044776,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-14/182-1-14,234,2023-02-19 14:40
--34.809574728,-58.423881980,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-14/182-1-14,440,2023-02-19 14:40
--34.810207323,-58.418663299,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-14/182-1-14,164,2023-02-19 14:40
--34.807571834,-58.417602668,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-14/182-1-14,241,2023-02-19 14:40
--34.714748037,-58.415176599,11,media,Edesur,Lanus,Remedios De Escalada,Gerli,R:186-4-47/186-4-47/186-1-17,785,2023-02-19 15:17
--34.712831669,-58.411533377,11,media,Edesur,Lanus,Remedios De Escalada,Gerli,R:186-4-47/186-4-47/186-1-17,564,2023-02-19 15:17
--34.716441470,-58.411991365,11,media,Edesur,Lanus,Remedios De Escalada,Gerli,R:186-4-47/186-4-47/186-1-17,440,2023-02-19 15:17
--34.718567253,-58.415655513,11,media,Edesur,Lanus,Remedios De Escalada,Gerli,R:186-4-47/186-4-47/186-1-17,354,2023-02-19 15:17
--34.720096748,-58.420251868,11,media,Edesur,Lanus,Remedios De Escalada,Gerli,R:186-4-47/186-4-47/186-1-17,546,2023-02-19 15:17
--34.718827428,-58.409381243,11,media,Edesur,Lanus,Remedios De Escalada,Gerli,R:186-4-47/186-4-47/186-1-17,267,2023-02-19 15:17
--34.719592522,-58.410430322,11,media,Edesur,Lanus,Remedios De Escalada,Gerli,R:186-4-47/186-4-47/186-1-17,1,2023-02-19 15:17
--34.752143452,-58.607667259,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,1,2023-02-19 14:00
--34.754215183,-58.604371943,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,585,2023-02-19 14:00
--34.753314748,-58.610580802,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,137,2023-02-19 14:00
--34.752605032,-58.610417536,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,175,2023-02-19 14:00
--34.754854324,-58.611673394,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,335,2023-02-19 14:00
--34.751733550,-58.603762844,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,243,2023-02-19 14:00
--34.751824315,-58.608854244,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,213,2023-02-19 14:00
--34.752441923,-58.607893173,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,1,2023-02-19 14:00
+-34.752143452,-58.607667259,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,1,2023-02-19 13:00
+-34.754215183,-58.604371943,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,585,2023-02-19 13:00
+-34.753314748,-58.610580802,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,137,2023-02-19 13:00
+-34.752605032,-58.610417536,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,175,2023-02-19 13:00
+-34.754854324,-58.611673394,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,335,2023-02-19 13:00
+-34.751733550,-58.603762844,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,243,2023-02-19 13:00
+-34.751824315,-58.608854244,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,213,2023-02-19 13:00
+-34.752441923,-58.607893173,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Altos/272-Tr2/272-5525,1,2023-02-19 13:00
 -34.656298190,-58.939871533,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,11,2023-02-19 13:00
 -34.657376276,-58.941319269,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2023-02-19 13:00
 -34.661611965,-58.941746967,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,3,2023-02-19 13:00
 -34.659301470,-58.941639303,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr4/263-5481,1,2023-02-19 13:00
--34.488090229,-58.604079559,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5523,1,2023-02-19 14:00
--34.579968018,-58.424478908,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5517,54,2023-02-19 14:00
--34.415767315,-58.767028810,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Benavidez/59-Tr4/59-5548,313,2023-02-19 13:00
--34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,2023-02-19 13:00
--34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,2023-02-19 13:00
--34.336433840,-58.675489405,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,8,2023-02-19 13:00
--34.326331135,-58.672323649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,22,2023-02-19 13:00
--34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,20,2023-02-19 13:00
--34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,27,2023-02-19 13:00
--34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,6,2023-02-19 13:00
--34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,35,2023-02-19 13:00
--34.885203712,-58.954216671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-02-19 14:00
--34.867729564,-58.944540140,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-02-19 14:00
--34.864206302,-58.949164424,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-02-19 14:00
--34.858173065,-58.935097754,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,2023-02-19 14:00
--34.864776019,-58.940878213,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-02-19 14:00
--34.886579315,-58.955628544,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-02-19 14:00
+-34.488090229,-58.604079559,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5523,1,2023-02-19 13:00
+-34.579968018,-58.424478908,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr1/111-5517,54,2023-02-19 13:00
+-34.415767315,-58.767028810,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Benavidez/59-Tr4/59-5548,313,2023-02-19 14:00
+-34.344400013,-58.677867355,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,2023-02-19 14:00
+-34.316078190,-58.669467181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,2,2023-02-19 14:00
+-34.336433840,-58.675489405,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,8,2023-02-19 14:00
+-34.326331135,-58.672323649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,22,2023-02-19 14:00
+-34.310586606,-58.667800973,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,20,2023-02-19 14:00
+-34.301160603,-58.664917606,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,27,2023-02-19 14:00
+-34.285439026,-58.659785653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,6,2023-02-19 14:00
+-34.277284366,-58.657655002,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Maschwitz/154-Tr3/154-5473/951-5522,35,2023-02-19 14:00
+-34.885203712,-58.954216671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-02-19 13:00
+-34.867729564,-58.944540140,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-02-19 13:00
+-34.864206302,-58.949164424,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-02-19 13:00
+-34.858173065,-58.935097754,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,2023-02-19 13:00
+-34.864776019,-58.940878213,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2023-02-19 13:00
+-34.886579315,-58.955628544,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2023-02-19 13:00
 -34.6423,-58.5985,22,baja,Edenor,Moron,Haedo,,,4,
 -34.6041,-58.4245,21,baja,Edesur,Capital,Almagro,,,16,
 -34.597,-58.3745,21,baja,Edesur,Capital,Retiro,,,7,
 -34.5973,-58.5159,21,baja,Edesur,Capital,Villa Devoto,,,3,
--34.6069,-58.463,21,baja,Edesur,Capital,Villa General Mitre,,,56,
--34.6435,-58.4909,21,baja,Edesur,Capital,Parque Avellaneda,,,24,
+-34.6069,-58.463,21,baja,Edesur,Capital,Villa General Mitre,,,57,
+-34.6435,-58.4909,21,baja,Edesur,Capital,Parque Avellaneda,,,25,
 -34.6004,-58.4937,21,baja,Edesur,Capital,Villa Del Parque,,,46,
--34.62,-58.5208,21,baja,Edesur,Capital,Capital,,,9,
+-34.62,-58.5208,21,baja,Edesur,Capital,Capital,,,10,
 -34.6379,-58.3697,21,baja,Edesur,Capital,La Boca,,,15,
--34.6072,-58.501,21,baja,Edesur,Capital,Capital,,,115,
--34.7164,-58.4046,21,baja,Edesur,Lanus,Lanus,,,1,
+-34.6072,-58.501,21,baja,Edesur,Capital,Capital,,,118,
