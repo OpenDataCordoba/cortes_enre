@@ -1,20 +1,47 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.708499587,-58.394389730,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-4-45/186-4-45,18,Sin Datos
--34.814615240,-58.465729955,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-1-16/083-1-16,217,2023-02-21 19:44
 -34.609006350,-58.402630697,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,41,2023-02-21 20:21
 -34.609034468,-58.402628612,11,media,Edesur,Capital Rp,Balvanera Rp,Once,R:113-3-34/113-3-34,439,2023-02-21 20:21
--34.566532127,-58.454108499,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5526,51,2023-02-21 18:00
--34.636876708,-58.875989732,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,178,Sin Datos
--34.635536119,-58.873934426,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:La Reja/163-Tr2/163-5524,123,Sin Datos
+-34.566532127,-58.454108499,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5526,51,2023-02-21 19:00
+-34.597888439,-58.873896250,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,85,Sin Datos
+-34.588631976,-58.870263224,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,2,Sin Datos
+-34.590820201,-58.873580108,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,1,Sin Datos
+-34.602492957,-58.875556451,12,media,Edenor,S/D,S/D,S/D,R:Gaona/263-Tr1/263-5518,30,Sin Datos
+-34.584081515,-58.869677096,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,15,Sin Datos
+-34.586256283,-58.872859182,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,24,Sin Datos
+-34.592022388,-58.868283511,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,24,Sin Datos
+-34.594481895,-58.869177115,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,7,Sin Datos
+-34.586228890,-58.866724021,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,7,Sin Datos
+-34.591683158,-58.865188511,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,25,Sin Datos
+-34.597862738,-58.877158734,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,116,Sin Datos
+-34.595021273,-58.873358392,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5518,73,Sin Datos
+-34.593669548,-58.888129828,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,118,Sin Datos
+-34.604861758,-58.889139946,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,333,Sin Datos
+-34.606808637,-58.886135355,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,82,Sin Datos
+-34.600572625,-58.884862441,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,262,Sin Datos
+-34.603805238,-58.883338572,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,197,Sin Datos
+-34.606516606,-58.881913889,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,202,Sin Datos
+-34.608300195,-58.879372891,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,122,Sin Datos
+-34.607089822,-58.876311797,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,118,Sin Datos
+-34.604055364,-58.877012280,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,146,Sin Datos
+-34.600810454,-58.879420959,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,238,Sin Datos
+-34.601000144,-58.877016067,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,43,Sin Datos
+-34.606752981,-58.889796579,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,1,Sin Datos
+-34.608838300,-58.881070642,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,2,Sin Datos
+-34.596846365,-58.885826522,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,100,Sin Datos
+-34.599258513,-58.883912534,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,80,Sin Datos
+-34.594784316,-58.883844767,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,80,Sin Datos
 -34.4026,-58.8287,22,baja,Edenor,Pilar,Villa Rosa,,,1,
+-34.6359,-58.6365,22,baja,Edenor,Moron,Castelar,,,4,
 -34.6006,-58.8848,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,7,
 -34.6474,-58.715,22,baja,Edenor,Ituzaingo,Ituzaingo,,,22,
 -34.4742,-58.9104,22,baja,Edenor,Pilar,Pilar,,,20,
 -34.7242,-58.614,22,baja,Edenor,La Matanza,Rafael Castillo,,,36,
 -34.5978,-58.8772,22,baja,Edenor,Moreno,Francisco Alvarez,,,5,
+-34.6008,-58.8794,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,
 -34.625,-58.4381,21,baja,Edesur,Capital,Caballito,,,5,
 -34.6345,-58.3967,21,baja,Edesur,Capital,Parque Patricios,,,19,
--34.6442,-58.3739,21,baja,Edesur,Capital,Barracas,,,13,
--34.7084,-58.394,21,baja,Edesur,Lanus,Lanus,,,28,
+-34.6442,-58.3739,21,baja,Edesur,Capital,Barracas,,,14,
+-34.7084,-58.394,21,baja,Edesur,Lanus,Lanus,,,29,
 -34.7253,-58.2974,21,baja,Edesur,Quilmes,Bernal,,,6,
--34.8107,-58.2955,21,baja,Edesur,Florencio Varela,Florencio Varela,,,6,
+-34.8107,-58.2955,21,baja,Edesur,Florencio Varela,Florencio Varela,,,8,
