@@ -4,11 +4,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.763737050,-58.357836274,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,N:184-3-33/184-3-33,261,2023-02-23 18:25
 -34.669550312,-58.363461355,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-1-18/279-1-18,141,2023-02-23 21:44
 -34.674788715,-58.360652179,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,250,2023-02-23 21:44
--34.683854039,-58.358851038,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,427,2023-02-23 21:44
--34.680381003,-58.358105566,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,526,2023-02-23 21:44
 -34.682322982,-58.352682227,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,412,2023-02-23 21:44
 -34.682303997,-58.352657194,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,269,2023-02-23 21:44
--34.681881301,-58.360529417,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,229,2023-02-23 21:44
 -34.676971587,-58.358726780,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,359,2023-02-23 21:44
 -34.678134838,-58.359210930,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,1,2023-02-23 21:44
 -34.676786724,-58.363177379,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,1,2023-02-23 21:44
@@ -19,26 +16,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.824563740,-58.837742773,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,Sin Datos
 -34.571685902,-58.446606035,12,media,Edenor,Capital Federal,Colegiales,S/D,R:J. Newbery/235-Tr3/235-5520,326,2023-02-23 18:00
 -34.419378440,-58.597219627,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,305,2023-02-23 18:00
--34.423450800,-58.593648737,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,214,2023-02-23 18:00
--34.420587341,-58.590004900,12,media,Edenor,Tigre,General Pacheco,S/D,R:Tigre/153-Tr2/153-5524,244,2023-02-23 18:00
 -34.422397409,-58.594685914,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,407,2023-02-23 18:00
 -34.420577112,-58.596444603,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,1,2023-02-23 18:00
 -34.416677442,-58.593188350,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,21,2023-02-23 18:00
--34.422357740,-58.591249706,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,551,2023-02-23 18:00
 -34.417221705,-58.593773688,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,245,2023-02-23 18:00
--34.426269849,-58.585529866,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,126,2023-02-23 18:00
 -34.5808,-58.5373,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,7,
 -34.7028,-58.6017,22,baja,Edenor,La Matanza,Isidro Casanova,,,30,
--34.6559,-58.6425,22,baja,Edenor,Ituzaingo,Ituzaingo,,,8,
+-34.6559,-58.6425,22,baja,Edenor,Ituzaingo,Ituzaingo,,,10,
 -34.6089,-58.9413,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,16,
 -34.5893,-58.5411,22,baja,Edenor,Gral San Martin,Bernardo Monteagudo,,,36,
+-34.6126,-58.9665,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,7,
 -34.5768,-58.4544,22,baja,Edenor,Capital Federal,Colegiales,,,6,
 -34.5627,-58.6126,22,baja,Edenor,3 De Febrero,El Libertador,,,20,
 -34.6127,-58.37,21,baja,Edesur,Capital,Monserrat,,,3,
 -34.6328,-58.3798,21,baja,Edesur,Capital,Barracas,,,16,
 -34.918,-58.3703,21,baja,Edesur,Pte Peron,Guernica,,,22,
--34.7342,-58.4132,21,baja,Edesur,Lomas De Zamora,Bandfield,,,18,
--34.6023,-58.426,21,baja,Edesur,Capital,Almagro,,,6,
+-34.7342,-58.4132,21,baja,Edesur,Lomas De Zamora,Bandfield,,,19,
+-34.6023,-58.426,21,baja,Edesur,Capital,Almagro,,,7,
 -34.7219,-58.3817,21,baja,Edesur,Lanus,Remedios De Escalada,,,5,
 -34.6006,-58.4955,21,baja,Edesur,Capital,Villa Del Parque,,,15,
 -34.7675,-58.2321,21,baja,Edesur,Berazategui,Berazategui,,,150,
@@ -51,5 +45,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6326,-58.3601,21,baja,Edesur,Capital,La Boca,,,6,
 -34.6354,-58.4092,21,baja,Edesur,Capital,Parque Patricios,,,1,
 -34.6366,-58.4009,21,baja,Edesur,Capital,Parque Patricios,,,20,
+-34.8487,-58.4821,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,3,
 -34.7009,-58.2785,21,baja,Edesur,Quilmes,Bernal,,,4,
 -34.7194,-58.3249,21,baja,Edesur,Quilmes,Bernal,,,1,
