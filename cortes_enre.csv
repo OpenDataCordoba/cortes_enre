@@ -1,10 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.763274280,-58.360558427,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-3-33/184-3-33,402,2023-02-23 22:10
--34.763249209,-58.361851488,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-3-33/184-3-33,281,2023-02-23 22:10
--34.763737050,-58.357836274,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,N:184-3-33/184-3-33,261,Sin Datos
 -34.674788715,-58.360652179,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,250,2023-02-23 21:44
--34.682322982,-58.352682227,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,412,2023-02-23 21:44
--34.682303997,-58.352657194,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,269,2023-02-23 21:44
 -34.676971587,-58.358726780,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,359,2023-02-23 21:44
 -34.678134838,-58.359210930,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,1,2023-02-23 21:44
 -34.676786724,-58.363177379,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,1,2023-02-23 21:44
@@ -47,20 +42,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.934136484,-58.659254359,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,1,2023-02-23 21:13
 -34.912743019,-58.647645041,11,media,Edesur,Cañuelas,Zona Rural 9,Spegazzini,R:270-2-23/270-2-23,1,2023-02-23 21:13
 -34.902684060,-58.648312955,11,media,Edesur,Cañuelas,Belgrano,Spegazzini,R:270-2-23/270-2-23,8,2023-02-23 21:13
--34.824563740,-58.837742773,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2023-02-23 20:00
--34.416677442,-58.593188350,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,21,2023-02-23 19:00
--34.417221705,-58.593773688,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,245,2023-02-23 19:00
+-34.416677442,-58.593188350,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,21,2023-02-23 20:00
+-34.417221705,-58.593773688,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,245,2023-02-23 20:00
+-34.437110819,-58.618481222,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,1,2023-02-23 22:00
+-34.438494444,-58.620908673,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,2,2023-02-23 22:00
+-34.431735986,-58.620009837,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,20,2023-02-23 22:00
+-34.433765326,-58.622311131,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,2,2023-02-23 22:00
+-34.427708441,-58.624071167,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,47,2023-02-23 22:00
+-34.422062620,-58.627736202,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,113,2023-02-23 22:00
+-34.424244728,-58.623557730,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,71,2023-02-23 22:00
+-34.420429566,-58.625796628,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr2/156-5528,1,2023-02-23 22:00
+-34.439986825,-58.635321298,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,97,2023-02-23 22:00
+-34.435372300,-58.630834254,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,126,2023-02-23 22:00
+-34.432784147,-58.624586345,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,209,2023-02-23 22:00
+-34.434870135,-58.620504304,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,54,2023-02-23 22:00
+-34.438174146,-58.626488046,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,220,2023-02-23 22:00
+-34.441618579,-58.626085234,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,170,2023-02-23 22:00
+-34.446148464,-58.620961722,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,566,2023-02-23 22:00
+-34.446369144,-58.625942102,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Nordelta/156-Tr2/156-5528,73,2023-02-23 22:00
 -34.5808,-58.5373,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,7,
 -34.7028,-58.6017,22,baja,Edenor,La Matanza,Isidro Casanova,,,30,
 -34.6559,-58.6425,22,baja,Edenor,Ituzaingo,Ituzaingo,,,11,
 -34.5893,-58.5411,22,baja,Edenor,Gral San Martin,Bernardo Monteagudo,,,36,
--34.6126,-58.9665,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,9,
 -34.5768,-58.4544,22,baja,Edenor,Capital Federal,Colegiales,,,6,
 -34.5627,-58.6126,22,baja,Edenor,3 De Febrero,El Libertador,,,20,
+-34.7146,-58.6083,22,baja,Edenor,La Matanza,Rafael Castillo,,,1,
 -34.6127,-58.37,21,baja,Edesur,Capital,Monserrat,,,3,
 -34.7675,-58.2321,21,baja,Edesur,Berazategui,Berazategui,,,152,
 -34.6475,-58.4938,21,baja,Edesur,Capital,Mataderos,,,6,
--34.6349,-58.3966,21,baja,Edesur,Capital,Parque Patricios,,,16,
 -34.6229,-58.4615,21,baja,Edesur,Capital,Capital,,,22,
 -34.5946,-58.5156,21,baja,Edesur,Capital,Villa Devoto,,,11,
 -34.6324,-58.4578,21,baja,Edesur,Capital,Flores,,,15,
@@ -71,3 +80,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8487,-58.4821,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,3,
 -34.7009,-58.2785,21,baja,Edesur,Quilmes,Bernal,,,4,
 -34.7194,-58.3249,21,baja,Edesur,Quilmes,Bernal,,,2,
+-34.6141,-58.4915,21,baja,Edesur,Capital,Capital,,,19,
