@@ -1,11 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.763274280,-58.360558427,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-3-33/184-3-33,402,2023-02-23 22:10
 -34.763249209,-58.361851488,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-3-33/184-3-33,281,2023-02-23 22:10
--34.763737050,-58.357836274,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,N:184-3-33/184-3-33,261,2023-02-23 18:25
--34.996516378,-58.778550416,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-3-71/271-3-71,7,2023-02-23 21:53
--35.024501122,-58.748343883,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-3-71/271-3-71,2,2023-02-23 21:53
--34.960164882,-58.733684709,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,R:271-3-71/271-3-71,31,2023-02-23 21:53
--34.971362995,-58.738941368,11,media,Edesur,Cañuelas,Santa Rosa,Canuelas,R:271-3-71/271-3-71,23,2023-02-23 21:53
+-34.763737050,-58.357836274,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,N:184-3-33/184-3-33,261,Sin Datos
 -34.674788715,-58.360652179,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,250,2023-02-23 21:44
 -34.682322982,-58.352682227,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,412,2023-02-23 21:44
 -34.682303997,-58.352657194,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,269,2023-02-23 21:44
@@ -51,23 +47,21 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.934136484,-58.659254359,11,media,Edesur,Cañuelas,Zona Rural 1,Spegazzini,R:270-2-23/270-2-23,1,2023-02-23 21:13
 -34.912743019,-58.647645041,11,media,Edesur,Cañuelas,Zona Rural 9,Spegazzini,R:270-2-23/270-2-23,1,2023-02-23 21:13
 -34.902684060,-58.648312955,11,media,Edesur,Cañuelas,Belgrano,Spegazzini,R:270-2-23/270-2-23,8,2023-02-23 21:13
--34.824563740,-58.837742773,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2023-02-23 19:00
--34.416677442,-58.593188350,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,21,Sin Datos
--34.417221705,-58.593773688,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,245,Sin Datos
+-34.824563740,-58.837742773,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr4/363-5482,3,2023-02-23 20:00
+-34.416677442,-58.593188350,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,21,2023-02-23 19:00
+-34.417221705,-58.593773688,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr2/153-5524,245,2023-02-23 19:00
 -34.5808,-58.5373,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,7,
 -34.7028,-58.6017,22,baja,Edenor,La Matanza,Isidro Casanova,,,30,
--34.6559,-58.6425,22,baja,Edenor,Ituzaingo,Ituzaingo,,,10,
+-34.6559,-58.6425,22,baja,Edenor,Ituzaingo,Ituzaingo,,,11,
 -34.5893,-58.5411,22,baja,Edenor,Gral San Martin,Bernardo Monteagudo,,,36,
 -34.6126,-58.9665,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,9,
 -34.5768,-58.4544,22,baja,Edenor,Capital Federal,Colegiales,,,6,
 -34.5627,-58.6126,22,baja,Edenor,3 De Febrero,El Libertador,,,20,
--34.7146,-58.6083,22,baja,Edenor,La Matanza,Rafael Castillo,,,1,
 -34.6127,-58.37,21,baja,Edesur,Capital,Monserrat,,,3,
--34.6328,-58.3798,21,baja,Edesur,Capital,Barracas,,,16,
 -34.7675,-58.2321,21,baja,Edesur,Berazategui,Berazategui,,,152,
 -34.6475,-58.4938,21,baja,Edesur,Capital,Mataderos,,,6,
 -34.6349,-58.3966,21,baja,Edesur,Capital,Parque Patricios,,,16,
--34.6229,-58.4615,21,baja,Edesur,Capital,Capital,,,20,
+-34.6229,-58.4615,21,baja,Edesur,Capital,Capital,,,22,
 -34.5946,-58.5156,21,baja,Edesur,Capital,Villa Devoto,,,11,
 -34.6324,-58.4578,21,baja,Edesur,Capital,Flores,,,15,
 -34.6039,-58.3935,21,baja,Edesur,Capital,Balvanera,,,1,
