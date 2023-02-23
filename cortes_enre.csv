@@ -1,6 +1,6 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.763274280,-58.360558427,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-3-33/184-3-33,402,Sin Datos
--34.763249209,-58.361851488,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-3-33/184-3-33,281,Sin Datos
+-34.763274280,-58.360558427,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-3-33/184-3-33,402,2023-02-23 22:10
+-34.763249209,-58.361851488,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,R:184-3-33/184-3-33,281,2023-02-23 22:10
 -34.763737050,-58.357836274,11,media,Edesur,Lomas De Zamora,Temperley,Monte Chingolo,N:184-3-33/184-3-33,261,2023-02-23 18:25
 -34.669550312,-58.363461355,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-1-18/279-1-18,141,Sin Datos
 -34.674788715,-58.360652179,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,250,Sin Datos
@@ -12,20 +12,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.676971587,-58.358726780,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,359,Sin Datos
 -34.678134838,-58.359210930,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,1,Sin Datos
 -34.676786724,-58.363177379,11,media,Edesur,Avellaneda,Sarandi,9 De Julio,R:279-1-18/279-1-18,1,Sin Datos
--34.438444481,-58.845580202,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr1/260-5541,100,2023-02-23 17:00
--34.441729116,-58.845268842,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr1/260-5541,102,2023-02-23 17:00
--34.442474969,-58.842209050,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr1/260-5541,5,2023-02-23 17:00
--34.440381414,-58.844071543,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr1/260-5541,51,2023-02-23 17:00
--34.499923066,-58.651009266,12,media,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,S/D,R:Talar/58-Tr2/58-5528,88,Sin Datos
--34.497630193,-58.653552832,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,267,Sin Datos
--34.502801595,-58.647630480,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,15,Sin Datos
--34.497956081,-58.650993976,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,24,Sin Datos
--34.784949183,-58.886811850,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5512,2,2023-02-23 17:00
+-34.499923066,-58.651009266,12,media,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,S/D,R:Talar/58-Tr2/58-5528,88,2023-02-23 17:00
+-34.497630193,-58.653552832,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,267,2023-02-23 17:00
+-34.502801595,-58.647630480,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,15,2023-02-23 17:00
+-34.497956081,-58.650993976,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Talar/58-Tr2/58-5528,24,2023-02-23 17:00
 -34.571685902,-58.446606035,12,media,Edenor,Capital Federal,Colegiales,S/D,R:J. Newbery/235-Tr3/235-5520,326,2023-02-23 17:00
--34.608146392,-58.960690402,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,24,2023-02-23 20:00
+-34.608146392,-58.960690402,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,24,2023-02-23 18:00
 -34.5808,-58.5373,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,7,
 -34.7028,-58.6017,22,baja,Edenor,La Matanza,Isidro Casanova,,,30,
--34.6559,-58.6425,22,baja,Edenor,Ituzaingo,Ituzaingo,,,5,
+-34.6559,-58.6425,22,baja,Edenor,Ituzaingo,Ituzaingo,,,6,
 -34.5211,-58.4988,22,baja,Edenor,Vicente Lopez,Olivos,,,16,
 -34.5893,-58.5411,22,baja,Edenor,Gral San Martin,Bernardo Monteagudo,,,36,
 -34.6127,-58.37,21,baja,Edesur,Capital,Monserrat,,,3,
@@ -33,22 +28,22 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6328,-58.3798,21,baja,Edesur,Capital,Barracas,,,16,
 -34.918,-58.3703,21,baja,Edesur,Pte Peron,Guernica,,,22,
 -34.7342,-58.4132,21,baja,Edesur,Lomas De Zamora,Bandfield,,,17,
--34.6023,-58.426,21,baja,Edesur,Capital,Almagro,,,5,
+-34.6023,-58.426,21,baja,Edesur,Capital,Almagro,,,6,
 -34.7219,-58.3817,21,baja,Edesur,Lanus,Remedios De Escalada,,,5,
 -34.6006,-58.4955,21,baja,Edesur,Capital,Villa Del Parque,,,14,
 -34.7675,-58.2321,21,baja,Edesur,Berazategui,Berazategui,,,147,
--34.785,-58.2172,21,baja,Edesur,Berazategui,Berazategui,,,7,
 -34.6475,-58.4938,21,baja,Edesur,Capital,Mataderos,,,6,
 -34.6349,-58.3966,21,baja,Edesur,Capital,Parque Patricios,,,16,
--34.6229,-58.4615,21,baja,Edesur,Capital,Capital,,,13,
+-34.6229,-58.4615,21,baja,Edesur,Capital,Capital,,,14,
 -34.7629,-58.4911,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,6,
 -34.5946,-58.5156,21,baja,Edesur,Capital,Villa Devoto,,,11,
 -34.6324,-58.4578,21,baja,Edesur,Capital,Flores,,,12,
--34.7156,-58.352,21,baja,Edesur,Lanus,Monte Chingolo,,,37,
--34.6052,-58.4943,21,baja,Edesur,Capital,Villa Del Parque,,,32,
+-34.7174,-58.3527,21,baja,Edesur,Lanus,Monte Chingolo,,,20,
+-34.6052,-58.4943,21,baja,Edesur,Capital,Villa Del Parque,,,40,
 -34.6039,-58.3935,21,baja,Edesur,Capital,Balvanera,,,1,
 -34.6326,-58.3601,21,baja,Edesur,Capital,La Boca,,,6,
 -34.6354,-58.4092,21,baja,Edesur,Capital,Parque Patricios,,,1,
 -34.6168,-58.4129,21,baja,Edesur,Capital,Balvanera,,,23,
 -34.6376,-58.4013,21,baja,Edesur,Capital,Parque Patricios,,,19,
 -34.7009,-58.2785,21,baja,Edesur,Quilmes,Bernal,,,2,
+-34.645,-58.4128,21,baja,Edesur,Capital,Parque Patricios,,,1,
