@@ -1,18 +1,14 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.480018212,-58.759142197,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,354,2023-02-23 10:00
--34.474417811,-58.764545563,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,171,2023-02-23 10:00
--34.472472986,-58.766078015,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,120,2023-02-23 10:00
--34.480628936,-58.764541734,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,205,2023-02-23 10:00
--34.483225019,-58.762555129,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,149,2023-02-23 10:00
--34.470966179,-58.767253554,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,260,2023-02-23 10:00
--34.487946311,-58.754633692,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr1/252-5548,146,2023-02-23 10:00
--34.488508505,-58.751397365,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,176,2023-02-23 10:00
--34.486161872,-58.754399597,12,media,Edenor,S/D,S/D,S/D,R:Tortuguitas/252-Tr1/252-5548,210,2023-02-23 10:00
--34.491433478,-58.751276549,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr1/252-5548,184,2023-02-23 10:00
--34.493324378,-58.747688401,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr1/252-5548,359,2023-02-23 10:00
--34.478688289,-58.766976780,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,189,2023-02-23 10:00
--34.485249002,-58.760826881,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,282,2023-02-23 10:00
--34.495614632,-58.750504630,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,177,2023-02-23 10:00
+-34.480018212,-58.759142197,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,354,2023-02-23 08:00
+-34.480628936,-58.764541734,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,205,2023-02-23 08:00
+-34.483225019,-58.762555129,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,149,2023-02-23 08:00
+-34.487946311,-58.754633692,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr1/252-5548,146,2023-02-23 08:00
+-34.488508505,-58.751397365,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,176,2023-02-23 08:00
+-34.486161872,-58.754399597,12,media,Edenor,S/D,S/D,S/D,R:Tortuguitas/252-Tr1/252-5548,210,2023-02-23 08:00
+-34.491433478,-58.751276549,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr1/252-5548,184,2023-02-23 08:00
+-34.493324378,-58.747688401,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr1/252-5548,359,2023-02-23 08:00
+-34.485249002,-58.760826881,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,282,2023-02-23 08:00
+-34.495614632,-58.750504630,12,media,Edenor,Malvinas Argentinas,Tortuguitas,S/D,R:Tortuguitas/252-Tr1/252-5548,177,2023-02-23 08:00
 -34.4116,-58.7789,22,baja,Edenor,Pilar,Luis Lagomarsino,,,7,
 -34.563,-58.4737,22,baja,Edenor,Capital Federal,Coghlan,,,8,
 -34.5524,-58.4738,22,baja,Edenor,Capital Federal,Saavedra,,,5,
@@ -28,7 +24,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6452,-58.5204,21,baja,Edesur,Capital,Liniers,,,7,
 -34.7282,-58.4363,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,5,
 -34.7434,-58.2055,21,baja,Edesur,Berazategui,Hudson,,,6,
--34.7675,-58.2321,21,baja,Edesur,Berazategui,Berazategui,,,68,
+-34.7675,-58.2321,21,baja,Edesur,Berazategui,Berazategui,,,73,
 -34.785,-58.2172,21,baja,Edesur,Berazategui,Berazategui,,,5,
+-34.6835,-58.4199,21,baja,Edesur,Lanus,Lanus,,,6,
 -34.6206,-58.4799,21,baja,Edesur,Capital,Villa Sta. Rita,,,15,
--34.6203,-58.4628,21,baja,Edesur,Capital,Flores,,,7,
+-34.6203,-58.4628,21,baja,Edesur,Capital,Flores,,,10,
