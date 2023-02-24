@@ -1,11 +1,11 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.672865596,-58.605767827,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:Luzuriaga/64-Tr2/64-5531,170,2023-02-24 10:00
+-34.672865596,-58.605767827,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:Luzuriaga/64-Tr2/64-5531,170,Sin Datos
 -34.776382609,-58.765475213,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,3,2023-02-24 11:00
 -34.777830494,-58.768876216,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,2,2023-02-24 11:00
 -34.774198292,-58.762963809,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,1,2023-02-24 11:00
 -34.780376172,-58.765516427,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:Marcos Paz/363-Tr1/363-5516,5,2023-02-24 11:00
 -34.734202796,-58.715621879,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5512,344,Sin Datos
--34.594437345,-58.728266500,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr1/265-5517,308,2023-02-24 10:00
+-34.594437345,-58.728266500,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Mu?Iz/265-Tr1/265-5517,308,2023-02-24 11:00
 -34.257580637,-58.607963467,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-24 11:00
 -34.265644751,-58.601200494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-02-24 11:00
 -34.265296834,-58.599131480,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-24 11:00
@@ -32,26 +32,47 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.344760340,-58.654516173,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,8,2023-02-24 11:00
 -34.326418161,-58.655226207,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,15,2023-02-24 11:00
 -34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,2,2023-02-24 11:00
--34.409813742,-58.630092527,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5513,10,2023-02-24 11:00
--34.406764049,-58.626350589,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5513,72,2023-02-24 11:00
--34.393241255,-58.628113998,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5513,2,2023-02-24 11:00
--34.395955774,-58.625465270,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5513,1,2023-02-24 11:00
+-34.675657500,-58.582463643,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:Luzuriaga/64-Tr1/64-5516,477,2023-02-24 11:00
+-34.409813742,-58.630092527,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5513,10,2023-02-24 12:00
+-34.406764049,-58.626350589,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5513,72,2023-02-24 12:00
+-34.393241255,-58.628113998,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5513,2,2023-02-24 12:00
+-34.395955774,-58.625465270,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5513,1,2023-02-24 12:00
+-34.579201987,-58.688248486,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,122,2023-02-24 14:00
+-34.571340195,-58.684203710,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,135,2023-02-24 14:00
+-34.573183732,-58.690353970,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,121,2023-02-24 14:00
+-34.575498054,-58.684611046,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,143,2023-02-24 14:00
+-34.573354849,-58.679086691,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,49,2023-02-24 14:00
+-34.573675826,-58.684036908,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,1,2023-02-24 14:00
+-34.574475039,-58.679852874,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,42,2023-02-24 14:00
+-34.580506486,-58.687574179,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,239,2023-02-24 14:00
+-34.574980416,-58.676824771,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,52,2023-02-24 14:00
+-34.577281507,-58.674180380,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,55,2023-02-24 14:00
+-34.577859836,-58.691241010,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,164,2023-02-24 14:00
+-34.568561137,-58.687337551,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,248,2023-02-24 14:00
+-34.573309551,-58.686361260,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,357,2023-02-24 14:00
+-34.569020186,-58.681838620,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,218,2023-02-24 14:00
+-34.580951126,-58.690289878,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,259,2023-02-24 14:00
+-34.570289685,-58.677500086,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,174,2023-02-24 14:00
+-34.575727485,-58.688971269,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,175,2023-02-24 14:00
+-34.572868178,-58.681310099,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,256,2023-02-24 14:00
+-34.566153090,-58.690579943,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,268,2023-02-24 14:00
+-34.569423559,-58.692372695,12,media,Edenor,San Miguel,Bella Vista,S/D,R:Moron/67-Tr2/67-5517,168,2023-02-24 14:00
 -34.5612,-58.49,22,baja,Edenor,Capital Federal,Saavedra,,,20,
 -34.4473,-58.5638,22,baja,Edenor,San Fernando,San Fernando,,,7,
--34.6757,-58.5824,22,baja,Edenor,La Matanza,Villa Luzuriaga,,,21,
--34.8045,-58.6255,22,baja,Edenor,La Matanza,Gonzalez Catan,,,6,
 -34.8055,-58.63,22,baja,Edenor,La Matanza,Gonzalez Catan,,,1,
--34.6315,-58.458,21,baja,Edesur,Capital,Flores,,,8,
+-34.6626,-58.6491,22,baja,Edenor,Moron,Castelar,,,23,
+-34.6315,-58.458,21,baja,Edesur,Capital,Flores,,,9,
 -34.6039,-58.3935,21,baja,Edesur,Capital,Balvanera,,,1,
 -34.6366,-58.4019,21,baja,Edesur,Capital,Parque Patricios,,,15,
 -34.7311,-58.3441,21,baja,Edesur,Lanus,Monte Chingolo,,,17,
--34.6786,-58.4082,21,baja,Edesur,Lanus,Valentin Alsina,,,21,
--34.7135,-58.3507,21,baja,Edesur,Lanus,Monte Chingolo,,,48,
+-34.6786,-58.4082,21,baja,Edesur,Lanus,Valentin Alsina,,,23,
+-34.7135,-58.3507,21,baja,Edesur,Lanus,Monte Chingolo,,,55,
 -34.8487,-58.4821,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,2,
 -34.7559,-58.307,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,26,
--34.6072,-58.5145,21,baja,Edesur,Capital,Villa Devoto,,,40,
--34.7433,-58.3335,21,baja,Edesur,Quilmes,Bernal,,,2,
--34.8171,-58.3569,21,baja,Edesur,Almirante Brown,Claypole,,,9,
+-34.6072,-58.5145,21,baja,Edesur,Capital,Villa Devoto,,,45,
+-34.8171,-58.3569,21,baja,Edesur,Almirante Brown,Claypole,,,11,
 -34.6011,-58.4408,21,baja,Edesur,Capital,Capital,,,30,
--34.6257,-58.4206,21,baja,Edesur,Capital,Boedo,,,11,
--34.5929,-58.3808,21,baja,Edesur,Capital,Retiro,,,1,
+-34.7033,-58.4216,21,baja,Edesur,Lanus,Lanus,,,31,
+-34.6255,-58.4208,21,baja,Edesur,Capital,Boedo,,,11,
+-34.7121,-58.4274,21,baja,Edesur,Lanus,Remedios De Escalada,,,56,
+-34.5929,-58.3808,21,baja,Edesur,Capital,Retiro,,,11,
