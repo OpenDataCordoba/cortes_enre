@@ -1,9 +1,7 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.593123319,-58.379865081,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-4-45/117-4-45,146,2023-02-25 08:17
--34.561103764,-58.445172087,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,153,Sin Datos
--34.561717257,-58.445423222,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,399,Sin Datos
--34.558802255,-58.443749570,12,media,Edenor,S/D,S/D,S/D,R:Libertador/41-Tr2/41-5524,349,Sin Datos
--34.561841118,-58.445316626,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,172,Sin Datos
+-34.561103764,-58.445172087,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Libertador/41-Tr2/41-5524,153,2023-02-25 04:00
+-34.558802255,-58.443749570,12,media,Edenor,S/D,S/D,S/D,R:Libertador/41-Tr2/41-5524,349,2023-02-25 04:00
 -34.6511,-58.6843,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,8,
 -34.667,-58.7987,22,baja,Edenor,Moreno,Moreno,,,10,
 -34.3523,-58.7367,22,baja,Edenor,Escobar,Escobar,,,53,
@@ -17,8 +15,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7098,-58.7435,22,baja,Edenor,Merlo,Merlo,,,20,
 -34.5614,-58.4445,22,baja,Edenor,Capital Federal,Belgrano,,,4,
 -34.6255,-58.4208,21,baja,Edesur,Capital,Boedo,,,16,
--34.6182,-58.379,21,baja,Edesur,Capital,Constitucion,,,12,
--34.6376,-58.4479,21,baja,Edesur,Capital,Parque Chacabuco,,,9,
 -34.6453,-58.4656,21,baja,Edesur,Capital,Parque Avellaneda,,,15,
 -34.7659,-58.3387,21,baja,Edesur,Almirante Brown,San Jose,,,4,
 -34.61,-58.3966,21,baja,Edesur,Capital,Balvanera,,,31,
