@@ -1,7 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.605878120,-58.380419048,11,media,Edesur,Capital Rp,San Nicolas,Carlos Pellegrini,R:210-2-17/210-2-17,56,2023-02-26 00:48
--34.673054605,-58.405548822,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-53/079-5-53,422,2023-02-25 23:11
--34.672781380,-58.408125958,11,media,Edesur,Lanus,Valentin Alsina,Pineyro,R:079-5-53/079-5-53,1,2023-02-25 23:11
 -34.834855636,-58.385135273,11,media,Edesur,Almirante Brown,Burzaco,Burzaco,R:082-1-01/082-1-01,178,2023-02-25 23:10
 -34.822091434,-58.590276950,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-3-34/083-3-34,64,2023-02-26 00:48
 -34.826148518,-58.587172330,11,media,Edesur,Ezeiza,Tristan Suarez,Echeverria,R:083-3-34/083-3-34,54,2023-02-26 00:48
@@ -139,10 +137,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.430674409,-58.795614190,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Del Viso/251-Tr1/251-5546,43,2023-02-25 20:00
 -34.431889594,-58.794018303,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Del Viso/251-Tr1/251-5546,25,2023-02-25 20:00
 -34.438824113,-58.796033955,12,media,Edenor,Pilar,Manuel Alberti,S/D,R:Del Viso/251-Tr1/251-5546,1,2023-02-25 20:00
--34.553654581,-58.466124614,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,102,Sin Datos
--34.554746281,-58.464360567,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,624,Sin Datos
--34.555784551,-58.464509235,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,429,Sin Datos
--34.553338867,-58.465127628,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,198,Sin Datos
+-34.553654581,-58.466124614,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,102,2023-02-25 20:00
+-34.554746281,-58.464360567,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,624,2023-02-25 20:00
+-34.555784551,-58.464509235,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,429,2023-02-25 20:00
+-34.553338867,-58.465127628,12,media,Edenor,Capital Federal,Nu?Ez,S/D,R:Saavedra/137-Tr1/137-5512,198,2023-02-25 20:00
 -34.324506694,-58.781849347,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5514,1,2023-02-25 21:00
 -34.340136550,-58.760075985,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5514,5,2023-02-25 21:00
 -34.333174214,-58.770177504,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr3/154-5472/253-5514,80,2023-02-25 21:00
@@ -173,15 +171,17 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.3379,-58.8091,22,baja,Edenor,Escobar,Escobar,,,14,
 -34.5666,-58.4752,22,baja,Edenor,Capital Federal,Coghlan,,,1,
 -34.61,-58.3966,21,baja,Edesur,Capital,Balvanera,,,45,
--34.6275,-58.3713,21,baja,Edesur,Capital,Barracas,,,39,
+-34.6275,-58.3713,21,baja,Edesur,Capital,Barracas,,,40,
 -34.6202,-58.3948,21,baja,Edesur,Capital,San Cristobal,,,5,
 -34.6353,-58.3637,21,baja,Edesur,Capital,La Boca,,,19,
 -34.6157,-58.5091,21,baja,Edesur,Capital,Monte Castro,,,50,
 -34.653,-58.5176,21,baja,Edesur,Capital,Mataderos,,,10,
 -34.6466,-58.4393,21,baja,Edesur,Capital,Flores,,,6,
--34.6269,-58.462,21,baja,Edesur,Capital,Flores,,,39,
+-34.6269,-58.462,21,baja,Edesur,Capital,Flores,,,43,
 -34.654,-58.3765,21,baja,Edesur,Capital,Barracas,,,12,
--34.5976,-58.4422,21,baja,Edesur,Capital,Villa Crespo,,,10,
+-34.5976,-58.4422,21,baja,Edesur,Capital,Villa Crespo,,,11,
 -34.7191,-58.3601,21,baja,Edesur,Lanus,Lanus,,,2,
 -34.7295,-58.3989,21,baja,Edesur,Lanus,Remedios De Escalada,,,2,
--34.6236,-58.4633,21,baja,Edesur,Capital,Flores,,,5,
+-34.6236,-58.4633,21,baja,Edesur,Capital,Flores,,,6,
+-34.646,-58.4653,21,baja,Edesur,Capital,Capital,,,2,
+-34.7399,-58.3773,21,baja,Edesur,Lanus,Monte Chingolo,,,2,
