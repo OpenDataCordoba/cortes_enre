@@ -1,15 +1,13 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.593123319,-58.379865081,11,media,Edesur,Capital Rp,Retiro,Parana,R:117-4-45/117-4-45,146,2023-02-25 13:23
+-34.630346115,-58.450953010,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-1-18/218-1-18,56,2023-02-25 11:18
 -34.544486341,-58.527864261,12,media,Edenor,Vicente Lopez,Florida (Oeste),S/D,R:Munro/55-Tr1/55-5543,1,2023-02-25 09:00
--34.729066198,-58.534558243,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5551,524,2023-02-25 12:00
--34.724205718,-58.534444529,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5551,206,2023-02-25 12:00
--34.738483414,-58.562442991,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Matanza/65-Tr1/65-5551,1,2023-02-25 12:00
--34.737431408,-58.563595886,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Matanza/65-Tr1/65-5551,1,2023-02-25 12:00
--34.727604385,-58.532031672,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5551,180,2023-02-25 12:00
--34.730445317,-58.542283219,12,media,Edenor,La Matanza,Ciudad Evita,S/D,R:Matanza/65-Tr1/65-5551,1,2023-02-25 12:00
--34.578777210,-58.614439097,12,media,Edenor,3 De Febrero,Pablo Podesta,S/D,R:Hurlingham/166-Tr3/166-5538,324,2023-02-25 12:00
--34.580103433,-58.613058125,12,media,Edenor,3 De Febrero,Pablo Podesta,S/D,R:Hurlingham/166-Tr3/166-5538,1,2023-02-25 12:00
--34.579104251,-58.613805553,12,media,Edenor,3 De Febrero,Pablo Podesta,S/D,R:Hurlingham/166-Tr3/166-5538,1,2023-02-25 12:00
+-34.591834299,-58.656808968,12,media,Edenor,Hurlingham,Hurlingham,S/D,R:Moron/67-Tr4/67-5532,90,2023-02-25 09:15
+-34.706810468,-58.670652445,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5517,269,2023-02-25 09:00
+-34.738483414,-58.562442991,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Matanza/65-Tr1/65-5551,1,2023-02-25 10:00
+-34.737431408,-58.563595886,12,media,Edenor,La Matanza,Isidro Casanova,S/D,R:Matanza/65-Tr1/65-5551,1,2023-02-25 10:00
+-34.580103433,-58.613058125,12,media,Edenor,3 De Febrero,Pablo Podesta,S/D,R:Hurlingham/166-Tr3/166-5538,1,2023-02-25 09:00
+-34.579104251,-58.613805553,12,media,Edenor,3 De Febrero,Pablo Podesta,S/D,R:Hurlingham/166-Tr3/166-5538,1,2023-02-25 09:00
 -34.6511,-58.6843,22,baja,Edenor,Ituzaingo,Villa Udaondo,,,8,
 -34.667,-58.7987,22,baja,Edenor,Moreno,Moreno,,,10,
 -34.3523,-58.7367,22,baja,Edenor,Escobar,Escobar,,,53,
@@ -18,14 +16,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5706,-58.4533,22,baja,Edenor,Capital Federal,Colegiales,,,19,
 -34.4879,-58.7815,22,baja,Edenor,Jose C Paz,Jose C Paz,,,14,
 -34.582,-58.4656,22,baja,Edenor,Capital Federal,Villa Ortuzar,,,14,
--34.6255,-58.4208,21,baja,Edesur,Capital,Boedo,,,16,
+-34.6255,-58.4208,21,baja,Edesur,Capital,Boedo,,,15,
 -34.7659,-58.3387,21,baja,Edesur,Almirante Brown,San Jose,,,4,
--34.61,-58.3966,21,baja,Edesur,Capital,Balvanera,,,33,
+-34.61,-58.3966,21,baja,Edesur,Capital,Balvanera,,,35,
 -34.6268,-58.4441,21,baja,Edesur,Capital,Caballito,,,22,
--34.6043,-58.4436,21,baja,Edesur,Capital,Villa Crespo,,,35,
--34.6353,-58.3637,21,baja,Edesur,Capital,La Boca,,,11,
+-34.6043,-58.4436,21,baja,Edesur,Capital,Villa Crespo,,,36,
+-34.6353,-58.3637,21,baja,Edesur,Capital,La Boca,,,13,
 -34.6568,-58.4715,21,baja,Edesur,Capital,Parque Avellaneda,,,18,
--34.6113,-58.4108,21,baja,Edesur,Capital,Balvanera,,,6,
+-34.6113,-58.4108,21,baja,Edesur,Capital,Balvanera,,,7,
 -34.5976,-58.4422,21,baja,Edesur,Capital,Capital,,,14,
 -34.6111,-58.4181,21,baja,Edesur,Capital,Almagro,,,15,
--34.6157,-58.5091,21,baja,Edesur,Capital,Monte Castro,,,21,
+-34.6157,-58.5091,21,baja,Edesur,Capital,Monte Castro,,,23,
