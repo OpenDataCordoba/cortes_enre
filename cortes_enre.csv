@@ -1,53 +1,33 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.605878120,-58.380419048,11,media,Edesur,Capital Rp,San Nicolas,Carlos Pellegrini,R:210-2-17/210-2-17,56,2023-02-26 02:25
 -34.834855636,-58.385135273,11,media,Edesur,Almirante Brown,Burzaco,Burzaco,R:082-1-01/082-1-01,178,2023-02-26 02:25
--35.074368533,-58.401656375,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
--35.061804648,-58.399570581,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,2,2023-02-26 02:20
--35.065973134,-58.404545235,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,5,2023-02-26 02:20
--35.102060715,-58.403793653,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
--35.061269543,-58.411750731,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,18,2023-02-26 02:20
--35.068598920,-58.400932556,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,3,2023-02-26 02:20
--35.118736654,-58.396760240,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
--35.067875520,-58.405189723,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,2,2023-02-26 02:20
--35.079600440,-58.406981666,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
--35.065589902,-58.397387025,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,2,2023-02-26 02:20
--35.061019476,-58.415234306,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,2,2023-02-26 02:20
--35.123316739,-58.377413429,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,11,2023-02-26 02:20
--35.071233856,-58.406068686,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
--35.065023203,-58.407055324,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
--35.103301096,-58.403478746,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
--35.145177988,-58.401237843,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,2,2023-02-26 02:20
--35.065445285,-58.412910915,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
--35.063308686,-58.414053709,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,3,2023-02-26 02:20
--35.058679745,-58.396050038,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
--35.059093629,-58.407059981,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,2,2023-02-26 02:20
--35.061398545,-58.408381425,11,media,Edesur,San Vicente,San Vicente,Canuelas,R:271-3-72/271-3-72,1,2023-02-26 02:20
 -34.804132895,-58.234330244,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-01/080-1-01,218,2023-02-26 01:21
 -34.806049057,-58.232805292,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-01/080-1-01,127,2023-02-26 01:21
 -34.804746891,-58.231236341,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-01/080-1-01,99,2023-02-26 01:21
--34.482226022,-58.697471498,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr1/252-5547,139,2023-02-26 02:00
--34.336099825,-58.812054493,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,30,2023-02-26 02:00
--34.337922212,-58.809099393,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,151,2023-02-26 02:00
--34.329965705,-58.816781297,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,5,2023-02-26 02:00
--34.330860477,-58.816019721,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,21,2023-02-26 02:00
+-34.482226022,-58.697471498,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr1/252-5547,139,Sin Datos
+-34.606516606,-58.881913889,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,203,2023-02-26 02:00
+-34.608300195,-58.879372891,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,122,2023-02-26 02:00
+-34.608838300,-58.881070642,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,2,2023-02-26 02:00
+-34.336099825,-58.812054493,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,30,Sin Datos
+-34.337922212,-58.809099393,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,151,Sin Datos
+-34.329965705,-58.816781297,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,5,Sin Datos
+-34.330860477,-58.816019721,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,21,Sin Datos
 -34.412518962,-58.655349444,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr2/156-5527,198,2023-02-26 02:00
 -34.6147,-58.7554,22,baja,Edenor,Moreno,Trujui,,,1,
--34.6083,-58.8794,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,13,
 -34.534,-58.577,22,baja,Edenor,Gral San Martin,Jose Leon Suarez,,,9,
 -34.4343,-58.6936,22,baja,Edenor,Tigre,Benavidez,,,6,
 -34.4432,-58.8095,22,baja,Edenor,Pilar,Del Viso,,,7,
--34.5528,-58.452,22,baja,Edenor,Capital Federal,Belgrano,,,36,
 -34.5498,-58.4836,22,baja,Edenor,Capital Federal,Saavedra,,,10,
 -34.6275,-58.3713,21,baja,Edesur,Capital,Barracas,,,45,
 -34.6202,-58.3948,21,baja,Edesur,Capital,San Cristobal,,,6,
 -34.6157,-58.5091,21,baja,Edesur,Capital,Monte Castro,,,53,
--34.6466,-58.4393,21,baja,Edesur,Capital,Flores,,,10,
--34.6539,-58.3766,21,baja,Edesur,Capital,Barracas,,,5,
--34.5977,-58.4416,21,baja,Edesur,Capital,Capital,,,18,
+-34.654,-58.3765,21,baja,Edesur,Capital,Barracas,,,5,
+-34.5976,-58.4422,21,baja,Edesur,Capital,Villa Crespo,,,19,
 -34.6236,-58.4633,21,baja,Edesur,Capital,Flores,,,6,
 -34.646,-58.4653,21,baja,Edesur,Capital,Capital,,,2,
 -34.6332,-58.3637,21,baja,Edesur,Capital,La Boca,,,4,
--34.7272,-58.3684,21,baja,Edesur,Lanus,Monte Chingolo,,,9,
+-34.6183,-58.5037,21,baja,Edesur,Capital,Capital,,,7,
 -34.7144,-58.4086,21,baja,Edesur,Lanus,Lanus,,,17,
+-34.6262,-58.4373,21,baja,Edesur,Capital,Caballito,,,26,
 -34.7387,-58.3786,21,baja,Edesur,Lanus,Monte Chingolo,,,4,
--34.8101,-58.4792,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,
+-34.8101,-58.4792,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,
