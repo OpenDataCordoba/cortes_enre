@@ -26,10 +26,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.806049057,-58.232805292,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-01/080-1-01,127,2023-02-26 01:21
 -34.804746891,-58.231236341,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-01/080-1-01,99,2023-02-26 01:21
 -34.482226022,-58.697471498,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr1/252-5547,139,2023-02-26 02:00
--34.336099825,-58.812054493,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,30,2023-02-26 01:00
--34.337922212,-58.809099393,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,151,2023-02-26 01:00
--34.329965705,-58.816781297,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,5,2023-02-26 01:00
--34.330860477,-58.816019721,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,21,2023-02-26 01:00
+-34.336099825,-58.812054493,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,30,2023-02-26 02:00
+-34.337922212,-58.809099393,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,151,2023-02-26 02:00
+-34.329965705,-58.816781297,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,5,2023-02-26 02:00
+-34.330860477,-58.816019721,12,media,Edenor,Escobar,Escobar,S/D,R:Matheu/51-Tr4/51-5483/4-5534,21,2023-02-26 02:00
+-34.412518962,-58.655349444,12,media,Edenor,Tigre,Nordelta,S/D,R:Nordelta/156-Tr2/156-5527,198,2023-02-26 02:00
 -34.6147,-58.7554,22,baja,Edenor,Moreno,Trujui,,,1,
 -34.6083,-58.8794,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,13,
 -34.534,-58.577,22,baja,Edenor,Gral San Martin,Jose Leon Suarez,,,9,
@@ -37,16 +38,16 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4432,-58.8095,22,baja,Edenor,Pilar,Del Viso,,,7,
 -34.5528,-58.452,22,baja,Edenor,Capital Federal,Belgrano,,,36,
 -34.5498,-58.4836,22,baja,Edenor,Capital Federal,Saavedra,,,10,
--34.61,-58.3966,21,baja,Edesur,Capital,Balvanera,,,45,
 -34.6275,-58.3713,21,baja,Edesur,Capital,Barracas,,,45,
 -34.6202,-58.3948,21,baja,Edesur,Capital,San Cristobal,,,6,
 -34.6157,-58.5091,21,baja,Edesur,Capital,Monte Castro,,,53,
 -34.6466,-58.4393,21,baja,Edesur,Capital,Flores,,,10,
--34.654,-58.3765,21,baja,Edesur,Capital,Barracas,,,5,
--34.5976,-58.4422,21,baja,Edesur,Capital,Villa Crespo,,,18,
+-34.6539,-58.3766,21,baja,Edesur,Capital,Barracas,,,5,
+-34.5977,-58.4416,21,baja,Edesur,Capital,Capital,,,18,
 -34.6236,-58.4633,21,baja,Edesur,Capital,Flores,,,6,
 -34.646,-58.4653,21,baja,Edesur,Capital,Capital,,,2,
 -34.6332,-58.3637,21,baja,Edesur,Capital,La Boca,,,4,
 -34.7272,-58.3684,21,baja,Edesur,Lanus,Monte Chingolo,,,9,
 -34.7144,-58.4086,21,baja,Edesur,Lanus,Lanus,,,17,
 -34.7387,-58.3786,21,baja,Edesur,Lanus,Monte Chingolo,,,4,
+-34.8101,-58.4792,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,
