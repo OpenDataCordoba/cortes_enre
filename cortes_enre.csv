@@ -1,23 +1,27 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.375888806,-58.577969576,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,15,Sin Datos
--34.371486971,-58.579256104,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos
--34.359673967,-58.574164176,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,26,Sin Datos
--34.374486443,-58.588198064,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,53,Sin Datos
--34.357524219,-58.570165466,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,47,Sin Datos
--34.362417916,-58.579110384,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,53,Sin Datos
--34.396657277,-58.783590678,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5522,293,2023-02-27 17:00
--34.396029488,-58.782283129,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr2/154-5522,473,Sin Datos
--34.380829107,-58.779490498,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,1,Sin Datos
--34.595841936,-58.896149685,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,84,2023-02-27 17:00
--34.593827815,-58.906077300,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,53,2023-02-27 18:00
--34.257580637,-58.607963467,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos
--34.265644751,-58.601200494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos
--34.265296834,-58.599131480,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos
--34.260302810,-58.602456885,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,Sin Datos
--34.261124217,-58.605610567,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,Sin Datos
--34.262247317,-58.602926910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos
--34.261304266,-58.605477489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,Sin Datos
--34.564932809,-58.619246842,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr2/262-5532,57,2023-02-27 18:00
+-34.396657277,-58.783590678,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5522,293,Sin Datos
+-34.396029488,-58.782283129,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr2/154-5522,473,2023-02-27 17:00
+-34.380829107,-58.779490498,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,1,2023-02-27 17:00
+-34.595841936,-58.896149685,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,84,2023-02-27 18:00
+-34.593827815,-58.906077300,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,53,2023-02-27 17:00
+-34.257580637,-58.607963467,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-27 17:00
+-34.265644751,-58.601200494,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-02-27 17:00
+-34.265296834,-58.599131480,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-27 17:00
+-34.260302810,-58.602456885,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,6,2023-02-27 17:00
+-34.261124217,-58.605610567,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,4,2023-02-27 17:00
+-34.262247317,-58.602926910,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-02-27 17:00
+-34.261304266,-58.605477489,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,2,2023-02-27 17:00
+-34.564932809,-58.619246842,12,media,Edenor,3 De Febrero,Loma Hermosa,S/D,R:Rotonda/262-Tr2/262-5532,57,Sin Datos
+-34.695887088,-58.708135426,12,media,Edenor,Merlo,Libertad,S/D,R:Libertad/361-Tr1/361-5511,334,2023-02-27 20:00
+-34.694139666,-58.716042601,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5511,510,2023-02-27 20:00
+-34.701151483,-58.703631721,12,media,Edenor,Merlo,Libertad,S/D,R:Libertad/361-Tr1/361-5511,363,2023-02-27 20:00
+-34.696128194,-58.711210362,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5511,336,2023-02-27 20:00
+-34.695957452,-58.718214516,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5511,547,2023-02-27 20:00
+-34.697254094,-58.703654332,12,media,Edenor,Merlo,Libertad,S/D,R:Libertad/361-Tr1/361-5511,396,2023-02-27 20:00
+-34.699087253,-58.706055886,12,media,Edenor,Merlo,Merlo,S/D,R:Libertad/361-Tr1/361-5511,89,2023-02-27 20:00
+-34.693388848,-58.711498326,12,media,Edenor,Merlo,Libertad,S/D,R:Libertad/361-Tr1/361-5511,61,2023-02-27 20:00
+-34.696679554,-58.707061596,12,media,Edenor,Merlo,Libertad,S/D,R:Libertad/361-Tr1/361-5511,243,2023-02-27 20:00
+-34.694082348,-58.710546565,12,media,Edenor,Merlo,Libertad,S/D,R:Libertad/361-Tr1/361-5511,26,2023-02-27 20:00
 -34.4512,-58.5419,22,baja,Edenor,San Fernando,Victoria,,,15,
 -34.5851,-58.6151,22,baja,Edenor,3 De Febrero,Ejcto Militar (Tf),,,6,
 -34.7329,-58.5697,22,baja,Edenor,La Matanza,Isidro Casanova,,,28,
@@ -28,9 +32,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5019,-58.6511,22,baja,Edenor,Malvinas Argentinas,Adolfo Sourdeaux,,,1,
 -34.7683,-58.5966,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,26,
 -34.4112,-58.6537,22,baja,Edenor,Tigre,Nordelta,,,5,
--34.6959,-58.7182,22,baja,Edenor,Merlo,Merlo,,,35,
+-34.6948,-58.7212,22,baja,Edenor,Merlo,Merlo,,,4,
 -34.4056,-58.6838,22,baja,Edenor,Tigre,Benavidez,,,41,
 -34.7841,-58.4904,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,12,
--34.6012,-58.4736,21,baja,Edesur,Capital,La Paternal,,,6,
--34.6806,-58.4253,21,baja,Edesur,Lanus,Lanus,,,12,
+-34.6012,-58.4736,21,baja,Edesur,Capital,La Paternal,,,7,
+-34.6806,-58.4253,21,baja,Edesur,Lanus,Lanus,,,13,
 -34.6616,-58.3585,21,baja,Edesur,Avellaneda,Avellaneda,,,11,
