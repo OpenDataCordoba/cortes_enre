@@ -1,11 +1,16 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.660718524,-58.443713808,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,R:039-3-34/039-3-34/039-3-32,112,2023-02-27 13:27
--34.659554676,-58.446057080,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,R:039-3-34/039-3-34/039-3-32,288,2023-02-27 13:27
--34.657721605,-58.452157339,11,media,Edesur,Capital Gp,Villa Soldati Gp,Pompeya,N:039-2-25/039-2-25,12,2023-02-27 15:55
--34.662464725,-58.445395564,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,N:039-2-25/039-2-25,286,2023-02-27 15:55
--34.660718524,-58.443713808,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,N:039-2-25/039-2-25,112,2023-02-27 15:55
--34.659554676,-58.446057080,11,media,Edesur,Capital Rp,Villa Soldati Rp,Pompeya,N:039-2-25/039-2-25,288,2023-02-27 15:55
--34.514286532,-58.582282411,12,media,Edenor,Gral San Martin,Gral Eugenio Necochea,S/D,R:J. L. Suarez/266-Tr1/266-5517,174,2023-02-27 12:00
+-34.728539687,-58.446736057,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,543,2023-02-27 15:05
+-34.730402889,-58.450305034,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,527,2023-02-27 15:05
+-34.735024663,-58.449413327,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,576,2023-02-27 15:05
+-34.734285404,-58.445603914,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,448,2023-02-27 15:05
+-34.730067303,-58.443478616,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,1,2023-02-27 15:05
+-34.727743755,-58.451501342,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,175,2023-02-27 15:05
+-34.725498178,-58.446992821,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,76,2023-02-27 15:05
+-34.725930204,-58.446686224,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,57,2023-02-27 15:05
+-34.729207139,-58.451195830,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,66,2023-02-27 15:05
+-34.729236067,-58.444206360,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,400,2023-02-27 15:05
+-34.731517911,-58.448686015,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,265,2023-02-27 15:05
+-34.736664028,-58.448153229,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-47/281-4-47,282,2023-02-27 15:05
 -34.671055268,-58.541515107,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5525,448,2023-02-27 12:00
 -34.673706539,-58.543104497,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5525,1,2023-02-27 12:00
 -34.672413652,-58.544201152,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5525,279,2023-02-27 12:00
@@ -13,10 +18,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.673107643,-58.543655973,12,media,Edenor,La Matanza,Lomas Del Mirador,S/D,R:San Justo/164-Tr2/164-5525,140,2023-02-27 12:00
 -34.739467018,-58.579943982,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,640,2023-02-27 12:00
 -34.736763286,-58.579725242,12,media,Edenor,La Matanza,Gregorio De Laferrere,S/D,R:Aeroclub/451-Tr1/451-5511,378,2023-02-27 12:00
--34.712101362,-58.486697895,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,2,Sin Datos
--34.674445698,-58.725805833,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,50,Sin Datos
+-34.712101362,-58.486697895,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr2/162-5522,2,2023-02-27 13:00
+-34.674445698,-58.725805833,12,media,Edenor,Merlo,Merlo,S/D,R:Merlo/62-Tr2/62-5522,50,2023-02-27 12:00
 -34.674123613,-58.609913770,12,media,Edenor,Moron,Moron,S/D,R:Luzuriaga/64-Tr2/64-5531,237,2023-02-27 12:00
--34.396657277,-58.783590678,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5522,293,Sin Datos
+-34.396657277,-58.783590678,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr2/154-5522,293,2023-02-27 13:00
 -34.396029488,-58.782283129,12,media,Edenor,Escobar,Maquinista Savio,S/D,R:Maschwitz/154-Tr2/154-5522,473,2023-02-27 12:00
 -34.229231658,-58.486799725,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,13,2023-02-27 13:00
 -34.241950387,-58.495328902,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,17,2023-02-27 12:00
@@ -59,26 +64,38 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.233961181,-58.596202077,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2023-02-27 12:00
 -34.244910489,-58.642988149,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-02-27 12:00
 -34.228686047,-58.636674544,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-02-27 12:00
--34.207519619,-58.583333545,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos
--34.247099225,-58.593824223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos
--34.219030999,-58.561025595,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos
--34.210195707,-58.560757951,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos
--34.189350668,-58.568805653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,Sin Datos
--34.242204223,-58.601365004,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,Sin Datos
--34.206073872,-58.557765595,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,Sin Datos
--34.238822984,-58.598454971,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,Sin Datos
--34.490871209,-58.501870184,12,media,Edenor,San Isidro,Martinez,S/D,R:San Isidro/152-Tr1/152-5515,526,Sin Datos
--34.380829107,-58.779490498,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,1,Sin Datos
--34.373777220,-58.784369123,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,95,Sin Datos
--34.595841936,-58.896149685,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,84,2023-02-27 12:00
--34.593827815,-58.906077300,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,53,2023-02-27 12:00
+-34.207519619,-58.583333545,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-02-27 13:00
+-34.247099225,-58.593824223,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2023-02-27 13:00
+-34.219030999,-58.561025595,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2023-02-27 13:00
+-34.210195707,-58.560757951,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2023-02-27 13:00
+-34.189350668,-58.568805653,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,5,2023-02-27 13:00
+-34.242204223,-58.601365004,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,3,2023-02-27 13:00
+-34.206073872,-58.557765595,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,1,2023-02-27 13:00
+-34.238822984,-58.598454971,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-2521,2,2023-02-27 13:00
+-34.490871209,-58.501870184,12,media,Edenor,San Isidro,Martinez,S/D,R:San Isidro/152-Tr1/152-5515,526,2023-02-27 12:00
+-34.380829107,-58.779490498,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,1,2023-02-27 12:00
+-34.373777220,-58.784369123,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,95,2023-02-27 12:00
+-34.595841936,-58.896149685,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,84,2023-02-27 13:00
+-34.593827815,-58.906077300,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr1/263-5518,53,Sin Datos
+-34.642260642,-58.598446085,12,media,Edenor,Moron,Haedo,S/D,R:Ramos Mejia/66-Tr4/66-5534,431,Sin Datos
+-34.582178260,-58.529141912,12,media,Edenor,Gral San Martin,Chacabuco,S/D,R:Migueletes/54-Tr2/54-5534,81,2023-02-27 15:00
+-34.584417664,-58.533089918,12,media,Edenor,Gral San Martin,Chacabuco,S/D,R:Migueletes/54-Tr2/54-5534,118,2023-02-27 15:00
+-34.583308785,-58.531638156,12,media,Edenor,Gral San Martin,Chacabuco,S/D,R:Migueletes/54-Tr2/54-5534,16,2023-02-27 15:00
+-34.582267628,-58.528007587,12,media,Edenor,Gral San Martin,Chacabuco,S/D,R:Migueletes/54-Tr2/54-5534,1,2023-02-27 15:00
+-34.585117132,-58.533161687,12,media,Edenor,Gral San Martin,Chacabuco,S/D,R:Migueletes/54-Tr2/54-5534,79,2023-02-27 15:00
+-34.581760379,-58.536300015,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Migueletes/54-Tr2/54-5534,154,2023-02-27 15:00
+-34.581169294,-58.538141416,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Migueletes/54-Tr2/54-5534,124,2023-02-27 15:00
+-34.583623806,-58.532371808,12,media,Edenor,Gral San Martin,Chacabuco,S/D,R:Migueletes/54-Tr2/54-5534,93,2023-02-27 15:00
+-34.581123631,-58.537624359,12,media,Edenor,Gral San Martin,C Libertador San Mart?N,S/D,R:Migueletes/54-Tr2/54-5534,1,2023-02-27 15:00
+-34.583763854,-58.532313645,12,media,Edenor,Gral San Martin,Chacabuco,S/D,R:Migueletes/54-Tr2/54-5534,22,2023-02-27 15:00
+-34.857640158,-58.653114142,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:El Pino/353-Tr1/353-5518,261,2023-02-27 15:00
 -34.5852,-58.4883,22,baja,Edenor,Capital Federal,Villa Urquiza,,,16,
 -34.5782,-58.4859,22,baja,Edenor,Capital Federal,Villa Urquiza,,,52,
 -34.5494,-58.4681,22,baja,Edenor,Capital Federal,Nu?Ez,,,21,
--34.4252,-58.574,22,baja,Edenor,Tigre,Ciudad De Tigre,,,26,
--34.6414,-58.6645,22,baja,Edenor,Ituzaingo,Ituzaingo,,,14,
+-34.857,-58.6522,22,baja,Edenor,La Matanza,Virrey Del Pino,,,1,
 -34.6339,-58.3636,21,baja,Edesur,Capital,La Boca,,,5,
--34.7687,-58.426,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,10,
+-34.7687,-58.426,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,11,
 -34.6287,-58.4708,21,baja,Edesur,Capital,Flores,,,8,
+-34.7841,-58.4904,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,9,
 -34.7255,-58.4026,21,baja,Edesur,Lanus,Remedios De Escalada,,,7,
--34.6312,-58.4656,21,baja,Edesur,Capital,Flores,,,30,
+-34.6312,-58.4656,21,baja,Edesur,Capital,Flores,,,32,
