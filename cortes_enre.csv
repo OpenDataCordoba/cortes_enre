@@ -1,6 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.908597715,-58.508743314,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,4,2023-02-28 15:00
--34.920778974,-58.499031166,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,35,2023-02-28 15:00
 -34.899162761,-58.508861683,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,17,2023-02-28 15:00
 -34.900983835,-58.509101587,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,19,2023-02-28 15:00
 -34.900967880,-58.506290574,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,2023-02-28 15:00
@@ -11,20 +9,36 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.903369103,-58.498051378,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,1,2023-02-28 15:00
 -34.903430715,-58.502733168,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,2023-02-28 15:00
 -34.902471362,-58.505958316,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,7,2023-02-28 15:00
--34.681548409,-58.515540615,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5514,351,Sin Datos
+-34.674988194,-58.339078128,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,310,2023-02-28 13:29
+-34.672990104,-58.338042467,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,153,2023-02-28 13:29
+-34.674842046,-58.337714233,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,527,2023-02-28 13:29
+-34.672999776,-58.337344462,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,201,2023-02-28 13:29
+-34.664205445,-58.348936762,11,media,Edesur,Avellaneda,Avellaneda,Isla Maciel,R:072-2-29/072-2-29,828,2023-02-28 13:29
+-34.667666371,-58.346359163,11,media,Edesur,Avellaneda,Avellaneda,Isla Maciel,R:072-2-29/072-2-29,614,2023-02-28 13:29
+-34.662363529,-58.339071359,11,media,Edesur,Avellaneda,Dock Sud,Isla Maciel,R:072-2-29/072-2-29,229,2023-02-28 13:29
+-34.669686733,-58.338386190,11,media,Edesur,Avellaneda,Zona De Reserva,Isla Maciel,R:072-2-29/072-2-29,20,2023-02-28 13:29
+-34.669106938,-58.339401213,11,media,Edesur,Avellaneda,Zona De Reserva,Isla Maciel,R:072-2-29/072-2-29,10,2023-02-28 13:29
+-34.675265343,-58.335931174,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,130,2023-02-28 13:29
+-34.671431739,-58.339431903,11,media,Edesur,Avellaneda,Sarandi,Isla Maciel,R:072-2-29/072-2-29,20,2023-02-28 13:29
+-34.681548409,-58.515540615,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5514,351,2023-02-28 11:00
+-34.608146392,-58.960690402,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5476/255-5523,24,2023-02-28 11:54
+-34.366093377,-58.805974936,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,1,Sin Datos
+-34.375023892,-58.808888998,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr1/154-5513,1,Sin Datos
 -34.6937,-58.7164,22,baja,Edenor,Merlo,Merlo,,,6,
 -34.6948,-58.7212,22,baja,Edenor,Merlo,Merlo,,,7,
 -34.3428,-58.8636,22,baja,Edenor,Escobar,Loma Verde,,,4,
 -34.7354,-58.5347,22,baja,Edenor,La Matanza,Ciudad Evita,,,5,
 -34.5706,-58.4984,22,baja,Edenor,Capital Federal,Villa Urquiza,,,22,
 -34.6904,-58.6757,22,baja,Edenor,Merlo,Libertad,,,22,
+-34.6543,-58.7985,22,baja,Edenor,Moreno,Moreno,,,20,
 -34.7675,-58.6049,22,baja,Edenor,La Matanza,Gonzalez Catan,,,25,
 -34.3797,-58.8307,22,baja,Edenor,Escobar,Matheu,,,1,
 -34.4901,-58.8108,22,baja,Edenor,Jose C Paz,Jose C Paz,,,17,
--34.749,-58.3077,21,baja,Edesur,Quilmes,Quilmes,,,12,
--34.8432,-58.5169,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,32,
--34.6268,-58.3717,21,baja,Edesur,Capital,Barracas,,,17,
+-34.749,-58.3077,21,baja,Edesur,Quilmes,Quilmes,,,14,
+-34.8432,-58.5169,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,31,
+-34.6268,-58.3717,21,baja,Edesur,Capital,Barracas,,,35,
 -35.0401,-58.7376,21,baja,Edesur,Cañuelas,Cañuelas,,,10,
 -34.66,-58.4472,21,baja,Edesur,Capital,Villa Soldati,,,1,
--34.8947,-58.508,21,baja,Edesur,Esteban Echeverria,Canning,,,14,
--34.6448,-58.446,21,baja,Edesur,Capital,Flores,,,1,
+-34.8947,-58.508,21,baja,Edesur,Esteban Echeverria,Canning,,,17,
+-34.7463,-58.2486,21,baja,Edesur,Quilmes,Ezpeleta,,,5,
+-34.668,-58.4057,21,baja,Edesur,Lanus,Valentin Alsina,,,14,
