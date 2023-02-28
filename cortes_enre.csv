@@ -21,9 +21,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.472972651,-58.693385349,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5537,120,2023-02-28 02:00
 -34.474707549,-58.697272166,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5537,207,2023-02-28 02:00
 -34.471394249,-58.694206716,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5537,321,2023-02-28 02:00
--34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-28 02:00
--34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-02-28 02:00
--34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-28 02:00
+-34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos
+-34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos
+-34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos
 -34.6937,-58.7164,22,baja,Edenor,Merlo,Merlo,,,6,
 -34.6948,-58.7212,22,baja,Edenor,Merlo,Merlo,,,7,
 -34.4056,-58.6838,22,baja,Edenor,Tigre,Benavidez,,,41,
@@ -35,15 +35,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5663,-58.4571,22,baja,Edenor,Capital Federal,Belgrano,,,5,
 -34.4519,-58.8071,22,baja,Edenor,Pilar,Del Viso,,,15,
 -34.7354,-58.5347,22,baja,Edenor,La Matanza,Ciudad Evita,,,5,
--34.6502,-58.6061,22,baja,Edenor,Moron,Haedo,,,34,
 -34.4623,-58.8312,22,baja,Edenor,Pilar,La Lonja,,,4,
 -34.6959,-58.7081,22,baja,Edenor,Merlo,Libertad,,,32,
 -34.6543,-58.7985,22,baja,Edenor,Moreno,Moreno,,,20,
 -34.6077,-58.7496,22,baja,Edenor,Moreno,Trujui,,,16,
 -34.5903,-58.4179,22,baja,Edenor,Capital Federal,Palermo,,,25,
+-34.6363,-58.6181,22,baja,Edenor,Moron,Haedo,,,8,
+-34.492,-58.5042,22,baja,Edenor,San Isidro,Martinez,,,4,
 -34.6806,-58.4253,21,baja,Edesur,Lanus,Lanus,,,13,
 -34.749,-58.3077,21,baja,Edesur,Quilmes,Quilmes,,,13,
--34.6268,-58.3717,21,baja,Edesur,Capital,Barracas,,,1,
+-34.6268,-58.3717,21,baja,Edesur,Capital,Barracas,,,3,
 -35.0401,-58.7376,21,baja,Edesur,Cañuelas,Cañuelas,,,8,
--34.6735,-58.4823,21,baja,Edesur,Capital,Villa Lugano,,,19,
--34.6984,-58.3176,21,baja,Edesur,Avellaneda,Wilde,,,6,
+-34.6735,-58.4823,21,baja,Edesur,Capital,Villa Lugano,,,20,
