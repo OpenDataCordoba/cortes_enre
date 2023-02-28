@@ -1,45 +1,72 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.899162761,-58.508861683,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,17,2023-02-28 15:00
--34.900983835,-58.509101587,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,19,2023-02-28 15:00
--34.900967880,-58.506290574,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,2023-02-28 15:00
--34.901733910,-58.505615679,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,1,2023-02-28 15:00
--34.902300753,-58.502564480,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,2023-02-28 15:00
--34.902534654,-58.500846232,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,3,2023-02-28 15:00
--34.902796950,-58.499109259,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,2023-02-28 15:00
--34.903369103,-58.498051378,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,1,2023-02-28 15:00
--34.903430715,-58.502733168,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,2023-02-28 15:00
--34.902471362,-58.505958316,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,7,2023-02-28 15:00
--34.598494694,-58.402466214,11,media,Edesur,Capital Rp,Recoleta,Azcuenaga,R:021-2-25,480,2023-02-28 19:29
--34.681548409,-58.515540615,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5514,351,2023-02-28 15:00
--34.696169151,-58.812825727,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,85,2023-02-28 15:00
--34.701597270,-58.813066157,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,6,2023-02-28 15:00
--34.705228792,-58.807805515,12,media,Edenor,Merlo,Mariano Acosta,S/D,R:Paso Del Rey/258-Tr1/258-5541,22,2023-02-28 15:00
--34.5663,-58.4571,22,baja,Edenor,Capital Federal,Belgrano,,,6,
+-34.899162761,-58.508861683,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,17,Sin Datos
+-34.900983835,-58.509101587,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,19,Sin Datos
+-34.900967880,-58.506290574,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,Sin Datos
+-34.901733910,-58.505615679,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,1,Sin Datos
+-34.902300753,-58.502564480,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,Sin Datos
+-34.902534654,-58.500846232,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,3,Sin Datos
+-34.902796950,-58.499109259,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,Sin Datos
+-34.903369103,-58.498051378,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,1,Sin Datos
+-34.903430715,-58.502733168,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,2,Sin Datos
+-34.902471362,-58.505958316,11,media,Edesur,Esteban Echeverria,Canning Ee,Glew,R:277-4-44/277-4-44,7,Sin Datos
+-34.598494694,-58.402466214,11,media,Edesur,Capital Rp,Recoleta,Azcuenaga,R:021-2-25,480,2023-02-28 20:46
+-34.768621272,-58.403461932,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,114,2023-02-28 18:14
+-34.776979630,-58.416620280,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,14,2023-02-28 18:14
+-34.768077580,-58.399769857,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,38,2023-02-28 18:14
+-34.764781626,-58.399241524,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,176,2023-02-28 18:14
+-34.764195211,-58.403892821,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,314,2023-02-28 18:14
+-34.766031995,-58.398200574,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,87,2023-02-28 18:14
+-34.764020887,-58.401174984,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,278,2023-02-28 18:14
+-34.764780919,-58.400026996,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,299,2023-02-28 18:14
+-34.764949478,-58.404754059,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,108,2023-02-28 18:14
+-34.766447645,-58.398155753,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,115,2023-02-28 18:14
+-34.769251691,-58.402612173,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-2-27/084-2-27,119,2023-02-28 18:14
+-34.681548409,-58.515540615,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr1/65-5514,351,2023-02-28 16:00
+-34.942125215,-58.954885059,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,7,2023-02-28 17:00
+-34.944038361,-58.956158060,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,6,2023-02-28 17:00
+-34.949500672,-58.960352030,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,1,2023-02-28 17:00
+-34.957078224,-58.966157447,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,3,2023-02-28 17:00
+-34.964163393,-58.955404109,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,1,2023-02-28 17:00
+-34.968998854,-58.974971633,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,6,2023-02-28 17:00
+-34.932890454,-58.951080236,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,349,2023-02-28 17:00
+-34.972190362,-58.977364672,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,1,2023-02-28 17:00
+-34.935758460,-58.942304957,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,242,2023-02-28 17:00
+-34.935580583,-58.947188734,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,101,2023-02-28 17:00
+-34.932473671,-58.944925931,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,231,2023-02-28 17:00
+-34.935823773,-58.950968422,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,26,2023-02-28 17:00
+-34.941973629,-58.951952419,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,61,2023-02-28 17:00
+-34.936735113,-58.953546335,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,85,2023-02-28 17:00
+-34.946220435,-58.946447907,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5513,49,2023-02-28 17:00
+-34.5663,-58.4571,22,baja,Edenor,Capital Federal,Belgrano,,,9,
 -34.5565,-58.8659,22,baja,Edenor,Pilar,Pilar,,,6,
 -34.6525,-58.7909,22,baja,Edenor,Moreno,Moreno,,,11,
 -34.4746,-58.9022,22,baja,Edenor,Pilar,Pilar,,,5,
--34.6178,-58.8273,22,baja,Edenor,Moreno,La Reja,,,4,
 -34.5072,-58.7238,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,6,
 -34.5583,-58.4832,22,baja,Edenor,Capital Federal,Saavedra,,,4,
 -34.616,-58.9407,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,47,
--34.4644,-58.9068,22,baja,Edenor,Pilar,Pilar,,,19,
--34.602,-58.5495,22,baja,Edenor,3 De Febrero,Santos Lugares,,,4,
 -34.4117,-58.6549,22,baja,Edenor,Tigre,Nordelta,,,6,
 -34.5902,-58.506,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,4,
 -34.658,-58.8041,22,baja,Edenor,Moreno,Moreno,,,4,
 -34.661,-58.6782,22,baja,Edenor,Ituzaingo,Ituzaingo,,,4,
 -34.6632,-58.7739,22,baja,Edenor,Moreno,Moreno,,,40,
 -34.469,-58.8517,22,baja,Edenor,Pilar,Pte Derqui,,,6,
--34.6337,-58.8188,22,baja,Edenor,Moreno,La Reja,,,15,
--34.6013,-58.5549,22,baja,Edenor,3 De Febrero,Caseros,,,6,
+-34.6337,-58.8188,22,baja,Edenor,Moreno,La Reja,,,20,
+-34.6013,-58.5549,22,baja,Edenor,3 De Febrero,Caseros,,,40,
+-34.6625,-58.6214,22,baja,Edenor,Moron,Moron,,,51,
 -34.4097,-58.7743,22,baja,Edenor,Escobar,Maquinista Savio,,,29,
+-34.6831,-58.5583,22,baja,Edenor,La Matanza,San Justo,,,6,
+-34.5808,-58.5373,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,0,
+-34.5814,-58.5361,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,13,
+-34.5632,-58.6195,22,baja,Edenor,3 De Febrero,Churruca,,,4,
+-34.5145,-58.5671,22,baja,Edenor,San Isidro,Boulogne,,,28,
 -34.8432,-58.5169,21,baja,Edesur,Ezeiza,Jose Maria Ezeiza,,,31,
--34.6268,-58.3717,21,baja,Edesur,Capital,Barracas,,,67,
 -35.0401,-58.7376,21,baja,Edesur,Cañuelas,Cañuelas,,,10,
--34.7373,-58.2622,21,baja,Edesur,Quilmes,Quilmes,,,13,
+-34.7373,-58.2622,21,baja,Edesur,Quilmes,Quilmes,,,15,
 -34.7463,-58.2486,21,baja,Edesur,Quilmes,Ezpeleta,,,12,
 -34.6262,-58.4366,21,baja,Edesur,Capital,Caballito,,,3,
 -34.6631,-58.4373,21,baja,Edesur,Capital,Villa Soldati,,,3,
--34.8043,-58.2209,21,baja,Edesur,Berazategui,Sourigues,,,20,
+-34.8043,-58.2209,21,baja,Edesur,Berazategui,Sourigues,,,21,
 -34.8201,-58.5024,21,baja,Edesur,Esteban Echeverria,El Jaguel,,,2,
--34.6261,-58.457,21,baja,Edesur,Capital,Flores,,,8,
+-34.6261,-58.457,21,baja,Edesur,Capital,Flores,,,10,
+-34.8183,-58.3891,21,baja,Edesur,Almirante Brown,Burzaco,,,1,
+-34.6093,-58.4293,21,baja,Edesur,Capital,Almagro,,,6,
