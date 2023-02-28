@@ -1,6 +1,5 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.687946400,-58.312957106,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,100,2023-02-28 04:06
--34.690856751,-58.308223433,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,527,2023-02-28 04:06
 -34.690707155,-58.300483450,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,673,2023-02-28 04:06
 -34.691589623,-58.301739286,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,568,2023-02-28 04:06
 -34.693512084,-58.299016789,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,431,2023-02-28 04:06
@@ -18,12 +17,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.688703621,-58.301289428,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,111,2023-02-28 04:06
 -34.684955748,-58.305064995,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,2,2023-02-28 04:06
 -34.685884746,-58.310255346,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,280,2023-02-28 04:06
--34.472972651,-58.693385349,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5537,120,2023-02-28 03:00
--34.474707549,-58.697272166,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5537,207,2023-02-28 03:00
--34.471394249,-58.694206716,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5537,321,2023-02-28 03:00
--34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-28 02:00
--34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-02-28 02:00
--34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-28 02:00
+-34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-28 03:00
+-34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-02-28 03:00
+-34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-28 03:00
 -34.691381187,-58.510007403,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr1/162-5514,451,2023-02-28 03:00
 -34.688273710,-58.509136598,12,media,Edenor,La Matanza,La Tablada,S/D,R:Tapiales/162-Tr1/162-5514,352,2023-02-28 03:00
 -34.695586761,-58.514139765,12,media,Edenor,La Matanza,Tapiales,S/D,R:Tapiales/162-Tr1/162-5514,327,2023-02-28 03:00
@@ -45,6 +41,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5903,-58.4179,22,baja,Edenor,Capital Federal,Palermo,,,25,
 -34.6363,-58.6181,22,baja,Edenor,Moron,Haedo,,,8,
 -34.4909,-58.5019,22,baja,Edenor,San Isidro,Martinez,,,15,
+-34.5706,-58.4984,22,baja,Edenor,Capital Federal,Villa Urquiza,,,22,
 -34.6806,-58.4253,21,baja,Edesur,Lanus,Lanus,,,13,
 -34.749,-58.3077,21,baja,Edesur,Quilmes,Quilmes,,,13,
 -34.6268,-58.3717,21,baja,Edesur,Capital,Barracas,,,12,
