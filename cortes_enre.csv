@@ -18,25 +18,19 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.688703621,-58.301289428,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,111,2023-02-28 04:06
 -34.684955748,-58.305064995,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,2,2023-02-28 04:06
 -34.685884746,-58.310255346,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-3-34/077-3-34,280,2023-02-28 04:06
--34.694043318,-58.303349905,11,media,Edesur,Avellaneda,Zona De Reserva,Don Bosco,R:077-2-25/077-2-25,712,2023-02-28 04:55
--34.698015290,-58.290520492,11,media,Edesur,Quilmes,Don Bosco,Don Bosco,R:077-2-25/077-2-25,94,2023-02-28 04:55
--34.696666123,-58.287505102,11,media,Edesur,Quilmes,Don Bosco,Don Bosco,R:077-2-25/077-2-25,72,2023-02-28 04:55
--34.698970970,-58.286032207,11,media,Edesur,Quilmes,Don Bosco,Don Bosco,R:077-2-25/077-2-25,132,2023-02-28 04:55
--34.693571322,-58.286007875,11,media,Edesur,Quilmes,Don Bosco,Don Bosco,R:077-2-25/077-2-25,88,2023-02-28 04:55
--34.691122159,-58.293245022,11,media,Edesur,Quilmes,Don Bosco,Don Bosco,R:077-2-25/077-2-25,53,2023-02-28 04:55
--34.692348477,-58.289157274,11,media,Edesur,Quilmes,Don Bosco,Don Bosco,R:077-2-25/077-2-25,287,2023-02-28 04:55
--34.691564388,-58.290793785,11,media,Edesur,Quilmes,Don Bosco,Don Bosco,R:077-2-25/077-2-25,27,2023-02-28 04:55
--34.472972651,-58.693385349,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5537,120,Sin Datos
--34.474707549,-58.697272166,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5537,207,Sin Datos
--34.471394249,-58.694206716,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5537,321,Sin Datos
--34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos
--34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,Sin Datos
--34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,Sin Datos
+-34.472972651,-58.693385349,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5537,120,2023-02-28 00:00
+-34.474707549,-58.697272166,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5537,207,2023-02-28 00:00
+-34.471394249,-58.694206716,12,media,Edenor,Malvinas Argentinas,Pablo Nogues,S/D,R:Tortuguitas/252-Tr2/252-5537,321,2023-02-28 00:00
+-34.231380451,-58.571679207,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-28 00:00
+-34.239712252,-58.568344716,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,5,2023-02-28 00:00
+-34.234407817,-58.569731468,12,media,Edenor,San Fernando,Delta 2Da Seccion (Sf),15 - Campana,R:15-1511,3,2023-02-28 00:00
 -34.6937,-58.7164,22,baja,Edenor,Merlo,Merlo,,,6,
 -34.6948,-58.7212,22,baja,Edenor,Merlo,Merlo,,,7,
 -34.4056,-58.6838,22,baja,Edenor,Tigre,Benavidez,,,41,
 -34.5448,-58.7696,22,baja,Edenor,Jose C Paz,Jose C Paz,,,25,
+-34.3428,-58.8636,22,baja,Edenor,Escobar,Loma Verde,,,4,
 -34.4867,-58.6543,22,baja,Edenor,Tigre,Don Torcuato,,,32,
+-34.5949,-58.416,22,baja,Edenor,Capital Federal,Palermo,,,4,
 -34.4709,-58.8978,22,baja,Edenor,Pilar,Pilar,,,25,
 -34.5663,-58.4571,22,baja,Edenor,Capital Federal,Belgrano,,,5,
 -34.4519,-58.8071,22,baja,Edenor,Pilar,Del Viso,,,15,
@@ -52,6 +46,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6268,-58.3717,21,baja,Edesur,Capital,Barracas,,,1,
 -35.0401,-58.7376,21,baja,Edesur,Cañuelas,Cañuelas,,,8,
 -34.6735,-58.4823,21,baja,Edesur,Capital,Villa Lugano,,,19,
--34.8375,-58.2853,21,baja,Edesur,Florencio Varela,Florencio Varela,,,4,
--34.7456,-58.2463,21,baja,Edesur,Quilmes,Ezpeleta,,,18,
 -34.6984,-58.3176,21,baja,Edesur,Avellaneda,Wilde,,,6,
