@@ -1,26 +1,16 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.774391811,-58.430290780,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-22/182-2-22,368,2023-03-01 07:16
+-34.775078914,-58.425260994,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Santa Catalina,R:182-2-22/182-2-22,108,2023-03-01 07:16
 -34.686289290,-58.403767787,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-4-42/186-4-42,677,2023-03-01 07:16
 -34.688009563,-58.399463813,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-4-42/186-4-42,266,2023-03-01 07:16
 -34.689644149,-58.401470242,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-4-42/186-4-42,674,2023-03-01 07:16
 -34.759500070,-58.392804073,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Temperley,R:084-1-18/084-1-18,626,2023-03-01 04:59
--34.636123976,-58.583556950,12,media,Edenor,Moron,Villa Sarmiento,S/D,R:Ramos Mejia/66-Tr2/66-5541,334,2023-03-01 07:00
--34.636441030,-58.600939809,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,106,2023-03-01 07:00
--34.636588774,-58.574095277,12,media,Edenor,Moron,Villa Sarmiento,S/D,R:Ramos Mejia/66-Tr2/66-5541,52,2023-03-01 07:00
--34.636751270,-58.598610647,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,318,2023-03-01 07:00
--34.637092988,-58.589963907,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,418,2023-03-01 07:00
--34.629707429,-58.597062311,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,322,2023-03-01 07:00
--34.633205438,-58.598750298,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,278,2023-03-01 07:00
--34.635338847,-58.595080462,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,512,2023-03-01 07:00
--34.636004904,-58.583630402,12,media,Edenor,Moron,Villa Sarmiento,S/D,R:Ramos Mejia/66-Tr2/66-5541,374,2023-03-01 07:00
--34.636029269,-58.603918800,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,451,2023-03-01 07:00
--34.635642470,-58.591599798,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,175,2023-03-01 07:00
--34.636375727,-58.587498570,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,167,2023-03-01 07:00
--34.632625816,-58.595027516,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,181,2023-03-01 07:00
+-34.637092988,-58.589963907,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,418,2023-03-01 05:00
+-34.636004904,-58.583630402,12,media,Edenor,Moron,Villa Sarmiento,S/D,R:Ramos Mejia/66-Tr2/66-5541,374,2023-03-01 05:00
+-34.636375727,-58.587498570,12,media,Edenor,Moron,El Palomar,S/D,R:Ramos Mejia/66-Tr2/66-5541,167,2023-03-01 05:00
 -34.469,-58.8517,22,baja,Edenor,Pilar,Pte Derqui,,,1,
 -34.5153,-58.7187,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,27,
 -34.699,-58.4889,22,baja,Edenor,La Matanza,Villa Madero,,,25,
--34.4683,-58.7754,22,baja,Edenor,Pilar,Manuel Alberti,,,1,
 -34.4717,-58.5926,22,baja,Edenor,San Fernando,Virreyes,,,43,
 -34.6634,-58.5217,22,baja,Edenor,La Matanza,Lomas Del Mirador,,,4,
 -34.5092,-58.711,22,baja,Edenor,Malvinas Argentinas,Los Polvorines,,,14,
@@ -61,7 +51,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5494,-58.5288,22,baja,Edenor,Gral San Martin,Gderos De San Mart?N,,,38,
 -34.5867,-58.6503,22,baja,Edenor,Hurlingham,William Morris,,,34,
 -34.6715,-58.7723,22,baja,Edenor,Merlo,Merlo,,,1,
--34.7701,-58.6009,22,baja,Edenor,La Matanza,Gonzalez Catan,,,29,
 -34.5807,-58.5401,22,baja,Edenor,Gral San Martin,C Libertador San Mart?N,,,36,
 -34.4522,-58.7309,22,baja,Edenor,Escobar,Garin,,,28,
 -34.4156,-58.7715,22,baja,Edenor,Pilar,Luis Lagomarsino,,,33,
@@ -71,10 +60,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4453,-58.994,22,baja,Edenor,Pilar,Manzanares,,,22,
 -34.6211,-58.6518,22,baja,Edenor,Hurlingham,Villa Tesei,,,1,
 -34.5854,-58.7035,22,baja,Edenor,San Miguel,Bella Vista,,,13,
--34.4683,-58.7755,22,baja,Edenor,Pilar,Manuel Alberti,,,26,
+-34.4683,-58.7755,22,baja,Edenor,Pilar,Manuel Alberti,,,23,
 -34.7373,-58.2622,21,baja,Edesur,Quilmes,Quilmes,,,18,
 -34.6457,-58.4474,21,baja,Edesur,Capital,Flores,,,1,
--34.824,-58.3757,21,baja,Edesur,Almirante Brown,Burzaco,,,40,
+-34.824,-58.3757,21,baja,Edesur,Almirante Brown,Burzaco,,,41,
 -34.7952,-58.3117,21,baja,Edesur,Florencio Varela,Florencio Varela,,,17,
 -34.6453,-58.4991,21,baja,Edesur,Capital,Mataderos,,,48,
 -34.6645,-58.4402,21,baja,Edesur,Capital,Villa Soldati,,,5,
