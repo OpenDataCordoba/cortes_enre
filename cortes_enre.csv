@@ -204,12 +204,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.701069492,-58.411834207,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-4-44/186-4-44,410,2023-03-04 06:54
 -34.701293091,-58.415219704,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-4-44/186-4-44,229,2023-03-04 06:54
 -34.701846725,-58.406465754,11,media,Edesur,Lanus,Lanus Oeste,Gerli,R:186-4-44/186-4-44,262,2023-03-04 06:54
--34.593311308,-58.496795332,12,media,Edenor,Capital Federal,Agronomia,S/D,R:Agronomia/47-Tr5/47-5562,1022,2023-03-04 04:00
--34.461999829,-58.845483708,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5534,214,Sin Datos
--34.461536159,-58.836307740,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5534,24,Sin Datos
--34.457509619,-58.855374284,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5534,44,Sin Datos
+-34.593311308,-58.496795332,12,media,Edenor,Capital Federal,Agronomia,S/D,R:Agronomia/47-Tr5/47-5562,1022,2023-03-04 05:00
+-34.461999829,-58.845483708,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5534,214,2023-03-04 05:00
+-34.461536159,-58.836307740,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5534,24,2023-03-04 05:00
+-34.457509619,-58.855374284,12,media,Edenor,Pilar,La Lonja,S/D,R:Derqui/260-Tr2/260-5534,44,2023-03-04 05:00
 -34.5244,-58.7511,22,baja,Edenor,Jose C Paz,Jose C Paz,,,8,
--34.452,-58.6046,22,baja,Edenor,Tigre,Troncos Del Talar,,,17,
+-34.452,-58.6046,22,baja,Edenor,Tigre,Troncos Del Talar,,,34,
 -34.5688,-58.46,22,baja,Edenor,Capital Federal,Belgrano,,,26,
 -34.7055,-58.5443,22,baja,Edenor,La Matanza,Ciudad Evita,,,52,
 -34.6579,-58.5658,22,baja,Edenor,La Matanza,Ramos Mejia,,,27,
@@ -257,14 +257,14 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6675,-58.5592,22,baja,Edenor,La Matanza,Ramos Mejia,,,31,
 -34.6961,-58.4788,22,baja,Edenor,La Matanza,Villa Madero,,,69,
 -34.6923,-58.5838,22,baja,Edenor,La Matanza,Isidro Casanova,,,117,
--34.5741,-58.5092,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,9,
+-34.5741,-58.5092,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,10,
 -34.562,-58.4515,22,baja,Edenor,Capital Federal,Belgrano,,,48,
 -34.423,-58.6608,22,baja,Edenor,Tigre,Nordelta,,,18,
 -34.657,-58.5618,22,baja,Edenor,La Matanza,Ramos Mejia,,,47,
 -34.5769,-58.5287,22,baja,Edenor,Gral San Martin,Villa Maipu,,,36,
 -34.5029,-58.7207,22,baja,Edenor,Malvinas Argentinas,Grand Bourg,,,47,
 -34.7501,-58.5937,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,25,
--34.6165,-58.7843,22,baja,Edenor,Moreno,Moreno,,,17,
+-34.6165,-58.7843,22,baja,Edenor,Moreno,Moreno,,,0,
 -34.5437,-58.5683,22,baja,Edenor,Gral San Martin,Gral Jose De Sucre,,,1,
 -34.6947,-58.4994,22,baja,Edenor,La Matanza,Villa Madero,,,7,
 -34.6232,-58.5861,22,baja,Edenor,Moron,El Palomar,,,4,
@@ -285,7 +285,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5143,-58.5018,22,baja,Edenor,Vicente Lopez,Olivos,,,5,
 -34.4422,-58.5689,22,baja,Edenor,San Fernando,San Fernando,,,159,
 -34.4609,-58.5694,22,baja,Edenor,San Fernando,Virreyes,,,10,
--34.581,-58.4305,22,baja,Edenor,Capital Federal,Palermo,,,4,
+-34.581,-58.4305,22,baja,Edenor,Capital Federal,Palermo,,,5,
 -34.4443,-58.7187,22,baja,Edenor,Escobar,Garin,,,59,
 -34.7307,-58.5657,22,baja,Edenor,La Matanza,Isidro Casanova,,,101,
 -34.5817,-58.631,22,baja,Edenor,Hurlingham,Hurlingham,,,17,
@@ -317,12 +317,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7078,-58.5958,22,baja,Edenor,La Matanza,Isidro Casanova,,,60,
 -34.6761,-58.6745,22,baja,Edenor,Ituzaingo,Ituzaingo,,,53,
 -34.5297,-58.5041,22,baja,Edenor,Vicente Lopez,Florida,,,37,
--34.697,-58.6005,22,baja,Edenor,La Matanza,Isidro Casanova,,,0,
 -34.5438,-58.4711,22,baja,Edenor,Capital Federal,Nu?Ez,,,14,
--34.6936,-58.5486,22,baja,Edenor,La Matanza,La Tablada,,,5,
+-34.6936,-58.5486,22,baja,Edenor,La Matanza,La Tablada,,,6,
 -34.5792,-58.5783,22,baja,Edenor,Gral San Martin,Billinghurst,,,4,
 -34.5262,-58.7469,22,baja,Edenor,Jose C Paz,Jose C Paz,,,24,
 -34.4228,-58.8056,22,baja,Edenor,Pilar,Manuel Alberti,,,15,
+-34.6142,-58.7849,22,baja,Edenor,Moreno,Moreno,,,17,
 -34.814,-58.2757,21,baja,Edesur,Florencio Varela,Florencio Varela,,,65,
 -34.6274,-58.478,21,baja,Edesur,Capital,Floresta,,,60,
 -34.6244,-58.4777,21,baja,Edesur,Capital,Capital,,,36,
@@ -372,7 +372,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6603,-58.4386,21,baja,Edesur,Capital,Villa Soldati,,,19,
 -34.633,-58.4685,21,baja,Edesur,Capital,Flores,,,92,
 -34.8655,-58.3859,21,baja,Edesur,Almirante Brown,Longchamps,,,27,
--34.6176,-58.4604,21,baja,Edesur,Capital,Capital,,,5,
+-34.6176,-58.4604,21,baja,Edesur,Capital,Capital,,,6,
 -34.6274,-58.4341,21,baja,Edesur,Capital,Caballito,,,6,
 -34.6416,-58.4552,21,baja,Edesur,Capital,Flores,,,24,
 -34.724,-58.3324,21,baja,Edesur,Avellaneda,Wilde,,,27,
@@ -381,8 +381,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6973,-58.4082,21,baja,Edesur,Lanus,Lanus,,,35,
 -34.6799,-58.4889,21,baja,Edesur,Capital,Villa Lugano,,,51,
 -34.7379,-58.325,21,baja,Edesur,Quilmes,Bernal,,,24,
--34.6596,-58.5085,21,baja,Edesur,Capital,Mataderos,,,23,
--34.6083,-58.4839,21,baja,Edesur,Capital,Capital,,,4,
+-34.6596,-58.5085,21,baja,Edesur,Capital,Mataderos,,,24,
 -34.7367,-58.3808,21,baja,Edesur,Lanus,Remedios De Escalada,,,14,
 -34.8038,-58.4098,21,baja,Edesur,Lomas De Zamora,Lavallol,,,9,
 -34.6127,-58.4087,21,baja,Edesur,Capital,Capital,,,22,
@@ -402,5 +401,3 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7339,-58.426,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,9,
 -34.7489,-58.2457,21,baja,Edesur,Quilmes,Ezpeleta,,,1,
 -34.7271,-58.2612,21,baja,Edesur,Quilmes,Quilmes,,,33,
--34.6187,-58.5271,21,baja,Edesur,Capital,Villa Real,,,38,
--34.7666,-58.1789,21,baja,Edesur,Berazategui,Platanos,,,1,
