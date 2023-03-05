@@ -30,12 +30,12 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.795062751,-58.273006027,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,277,2023-03-05 09:05
 -34.792605196,-58.267900917,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,26,2023-03-05 09:05
 -34.796003389,-58.266417071,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,407,2023-03-05 09:05
--34.790327856,-58.253465469,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,111,2023-03-05 09:05
+-34.790327856,-58.253465469,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,113,2023-03-05 09:05
 -34.788223558,-58.259581351,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,49,2023-03-05 09:05
 -34.792496278,-58.276337146,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,530,2023-03-05 09:05
 -34.789350392,-58.264569225,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,294,2023-03-05 09:05
--34.795533690,-58.269926587,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,545,2023-03-05 09:05
--34.792863964,-58.265919146,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,220,2023-03-05 09:05
+-34.795533690,-58.269926587,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,546,2023-03-05 09:05
+-34.792863964,-58.265919146,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,221,2023-03-05 09:05
 -34.791992174,-58.262114738,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,283,2023-03-05 09:05
 -34.788864519,-58.255974174,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,155,2023-03-05 09:05
 -34.788074751,-58.255478627,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-1-13/080-1-13,9,2023-03-05 09:05
@@ -58,7 +58,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.743744255,-58.266571173,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,306,2023-03-05 09:51
 -34.743000714,-58.265056127,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,2,2023-03-05 09:51
 -34.743180770,-58.269681610,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,113,2023-03-05 09:51
--34.745392817,-58.271239988,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,46,2023-03-05 09:51
+-34.745392817,-58.271239988,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,47,2023-03-05 09:51
 -34.743348236,-58.264179031,11,media,Edesur,Quilmes,Quilmes Oeste,Quilmes,R:073-3-31/073-3-31,6,2023-03-05 09:51
 -34.447022035,-58.554331479,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,459,Sin Datos
 -34.442297309,-58.562098734,12,media,Edenor,San Fernando,San Fernando,S/D,R:Victoria/53-Tr2/53-5524,10,Sin Datos
@@ -68,6 +68,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.645,-58.6399,22,baja,Edenor,Moron,Castelar,,,36,
 -34.4718,-58.8564,22,baja,Edenor,Pilar,Pte Derqui,,,5,
 -34.7048,-58.607,22,baja,Edenor,La Matanza,Isidro Casanova,,,10,
+-34.4279,-58.5774,22,baja,Edenor,Tigre,Ciudad De Tigre,,,15,
 -34.6214,-58.628,22,baja,Edenor,Hurlingham,Villa Tesei,,,89,
 -34.7218,-58.603,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,4,
 -34.7595,-58.5929,22,baja,Edenor,La Matanza,Gregorio De Laferrere,,,24,
@@ -76,8 +77,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4719,-58.894,22,baja,Edenor,Pilar,Pilar,,,21,
 -34.592,-58.6551,22,baja,Edenor,Hurlingham,Hurlingham,,,15,
 -34.4056,-58.6838,22,baja,Edenor,Tigre,Benavidez,,,41,
+-34.5709,-58.5252,22,baja,Edenor,Gral San Martin,Villa Maipu,,,4,
 -34.5592,-58.4838,22,baja,Edenor,Capital Federal,Saavedra,,,12,
 -34.5492,-58.7704,22,baja,Edenor,Jose C Paz,Jose C Paz,,,5,
+-34.5589,-58.7766,22,baja,Edenor,Jose C Paz,Jose C Paz,,,6,
 -34.8138,-58.2756,21,baja,Edesur,Florencio Varela,Florencio Varela,,,74,
 -34.7128,-58.4541,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,8,
 -34.646,-58.4089,21,baja,Edesur,Capital,Parque Patricios,,,6,
