@@ -1,12 +1,12 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
 -34.747848792,-58.288611914,11,media,Edesur,Quilmes,Quilmes Oeste,Monte Chingolo,R:184-4-46/184-4-46,533,2023-03-08 06:23
--34.716618540,-58.309677203,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,651,Sin Datos
--34.724214020,-58.307072646,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,572,Sin Datos
--34.721170553,-58.311193785,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,539,Sin Datos
--34.723155419,-58.305070228,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,124,Sin Datos
--34.718871042,-58.312010583,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,525,Sin Datos
--34.720435743,-58.314322494,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,3,Sin Datos
--34.718725644,-58.302888274,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,324,Sin Datos
+-34.716618540,-58.309677203,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,651,2023-03-08 09:07
+-34.724214020,-58.307072646,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,572,2023-03-08 09:07
+-34.721170553,-58.311193785,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,539,2023-03-08 09:07
+-34.723155419,-58.305070228,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,124,2023-03-08 09:07
+-34.718871042,-58.312010583,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,525,2023-03-08 09:07
+-34.720435743,-58.314322494,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,3,2023-03-08 09:07
+-34.718725644,-58.302888274,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,324,2023-03-08 09:07
 -34.771917457,-58.268345017,11,media,Edesur,Quilmes,Quilmes Oeste,Florencio Varela,R:183-1-11/183-1-11,306,2023-03-08 04:43
 -34.763867097,-58.275081253,11,media,Edesur,Quilmes,Quilmes Oeste,Florencio Varela,R:183-1-11/183-1-11,490,2023-03-08 04:43
 -34.766950811,-58.272635979,11,media,Edesur,Quilmes,Quilmes Oeste,Florencio Varela,R:183-1-11/183-1-11,182,2023-03-08 04:43
@@ -32,34 +32,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.776966245,-58.272579716,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-11/183-1-11,51,2023-03-08 04:43
 -34.778861627,-58.264034411,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-1-11/183-1-11,2,2023-03-08 04:43
 -34.757535975,-58.242222891,11,media,Edesur,Quilmes,Ezpeleta,Ezpeleta,R:080-5-53/080-5-53,276,2023-03-08 05:45
--34.753412567,-58.232062197,11,media,Edesur,Quilmes,Ezpeleta,Ezpeleta,R:080-5-53/080-5-53,171,2023-03-08 05:45
 -34.755684606,-58.248692703,11,media,Edesur,Quilmes,Ezpeleta,Ezpeleta,R:080-5-53/080-5-53,244,2023-03-08 05:45
 -34.759746389,-58.247594270,11,media,Edesur,Quilmes,Ezpeleta,Ezpeleta,R:080-5-53/080-5-53,67,2023-03-08 05:45
 -34.759474791,-58.249672305,11,media,Edesur,Quilmes,Ezpeleta,Ezpeleta,R:080-5-53/080-5-53,137,2023-03-08 05:45
--34.758326026,-58.237926963,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,67,2023-03-08 05:45
--34.762562229,-58.241389015,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,28,2023-03-08 05:45
--34.755978137,-58.233543598,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,777,2023-03-08 05:45
--34.762543378,-58.237093223,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,391,2023-03-08 05:45
--34.759329363,-58.239712504,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,368,2023-03-08 05:45
--34.755313086,-58.232293670,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,1,2023-03-08 05:45
--34.761292782,-58.242485098,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,27,2023-03-08 05:45
--34.761868476,-58.241983295,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,7,2023-03-08 05:45
--34.763386220,-58.240673646,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,26,2023-03-08 05:45
--34.763794395,-58.240316851,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,9,2023-03-08 05:45
--34.760617684,-58.240997629,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,13,2023-03-08 05:45
--34.761384375,-58.240341023,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,24,2023-03-08 05:45
--34.761998432,-58.239814608,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,7,2023-03-08 05:45
--34.762507674,-58.239377170,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,8,2023-03-08 05:45
--34.763764088,-58.239324842,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,10,2023-03-08 05:45
--34.760235193,-58.240655093,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,14,2023-03-08 05:45
--34.761505325,-58.239569979,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,15,2023-03-08 05:45
--34.763416563,-58.238684804,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,5,2023-03-08 05:45
--34.759938111,-58.240119391,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,22,2023-03-08 05:45
--34.760143785,-58.239956071,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,14,2023-03-08 05:45
--34.760702763,-58.239516346,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,40,2023-03-08 05:45
--34.761527452,-58.238872634,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,23,2023-03-08 05:45
--34.762080755,-58.238436851,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,10,2023-03-08 05:45
--34.760467873,-58.240458649,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-5-53/080-5-53,7,2023-03-08 05:45
 -34.756665836,-58.243863598,11,media,Edesur,Quilmes,Ezpeleta,Ezpeleta,R:080-5-53/080-5-53,222,2023-03-08 05:45
 -34.758487503,-58.240622161,11,media,Edesur,Quilmes,Ezpeleta,Ezpeleta,R:080-5-53/080-5-53,174,2023-03-08 05:45
 -34.757159974,-58.246955709,11,media,Edesur,Quilmes,Ezpeleta,Ezpeleta,R:080-5-53/080-5-53,521,2023-03-08 05:45
@@ -67,7 +42,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.761166580,-58.249625436,11,media,Edesur,Quilmes,Ezpeleta,Ezpeleta,R:080-5-53/080-5-53,2,2023-03-08 05:45
 -34.618353224,-58.510448329,11,media,Edesur,Capital Gp,Monte Castro,Luro,R:038-1-16/038-1-16,526,2023-03-08 07:44
 -34.612356790,-58.520025314,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-16/038-1-16,812,2023-03-08 07:44
--34.614316820,-58.517827587,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-16/038-1-16,8,2023-03-08 07:44
 -34.615412126,-58.522045801,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-16/038-1-16,529,2023-03-08 07:44
 -34.613796830,-58.522227110,11,media,Edesur,Capital Gp,Villa Devoto,Luro,R:038-1-16/038-1-16,480,2023-03-08 07:44
 -34.616437809,-58.524662661,11,media,Edesur,Capital Gp,Villa Real,Luro,R:038-1-16/038-1-16,422,2023-03-08 07:44
@@ -92,16 +66,36 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.659388478,-58.516358258,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-2-23/043-2-23,402,2023-03-08 06:42
 -34.658419604,-58.510770149,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-2-23/043-2-23,38,2023-03-08 06:42
 -34.657592858,-58.522901139,11,media,Edesur,Capital Gp,Mataderos,Liniers,R:043-2-23/043-2-23,97,2023-03-08 06:42
--34.683641592,-58.513837451,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5521,71,2023-03-08 05:00
--34.414188809,-58.832802457,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5515,247,2023-03-08 05:00
--34.383834487,-58.827280141,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,188,Sin Datos
--34.483889525,-58.614705541,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5524,216,Sin Datos
--34.461792295,-58.612759144,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,561,Sin Datos
--34.458824683,-58.607058565,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,232,Sin Datos
--34.460066160,-58.609591333,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,432,Sin Datos
--34.463851150,-58.611140507,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,182,Sin Datos
--34.469683355,-58.606555172,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,186,Sin Datos
--34.514123910,-58.505068859,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Vicente Lopez/50-Tr1/50-5513,598,2023-03-08 04:00
+-34.683641592,-58.513837451,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5521,71,Sin Datos
+-34.414188809,-58.832802457,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr1/51-5515,247,Sin Datos
+-34.950946052,-58.763310847,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,14,Sin Datos
+-34.945769356,-58.757925320,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,7,Sin Datos
+-34.931138364,-58.773655125,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.940967399,-58.764360713,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,5,Sin Datos
+-34.937141930,-58.769577267,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,5,Sin Datos
+-34.946240794,-58.759527835,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,20,Sin Datos
+-34.942682787,-58.769525431,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,4,Sin Datos
+-34.955572952,-58.768734255,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,4,Sin Datos
+-34.944664359,-58.771701653,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
+-34.947108806,-58.774288792,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,6,Sin Datos
+-34.930037487,-58.779130106,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
+-34.944385421,-58.755539726,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
+-34.940666191,-58.755505174,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,4,Sin Datos
+-34.941128249,-58.751773089,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,5,Sin Datos
+-34.956077400,-58.765116551,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,38,Sin Datos
+-34.932643664,-58.775472829,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.953475158,-58.766411424,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.931789998,-58.757377470,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
+-34.947654188,-58.755499301,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,2,Sin Datos
+-34.941418633,-58.768169740,12,media,Edenor,Marcos Paz,Marcos Paz,S/D,R:El Pino/353-Tr1/353-5517,1,Sin Datos
+-34.383834487,-58.827280141,12,media,Edenor,Escobar,Matheu,S/D,R:Matheu/51-Tr2/51-5523,188,2023-03-08 05:00
+-34.483889525,-58.614705541,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr2/157-5524,216,2023-03-08 05:00
+-34.461792295,-58.612759144,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,561,2023-03-08 05:00
+-34.458824683,-58.607058565,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,232,2023-03-08 05:00
+-34.460066160,-58.609591333,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,432,2023-03-08 05:00
+-34.463851150,-58.611140507,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,182,2023-03-08 05:00
+-34.469683355,-58.606555172,12,media,Edenor,Tigre,Troncos Del Talar,S/D,R:Bancalari/157-Tr2/157-5524,186,2023-03-08 05:00
+-34.514123910,-58.505068859,12,media,Edenor,Vicente Lopez,Florida,S/D,R:Vicente Lopez/50-Tr1/50-5513,598,2023-03-08 05:00
 -34.4142,-58.8327,22,baja,Edenor,Pilar,Villa Rosa,,,31,
 -34.7201,-58.7282,22,baja,Edenor,Merlo,Pontevedra,,,20,
 -34.5878,-58.5045,22,baja,Edenor,Capital Federal,Villa Pueyrred?N,,,16,
@@ -154,7 +148,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.5931,-58.5081,21,baja,Edesur,Capital,Capital,,,6,
 -34.631,-58.4585,21,baja,Edesur,Capital,Flores,,,15,
 -34.806,-58.2181,21,baja,Edesur,Berazategui,Sourigues,,,18,
--34.6321,-58.4023,21,baja,Edesur,Capital,Parque Patricios,,,6,
+-34.6321,-58.4023,21,baja,Edesur,Capital,Parque Patricios,,,7,
 -34.6222,-58.4459,21,baja,Edesur,Capital,Caballito,,,10,
 -34.6798,-58.4889,21,baja,Edesur,Capital,Villa Lugano,,,17,
 -34.604,-58.4142,21,baja,Edesur,Capital,Almagro,,,8,
@@ -176,6 +170,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6071,-58.522,21,baja,Edesur,Capital,Villa Devoto,,,13,
 -34.7663,-58.3851,21,baja,Edesur,Lomas De Zamora,Temperley,,,43,
 -34.7504,-58.4121,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,7,
--34.7516,-58.3834,21,baja,Edesur,Lomas De Zamora,Bandfield,,,22,
--34.6166,-58.5283,21,baja,Edesur,Capital,Capital,,,11,
--34.6159,-58.5283,21,baja,Edesur,Capital,Capital,,,2,
+-34.7516,-58.3834,21,baja,Edesur,Lomas De Zamora,Bandfield,,,23,
+-34.6166,-58.5283,21,baja,Edesur,Capital,Capital,,,12,
+-34.6159,-58.5283,21,baja,Edesur,Capital,Capital,,,3,
