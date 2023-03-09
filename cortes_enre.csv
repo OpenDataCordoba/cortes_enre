@@ -7,14 +7,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.609320759,-58.387930869,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-1-14/023-1-14,2,2023-03-09 06:42
 -34.648239058,-58.425543417,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,4,2023-03-09 08:36
 -34.649528086,-58.426923988,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,36,2023-03-09 08:36
--34.647684923,-58.433992167,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,225,2023-03-09 08:36
 -34.647767696,-58.431536061,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,520,2023-03-09 08:36
--34.647039903,-58.435646913,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,198,2023-03-09 08:36
--34.649336034,-58.436139142,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,307,2023-03-09 08:36
--34.650858262,-58.429855985,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,74,2023-03-09 08:36
--34.649625506,-58.438078362,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,195,2023-03-09 08:36
--34.649606593,-58.438053098,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,164,2023-03-09 08:36
--34.650263414,-58.438934396,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,67,2023-03-09 08:36
 -34.626341390,-58.453143509,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-4-48/218-4-48,72,2023-03-09 07:58
 -34.626662524,-58.451495157,11,media,Edesur,Capital Rp,Caballito Rp,Alberdi,R:218-4-48/218-4-48,453,2023-03-09 07:58
 -34.627763771,-58.457312327,11,media,Edesur,Capital Rp,Flores Rp,Alberdi,R:218-4-48/218-4-48,171,2023-03-09 07:58
@@ -36,15 +29,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.631325894,-58.462527381,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-4-48/218-4-48,354,2023-03-09 07:58
 -34.630729442,-58.462301414,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-4-48/218-4-48,2,2023-03-09 07:58
 -34.630722458,-58.460578248,11,media,Edesur,Capital Gp,Flores Gp,Alberdi,R:218-4-48/218-4-48,185,2023-03-09 07:58
--34.683641592,-58.513837451,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5521,71,2023-03-09 05:00
--34.466602729,-58.679988989,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Talar/58-Tr4/58-5548,1,2023-03-09 04:00
+-34.627424083,-58.459344481,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,N:048-3-39/048-3-39,504,2023-03-09 08:20
+-34.630279898,-58.459238251,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,N:048-3-39/048-3-39,80,2023-03-09 08:20
+-34.630843071,-58.459424311,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,N:048-3-39/048-3-39,330,2023-03-09 08:20
+-34.630985341,-58.461386823,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,N:048-3-39/048-3-39,177,2023-03-09 08:20
+-34.630994365,-58.461417092,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,N:048-3-39/048-3-39,524,2023-03-09 08:20
+-34.631325894,-58.462527381,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,N:048-3-39/048-3-39,354,2023-03-09 08:20
+-34.630729442,-58.462301414,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,N:048-3-39/048-3-39,2,2023-03-09 08:20
+-34.630722458,-58.460578248,11,media,Edesur,Capital Gp,Flores Gp,Perito Moreno,N:048-3-39/048-3-39,185,2023-03-09 08:20
+-34.683641592,-58.513837451,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5521,71,Sin Datos
+-34.466602729,-58.679988989,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Talar/58-Tr4/58-5548,1,Sin Datos
+-34.916175970,-58.953154331,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr3/363-5472/132-5522,2,Sin Datos
 -34.4657,-58.555,22,baja,Edenor,San Fernando,Victoria,,,4,
 -34.6505,-58.6207,22,baja,Edenor,Moron,Moron,,,5,
 -34.5805,-58.4573,22,baja,Edenor,Capital Federal,Colegiales,,,12,
 -34.5464,-58.7082,22,baja,Edenor,San Miguel,San Miguel,,,39,
 -34.5661,-58.6906,22,baja,Edenor,San Miguel,Bella Vista,,,5,
 -34.5542,-58.4927,22,baja,Edenor,Capital Federal,Saavedra,,,9,
--34.5502,-58.6967,22,baja,Edenor,San Miguel,Muñiz,,,96,
 -34.5314,-58.7612,22,baja,Edenor,Jose C Paz,Jose C Paz,,,4,
 -34.4481,-58.9451,22,baja,Edenor,Pilar,Pilar,,,25,
 -34.671,-58.6533,22,baja,Edenor,Moron,Castelar,,,5,
@@ -58,6 +59,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6078,-58.9434,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,17,
 -34.5511,-58.7555,22,baja,Edenor,Jose C Paz,Jose C Paz,,,24,
 -34.4565,-58.5701,22,baja,Edenor,San Fernando,San Fernando,,,9,
+-34.4798,-58.7088,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,1,
 -34.6447,-58.3792,21,baja,Edesur,Capital,Barracas,,,14,
 -34.6253,-58.4544,21,baja,Edesur,Capital,Flores,,,29,
 -34.6385,-58.434,21,baja,Edesur,Capital,Parque Chacabuco,,,48,
@@ -80,10 +82,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6528,-58.4753,21,baja,Edesur,Capital,Parque Avellaneda,,,5,
 -34.6543,-58.3463,21,baja,Edesur,Avellaneda,Dock Sud,,,4,
 -34.6189,-58.3733,21,baja,Edesur,Capital,San Telmo,,,26,
--34.7845,-58.1747,21,baja,Edesur,Berazategui,Platanos,,,5,
+-34.7845,-58.1747,21,baja,Edesur,Berazategui,Platanos,,,6,
 -34.6457,-58.4222,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
 -34.7663,-58.4002,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,45,
--34.6674,-58.3819,21,baja,Edesur,Avellaneda,Avellaneda,,,29,
+-34.6668,-58.3806,21,baja,Edesur,Avellaneda,Avellaneda,,,29,
 -34.7023,-58.3925,21,baja,Edesur,Lanus,Lanus,,,44,
 -34.8059,-58.3896,21,baja,Edesur,Almirante Brown,Adrogue,,,17,
 -34.6913,-58.4165,21,baja,Edesur,Lanus,Lanus,,,2,
