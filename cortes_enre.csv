@@ -4,20 +4,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.781275520,-58.167129452,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28,38,2023-03-09 06:42
 -34.781083808,-58.169286354,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28,320,2023-03-09 06:42
 -34.628387505,-58.434378202,11,media,Edesur,Capital Rp,Parque Chacabuco,Caballito,R:122-1-17/122-1-17,467,2023-03-09 06:42
--34.806971392,-58.460196329,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,452,2023-03-09 06:41
--34.803365028,-58.460476438,11,media,Edesur,Esteban Echeverria,Luis Guillon,Santa Catalina,R:182-1-17/182-1-17/182-4-45,343,2023-03-09 06:41
--34.810662444,-58.475963936,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,447,2023-03-09 06:41
--34.803494485,-58.478761659,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,482,2023-03-09 06:41
--34.811791406,-58.462193943,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,248,2023-03-09 06:41
--34.806297826,-58.471651724,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,365,2023-03-09 06:41
--34.799448283,-58.479841164,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,424,2023-03-09 06:41
--34.805110001,-58.465027077,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,579,2023-03-09 06:41
--34.807919683,-58.474697554,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,27,2023-03-09 06:41
--34.803581186,-58.481418616,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,185,2023-03-09 06:41
--34.800963894,-58.481964504,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,164,2023-03-09 06:41
--34.802020677,-58.477941469,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,186,2023-03-09 06:41
--34.809941389,-58.475680478,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,1,2023-03-09 06:41
--34.800008943,-58.484718384,11,media,Edesur,Esteban Echeverria,Monte Grande,Santa Catalina,R:182-1-17/182-1-17/182-4-45,288,2023-03-09 06:41
 -34.609320759,-58.387930869,11,media,Edesur,Capital Rp,Monserrat,Pozos,R:023-1-14/023-1-14,2,2023-03-09 06:42
 -34.648239058,-58.425543417,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,4,2023-03-09 06:42
 -34.649528086,-58.426923988,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-4-41/039-4-41,36,2023-03-09 06:42
@@ -29,11 +15,10 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.597810783,-58.514937536,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,441,2023-03-09 03:17
 -34.600941739,-58.519923833,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,369,2023-03-09 03:17
 -34.598968649,-58.518555470,11,media,Edesur,Capital Gp,Villa Devoto,Devoto,R:027-1-07/027-1-07,598,2023-03-09 03:17
--34.683641592,-58.513837451,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5521,71,2023-03-09 02:00
--34.466602729,-58.679988989,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Talar/58-Tr4/58-5548,1,2023-03-09 03:00
--34.652005103,-58.793282376,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5526,356,2023-03-09 02:00
--34.453133523,-58.923377739,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,63,2023-03-09 02:00
--34.486773804,-58.622955524,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5511,68,2023-03-09 02:00
+-34.683641592,-58.513837451,12,media,Edenor,La Matanza,La Tablada,S/D,R:Matanza/65-Tr3/65-5521,71,2023-03-09 04:00
+-34.466602729,-58.679988989,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Talar/58-Tr4/58-5548,1,2023-03-09 04:00
+-34.652005103,-58.793282376,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5526,356,2023-03-09 03:00
+-34.453133523,-58.923377739,12,media,Edenor,Pilar,Pilar,S/D,R:Pilar/158-Tr4/158-5481,63,Sin Datos
 -34.4657,-58.555,22,baja,Edenor,San Fernando,Victoria,,,4,
 -34.6505,-58.6207,22,baja,Edenor,Moron,Moron,,,5,
 -34.5805,-58.4573,22,baja,Edenor,Capital Federal,Colegiales,,,12,
@@ -59,22 +44,23 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4719,-58.6855,22,baja,Edenor,Malvinas Argentinas,Pablo Nogues,,,12,
 -34.4627,-58.6631,22,baja,Edenor,Tigre,El Talar,,,4,
 -34.5562,-58.4491,22,baja,Edenor,Capital Federal,Belgrano,,,16,
+-34.493,-58.5137,22,baja,Edenor,San Isidro,Martinez,,,4,
 -34.6447,-58.3792,21,baja,Edesur,Capital,Barracas,,,14,
 -34.6253,-58.4544,21,baja,Edesur,Capital,Flores,,,29,
 -34.6385,-58.434,21,baja,Edesur,Capital,Parque Chacabuco,,,48,
 -34.7217,-58.3769,21,baja,Edesur,Lanus,Remedios De Escalada,,,64,
 -34.6445,-58.4516,21,baja,Edesur,Capital,Flores,,,39,
 -34.8126,-58.3187,21,baja,Edesur,Florencio Varela,Florencio Varela,,,20,
--34.643,-58.3877,21,baja,Edesur,Capital,Barracas,,,39,
--34.632,-58.3612,21,baja,Edesur,Capital,La Boca,,,46,
+-34.6458,-58.4976,21,baja,Edesur,Capital,Mataderos,,,39,
+-34.643,-58.3876,21,baja,Edesur,Capital,Barracas,,,39,
+-34.6318,-58.3616,21,baja,Edesur,Capital,La Boca,,,46,
 -34.6037,-58.3913,21,baja,Edesur,Capital,San Nicolas,,,12,
--34.6705,-58.504,21,baja,Edesur,Capital,Capital,,,22,
+-34.6705,-58.504,21,baja,Edesur,Capital,Capital,,,23,
 -34.596,-58.4401,21,baja,Edesur,Capital,Capital,,,23,
 -34.6355,-58.3895,21,baja,Edesur,Capital,Barracas,,,15,
 -34.6169,-58.5148,21,baja,Edesur,Capital,Villa Devoto,,,34,
 -34.6548,-58.4065,21,baja,Edesur,Capital,Nueva Pompeya,,,12,
 -34.6329,-58.5191,21,baja,Edesur,Capital,Versalles,,,78,
--34.6114,-58.4684,21,baja,Edesur,Capital,Villa General Mitre,,,63,
 -34.7595,-58.332,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,15,
 -34.6411,-58.4799,21,baja,Edesur,Capital,Parque Avellaneda,,,5,
 -34.6543,-58.3463,21,baja,Edesur,Avellaneda,Dock Sud,,,4,
@@ -82,9 +68,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7845,-58.1747,21,baja,Edesur,Berazategui,Platanos,,,5,
 -34.6457,-58.4222,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
 -34.7663,-58.4002,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,45,
--34.6674,-58.3819,21,baja,Edesur,Avellaneda,Avellaneda,,,28,
+-34.6676,-58.3816,21,baja,Edesur,Avellaneda,Avellaneda,,,29,
 -34.7023,-58.3925,21,baja,Edesur,Lanus,Lanus,,,44,
--34.8059,-58.3896,21,baja,Edesur,Almirante Brown,Adrogue,,,16,
+-34.8059,-58.3896,21,baja,Edesur,Almirante Brown,Adrogue,,,17,
 -34.6913,-58.4165,21,baja,Edesur,Lanus,Lanus,,,2,
 -34.8123,-58.4211,21,baja,Edesur,Lomas De Zamora,Lavallol,,,3,
 -34.7383,-58.4009,21,baja,Edesur,Lomas De Zamora,Bandfield,,,16,
@@ -112,4 +98,4 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6162,-58.4584,21,baja,Edesur,Capital,Caballito,,,11,
 -34.6317,-58.4672,21,baja,Edesur,Capital,Flores,,,7,
 -34.6312,-58.4656,21,baja,Edesur,Capital,Flores,,,25,
--34.7819,-58.482,21,baja,Edesur,Esteban Echeverria,9 De Abril,,,6,
+-34.6259,-58.4513,21,baja,Edesur,Capital,Caballito,,,6,
