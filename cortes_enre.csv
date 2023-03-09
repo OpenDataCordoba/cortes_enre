@@ -137,11 +137,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2023-03-09 21:00
 -34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-03-09 21:00
 -34.358701975,-58.501745977,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,2023-03-09 21:00
--34.429314086,-58.717239909,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,3,2023-03-09 21:00
--34.430048569,-58.720459494,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,1,2023-03-09 21:00
--34.429904938,-58.715985066,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,2,2023-03-09 21:00
--34.430949342,-58.715482222,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,1,2023-03-09 21:00
--34.428359726,-58.719853845,12,media,Edenor,Escobar,Escobar,S/D,R:Benavidez/59-Tr1/59-5518,1,2023-03-09 21:00
+-34.429314086,-58.717239909,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,3,2023-03-09 22:00
+-34.430048569,-58.720459494,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,1,2023-03-09 22:00
+-34.429904938,-58.715985066,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,2,2023-03-09 22:00
+-34.430949342,-58.715482222,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,1,2023-03-09 22:00
+-34.428359726,-58.719853845,12,media,Edenor,Escobar,Escobar,S/D,R:Benavidez/59-Tr1/59-5518,1,2023-03-09 22:00
 -34.7059,-58.544,22,baja,Edenor,La Matanza,Ciudad Evita,,,80,
 -34.6976,-58.4991,22,baja,Edenor,La Matanza,Villa Madero,,,27,
 -34.7096,-58.4765,22,baja,Edenor,La Matanza,Villa Madero,,,42,
@@ -165,7 +165,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6694,-58.7024,22,baja,Edenor,Merlo,San Antonio De Padua,,,14,
 -34.6029,-59.0561,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,
 -34.6447,-58.3792,21,baja,Edesur,Capital,Barracas,,,15,
--34.643,-58.3876,21,baja,Edesur,Capital,Barracas,,,33,
+-34.643,-58.3876,21,baja,Edesur,Capital,Barracas,,,32,
 -34.6318,-58.3616,21,baja,Edesur,Capital,La Boca,,,66,
 -34.627,-58.4475,21,baja,Edesur,Capital,Caballito,,,2,
 -34.6355,-58.3895,21,baja,Edesur,Capital,Barracas,,,15,
@@ -203,14 +203,15 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6603,-58.4386,21,baja,Edesur,Capital,Villa Soldati,,,23,
 -34.755,-58.1977,21,baja,Edesur,Berazategui,Berazategui,,,7,
 -34.6332,-58.4677,21,baja,Edesur,Capital,Flores,,,1,
--34.6112,-58.4207,21,baja,Edesur,Capital,Almagro,,,10,
+-34.6112,-58.4207,21,baja,Edesur,Capital,Almagro,,,11,
 -34.6099,-58.5187,21,baja,Edesur,Capital,Villa Devoto,,,14,
 -34.612,-58.4716,21,baja,Edesur,Capital,Capital,,,22,
+-34.8162,-58.433,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,
 -34.7655,-58.3999,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,10,
 -34.5998,-58.4906,21,baja,Edesur,Capital,Capital,,,1,
 -34.8018,-58.3332,21,baja,Edesur,Almirante Brown,Claypole,,,3,
 -34.6028,-58.441,21,baja,Edesur,Capital,Villa Crespo,,,5,
--34.8152,-58.4369,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,
+-34.8157,-58.4361,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,
 -34.6402,-58.4187,21,baja,Edesur,Capital,Nueva Pompeya,,,4,
 -34.6453,-58.4253,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
 -34.6331,-58.4877,21,baja,Edesur,Capital,Velez Sarfield,,,8,
@@ -218,8 +219,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.9165,-58.3732,21,baja,Edesur,Pte Peron,Guernica,,,9,
 -34.6061,-58.4971,21,baja,Edesur,Capital,Capital,,,8,
 -34.7621,-58.3493,21,baja,Edesur,Almirante Brown,San Jose,,,9,
--34.7333,-58.3008,21,baja,Edesur,Quilmes,Quilmes,,,5,
--34.6737,-58.4818,21,baja,Edesur,Capital,Villa Lugano,,,18,
+-34.7281,-58.4366,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,2,
+-34.7333,-58.3008,21,baja,Edesur,Quilmes,Quilmes,,,6,
+-34.6737,-58.4818,21,baja,Edesur,Capital,Villa Lugano,,,19,
 -34.7258,-58.4307,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,2,
 -34.6798,-58.3928,21,baja,Edesur,Lanus,Gerli,,,1,
--34.6194,-58.4428,21,baja,Edesur,Capital,Caballito,,,8,
+-34.6194,-58.4428,21,baja,Edesur,Capital,Caballito,,,12,
