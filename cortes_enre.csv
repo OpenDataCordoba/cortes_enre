@@ -13,8 +13,9 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.659388478,-58.516358258,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,402,2023-03-10 04:30
 -34.657592858,-58.522901139,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,97,2023-03-10 04:30
 -34.656183088,-58.518198590,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,448,2023-03-10 04:30
--34.640363142,-58.480742403,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-26/048-2-26,272,2023-03-10 07:30
--34.798056802,-58.424010869,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,330,2023-03-10 07:12
+-34.792652642,-58.422023661,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,351,2023-03-10 07:12
+-34.795801082,-58.420102855,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,413,2023-03-10 07:12
+-34.788054836,-58.420005526,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,1,2023-03-10 07:12
 -34.370176840,-58.507001024,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
 -34.388586706,-58.530575065,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
 -34.376694308,-58.522460244,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,Sin Datos
@@ -125,8 +126,8 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,Sin Datos
 -34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
 -34.358701975,-58.501745977,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,Sin Datos
--34.688184172,-58.499855246,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5536,469,Sin Datos
--34.580605510,-58.458142825,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5564,98,Sin Datos
+-34.688184172,-58.499855246,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5536,469,2023-03-10 03:00
+-34.580605510,-58.458142825,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5564,98,2023-03-10 03:00
 -34.5907,-58.4032,22,baja,Edenor,Capital Federal,Recoleta,,,61,
 -34.5772,-58.4334,22,baja,Edenor,Capital Federal,Palermo,,,10,
 -34.6092,-58.9699,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,16,
@@ -138,6 +139,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.4393,-58.7728,22,baja,Edenor,Pilar,Manuel Alberti,,,11,
 -34.5818,-58.4309,22,baja,Edenor,Capital Federal,Palermo,,,4,
 -34.6858,-58.5037,22,baja,Edenor,La Matanza,Villa Madero,,,7,
+-34.4784,-58.9209,22,baja,Edenor,Pilar,Pilar,,,5,
 -34.6318,-58.3616,21,baja,Edesur,Capital,La Boca,,,70,
 -34.627,-58.4475,21,baja,Edesur,Capital,Caballito,,,3,
 -34.6457,-58.4436,21,baja,Edesur,Capital,Flores,,,12,
@@ -176,13 +178,11 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.755,-58.1977,21,baja,Edesur,Berazategui,Berazategui,,,7,
 -34.6332,-58.4677,21,baja,Edesur,Capital,Flores,,,1,
 -34.651,-58.502,21,baja,Edesur,Capital,Capital,,,63,
--34.7671,-58.3993,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,39,
 -34.7491,-58.4342,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,14,
 -34.7626,-58.4416,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,16,
 -34.612,-58.4716,21,baja,Edesur,Capital,Capital,,,19,
 -34.8162,-58.433,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,
 -34.8018,-58.3332,21,baja,Edesur,Almirante Brown,Claypole,,,3,
--34.6259,-58.4234,21,baja,Edesur,Capital,Boedo,,,71,
 -34.6028,-58.441,21,baja,Edesur,Capital,Villa Crespo,,,6,
 -34.6331,-58.4877,21,baja,Edesur,Capital,Velez Sarfield,,,10,
 -34.9165,-58.3732,21,baja,Edesur,Pte Peron,Guernica,,,10,
