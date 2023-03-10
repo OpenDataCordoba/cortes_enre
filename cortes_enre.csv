@@ -1,16 +1,4 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.626341390,-58.453143509,11,media,Edesur,Capital Rp,Caballito Rp,Perito Moreno,R:048-3-39/048-3-39,72,Sin Datos
--34.627763771,-58.457312327,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-39/048-3-39,171,Sin Datos
--34.625513444,-58.451485250,11,media,Edesur,Capital Rp,Caballito Rp,Perito Moreno,R:048-3-39/048-3-39,63,Sin Datos
--34.626388507,-58.454069179,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-39/048-3-39,281,Sin Datos
--34.627163374,-58.453713146,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-39/048-3-39,392,Sin Datos
--34.628031882,-58.452587616,11,media,Edesur,Capital Rp,Caballito Rp,Perito Moreno,R:048-3-39/048-3-39,64,Sin Datos
--34.627962817,-58.457216816,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-39/048-3-39,70,Sin Datos
--34.627974916,-58.457206759,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-39/048-3-39,2,Sin Datos
--34.627554242,-58.458168327,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-39/048-3-39,135,Sin Datos
--34.628119621,-58.459490692,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-39/048-3-39,335,Sin Datos
--34.627875232,-58.458510488,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-39/048-3-39,364,Sin Datos
--34.627424083,-58.459344481,11,media,Edesur,Capital Rp,Flores Rp,Perito Moreno,R:048-3-39/048-3-39,504,Sin Datos
 -34.641358818,-58.422566194,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-14/039-1-14,252,2023-03-10 00:08
 -34.644218431,-58.424121043,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-14/039-1-14,1,2023-03-10 00:08
 -34.663364066,-58.514373993,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,178,2023-03-10 00:57
@@ -25,203 +13,203 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.659388478,-58.516358258,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,402,2023-03-10 00:57
 -34.657592858,-58.522901139,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,97,2023-03-10 00:57
 -34.656183088,-58.518198590,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,448,2023-03-10 00:57
--34.466602729,-58.679988989,12,media,Edenor,Tigre,Ricardo Rojas,S/D,R:Talar/58-Tr4/58-5548,1,2023-03-09 22:00
--34.497454907,-58.557531068,12,media,Edenor,San Isidro,Boulogne,S/D,R:Boulogne/56-Tr2/56-5528,287,2023-03-09 21:00
--34.370176840,-58.507001024,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.388586706,-58.530575065,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.376694308,-58.522460244,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,2023-03-09 21:00
--34.374640247,-58.519237459,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-03-09 21:00
--34.370482834,-58.518480512,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2023-03-09 21:00
--34.374981789,-58.502151714,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2023-03-09 21:00
--34.334880174,-58.531719482,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.312360045,-58.540663126,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2023-03-09 21:00
--34.324417071,-58.500087163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-03-09 21:00
--34.332542105,-58.511704574,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2023-03-09 21:00
--34.333695285,-58.505274792,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.318723988,-58.534047967,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2023-03-09 21:00
--34.374163371,-58.496356393,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.334334907,-58.506572832,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-03-09 21:00
--34.314133371,-58.532329527,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.338691022,-58.485684972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.322946864,-58.498039400,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.377936230,-58.560674031,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.333759160,-58.513133316,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.360200204,-58.502092390,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,19,2023-03-09 21:00
--34.340112465,-58.558238816,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,19,2023-03-09 21:00
--34.385399832,-58.530822252,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-03-09 21:00
--34.385944708,-58.565710142,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,21,2023-03-09 21:00
--34.314930035,-58.534574950,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.307593565,-58.536181417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2023-03-09 21:00
--34.307000075,-58.533444764,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.329437865,-58.532678739,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.309043526,-58.544577576,12,media,Edenor,Tigre,Nordelta,S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.391026786,-58.527208227,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,2023-03-09 21:00
--34.346232372,-58.546970649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.350199669,-58.546682841,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.339572210,-58.548099543,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.389682060,-58.536411663,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2023-03-09 21:00
--34.332016063,-58.504031129,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.361105904,-58.504742578,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.344220203,-58.547253039,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.355155193,-58.546018898,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,2023-03-09 21:00
--34.330860214,-58.552270029,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.363663850,-58.513655480,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.349839831,-58.513975754,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.368877236,-58.515236833,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.392386918,-58.528332590,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.340255048,-58.524269418,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.383753230,-58.561234587,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,50,2023-03-09 21:00
--34.355531333,-58.507599860,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,18,2023-03-09 21:00
--34.363500433,-58.506441727,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2023-03-09 21:00
--34.386920225,-58.533039131,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,2023-03-09 21:00
--34.380604520,-58.573805257,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,36,2023-03-09 21:00
--34.354074002,-58.508686290,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,13,2023-03-09 21:00
--34.378698891,-58.558434137,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,22,2023-03-09 21:00
--34.383610985,-58.559065579,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,136,2023-03-09 21:00
--34.382624372,-58.568486802,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,24,2023-03-09 21:00
--34.384658764,-58.565380986,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,41,2023-03-09 21:00
--34.371819829,-58.559269704,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,66,2023-03-09 21:00
--34.377910665,-58.552755884,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,17,2023-03-09 21:00
--34.376650887,-58.555527699,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,73,2023-03-09 21:00
--34.351197130,-58.512102115,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2023-03-09 21:00
--34.382421115,-58.546167989,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,22,2023-03-09 21:00
--34.385316807,-58.539023315,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.380150124,-58.554298598,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,66,2023-03-09 21:00
--34.374802752,-58.561318110,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,60,2023-03-09 21:00
--34.360603384,-58.567504491,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,41,2023-03-09 21:00
--34.355560015,-58.536888192,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,49,2023-03-09 21:00
--34.363075184,-58.536677673,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,37,2023-03-09 21:00
--34.356089724,-58.544381255,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2023-03-09 21:00
--34.360294221,-58.542173707,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,37,2023-03-09 21:00
--34.371436758,-58.535079850,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,2023-03-09 21:00
--34.368785187,-58.529725781,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,37,2023-03-09 21:00
--34.366107119,-58.540591065,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2023-03-09 21:00
--34.377794604,-58.533609302,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,35,2023-03-09 21:00
--34.376986756,-58.536397505,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,17,2023-03-09 21:00
--34.383225651,-58.534284649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,2023-03-09 21:00
--34.310103433,-58.568834025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,20,2023-03-09 21:00
--34.317862670,-58.569567150,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,34,2023-03-09 21:00
--34.326597930,-58.570576060,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,52,2023-03-09 21:00
--34.333912958,-58.566836525,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,2023-03-09 21:00
--34.334510690,-58.560064499,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,2023-03-09 21:00
--34.343301836,-58.559795143,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,31,2023-03-09 21:00
--34.350168312,-58.561782146,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2023-03-09 21:00
--34.359251263,-58.564853698,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,19,2023-03-09 21:00
--34.348039240,-58.520354199,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.368076225,-58.526337946,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,40,2023-03-09 21:00
--34.344643564,-58.539733042,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2023-03-09 21:00
--34.346964484,-58.544322653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,34,2023-03-09 21:00
--34.362057191,-58.528363539,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2023-03-09 21:00
--34.353554378,-58.527616688,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.343562351,-58.528714123,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,22,2023-03-09 21:00
--34.386682551,-58.537391627,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,2023-03-09 21:00
--34.386960077,-58.545413057,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.393803439,-58.526736291,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,17,2023-03-09 21:00
--34.331976472,-58.561379420,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,2023-03-09 21:00
--34.329937255,-58.562364929,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2023-03-09 21:00
--34.325895749,-58.533813765,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,13,2023-03-09 21:00
--34.330837689,-58.539219460,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,2023-03-09 21:00
--34.339471299,-58.540744990,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,2023-03-09 21:00
--34.345416270,-58.519823795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-03-09 21:00
--34.345790391,-58.517667483,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-03-09 21:00
--34.345976349,-58.524159342,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,2023-03-09 21:00
--34.380504053,-58.549287934,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2023-03-09 21:00
--34.361090902,-58.510236246,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2023-03-09 21:00
--34.365763835,-58.509026274,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,2023-03-09 21:00
--34.373340752,-58.504100597,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,2023-03-09 21:00
--34.377546903,-58.499740290,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-03-09 21:00
--34.343648755,-58.521164712,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,2023-03-09 21:00
--34.335556818,-58.527011012,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,2023-03-09 21:00
--34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,2023-03-09 21:00
--34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,2023-03-09 21:00
--34.358701975,-58.501745977,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,2023-03-09 21:00
--34.429314086,-58.717239909,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,3,2023-03-09 22:00
--34.430048569,-58.720459494,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,1,2023-03-09 22:00
--34.429904938,-58.715985066,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,2,2023-03-09 22:00
--34.430949342,-58.715482222,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,1,2023-03-09 22:00
--34.428359726,-58.719853845,12,media,Edenor,Escobar,Escobar,S/D,R:Benavidez/59-Tr1/59-5518,1,2023-03-09 22:00
--34.7059,-58.544,22,baja,Edenor,La Matanza,Ciudad Evita,,,80,
--34.6976,-58.4991,22,baja,Edenor,La Matanza,Villa Madero,,,27,
+-34.640741126,-58.479599343,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-26/048-2-26,709,2023-03-10 07:58
+-34.640363142,-58.480742403,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-26/048-2-26,272,2023-03-10 07:58
+-34.642598415,-58.481910877,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-26/048-2-26,345,2023-03-10 07:58
+-34.638900264,-58.484863334,11,media,Edesur,Capital Gp,Velez Sarfield,Perito Moreno,R:048-2-26/048-2-26,788,2023-03-10 07:58
+-34.642478698,-58.483653391,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-26/048-2-26,477,2023-03-10 07:58
+-34.642674294,-58.482207389,11,media,Edesur,Capital Gp,Parque Avellaneda,Perito Moreno,R:048-2-26/048-2-26,212,2023-03-10 07:58
+-34.638839002,-58.484659628,11,media,Edesur,Capital Gp,Velez Sarfield,Perito Moreno,R:048-2-26/048-2-26,1,2023-03-10 07:58
+-34.640713735,-58.487367689,11,media,Edesur,Capital Gp,Velez Sarfield,Perito Moreno,R:048-2-26/048-2-26,4,2023-03-10 07:58
+-34.696017779,-58.341941004,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-26/172-2-26,662,2023-03-10 09:37
+-34.704618149,-58.332306799,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-26/172-2-26,509,2023-03-10 09:37
+-34.698019270,-58.340486879,11,media,Edesur,Avellaneda,Villa Dominico,Sarandi,R:172-2-26/172-2-26,1,2023-03-10 09:37
+-34.370176840,-58.507001024,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.388586706,-58.530575065,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.376694308,-58.522460244,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,Sin Datos
+-34.374640247,-58.519237459,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
+-34.370482834,-58.518480512,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,Sin Datos
+-34.374981789,-58.502151714,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,Sin Datos
+-34.334880174,-58.531719482,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.312360045,-58.540663126,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,Sin Datos
+-34.324417071,-58.500087163,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.317637192,-58.519044119,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
+-34.332542105,-58.511704574,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,Sin Datos
+-34.333695285,-58.505274792,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.318723988,-58.534047967,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,Sin Datos
+-34.374163371,-58.496356393,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.312871793,-58.512384830,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.334334907,-58.506572832,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
+-34.314133371,-58.532329527,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.338691022,-58.485684972,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.322946864,-58.498039400,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.377936230,-58.560674031,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.333759160,-58.513133316,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.360200204,-58.502092390,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,19,Sin Datos
+-34.340112465,-58.558238816,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,19,Sin Datos
+-34.385399832,-58.530822252,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
+-34.385944708,-58.565710142,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,21,Sin Datos
+-34.314930035,-58.534574950,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.307593565,-58.536181417,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,Sin Datos
+-34.307000075,-58.533444764,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.329437865,-58.532678739,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.309043526,-58.544577576,12,media,Edenor,Tigre,Nordelta,S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.391026786,-58.527208227,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,Sin Datos
+-34.346232372,-58.546970649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.350199669,-58.546682841,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.339572210,-58.548099543,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.389682060,-58.536411663,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,Sin Datos
+-34.332016063,-58.504031129,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.361105904,-58.504742578,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.344220203,-58.547253039,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.355155193,-58.546018898,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,Sin Datos
+-34.330860214,-58.552270029,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.363663850,-58.513655480,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.349839831,-58.513975754,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.368877236,-58.515236833,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.392386918,-58.528332590,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.340255048,-58.524269418,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.383753230,-58.561234587,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,50,Sin Datos
+-34.355531333,-58.507599860,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,18,Sin Datos
+-34.363500433,-58.506441727,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,Sin Datos
+-34.386920225,-58.533039131,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,Sin Datos
+-34.380604520,-58.573805257,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,36,Sin Datos
+-34.354074002,-58.508686290,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,13,Sin Datos
+-34.378698891,-58.558434137,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,22,Sin Datos
+-34.383610985,-58.559065579,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,136,Sin Datos
+-34.382624372,-58.568486802,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,24,Sin Datos
+-34.384658764,-58.565380986,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,41,Sin Datos
+-34.371819829,-58.559269704,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,66,Sin Datos
+-34.377910665,-58.552755884,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,17,Sin Datos
+-34.376650887,-58.555527699,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,73,Sin Datos
+-34.351197130,-58.512102115,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,Sin Datos
+-34.382421115,-58.546167989,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,22,Sin Datos
+-34.385316807,-58.539023315,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.380150124,-58.554298598,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,66,Sin Datos
+-34.374802752,-58.561318110,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,60,Sin Datos
+-34.360603384,-58.567504491,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,41,Sin Datos
+-34.355560015,-58.536888192,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,49,Sin Datos
+-34.363075184,-58.536677673,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,37,Sin Datos
+-34.356089724,-58.544381255,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,Sin Datos
+-34.360294221,-58.542173707,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,37,Sin Datos
+-34.371436758,-58.535079850,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,11,Sin Datos
+-34.368785187,-58.529725781,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,37,Sin Datos
+-34.366107119,-58.540591065,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,Sin Datos
+-34.377794604,-58.533609302,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,35,Sin Datos
+-34.376986756,-58.536397505,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,17,Sin Datos
+-34.383225651,-58.534284649,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,Sin Datos
+-34.310103433,-58.568834025,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,20,Sin Datos
+-34.317862670,-58.569567150,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,34,Sin Datos
+-34.326597930,-58.570576060,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,52,Sin Datos
+-34.333912958,-58.566836525,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,Sin Datos
+-34.334510690,-58.560064499,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,Sin Datos
+-34.343301836,-58.559795143,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,31,Sin Datos
+-34.350168312,-58.561782146,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,Sin Datos
+-34.359251263,-58.564853698,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,19,Sin Datos
+-34.348039240,-58.520354199,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.368076225,-58.526337946,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,40,Sin Datos
+-34.344643564,-58.539733042,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,Sin Datos
+-34.346964484,-58.544322653,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,34,Sin Datos
+-34.362057191,-58.528363539,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,Sin Datos
+-34.353554378,-58.527616688,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.343562351,-58.528714123,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,22,Sin Datos
+-34.386682551,-58.537391627,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,5,Sin Datos
+-34.386960077,-58.545413057,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.393803439,-58.526736291,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,17,Sin Datos
+-34.331976472,-58.561379420,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,4,Sin Datos
+-34.329937255,-58.562364929,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,Sin Datos
+-34.325895749,-58.533813765,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,13,Sin Datos
+-34.330837689,-58.539219460,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,9,Sin Datos
+-34.339471299,-58.540744990,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,6,Sin Datos
+-34.345416270,-58.519823795,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
+-34.345790391,-58.517667483,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
+-34.345976349,-58.524159342,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,Sin Datos
+-34.380504053,-58.549287934,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,Sin Datos
+-34.361090902,-58.510236246,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,Sin Datos
+-34.365763835,-58.509026274,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,12,Sin Datos
+-34.373340752,-58.504100597,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
+-34.377546903,-58.499740290,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
+-34.343648755,-58.521164712,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
+-34.335556818,-58.527011012,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,Sin Datos
+-34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,Sin Datos
+-34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
+-34.358701975,-58.501745977,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,Sin Datos
+-34.429314086,-58.717239909,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,3,Sin Datos
+-34.430048569,-58.720459494,12,media,Edenor,Escobar,Garin,S/D,R:Benavidez/59-Tr1/59-5518,1,Sin Datos
 -34.7096,-58.4765,22,baja,Edenor,La Matanza,Villa Madero,,,42,
 -34.6098,-58.5626,22,baja,Edenor,3 De Febrero,Caseros,,,4,
--34.6298,-58.5662,22,baja,Edenor,Moron,Villa Sarmiento,,,46,
 -34.5907,-58.4032,22,baja,Edenor,Capital Federal,Recoleta,,,61,
 -34.5772,-58.4334,22,baja,Edenor,Capital Federal,Palermo,,,10,
 -34.6092,-58.9699,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,16,
--34.6637,-58.563,22,baja,Edenor,La Matanza,Ramos Mejia,,,6,
--34.519,-58.5764,22,baja,Edenor,Gral San Martin,Gral Eugenio Necochea,,,28,
--34.6579,-58.5658,22,baja,Edenor,La Matanza,Ramos Mejia,,,15,
--34.5874,-58.7499,22,baja,Edenor,Moreno,Trujui,,,12,
 -34.4804,-58.8171,22,baja,Edenor,Pilar,La Lonja,,,8,
--34.6722,-58.6869,22,baja,Edenor,Merlo,San Antonio De Padua,,,25,
--34.6633,-58.5625,22,baja,Edenor,La Matanza,Ramos Mejia,,,29,
--34.5241,-58.5065,22,baja,Edenor,Vicente Lopez,Olivos,,,13,
--34.537,-58.5109,22,baja,Edenor,Vicente Lopez,Florida (Oeste),,,32,
--34.5871,-58.4043,22,baja,Edenor,Capital Federal,Recoleta,,,13,
--34.627,-58.893,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,33,
--34.6059,-58.5307,22,baja,Edenor,3 De Febrero,Villa Raffo,,,46,
--34.6694,-58.7024,22,baja,Edenor,Merlo,San Antonio De Padua,,,14,
--34.6029,-59.0561,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,5,
--34.6447,-58.3792,21,baja,Edesur,Capital,Barracas,,,15,
--34.643,-58.3876,21,baja,Edesur,Capital,Barracas,,,32,
--34.6318,-58.3616,21,baja,Edesur,Capital,La Boca,,,66,
+-34.6425,-58.6531,22,baja,Edenor,Moron,Castelar,,,3,
+-34.6051,-58.9422,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,13,
+-34.4857,-58.7528,22,baja,Edenor,Malvinas Argentinas,Tierras Altas,,,4,
+-34.5353,-58.8154,22,baja,Edenor,Moreno,Cuartel V,,,11,
+-34.7754,-58.6204,22,baja,Edenor,La Matanza,Gonzalez Catan,,,12,
+-34.6451,-58.6399,22,baja,Edenor,Moron,Castelar,,,14,
+-34.6926,-58.5944,22,baja,Edenor,La Matanza,Isidro Casanova,,,27,
+-34.6092,-58.5341,22,baja,Edenor,3 De Febrero,Villa Raffo,,,64,
+-34.4589,-58.6665,22,baja,Edenor,Tigre,Ricardo Rojas,,,8,
+-34.4393,-58.7728,22,baja,Edenor,Pilar,Manuel Alberti,,,4,
+-34.6318,-58.3616,21,baja,Edesur,Capital,La Boca,,,68,
 -34.627,-58.4475,21,baja,Edesur,Capital,Caballito,,,2,
--34.6355,-58.3895,21,baja,Edesur,Capital,Barracas,,,15,
 -34.6457,-58.4436,21,baja,Edesur,Capital,Flores,,,12,
 -34.6189,-58.3733,21,baja,Edesur,Capital,San Telmo,,,28,
 -34.6405,-58.4404,21,baja,Edesur,Capital,Parque Chacabuco,,,20,
--34.632,-58.3911,21,baja,Edesur,Capital,Parque Patricios,,,23,
+-34.632,-58.3911,21,baja,Edesur,Capital,Parque Patricios,,,24,
 -34.6054,-58.4969,21,baja,Edesur,Capital,Villa Del Parque,,,7,
 -34.6905,-58.4675,21,baja,Edesur,Capital,Villa Riachuelo,,,9,
--34.6052,-58.5014,21,baja,Edesur,Capital,Villa Del Parque,,,9,
--34.603,-58.5037,21,baja,Edesur,Capital,Capital,,,24,
+-34.6052,-58.5014,21,baja,Edesur,Capital,Villa Del Parque,,,8,
+-34.603,-58.5037,21,baja,Edesur,Capital,Capital,,,23,
 -34.6397,-58.3629,21,baja,Edesur,Capital,La Boca,,,10,
--34.6128,-58.4715,21,baja,Edesur,Capital,Capital,,,91,
--34.6162,-58.4584,21,baja,Edesur,Capital,Caballito,,,83,
+-34.6128,-58.4715,21,baja,Edesur,Capital,Capital,,,85,
+-34.6042,-58.4119,21,baja,Edesur,Capital,Balvanera,,,30,
 -34.7682,-58.2716,21,baja,Edesur,Quilmes,Ezpeleta,,,51,
--34.6081,-58.455,21,baja,Edesur,Capital,Caballito,,,80,
--34.6255,-58.3725,21,baja,Edesur,Capital,San Telmo,,,17,
--34.6284,-58.4342,21,baja,Edesur,Capital,Parque Chacabuco,,,19,
+-34.6081,-58.455,21,baja,Edesur,Capital,Caballito,,,79,
+-34.6255,-58.3725,21,baja,Edesur,Capital,San Telmo,,,18,
 -34.604,-58.4693,21,baja,Edesur,Capital,Villa General Mitre,,,4,
--34.6113,-58.39,21,baja,Edesur,Capital,Monserrat,,,11,
+-34.6113,-58.39,21,baja,Edesur,Capital,Monserrat,,,10,
 -34.5869,-58.3865,21,baja,Edesur,Capital,Recoleta,,,41,
--34.6485,-58.3833,21,baja,Edesur,Capital,Barracas,,,5,
+-34.6485,-58.3833,21,baja,Edesur,Capital,Barracas,,,14,
 -34.6033,-58.4567,21,baja,Edesur,Capital,Capital,,,5,
--34.6437,-58.4349,21,baja,Edesur,Capital,Parque Chacabuco,,,19,
--34.6431,-58.4011,21,baja,Edesur,Capital,Parque Patricios,,,5,
--34.5944,-58.3857,21,baja,Edesur,Capital,Retiro,,,9,
--34.638,-58.4995,21,baja,Edesur,Capital,Capital,,,34,
+-34.6437,-58.4349,21,baja,Edesur,Capital,Parque Chacabuco,,,25,
+-34.5944,-58.3857,21,baja,Edesur,Capital,Retiro,,,12,
+-34.638,-58.4995,21,baja,Edesur,Capital,Capital,,,42,
 -34.6467,-58.4185,21,baja,Edesur,Capital,Nueva Pompeya,,,15,
--34.6452,-58.4993,21,baja,Edesur,Capital,Mataderos,,,47,
+-34.6452,-58.4993,21,baja,Edesur,Capital,Mataderos,,,46,
 -34.6458,-58.4319,21,baja,Edesur,Capital,Nueva Pompeya,,,27,
--34.805,-58.3999,21,baja,Edesur,Almirante Brown,Adrogue,,,33,
--34.5979,-58.4983,21,baja,Edesur,Capital,Villa Del Parque,,,14,
+-34.805,-58.3999,21,baja,Edesur,Almirante Brown,Adrogue,,,34,
+-34.5979,-58.4983,21,baja,Edesur,Capital,Villa Del Parque,,,15,
 -34.7843,-58.3543,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,5,
--34.6877,-58.4818,21,baja,Edesur,Capital,Capital,,,52,
--34.6603,-58.4386,21,baja,Edesur,Capital,Villa Soldati,,,23,
+-34.6603,-58.4386,21,baja,Edesur,Capital,Villa Soldati,,,25,
+-34.6364,-58.4789,21,baja,Edesur,Capital,Floresta,,,2,
 -34.755,-58.1977,21,baja,Edesur,Berazategui,Berazategui,,,7,
 -34.6332,-58.4677,21,baja,Edesur,Capital,Flores,,,1,
 -34.6112,-58.4207,21,baja,Edesur,Capital,Almagro,,,11,
--34.6099,-58.5187,21,baja,Edesur,Capital,Villa Devoto,,,14,
--34.612,-58.4716,21,baja,Edesur,Capital,Capital,,,22,
--34.8162,-58.433,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,4,
--34.7655,-58.3999,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,10,
--34.5998,-58.4906,21,baja,Edesur,Capital,Capital,,,1,
+-34.6099,-58.5187,21,baja,Edesur,Capital,Villa Devoto,,,15,
+-34.612,-58.4716,21,baja,Edesur,Capital,Capital,,,19,
+-34.8162,-58.433,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,
 -34.8018,-58.3332,21,baja,Edesur,Almirante Brown,Claypole,,,3,
 -34.6028,-58.441,21,baja,Edesur,Capital,Villa Crespo,,,5,
--34.8157,-58.4361,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,
--34.6402,-58.4187,21,baja,Edesur,Capital,Nueva Pompeya,,,4,
+-34.8152,-58.4369,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,5,
+-34.6411,-58.4798,21,baja,Edesur,Capital,Parque Avellaneda,,,6,
+-34.6402,-58.4187,21,baja,Edesur,Capital,Nueva Pompeya,,,7,
 -34.6453,-58.4253,21,baja,Edesur,Capital,Nueva Pompeya,,,1,
--34.6331,-58.4877,21,baja,Edesur,Capital,Velez Sarfield,,,8,
+-34.6331,-58.4877,21,baja,Edesur,Capital,Velez Sarfield,,,10,
 -34.6952,-58.4056,21,baja,Edesur,Lanus,Lanus,,,4,
--34.9165,-58.3732,21,baja,Edesur,Pte Peron,Guernica,,,9,
--34.6061,-58.4971,21,baja,Edesur,Capital,Capital,,,8,
--34.7621,-58.3493,21,baja,Edesur,Almirante Brown,San Jose,,,9,
+-34.9165,-58.3732,21,baja,Edesur,Pte Peron,Guernica,,,10,
+-34.6301,-58.4702,21,baja,Edesur,Capital,Capital,,,7,
+-34.6061,-58.4971,21,baja,Edesur,Capital,Capital,,,12,
 -34.7281,-58.4366,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,2,
 -34.7333,-58.3008,21,baja,Edesur,Quilmes,Quilmes,,,6,
--34.6737,-58.4818,21,baja,Edesur,Capital,Villa Lugano,,,19,
--34.7258,-58.4307,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,2,
--34.6798,-58.3928,21,baja,Edesur,Lanus,Gerli,,,1,
--34.6194,-58.4428,21,baja,Edesur,Capital,Caballito,,,12,
+-34.705,-58.3374,21,baja,Edesur,Avellaneda,Villa Dominico,,,5,
+-34.6737,-58.4818,21,baja,Edesur,Capital,Villa Lugano,,,7,
+-34.7258,-58.4307,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,3,
+-34.6194,-58.4428,21,baja,Edesur,Capital,Caballito,,,27,
+-34.7385,-58.4846,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,
+-34.7696,-58.2851,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,1,
+-34.7717,-58.2933,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,6,
+-34.7391,-58.3278,21,baja,Edesur,Quilmes,Bernal,,,3,
+-34.6873,-58.4828,21,baja,Edesur,Capital,Villa Lugano,,,14,
+-34.6036,-58.5245,21,baja,Edesur,Capital,Villa Devoto,,,1,
