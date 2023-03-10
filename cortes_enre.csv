@@ -13,9 +13,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.659388478,-58.516358258,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,402,2023-03-10 04:30
 -34.657592858,-58.522901139,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,97,2023-03-10 04:30
 -34.656183088,-58.518198590,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,448,2023-03-10 04:30
--34.792652642,-58.422023661,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,351,2023-03-10 07:12
--34.795801082,-58.420102855,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,413,2023-03-10 07:12
--34.788054836,-58.420005526,11,media,Edesur,Lomas De Zamora,Lavallol,Santa Catalina,R:182-1-12/182-1-12,1,2023-03-10 07:12
 -34.370176840,-58.507001024,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
 -34.388586706,-58.530575065,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
 -34.376694308,-58.522460244,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,Sin Datos
@@ -126,8 +123,6 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.329584301,-58.528480359,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,10,Sin Datos
 -34.326400035,-58.529315510,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,2,Sin Datos
 -34.358701975,-58.501745977,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,7,Sin Datos
--34.688184172,-58.499855246,12,media,Edenor,La Matanza,Villa Madero,S/D,R:Tapiales/162-Tr2/162-5536,469,2023-03-10 03:00
--34.580605510,-58.458142825,12,media,Edenor,Capital Federal,Colegiales,S/D,R:Colegiales/46-Tr4/46-5564,98,2023-03-10 03:00
 -34.5907,-58.4032,22,baja,Edenor,Capital Federal,Recoleta,,,61,
 -34.5772,-58.4334,22,baja,Edenor,Capital Federal,Palermo,,,10,
 -34.6092,-58.9699,22,baja,Edenor,Gral Rodriguez,Gral Rodriguez,,,16,
@@ -137,14 +132,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6926,-58.5944,22,baja,Edenor,La Matanza,Isidro Casanova,,,27,
 -34.4589,-58.6665,22,baja,Edenor,Tigre,Ricardo Rojas,,,8,
 -34.4393,-58.7728,22,baja,Edenor,Pilar,Manuel Alberti,,,11,
--34.5818,-58.4309,22,baja,Edenor,Capital Federal,Palermo,,,4,
 -34.6858,-58.5037,22,baja,Edenor,La Matanza,Villa Madero,,,7,
 -34.4784,-58.9209,22,baja,Edenor,Pilar,Pilar,,,5,
--34.6318,-58.3616,21,baja,Edesur,Capital,La Boca,,,70,
+-34.6318,-58.3616,21,baja,Edesur,Capital,La Boca,,,71,
 -34.627,-58.4475,21,baja,Edesur,Capital,Caballito,,,3,
 -34.6457,-58.4436,21,baja,Edesur,Capital,Flores,,,12,
 -34.6189,-58.3733,21,baja,Edesur,Capital,San Telmo,,,28,
--34.6405,-58.4404,21,baja,Edesur,Capital,Parque Chacabuco,,,45,
+-34.6405,-58.4404,21,baja,Edesur,Capital,Parque Chacabuco,,,46,
 -34.632,-58.3911,21,baja,Edesur,Capital,Parque Patricios,,,24,
 -34.6054,-58.4969,21,baja,Edesur,Capital,Villa Del Parque,,,8,
 -34.6905,-58.4675,21,baja,Edesur,Capital,Villa Riachuelo,,,9,
@@ -160,7 +154,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6258,-58.4173,21,baja,Edesur,Capital,Boedo,,,8,
 -34.6522,-58.4724,21,baja,Edesur,Capital,Capital,,,12,
 -34.6113,-58.39,21,baja,Edesur,Capital,Monserrat,,,10,
--34.5869,-58.3865,21,baja,Edesur,Capital,Recoleta,,,41,
+-34.5869,-58.3865,21,baja,Edesur,Capital,Recoleta,,,42,
 -34.7664,-58.3617,21,baja,Edesur,Lomas De Zamora,Temperley,,,15,
 -34.6485,-58.3833,21,baja,Edesur,Capital,Barracas,,,16,
 -34.6313,-58.4821,21,baja,Edesur,Capital,Floresta,,,9,
@@ -170,7 +164,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6452,-58.4993,21,baja,Edesur,Capital,Mataderos,,,46,
 -34.6142,-58.5094,21,baja,Edesur,Capital,Villa Devoto,,,4,
 -34.6023,-58.4133,21,baja,Edesur,Capital,Almagro,,,40,
--34.805,-58.3999,21,baja,Edesur,Almirante Brown,Adrogue,,,35,
+-34.805,-58.3999,21,baja,Edesur,Almirante Brown,Adrogue,,,36,
 -34.5979,-58.4983,21,baja,Edesur,Capital,Villa Del Parque,,,15,
 -34.7843,-58.3543,21,baja,Edesur,Almirante Brown,Rafael Calzada,,,5,
 -34.61,-58.4203,21,baja,Edesur,Capital,Almagro,,,28,
@@ -187,13 +181,13 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6331,-58.4877,21,baja,Edesur,Capital,Velez Sarfield,,,10,
 -34.9165,-58.3732,21,baja,Edesur,Pte Peron,Guernica,,,10,
 -34.7807,-58.1916,21,baja,Edesur,Berazategui,Platanos,,,7,
--34.7281,-58.4366,21,baja,Edesur,Lomas De Zamora,Villa Centenario,,,2,
 -34.705,-58.3374,21,baja,Edesur,Avellaneda,Villa Dominico,,,6,
 -34.6737,-58.4818,21,baja,Edesur,Capital,Villa Lugano,,,7,
 -34.6194,-58.4428,21,baja,Edesur,Capital,Caballito,,,29,
 -34.7385,-58.4846,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,
 -34.7391,-58.3278,21,baja,Edesur,Quilmes,Bernal,,,3,
--34.6873,-58.4828,21,baja,Edesur,Capital,Villa Lugano,,,30,
+-34.6873,-58.4828,21,baja,Edesur,Capital,Villa Lugano,,,31,
 -34.6774,-58.4802,21,baja,Edesur,Capital,Villa Lugano,,,4,
 -34.6036,-58.5245,21,baja,Edesur,Capital,Villa Devoto,,,2,
 -34.6946,-58.3049,21,baja,Edesur,Avellaneda,Wilde,,,16,
+-34.7547,-58.4369,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,11,
