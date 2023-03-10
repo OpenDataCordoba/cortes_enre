@@ -1,17 +1,17 @@
 latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afectados,normalizacion estimada
--34.641358818,-58.422566194,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-14/039-1-14,252,2023-03-10 04:30
--34.644218431,-58.424121043,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-14/039-1-14,1,2023-03-10 04:30
--34.663364066,-58.514373993,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,178,2023-03-10 04:30
--34.657105098,-58.518360753,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,346,2023-03-10 04:30
--34.660316124,-58.513582218,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,373,2023-03-10 04:30
--34.662686977,-58.516148437,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,36,2023-03-10 04:30
--34.662263100,-58.515124332,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,65,2023-03-10 04:30
--34.660064231,-58.517925646,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,368,2023-03-10 04:30
--34.652752664,-58.514605869,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,137,2023-03-10 04:30
--34.653706347,-58.513713968,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,363,2023-03-10 04:30
--34.659388478,-58.516358258,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,402,2023-03-10 04:30
--34.657592858,-58.522901139,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,97,2023-03-10 04:30
--34.656183088,-58.518198590,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,448,2023-03-10 04:30
+-34.641358818,-58.422566194,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-14/039-1-14,252,Sin Datos
+-34.644218431,-58.424121043,11,media,Edesur,Capital Rp,Nueva Pompeya,Pompeya,R:039-1-14/039-1-14,1,Sin Datos
+-34.663364066,-58.514373993,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,178,Sin Datos
+-34.657105098,-58.518360753,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,346,Sin Datos
+-34.660316124,-58.513582218,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,373,Sin Datos
+-34.662686977,-58.516148437,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,36,Sin Datos
+-34.662263100,-58.515124332,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,65,Sin Datos
+-34.660064231,-58.517925646,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,368,Sin Datos
+-34.652752664,-58.514605869,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,137,Sin Datos
+-34.653706347,-58.513713968,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,363,Sin Datos
+-34.659388478,-58.516358258,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,402,Sin Datos
+-34.657592858,-58.522901139,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,97,Sin Datos
+-34.656183088,-58.518198590,11,media,Edesur,Capital Gp,Mataderos,S/D,R:953-1-01/953-1-01,448,Sin Datos
 -34.370176840,-58.507001024,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,1,Sin Datos
 -34.388586706,-58.530575065,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,3,Sin Datos
 -34.376694308,-58.522460244,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr1/153-5517,14,Sin Datos
@@ -134,7 +134,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6858,-58.5037,22,baja,Edenor,La Matanza,Villa Madero,,,49,
 -34.4784,-58.9209,22,baja,Edenor,Pilar,Pilar,,,7,
 -34.5284,-58.8062,22,baja,Edenor,Jose C Paz,Jose C Paz,,,20,
--34.7009,-58.6063,22,baja,Edenor,La Matanza,Isidro Casanova,,,10,
+-34.7009,-58.6063,22,baja,Edenor,La Matanza,Isidro Casanova,,,11,
 -34.6318,-58.3616,21,baja,Edesur,Capital,La Boca,,,71,
 -34.627,-58.4475,21,baja,Edesur,Capital,Caballito,,,3,
 -34.6457,-58.4436,21,baja,Edesur,Capital,Flores,,,12,
@@ -187,7 +187,7 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6194,-58.4428,21,baja,Edesur,Capital,Caballito,,,29,
 -34.7385,-58.4846,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,2,
 -34.7391,-58.3278,21,baja,Edesur,Quilmes,Bernal,,,3,
--34.6873,-58.4828,21,baja,Edesur,Capital,Villa Lugano,,,31,
+-34.6873,-58.4828,21,baja,Edesur,Capital,Villa Lugano,,,32,
 -34.6774,-58.4802,21,baja,Edesur,Capital,Villa Lugano,,,4,
 -34.6036,-58.5245,21,baja,Edesur,Capital,Villa Devoto,,,2,
 -34.6946,-58.3049,21,baja,Edesur,Avellaneda,Wilde,,,16,
